@@ -43,4 +43,4 @@ jobs:
           git commit -m "Update RSS feed XML file"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN_PUB }}
