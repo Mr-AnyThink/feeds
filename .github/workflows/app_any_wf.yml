@@ -1,5 +1,5 @@
 
-name: urlhaus_schedule
+name: app_any_rss_wf
 
 on:
   schedule:
