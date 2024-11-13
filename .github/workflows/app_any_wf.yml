@@ -37,7 +37,7 @@ jobs:
 
       - name: Commit and push XML file
         run: |
-          git config --global user.name "github-actions[bot]"
+          git config --global user.name "Mr-AnyThink"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add feeds/rss_feeds/app_any_feed.xml
           git commit -m "Update RSS feed XML file"
