@@ -30,6 +30,12 @@ def create_rss_xml(feed, filename="app_any_feed.xml"):
         ET.SubElement(item, "description").text = entry.description
         ET.SubElement(item, "pubDate").text = entry.published
 
+        # Fetch and include categories
+        if hasattr(entry, 'tags'):
+            for tag in entry.tags:
+                category = ET.SubElement(item, "category")
+                category.text = tag.term
+
     # Write to file
     tree = ET.ElementTree(rss)
     tree.write(filename, encoding="utf-8", xml_declaration=True)
