@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 15 Nov 2024 20:24:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Nov 2024 12:13:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fortinet VPN Zero-Day Exploited in Malware Attacks Remains Unpatched: Report</title>
+		<link>https://www.securityweek.com/fortinet-vpn-zero-day-exploited-in-malware-attacks-remains-unpatched-report/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 12:12:56 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[DeepData]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[LightSpy]]></category>
+		<category><![CDATA[unpatched]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40238</guid>
+
+					<description><![CDATA[<p>The DeepData malware framework was seen exploiting a Fortinet VPN client for Windows zero-day that remains unpatched.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-vpn-zero-day-exploited-in-malware-attacks-remains-unpatched-report/">Fortinet VPN Zero-Day Exploited in Malware Attacks Remains Unpatched: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 12:13:03 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>AnnieMac Data Breach Impacts 171,000 People</title>
+		<link>https://www.securityweek.com/anniemac-data-breach-impacts-171000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 11:35:52 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40236</guid>
+
+					<description><![CDATA[<p>AnnieMac Home Mortgage is informing over 171,000 individuals that their data has been compromised in a hacker attack. </p>
+<p>The post <a href="https://www.securityweek.com/anniemac-data-breach-impacts-171000-people/">AnnieMac Data Breach Impacts 171,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Library of Congress Says an Adversary Hacked Some Emails</title>
+		<link>https://www.securityweek.com/library-of-congress-says-an-adversary-hacked-some-emails/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 10:10:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Library of Congress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40235</guid>
+
+					<description><![CDATA[<p>The Library of Congress has notified lawmakers of a “cyber breach” of its IT system by an adversary and a hack of emails.</p>
+<p>The post <a href="https://www.securityweek.com/library-of-congress-says-an-adversary-hacked-some-emails/">Library of Congress Says an Adversary Hacked Some Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>T-Mobile Also Targeted in Chinese Telecom Hacking Campaign</title>
+		<link>https://www.securityweek.com/t-mobile-also-targeted-in-chinese-telecom-hacking-campaign/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 09:31:28 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40234</guid>
+
+					<description><![CDATA[<p>T-Mobile has also been targeted by the Chinese group Salt Typhoon in a major espionage campaign targeting US telecom companies. </p>
+<p>The post <a href="https://www.securityweek.com/t-mobile-also-targeted-in-chinese-telecom-hacking-campaign/">T-Mobile Also Targeted in Chinese Telecom Hacking Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Homeland Security Department Releases Framework for Using AI in Critical Infrastructure</title>
 		<link>https://www.securityweek.com/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure/</link>
 		
@@ -45,7 +124,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of November 11, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-11-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-11-2024/</guid><pubDate>Mon, 11 Nov 2024 06:14:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 11, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>SurePath AI Raises $5.2 Million for Gen-AI Governance Solution</title>
 		<link>https://www.securityweek.com/surepath-ai-raises-5-2-million-for-gen-ai-governance-solution/</link>
@@ -132,87 +211,6 @@
 
 					<description><![CDATA[<p>All sessions from the 2024 CISO Forum Virtual Summit are now available to watch on demand.</p>
 <p>The post <a href="https://www.securityweek.com/ciso-forum-virtual-summit-is-today/">CISO Forum Virtual Summit: Full Session List On Demand</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Man Who Stole and Laundered Roughly $1B in Bitcoin Is Sentenced to 5 Years in Prison</title>
-		<link>https://www.securityweek.com/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 11:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitfinex]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Ilya Lichtenstein]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40221</guid>
-
-					<description><![CDATA[<p>Bitfinex hacker Ilya Lichtenstein, who stole bitcoin worth billions of dollars at current prices, has been sentenced to five years in prison.</p>
-<p>The post <a href="https://www.securityweek.com/man-who-stole-and-laundered-roughly-1b-in-bitcoin-is-sentenced-to-5-years-in-prison/">Man Who Stole and Laundered Roughly $1B in Bitcoin Is Sentenced to 5 Years in Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Two More Palo Alto Expedition Flaws Exploited in Attacks</title>
-		<link>https://www.securityweek.com/cisa-warns-of-two-more-palo-alto-expedition-flaws-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40219</guid>
-
-					<description><![CDATA[<p>CISA has added two more Palo Alto Networks Expedition flaws, CVE-2024-9463 and CVE-2024-9465, to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-two-more-palo-alto-expedition-flaws-exploited-in-attacks/">CISA Warns of Two More Palo Alto Expedition Flaws Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Plugin Flaw Exposed 4 Million WordPress Websites to Takeover</title>
-		<link>https://www.securityweek.com/critical-plugin-flaw-exposed-4-million-wordpress-websites-to-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 10:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40218</guid>
-
-					<description><![CDATA[<p>Over 4 million WordPress websites were impacted by a critical Really Simple Security plugin vulnerability providing full administrative access.</p>
-<p>The post <a href="https://www.securityweek.com/critical-plugin-flaw-exposed-4-million-wordpress-websites-to-takeover/">Critical Plugin Flaw Exposed 4 Million WordPress Websites to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Confirms New Firewall Zero-Day Exploitation</title>
-		<link>https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 10:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[PAN-OS]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40216</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has confirmed that a zero-day is being exploited in attacks after investigating claims of a firewall remote code execution flaw.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/">Palo Alto Networks Confirms New Firewall Zero-Day Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
