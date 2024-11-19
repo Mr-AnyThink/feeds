@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 18 Nov 2024 12:13:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Nov 2024 12:17:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,189 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fortinet VPN Zero-Day Exploited in Malware Attacks Remains Unpatched: Report</title>
-		<link>https://www.securityweek.com/fortinet-vpn-zero-day-exploited-in-malware-attacks-remains-unpatched-report/</link>
+		<title>Akira Ransomware Drops 30 Victims on Leak Site in One Day</title>
+		<link>https://www.securityweek.com/akira-ransomware-drops-30-victims-on-leak-site-in-one-day/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 12:12:56 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[DeepData]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[LightSpy]]></category>
-		<category><![CDATA[unpatched]]></category>
-		<category><![CDATA[VPN]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40238</guid>
+		<pubDate>Tue, 19 Nov 2024 12:16:58 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40251</guid>
 
-					<description><![CDATA[<p>The DeepData malware framework was seen exploiting a Fortinet VPN client for Windows zero-day that remains unpatched.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-vpn-zero-day-exploited-in-malware-attacks-remains-unpatched-report/">Fortinet VPN Zero-Day Exploited in Malware Attacks Remains Unpatched: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cyberint has observed the Akira ransomware group leaking in a single day the information allegedly stolen from 32 victims.</p>
+<p>The post <a href="https://www.securityweek.com/akira-ransomware-drops-30-victims-on-leak-site-in-one-day/">Akira Ransomware Drops 30 Victims on Leak Site in One Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 12:13:03 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 12:17:03 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>AnnieMac Data Breach Impacts 171,000 People</title>
-		<link>https://www.securityweek.com/anniemac-data-breach-impacts-171000-people/</link>
+		<title>Cybersecurity Aphorisms: A Humorous and Insightful Look at the Industry&#8217;s Truths</title>
+		<link>https://www.securityweek.com/cybersecurity-aphorisms-a-humorous-and-insightful-look-at-industrys-truths/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 11:35:52 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40236</guid>
-
-					<description><![CDATA[<p>AnnieMac Home Mortgage is informing over 171,000 individuals that their data has been compromised in a hacker attack. </p>
-<p>The post <a href="https://www.securityweek.com/anniemac-data-breach-impacts-171000-people/">AnnieMac Data Breach Impacts 171,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Library of Congress Says an Adversary Hacked Some Emails</title>
-		<link>https://www.securityweek.com/library-of-congress-says-an-adversary-hacked-some-emails/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 10:10:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Library of Congress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40235</guid>
-
-					<description><![CDATA[<p>The Library of Congress has notified lawmakers of a “cyber breach” of its IT system by an adversary and a hack of emails.</p>
-<p>The post <a href="https://www.securityweek.com/library-of-congress-says-an-adversary-hacked-some-emails/">Library of Congress Says an Adversary Hacked Some Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>T-Mobile Also Targeted in Chinese Telecom Hacking Campaign</title>
-		<link>https://www.securityweek.com/t-mobile-also-targeted-in-chinese-telecom-hacking-campaign/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 09:31:28 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<category><![CDATA[T-Mobile]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40234</guid>
-
-					<description><![CDATA[<p>T-Mobile has also been targeted by the Chinese group Salt Typhoon in a major espionage campaign targeting US telecom companies. </p>
-<p>The post <a href="https://www.securityweek.com/t-mobile-also-targeted-in-chinese-telecom-hacking-campaign/">T-Mobile Also Targeted in Chinese Telecom Hacking Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Homeland Security Department Releases Framework for Using AI in Critical Infrastructure</title>
-		<link>https://www.securityweek.com/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 20:24:01 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40230</guid>
-
-					<description><![CDATA[<p>The framework recommends that AI developers evaluate potentially dangerous capabilities in their products, ensure their products align with “human-centric values” and protect users’ privacy.</p>
-<p>The post <a href="https://www.securityweek.com/homeland-security-department-releases-framework-for-using-ai-in-critical-infrastructure/">Homeland Security Department Releases Framework for Using AI in Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SurePath AI Raises $5.2 Million for Gen-AI Governance Solution</title>
-		<link>https://www.securityweek.com/surepath-ai-raises-5-2-million-for-gen-ai-governance-solution/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 13:50:39 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[SurePath]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40229</guid>
-
-					<description><![CDATA[<p>SurePath AI has raised $5.2 million in seed funding for a solution that helps enterprises securely use generative AI.</p>
-<p>The post <a href="https://www.securityweek.com/surepath-ai-raises-5-2-million-for-gen-ai-governance-solution/">SurePath AI Raises $5.2 Million for Gen-AI Governance Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Glove Stealer Malware Bypasses Chrome&#8217;s App-Bound Encryption</title>
-		<link>https://www.securityweek.com/glove-stealer-malware-bypasses-chromes-app-bound-encryption/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 13:24:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40228</guid>
-
-					<description><![CDATA[<p>The Glove Stealer malware leverages a recently disclosed App-Bound encryption bypass method in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/glove-stealer-malware-bypasses-chromes-app-bound-encryption/">Glove Stealer Malware Bypasses Chrome&#8217;s App-Bound Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: TSA Wants New Cyber Rules, Scam Call Detection in Android, SIM Swappers Arrested</title>
-		<link>https://www.securityweek.com/in-other-news-tsa-wants-new-cyber-rules-scam-call-detection-in-android-sim-swappers-arrested/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 13:09:22 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40227</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: TSA proposes new cyber rules for pipelines and railroads, Google adds scam call detection to Android, SIM swappers arrested in US. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-tsa-wants-new-cyber-rules-scam-call-detection-in-android-sim-swappers-arrested/">In Other News: TSA Wants New Cyber Rules, Scam Call Detection in Android, SIM Swappers Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Known Brand, Government Domains Hijacked via Sitting Ducks Attacks</title>
-		<link>https://www.securityweek.com/known-brand-government-domains-hijacked-via-sitting-ducks-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 11:55:38 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[domain]]></category>
-		<category><![CDATA[domain hijacking]]></category>
-		<category><![CDATA[Sitting Ducks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40225</guid>
-
-					<description><![CDATA[<p>Threat actors have hijacked over 70,000 domains, including known brands and government entities, because of failed domain ownership verification.</p>
-<p>The post <a href="https://www.securityweek.com/known-brand-government-domains-hijacked-via-sitting-ducks-attacks/">Known Brand, Government Domains Hijacked via Sitting Ducks Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Forum Virtual Summit: Full Session List On Demand</title>
-		<link>https://www.securityweek.com/ciso-forum-virtual-summit-is-today/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 11:49:12 +0000</pubDate>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
 				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40182</guid>
+		<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40248</guid>
 
-					<description><![CDATA[<p>All sessions from the 2024 CISO Forum Virtual Summit are now available to watch on demand.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-forum-virtual-summit-is-today/">CISO Forum Virtual Summit: Full Session List On Demand</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The aphorism is a valuable cultural phenomenon for spreading the wisdom of experience — and cybersecurity, with its complexities, nuances, contradictions, and perpetual stress, is a fertile field.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-aphorisms-a-humorous-and-insightful-look-at-industrys-truths/">Cybersecurity Aphorisms: A Humorous and Insightful Look at the Industry&#8217;s Truths</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ford Investigating Potential Breach After Hackers Claim Data Theft</title>
+		<link>https://www.securityweek.com/ford-investigating-potential-breach-after-hackers-claim-data-theft/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 11:31:56 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Ford]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40250</guid>
+
+					<description><![CDATA[<p>Ford has launched an investigation after hackers claimed to have stolen 44,000 customer data records.</p>
+<p>The post <a href="https://www.securityweek.com/ford-investigating-potential-breach-after-hackers-claim-data-theft/">Ford Investigating Potential Breach After Hackers Claim Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Patches Firewall Zero-Day Exploited in Operation Lunar Peek</title>
+		<link>https://www.securityweek.com/palo-alto-patches-firewall-zero-day-exploited-in-operation-lunar-peek/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 09:40:45 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Operation Lunar Peek]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40247</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks has released patches and CVEs for the firewall zero-days exploited in what the company calls Operation Lunar Peek.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-patches-firewall-zero-day-exploited-in-operation-lunar-peek/">Palo Alto Patches Firewall Zero-Day Exploited in Operation Lunar Peek</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Discloses Exploitation of Hard-to-Fix vCenter Server Flaw</title>
+		<link>https://www.securityweek.com/vmware-discloses-exploitation-of-hard-to-fix-vcenter-server-flaw/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 18:24:25 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2024-38812]]></category>
+		<category><![CDATA[CVE-2024-38813]]></category>
+		<category><![CDATA[Matrix CUp]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40245</guid>
+
+					<description><![CDATA[<p>The saga of VMWare’s critical CVE-2024-38812 vCenter Server bug has reached the “exploitation detected” stage.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-discloses-exploitation-of-hard-to-fix-vcenter-server-flaw/">VMware Discloses Exploitation of Hard-to-Fix vCenter Server Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Custom IOCs Are Necessary for Advanced Threat Hunting and Detection</title>
+		<link>https://www.securityweek.com/why-custom-iocs-are-necessary-for-advanced-threat-hunting-and-detection/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 15:30:29 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[IOC]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40243</guid>
+
+					<description><![CDATA[<p>The ability to internalize and operationalize customized threat intelligence as part of a holistic security system is no longer a luxury; it's a necessity.</p>
+<p>The post <a href="https://www.securityweek.com/why-custom-iocs-are-necessary-for-advanced-threat-hunting-and-detection/">Why Custom IOCs Are Necessary for Advanced Threat Hunting and Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Discontinued GeoVision Products Targeted in Botnet Attacks via Zero-Day</title>
+		<link>https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 14:29:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[GeoVision]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40242</guid>
+
+					<description><![CDATA[<p>A zero-day vulnerability affecting five discontinued GeoVision product models has been exploited by a botnet.</p>
+<p>The post <a href="https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/">Discontinued GeoVision Products Targeted in Botnet Attacks via Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Attack on Oklahoma Medical Center Impacts 133,000</title>
+		<link>https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 13:44:34 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40241</guid>
+
+					<description><![CDATA[<p>Great Plains Regional Medical Center says the personal information of 133,000 individuals was compromised in a ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/">Ransomware Attack on Oklahoma Medical Center Impacts 133,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>300 Drinking Water Systems in US Exposed to Disruptive, Damaging Hacker Attacks</title>
+		<link>https://www.securityweek.com/300-drinking-water-systems-in-us-exposed-to-disruptive-damaging-hacker-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 13:28:45 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[EPA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40240</guid>
+
+					<description><![CDATA[<p>EPA flags security vulnerabilities in more than 300 drinking water systems that serve roughly 110 million individuals.</p>
+<p>The post <a href="https://www.securityweek.com/300-drinking-water-systems-in-us-exposed-to-disruptive-damaging-hacker-attacks/">300 Drinking Water Systems in US Exposed to Disruptive, Damaging Hacker Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks Releases IoCs for New Firewall Zero-Day</title>
+		<link>https://www.securityweek.com/palo-alto-networks-releases-iocs-for-new-firewall-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2024 13:13:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40239</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks has released IoCs for the attacks exploiting a newly uncovered firewall zero-day vulnerability.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-releases-iocs-for-new-firewall-zero-day/">Palo Alto Networks Releases IoCs for New Firewall Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
