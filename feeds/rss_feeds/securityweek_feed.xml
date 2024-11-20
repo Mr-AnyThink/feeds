@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 19 Nov 2024 12:17:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Nov 2024 12:14:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,191 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Akira Ransomware Drops 30 Victims on Leak Site in One Day</title>
-		<link>https://www.securityweek.com/akira-ransomware-drops-30-victims-on-leak-site-in-one-day/</link>
+		<title>CISA Warns of Progress Kemp LoadMaster Vulnerability Exploitation</title>
+		<link>https://www.securityweek.com/cisa-warns-of-progress-kemp-loadmaster-vulnerability-exploitation/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 Nov 2024 12:16:58 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40251</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 12:14:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ADC]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Kemp LoadMaster]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40277</guid>
 
-					<description><![CDATA[<p>Cyberint has observed the Akira ransomware group leaking in a single day the information allegedly stolen from 32 victims.</p>
-<p>The post <a href="https://www.securityweek.com/akira-ransomware-drops-30-victims-on-leak-site-in-one-day/">Akira Ransomware Drops 30 Victims on Leak Site in One Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA is warning organizations that CVE-2024-1212, a Progress Kemp LoadMaster OS command injection vulnerability, is being exploited in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-progress-kemp-loadmaster-vulnerability-exploitation/">CISA Warns of Progress Kemp LoadMaster Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 12:17:03 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 12:14:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Cybersecurity Aphorisms: A Humorous and Insightful Look at the Industry&#8217;s Truths</title>
-		<link>https://www.securityweek.com/cybersecurity-aphorisms-a-humorous-and-insightful-look-at-industrys-truths/</link>
+		<title>GitHub Launches Fund to Improve Open Source Project Security</title>
+		<link>https://www.securityweek.com/github-launches-fund-to-improve-open-source-project-security/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 19 Nov 2024 12:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40248</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 11:21:43 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[open source]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40276</guid>
 
-					<description><![CDATA[<p>The aphorism is a valuable cultural phenomenon for spreading the wisdom of experience — and cybersecurity, with its complexities, nuances, contradictions, and perpetual stress, is a fertile field.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-aphorisms-a-humorous-and-insightful-look-at-industrys-truths/">Cybersecurity Aphorisms: A Humorous and Insightful Look at the Industry&#8217;s Truths</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>GitHub has launched a $1.25 million fund to be invested in improving the security of 125 open source projects.</p>
+<p>The post <a href="https://www.securityweek.com/github-launches-fund-to-improve-open-source-project-security/">GitHub Launches Fund to Improve Open Source Project Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ford Investigating Potential Breach After Hackers Claim Data Theft</title>
-		<link>https://www.securityweek.com/ford-investigating-potential-breach-after-hackers-claim-data-theft/</link>
+		<title>Cyera Raises $300 Million at $3 Billion Valuation</title>
+		<link>https://www.securityweek.com/cyera-raises-300-million-at-3-billion-valuation/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 Nov 2024 11:31:56 +0000</pubDate>
+		<pubDate>Wed, 20 Nov 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Cyera]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40274</guid>
+
+					<description><![CDATA[<p>Data security firm Cyera has raised $300 million in Series D funding, which brings the total investment in the company to $760 million. </p>
+<p>The post <a href="https://www.securityweek.com/cyera-raises-300-million-at-3-billion-valuation/">Cyera Raises $300 Million at $3 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Patches Exploited Agile PLM Zero-Day</title>
+		<link>https://www.securityweek.com/oracle-patches-exploited-agile-plm-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 10:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Agile]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40275</guid>
+
+					<description><![CDATA[<p>Oracle has patched a high-severity information disclosure zero-day in Agile PLM that has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-patches-exploited-agile-plm-zero-day/">Oracle Patches Exploited Agile PLM Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ford Says Blames Third-Party Supplier for Data Breach</title>
+		<link>https://www.securityweek.com/ford-says-leaked-data-comes-from-supplier-and-is-not-sensitive/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2024 09:50:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Ford]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40250</guid>
+		<category><![CDATA[IntelBroker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40273</guid>
 
-					<description><![CDATA[<p>Ford has launched an investigation after hackers claimed to have stolen 44,000 customer data records.</p>
-<p>The post <a href="https://www.securityweek.com/ford-investigating-potential-breach-after-hackers-claim-data-theft/">Ford Investigating Potential Breach After Hackers Claim Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Ford has completed its investigation into recent data breach claims and determined that its systems and customer data have not been compromised.</p>
+<p>The post <a href="https://www.securityweek.com/ford-says-leaked-data-comes-from-supplier-and-is-not-sensitive/">Ford Says Blames Third-Party Supplier for Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Palo Alto Patches Firewall Zero-Day Exploited in Operation Lunar Peek</title>
-		<link>https://www.securityweek.com/palo-alto-patches-firewall-zero-day-exploited-in-operation-lunar-peek/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 Nov 2024 09:40:45 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Operation Lunar Peek]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40247</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has released patches and CVEs for the firewall zero-days exploited in what the company calls Operation Lunar Peek.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-patches-firewall-zero-day-exploited-in-operation-lunar-peek/">Palo Alto Patches Firewall Zero-Day Exploited in Operation Lunar Peek</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Discloses Exploitation of Hard-to-Fix vCenter Server Flaw</title>
-		<link>https://www.securityweek.com/vmware-discloses-exploitation-of-hard-to-fix-vcenter-server-flaw/</link>
+		<title>Apple Confirms Zero-Day Attacks Hitting macOS Systems</title>
+		<link>https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 18:24:25 +0000</pubDate>
+		<pubDate>Tue, 19 Nov 2024 20:39:22 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2024-38812]]></category>
-		<category><![CDATA[CVE-2024-38813]]></category>
-		<category><![CDATA[Matrix CUp]]></category>
-		<category><![CDATA[VMware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40245</guid>
-
-					<description><![CDATA[<p>The saga of VMWare’s critical CVE-2024-38812 vCenter Server bug has reached the “exploitation detected” stage.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-discloses-exploitation-of-hard-to-fix-vcenter-server-flaw/">VMware Discloses Exploitation of Hard-to-Fix vCenter Server Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Custom IOCs Are Necessary for Advanced Threat Hunting and Detection</title>
-		<link>https://www.securityweek.com/why-custom-iocs-are-necessary-for-advanced-threat-hunting-and-detection/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 15:30:29 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[IOC]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40243</guid>
-
-					<description><![CDATA[<p>The ability to internalize and operationalize customized threat intelligence as part of a holistic security system is no longer a luxury; it's a necessity.</p>
-<p>The post <a href="https://www.securityweek.com/why-custom-iocs-are-necessary-for-advanced-threat-hunting-and-detection/">Why Custom IOCs Are Necessary for Advanced Threat Hunting and Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Discontinued GeoVision Products Targeted in Botnet Attacks via Zero-Day</title>
-		<link>https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 14:29:29 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[GeoVision]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40242</guid>
-
-					<description><![CDATA[<p>A zero-day vulnerability affecting five discontinued GeoVision product models has been exploited by a botnet.</p>
-<p>The post <a href="https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/">Discontinued GeoVision Products Targeted in Botnet Attacks via Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Attack on Oklahoma Medical Center Impacts 133,000</title>
-		<link>https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 13:44:34 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40241</guid>
-
-					<description><![CDATA[<p>Great Plains Regional Medical Center says the personal information of 133,000 individuals was compromised in a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/">Ransomware Attack on Oklahoma Medical Center Impacts 133,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>300 Drinking Water Systems in US Exposed to Disruptive, Damaging Hacker Attacks</title>
-		<link>https://www.securityweek.com/300-drinking-water-systems-in-us-exposed-to-disruptive-damaging-hacker-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 13:28:45 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[EPA]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[CVE-2024-44308]]></category>
+		<category><![CDATA[CVE-2024-44309]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40240</guid>
+		<category><![CDATA[iOS 18.1.1]]></category>
+		<category><![CDATA[macOS Sequioa]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40263</guid>
 
-					<description><![CDATA[<p>EPA flags security vulnerabilities in more than 300 drinking water systems that serve roughly 110 million individuals.</p>
-<p>The post <a href="https://www.securityweek.com/300-drinking-water-systems-in-us-exposed-to-disruptive-damaging-hacker-attacks/">300 Drinking Water Systems in US Exposed to Disruptive, Damaging Hacker Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Apple rushes out out major macOS and iOS security updates to cover a pair of vulnerabilities already being exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/">Apple Confirms Zero-Day Attacks Hitting macOS Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Palo Alto Networks Releases IoCs for New Firewall Zero-Day</title>
-		<link>https://www.securityweek.com/palo-alto-networks-releases-iocs-for-new-firewall-zero-day/</link>
+		<title>Vulnerable Jupyter Servers Targeted for Sports Piracy</title>
+		<link>https://www.securityweek.com/vulnerable-jupyter-servers-targeted-for-sports-piracy/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 13:13:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40239</guid>
+		<pubDate>Tue, 19 Nov 2024 18:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Jupyter]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40258</guid>
 
-					<description><![CDATA[<p>Palo Alto Networks has released IoCs for the attacks exploiting a newly uncovered firewall zero-day vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-releases-iocs-for-new-firewall-zero-day/">Palo Alto Networks Releases IoCs for New Firewall Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Misconfigured instances of JupyterLab and Jupyter Notebook have been targeted by threat actors for sports stream ripping.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerable-jupyter-servers-targeted-for-sports-piracy/">Vulnerable Jupyter Servers Targeted for Sports Piracy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Employee Data Compromised in Hacker Attack on Space Technology Firm Maxar</title>
+		<link>https://www.securityweek.com/employee-data-compromised-in-hacker-attack-on-space-technology-firm-maxar/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 17:42:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Maxar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40260</guid>
+
+					<description><![CDATA[<p>Satellite maker Maxar Space Systems has disclosed a data breach impacting the personal information of its employees.</p>
+<p>The post <a href="https://www.securityweek.com/employee-data-compromised-in-hacker-attack-on-space-technology-firm-maxar/">Employee Data Compromised in Hacker Attack on Space Technology Firm Maxar</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Director Jen Easterly to Step Down</title>
+		<link>https://www.securityweek.com/cisa-director-jen-easterly-to-step-down/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 17:21:10 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40259</guid>
+
+					<description><![CDATA[<p>CISA told SecurityWeek that all appointees of the Biden-Harris administration will leave by noon on inauguration day. </p>
+<p>The post <a href="https://www.securityweek.com/cisa-director-jen-easterly-to-step-down/">CISA Director Jen Easterly to Step Down</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Phobos Ransomware Operator Extradited to US</title>
+		<link>https://www.securityweek.com/russian-phobos-ransomware-operator-extradited-to-us/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2024 15:30:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Evgenii Ptitsyn]]></category>
+		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[Phobos]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40257</guid>
+
+					<description><![CDATA[<p>Evgenii Ptitsyn was extradited from South Korea to the US to face charges for his alleged involvement in administering the Phobos ransomware.</p>
+<p>The post <a href="https://www.securityweek.com/russian-phobos-ransomware-operator-extradited-to-us/">Russian Phobos Ransomware Operator Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
