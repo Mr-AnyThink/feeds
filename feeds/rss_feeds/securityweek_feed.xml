@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 22 Nov 2024 11:58:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Nov 2024 14:26:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cyberattack Disrupts Systems of Gambling Giant IGT</title>
+		<link>https://www.securityweek.com/cyberattack-disrupts-systems-of-gambling-giant-igt/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[IGT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40315</guid>
+
+					<description><![CDATA[<p>Gambling giant IGT says it has taken certain systems offline in response to a cyberattack discovered over the weekend.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-disrupts-systems-of-gambling-giant-igt/">Cyberattack Disrupts Systems of Gambling Giant IGT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 07:14:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>In Other News: Nvidia Fixes Critical Flaw, Chinese Linux Backdoor, New Details in WhatsApp-NSO Lawsuit </title>
+		<link>https://www.securityweek.com/in-other-news-nvidia-fixes-critical-flaw-chinese-linux-backdoor-new-details-in-whatsapp-nso-lawsuit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 13:32:35 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40314</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Nvidia fixes vulnerability with rare ‘critical’ severity, Chinese APT’s first Linux backdoor, new details emerge from the WhatsApp-NSO lawsuit. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-nvidia-fixes-critical-flaw-chinese-linux-backdoor-new-details-in-whatsapp-nso-lawsuit/">In Other News: Nvidia Fixes Critical Flaw, Chinese Linux Backdoor, New Details in WhatsApp-NSO Lawsuit </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Takes Down Stolen Credit Card Marketplace PopeyeTools</title>
+		<link>https://www.securityweek.com/us-takes-down-stolen-credit-card-marketplace-popeyetools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2024 12:57:14 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[PopeyeTools]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40313</guid>
+
+					<description><![CDATA[<p>The US government has announced the seizure of stolen credit card marketplace PopeyeTools and charges against its administrators.</p>
+<p>The post <a href="https://www.securityweek.com/us-takes-down-stolen-credit-card-marketplace-popeyetools/">US Takes Down Stolen Credit Card Marketplace PopeyeTools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Russian Cyberespionage Group Hit 60 Victims in Asia, Europe</title>
 		<link>https://www.securityweek.com/russian-cyberespionage-group-hit-60-victims-in-asia-europe/</link>
 		
@@ -47,7 +101,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 11:59:00 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Rising Tides: Wendy Nather on Resilience, Leadership, and Building a Stronger Cybersecurity Community</title>
 		<link>https://www.securityweek.com/rising-tides-wendy-nather-on-resilience-leadership-and-building-a-stronger-cybersecurity-community/</link>
@@ -162,69 +216,6 @@
 
 					<description><![CDATA[<p>The company emerged from stealth mode in March 2022 and has been on a mission to help companies reduce compliance cost and handle time-consuming GRC tasks.</p>
 <p>The post <a href="https://www.securityweek.com/trustero-secures-10-million-in-funding-to-grow-ai-powered-security-and-compliance-platform/">Trustero Secures $10 Million in Funding to Grow AI-Powered Security and Compliance Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2,000 Palo Alto Firewalls Compromised via New Vulnerabilities</title>
-		<link>https://www.securityweek.com/2000-palo-alto-firewalls-compromised-via-new-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 Nov 2024 16:17:25 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40298</guid>
-
-					<description><![CDATA[<p>The number of internet-exposed Palo Alto firewalls is dropping, but 2,000 have been compromised, according to Shadowserver Foundation.</p>
-<p>The post <a href="https://www.securityweek.com/2000-palo-alto-firewalls-compromised-via-new-vulnerabilities/">2,000 Palo Alto Firewalls Compromised via New Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wiz Buys Dazz for $450 Million</title>
-		<link>https://www.securityweek.com/wiz-buys-dazz-for-450-million/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 21 Nov 2024 16:13:44 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[ASPM]]></category>
-		<category><![CDATA[Cyberstarts]]></category>
-		<category><![CDATA[Dazz]]></category>
-		<category><![CDATA[Greylock]]></category>
-		<category><![CDATA[Wiz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40297</guid>
-
-					<description><![CDATA[<p>Dazz, based in Israel, raised about $110 million from prominent investors like Greylock, Cyberstarts, Insight Partners and Index Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/wiz-buys-dazz-for-450-million/">Wiz Buys Dazz for $450 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>After CrowdStrike Outage, Microsoft Debuts ‘Quick Machine Recovery’ Tool</title>
-		<link>https://www.securityweek.com/after-crowdstrike-outage-microsoft-debuts-quick-machine-recovery-tool/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 21 Nov 2024 14:20:29 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[BSOD]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Quick Machine Recovery]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40296</guid>
-
-					<description><![CDATA[<p>Microsoft debuts Quick Machine Recovery tool to apply fixes even when machines are unable to boot, without needing physical access.</p>
-<p>The post <a href="https://www.securityweek.com/after-crowdstrike-outage-microsoft-debuts-quick-machine-recovery-tool/">After CrowdStrike Outage, Microsoft Debuts ‘Quick Machine Recovery’ Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
