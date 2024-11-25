@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 22 Nov 2024 14:26:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Nov 2024 10:55:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microlise Confirms Data Breach as Ransomware Group Steps Forward</title>
+		<link>https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 10:55:45 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Microlise]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40322</guid>
+
+					<description><![CDATA[<p>The SafePay ransomware group claims to have stolen over 1 terabyte of data from vehicle tracking solutions provider Microlise.</p>
+<p>The post <a href="https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/">Microlise Confirms Data Breach as Ransomware Group Steps Forward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 10:55:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Russian Cyberspies Hacked Building Across Street From Target for Wi-Fi Attack</title>
+		<link>https://www.securityweek.com/russian-cyberspies-hacked-building-across-street-from-target-for-wi-fi-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 09:48:22 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nearest Neighbor Attack]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40318</guid>
+
+					<description><![CDATA[<p>Russian cyberspy group APT28 conducted a Nearest Neighbor Attack, where it hacked into the building across the street from the victim for a Wi-Fi attack. </p>
+<p>The post <a href="https://www.securityweek.com/russian-cyberspies-hacked-building-across-street-from-target-for-wi-fi-attack/">Russian Cyberspies Hacked Building Across Street From Target for Wi-Fi Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cyberattack Disrupts Systems of Gambling Giant IGT</title>
 		<link>https://www.securityweek.com/cyberattack-disrupts-systems-of-gambling-giant-igt/</link>
 		
@@ -44,7 +86,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of November 18, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-18-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-18-2024/</guid><pubDate>Mon, 18 Nov 2024 07:14:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 18, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: Nvidia Fixes Critical Flaw, Chinese Linux Backdoor, New Details in WhatsApp-NSO Lawsuit </title>
 		<link>https://www.securityweek.com/in-other-news-nvidia-fixes-critical-flaw-chinese-linux-backdoor-new-details-in-whatsapp-nso-lawsuit/</link>
@@ -176,46 +218,6 @@
 
 					<description><![CDATA[<p>Gen-AI security startup Prompt Security has raised $18 million in a Series A funding round led by Jump Capital.</p>
 <p>The post <a href="https://www.securityweek.com/prompt-security-raises-18-million-for-gen-ai-security-platform/">Prompt Security Raises $18 Million for Gen-AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Thai Court Dismisses Activist’s Suit Against Israeli Spyware Producer Over Lack of Evidence</title>
-		<link>https://www.securityweek.com/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 02:42:37 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[nso group]]></category>
-		<category><![CDATA[Pegasus]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40302</guid>
-
-					<description><![CDATA[<p>A Thai court dismissed a lawsuit brought by Jatupat Boonpattararaksa which alleged spyware made by NSO Group was used to hack his phone.</p>
-<p>The post <a href="https://www.securityweek.com/thai-court-dismisses-activists-suit-against-israeli-spyware-producer-over-lack-of-evidence/">Thai Court Dismisses Activist’s Suit Against Israeli Spyware Producer Over Lack of Evidence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trustero Secures $10 Million in Funding to Grow AI-Powered Security and Compliance Platform</title>
-		<link>https://www.securityweek.com/trustero-secures-10-million-in-funding-to-grow-ai-powered-security-and-compliance-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 02:16:52 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[GRC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40301</guid>
-
-					<description><![CDATA[<p>The company emerged from stealth mode in March 2022 and has been on a mission to help companies reduce compliance cost and handle time-consuming GRC tasks.</p>
-<p>The post <a href="https://www.securityweek.com/trustero-secures-10-million-in-funding-to-grow-ai-powered-security-and-compliance-platform/">Trustero Secures $10 Million in Funding to Grow AI-Powered Security and Compliance Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
