@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 25 Nov 2024 10:55:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Nov 2024 12:17:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,173 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese Hackers Exploiting Critical Vulnerability in Array Networks Gateways</title>
+		<link>https://www.securityweek.com/chinese-hackers-exploiting-critical-vulnerability-in-array-networks-gateways/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 12:17:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Array Networks]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40334</guid>
+
+					<description><![CDATA[<p>CISA warns about attacks exploiting CVE-2023-28461, a critical vulnerability in Array Networks AG and vxAG secure access gateways.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-exploiting-critical-vulnerability-in-array-networks-gateways/">Chinese Hackers Exploiting Critical Vulnerability in Array Networks Gateways</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 12:17:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>New York Fines Geico and Travelers $11 Million Over Data Breaches</title>
+		<link>https://www.securityweek.com/new-york-fines-geico-and-travelers-11-million-over-data-breaches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 11:15:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[fine]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40333</guid>
+
+					<description><![CDATA[<p>New York has announced $11 million settlements with Geico and Travelers over data breaches affecting 120,000 people.</p>
+<p>The post <a href="https://www.securityweek.com/new-york-fines-geico-and-travelers-11-million-over-data-breaches/">New York Fines Geico and Travelers $11 Million Over Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerabilities Found in Anti-Spam Plugin Used by 200,000 WordPress Sites</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-found-in-anti-spam-plugin-used-by-200000-wordpress-sites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 10:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress plugin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40332</guid>
+
+					<description><![CDATA[<p>Two vulnerabilities in the Anti-Spam by CleanTalk WordPress plugin allowed attackers to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-found-in-anti-spam-plugin-used-by-200000-wordpress-sites/">Critical Vulnerabilities Found in Anti-Spam Plugin Used by 200,000 WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Starbucks, Grocery Stores Hit by Blue Yonder Ransomware Attack</title>
+		<link>https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 09:50:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Blue Yonder]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40331</guid>
+
+					<description><![CDATA[<p>Supply chain management software provider Blue Yonder has been targeted in a ransomware attack that caused significant disruptions for some customers. </p>
+<p>The post <a href="https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/">Starbucks, Grocery Stores Hit by Blue Yonder Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent Zyxel Firewall Vulnerability Exploited in Ransomware Attacks</title>
+		<link>https://www.securityweek.com/recent-zyxel-firewall-vulnerability-exploited-in-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 17:50:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40328</guid>
+
+					<description><![CDATA[<p>A ransomware group has been observed exploiting a recently patched command injection vulnerability in Zyxel firewalls for initial access.</p>
+<p>The post <a href="https://www.securityweek.com/recent-zyxel-firewall-vulnerability-exploited-in-ransomware-attacks/">Recent Zyxel Firewall Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities Expose mySCADA myPRO Systems to Remote Hacking</title>
+		<link>https://www.securityweek.com/vulnerabilities-expose-myscada-mypro-systems-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40327</guid>
+
+					<description><![CDATA[<p>Critical vulnerabilities patched by mySCADA in its myPRO HMI/SCADA product can allow remote and unauthenticated takeover of the system.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-myscada-mypro-systems-to-remote-hacking/">Vulnerabilities Expose mySCADA myPRO Systems to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Halcyon Raises $100 Million at $1 Billion Valuation</title>
+		<link>https://www.securityweek.com/halcyon-raises-100-million-at-1-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 14:59:13 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40326</guid>
+
+					<description><![CDATA[<p>Series C Funding round brings the total amount raised by the ransomware protection firm to $190 million.</p>
+<p>The post <a href="https://www.securityweek.com/halcyon-raises-100-million-at-1-billion-valuation/">Halcyon Raises $100 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Viso Trust Raises $7 Million for Third-Party Risk Management Platform</title>
+		<link>https://www.securityweek.com/visio-trust-raises-7-million-for-third-party-risk-management-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 13:28:30 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Viso Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40324</guid>
+
+					<description><![CDATA[<p>San Francisco-based third-party risk management provider Viso Trust has raised $7 million in venture funding.</p>
+<p>The post <a href="https://www.securityweek.com/visio-trust-raises-7-million-for-third-party-risk-management-platform/">Viso Trust Raises $7 Million for Third-Party Risk Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korea Deploying Fake IT Workers in China, Russia, Other Countries</title>
+		<link>https://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 12:56:47 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40323</guid>
+
+					<description><![CDATA[<p>The North Korean fake IT workers have infiltrated businesses in China, Russia, and other countries aside from the US.</p>
+<p>The post <a href="https://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/">North Korea Deploying Fake IT Workers in China, Russia, Other Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microlise Confirms Data Breach as Ransomware Group Steps Forward</title>
 		<link>https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/</link>
 		
@@ -42,182 +209,6 @@
 
 					<description><![CDATA[<p>The SafePay ransomware group claims to have stolen over 1 terabyte of data from vehicle tracking solutions provider Microlise.</p>
 <p>The post <a href="https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/">Microlise Confirms Data Breach as Ransomware Group Steps Forward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 10:55:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Russian Cyberspies Hacked Building Across Street From Target for Wi-Fi Attack</title>
-		<link>https://www.securityweek.com/russian-cyberspies-hacked-building-across-street-from-target-for-wi-fi-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 09:48:22 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Nearest Neighbor Attack]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Wi-Fi]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40318</guid>
-
-					<description><![CDATA[<p>Russian cyberspy group APT28 conducted a Nearest Neighbor Attack, where it hacked into the building across the street from the victim for a Wi-Fi attack. </p>
-<p>The post <a href="https://www.securityweek.com/russian-cyberspies-hacked-building-across-street-from-target-for-wi-fi-attack/">Russian Cyberspies Hacked Building Across Street From Target for Wi-Fi Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Disrupts Systems of Gambling Giant IGT</title>
-		<link>https://www.securityweek.com/cyberattack-disrupts-systems-of-gambling-giant-igt/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 16:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[IGT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40315</guid>
-
-					<description><![CDATA[<p>Gambling giant IGT says it has taken certain systems offline in response to a cyberattack discovered over the weekend.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-disrupts-systems-of-gambling-giant-igt/">Cyberattack Disrupts Systems of Gambling Giant IGT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Nvidia Fixes Critical Flaw, Chinese Linux Backdoor, New Details in WhatsApp-NSO Lawsuit </title>
-		<link>https://www.securityweek.com/in-other-news-nvidia-fixes-critical-flaw-chinese-linux-backdoor-new-details-in-whatsapp-nso-lawsuit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 13:32:35 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40314</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Nvidia fixes vulnerability with rare ‘critical’ severity, Chinese APT’s first Linux backdoor, new details emerge from the WhatsApp-NSO lawsuit. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-nvidia-fixes-critical-flaw-chinese-linux-backdoor-new-details-in-whatsapp-nso-lawsuit/">In Other News: Nvidia Fixes Critical Flaw, Chinese Linux Backdoor, New Details in WhatsApp-NSO Lawsuit </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Takes Down Stolen Credit Card Marketplace PopeyeTools</title>
-		<link>https://www.securityweek.com/us-takes-down-stolen-credit-card-marketplace-popeyetools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 12:57:14 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[PopeyeTools]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40313</guid>
-
-					<description><![CDATA[<p>The US government has announced the seizure of stolen credit card marketplace PopeyeTools and charges against its administrators.</p>
-<p>The post <a href="https://www.securityweek.com/us-takes-down-stolen-credit-card-marketplace-popeyetools/">US Takes Down Stolen Credit Card Marketplace PopeyeTools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Cyberespionage Group Hit 60 Victims in Asia, Europe</title>
-		<link>https://www.securityweek.com/russian-cyberespionage-group-hit-60-victims-in-asia-europe/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 11:58:54 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40312</guid>
-
-					<description><![CDATA[<p>Russia-linked TAG-110 has targeted over 60 government, human rights, and educational entities in Asia and Europe.</p>
-<p>The post <a href="https://www.securityweek.com/russian-cyberespionage-group-hit-60-victims-in-asia-europe/">Russian Cyberespionage Group Hit 60 Victims in Asia, Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rising Tides: Wendy Nather on Resilience, Leadership, and Building a Stronger Cybersecurity Community</title>
-		<link>https://www.securityweek.com/rising-tides-wendy-nather-on-resilience-leadership-and-building-a-stronger-cybersecurity-community/</link>
-		
-		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 11:11:23 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Rising Tides]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40308</guid>
-
-					<description><![CDATA[<p>Industry veteran Wendy Nather discusses cybersecurity leadership and the importance of amplifying others’ efforts for the common good.</p>
-<p>The post <a href="https://www.securityweek.com/rising-tides-wendy-nather-on-resilience-leadership-and-building-a-stronger-cybersecurity-community/">Rising Tides: Wendy Nather on Resilience, Leadership, and Building a Stronger Cybersecurity Community</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>400,000 Systems Potentially Exposed to 2023&#8217;s Most Exploited Flaws</title>
-		<link>https://www.securityweek.com/400000-systems-potentially-exposed-to-2023s-most-exploited-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 11:00:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[VulnCheck]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40310</guid>
-
-					<description><![CDATA[<p>VulnCheck finds hundreds of thousands of internet-accessible hosts potentially vulnerable to 2023’s top frequently exploited flaws.</p>
-<p>The post <a href="https://www.securityweek.com/400000-systems-potentially-exposed-to-2023s-most-exploited-flaws/">400,000 Systems Potentially Exposed to 2023&#8217;s Most Exploited Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Disrupts ONNX Phishing Service, Names Its Operator</title>
-		<link>https://www.securityweek.com/microsoft-disrupts-onnx-phishing-service-names-its-operator/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 10:00:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Abanoub Nady]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[ONNX]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40305</guid>
-
-					<description><![CDATA[<p>Microsoft has seized 240 phishing-related websites and has disrupted the ONNX service, which the company says is run by an Egyptian man.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-disrupts-onnx-phishing-service-names-its-operator/">Microsoft Disrupts ONNX Phishing Service, Names Its Operator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prompt Security Raises $18 Million for Gen-AI Security Platform</title>
-		<link>https://www.securityweek.com/prompt-security-raises-18-million-for-gen-ai-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Nov 2024 08:19:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[Prompt Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40304</guid>
-
-					<description><![CDATA[<p>Gen-AI security startup Prompt Security has raised $18 million in a Series A funding round led by Jump Capital.</p>
-<p>The post <a href="https://www.securityweek.com/prompt-security-raises-18-million-for-gen-ai-security-platform/">Prompt Security Raises $18 Million for Gen-AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
