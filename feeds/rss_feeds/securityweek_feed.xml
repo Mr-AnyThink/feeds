@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 26 Nov 2024 12:17:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Nov 2024 12:02:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,166 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Source Code of $3,000-a-Month macOS Malware &#8216;Banshee Stealer&#8217; Leaked</title>
+		<link>https://www.securityweek.com/source-code-of-3000-a-month-macos-malware-banshee-stealer-leaked/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 12:02:20 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Banshee stealer]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40348</guid>
+
+					<description><![CDATA[<p>The Banshee Stealer macOS malware operation, which emerged earlier this year, was reportedly shut down following a source code leak. </p>
+<p>The post <a href="https://www.securityweek.com/source-code-of-3000-a-month-macos-malware-banshee-stealer-leaked/">Source Code of $3,000-a-Month macOS Malware &#8216;Banshee Stealer&#8217; Leaked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 12:04:04 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>ProjectSend Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/projectsend-vulnerability-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 11:22:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ProjectSend]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40347</guid>
+
+					<description><![CDATA[<p>VulnCheck warns of widespread exploitation of a year-and-a-half-old ProjectSend vulnerability for which multiple public exploits exist.</p>
+<p>The post <a href="https://www.securityweek.com/projectsend-vulnerability-exploited-in-the-wild/">ProjectSend Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bipartisan Legislation Seeks Stronger Healthcare Cybersecurity</title>
+		<link>https://www.securityweek.com/bipartisan-legislation-seeks-stronger-healthcare-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Laws]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40346</guid>
+
+					<description><![CDATA[<p>US senators introduce new legislation to protect health data and strengthen the cybersecurity of the country’s healthcare sector.</p>
+<p>The post <a href="https://www.securityweek.com/bipartisan-legislation-seeks-stronger-healthcare-cybersecurity/">Bipartisan Legislation Seeks Stronger Healthcare Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New VPN Attack Demonstrated Against Palo Alto Networks, SonicWall Products</title>
+		<link>https://www.securityweek.com/new-vpn-attack-demonstrated-against-palo-alto-networks-sonicwall-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 09:55:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40344</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks and SonicWall VPNs affected by vulnerabilities allowing remote code execution and privilege escalation.</p>
+<p>The post <a href="https://www.securityweek.com/new-vpn-attack-demonstrated-against-palo-alto-networks-sonicwall-products/">New VPN Attack Demonstrated Against Palo Alto Networks, SonicWall Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian APT Chained Firefox and Windows Zero-Days Against US and European Targets</title>
+		<link>https://www.securityweek.com/russian-apt-chained-firefox-and-windows-zero-days-against-us-and-european-targets/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2024 09:19:20 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[RomCOm]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40345</guid>
+
+					<description><![CDATA[<p>The Russia-linked RomCom APT has been observed chaining two zero-days in Firefox and Windows for backdoor delivery.</p>
+<p>The post <a href="https://www.securityweek.com/russian-apt-chained-firefox-and-windows-zero-days-against-us-and-european-targets/">Russian APT Chained Firefox and Windows Zero-Days Against US and European Targets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Interpol Clamps Down on Cybercrime and Arrests Over 1,000 Suspects in Africa</title>
+		<link>https://www.securityweek.com/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 20:41:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Interpol]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40339</guid>
+
+					<description><![CDATA[<p>Operation Serengeti targeted criminal suspects in Africa behind ransomware, business email compromise, digital extortion and scams.</p>
+<p>The post <a href="https://www.securityweek.com/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/">Interpol Clamps Down on Cybercrime and Arrests Over 1,000 Suspects in Africa</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Patches High-Severity Vulnerabilities in Aria Operations</title>
+		<link>https://www.securityweek.com/vmware-patches-high-severity-vulnerabilities-in-aria-operations/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 14:35:34 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Aria Operations]]></category>
+		<category><![CDATA[CVE-2024-38830]]></category>
+		<category><![CDATA[CVE-2024-38831]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40338</guid>
+
+					<description><![CDATA[<p>The company warns that malicious hackers can craft exploits to elevate privileges or launch cross-site scripting attacks.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-patches-high-severity-vulnerabilities-in-aria-operations/">VMware Patches High-Severity Vulnerabilities in Aria Operations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM Patches RCE Vulnerabilities in Data Virtualization Manager, Security SOAR</title>
+		<link>https://www.securityweek.com/ibm-patches-rce-vulnerabilities-in-data-virtualization-manager-security-soar/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 Nov 2024 13:55:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40335</guid>
+
+					<description><![CDATA[<p>IBM has released patches for two high-severity remote code execution vulnerabilities in Data Virtualization Manager and Security SOAR.</p>
+<p>The post <a href="https://www.securityweek.com/ibm-patches-rce-vulnerabilities-in-data-virtualization-manager-security-soar/">IBM Patches RCE Vulnerabilities in Data Virtualization Manager, Security SOAR</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese Hackers Exploiting Critical Vulnerability in Array Networks Gateways</title>
 		<link>https://www.securityweek.com/chinese-hackers-exploiting-critical-vulnerability-in-array-networks-gateways/</link>
 		
@@ -45,7 +205,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 12:17:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>New York Fines Geico and Travelers $11 Million Over Data Breaches</title>
 		<link>https://www.securityweek.com/new-york-fines-geico-and-travelers-11-million-over-data-breaches/</link>
@@ -59,156 +219,6 @@
 
 					<description><![CDATA[<p>New York has announced $11 million settlements with Geico and Travelers over data breaches affecting 120,000 people.</p>
 <p>The post <a href="https://www.securityweek.com/new-york-fines-geico-and-travelers-11-million-over-data-breaches/">New York Fines Geico and Travelers $11 Million Over Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerabilities Found in Anti-Spam Plugin Used by 200,000 WordPress Sites</title>
-		<link>https://www.securityweek.com/critical-vulnerabilities-found-in-anti-spam-plugin-used-by-200000-wordpress-sites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 26 Nov 2024 10:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40332</guid>
-
-					<description><![CDATA[<p>Two vulnerabilities in the Anti-Spam by CleanTalk WordPress plugin allowed attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-found-in-anti-spam-plugin-used-by-200000-wordpress-sites/">Critical Vulnerabilities Found in Anti-Spam Plugin Used by 200,000 WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Starbucks, Grocery Stores Hit by Blue Yonder Ransomware Attack</title>
-		<link>https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 26 Nov 2024 09:50:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Blue Yonder]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40331</guid>
-
-					<description><![CDATA[<p>Supply chain management software provider Blue Yonder has been targeted in a ransomware attack that caused significant disruptions for some customers. </p>
-<p>The post <a href="https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/">Starbucks, Grocery Stores Hit by Blue Yonder Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent Zyxel Firewall Vulnerability Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/recent-zyxel-firewall-vulnerability-exploited-in-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 17:50:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zyxel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40328</guid>
-
-					<description><![CDATA[<p>A ransomware group has been observed exploiting a recently patched command injection vulnerability in Zyxel firewalls for initial access.</p>
-<p>The post <a href="https://www.securityweek.com/recent-zyxel-firewall-vulnerability-exploited-in-ransomware-attacks/">Recent Zyxel Firewall Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Expose mySCADA myPRO Systems to Remote Hacking</title>
-		<link>https://www.securityweek.com/vulnerabilities-expose-myscada-mypro-systems-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 16:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40327</guid>
-
-					<description><![CDATA[<p>Critical vulnerabilities patched by mySCADA in its myPRO HMI/SCADA product can allow remote and unauthenticated takeover of the system.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-myscada-mypro-systems-to-remote-hacking/">Vulnerabilities Expose mySCADA myPRO Systems to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Halcyon Raises $100 Million at $1 Billion Valuation</title>
-		<link>https://www.securityweek.com/halcyon-raises-100-million-at-1-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 14:59:13 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40326</guid>
-
-					<description><![CDATA[<p>Series C Funding round brings the total amount raised by the ransomware protection firm to $190 million.</p>
-<p>The post <a href="https://www.securityweek.com/halcyon-raises-100-million-at-1-billion-valuation/">Halcyon Raises $100 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Viso Trust Raises $7 Million for Third-Party Risk Management Platform</title>
-		<link>https://www.securityweek.com/visio-trust-raises-7-million-for-third-party-risk-management-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 13:28:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Viso Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40324</guid>
-
-					<description><![CDATA[<p>San Francisco-based third-party risk management provider Viso Trust has raised $7 million in venture funding.</p>
-<p>The post <a href="https://www.securityweek.com/visio-trust-raises-7-million-for-third-party-risk-management-platform/">Viso Trust Raises $7 Million for Third-Party Risk Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korea Deploying Fake IT Workers in China, Russia, Other Countries</title>
-		<link>https://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 12:56:47 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40323</guid>
-
-					<description><![CDATA[<p>The North Korean fake IT workers have infiltrated businesses in China, Russia, and other countries aside from the US.</p>
-<p>The post <a href="https://www.securityweek.com/north-korea-deploying-fake-it-workers-in-china-russia-other-countries/">North Korea Deploying Fake IT Workers in China, Russia, Other Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microlise Confirms Data Breach as Ransomware Group Steps Forward</title>
-		<link>https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 10:55:45 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Microlise]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40322</guid>
-
-					<description><![CDATA[<p>The SafePay ransomware group claims to have stolen over 1 terabyte of data from vehicle tracking solutions provider Microlise.</p>
-<p>The post <a href="https://www.securityweek.com/microlise-confirms-data-breach-as-ransomware-group-steps-forward/">Microlise Confirms Data Breach as Ransomware Group Steps Forward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
