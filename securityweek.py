@@ -18,7 +18,7 @@ response = requests.get(rss_url, headers=headers)
 
 if response.status_code == 200:
     print("RSS feed fetched successfully with requests.")
-    with open("redpacketsecurity_feed.xml", "w", encoding="utf-8") as file:
+    with open("securityweek_feed.xml", "w", encoding="utf-8") as file:
         file.write(response.text)
 else:
     print(f"Requests failed with status code {response.status_code}. Trying cloudscraper...")
