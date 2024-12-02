@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 29 Nov 2024 05:51:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Dec 2024 11:51:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Two UK Hospitals Hit by Cyberattacks, One Postponed Procedures</title>
+		<link>https://www.securityweek.com/two-uk-hospitals-hit-by-cyberattacks-one-postponed-procedures/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 11:51:41 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40359</guid>
+
+					<description><![CDATA[<p>Alder Hey Children’s Hospital and Wirral University Teaching Hospital have fallen victim to cyberattacks, including one involving ransomware.</p>
+<p>The post <a href="https://www.securityweek.com/two-uk-hospitals-hit-by-cyberattacks-one-postponed-procedures/">Two UK Hospitals Hit by Cyberattacks, One Postponed Procedures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 11:51:46 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Russian Hacker With $10 Million Bounty on His Head Reportedly Arrested</title>
+		<link>https://www.securityweek.com/russian-hacker-with-10-million-bounty-on-his-head-reportedly-arrested/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 09:44:29 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mikhail Matveev]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40357</guid>
+
+					<description><![CDATA[<p>Russian authorities have reportedly arrested Mikhail Matveev, who is wanted by the US for ransomware attacks against critical infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hacker-with-10-million-bounty-on-his-head-reportedly-arrested/">Russian Hacker With $10 Million Bounty on His Head Reportedly Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: OPPC Breach Impacts 1.7M, US Soldier Suspected in Snowflake Hack, Cloudflare Loses Logs</title>
 		<link>https://www.securityweek.com/in-other-news-oppc-breach-impacts-1-7m-us-soldier-suspected-in-snowflake-hack-cloudflare-loses-logs/</link>
 		
@@ -43,7 +83,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of November 25, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/nov-25-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/nov-25-2024/</guid><pubDate>Mon, 25 Nov 2024 06:14:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of November 25, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>T-Mobile Shares More Information on China-Linked Cyberattack</title>
 		<link>https://www.securityweek.com/t-mobile-shares-more-information-on-china-linked-cyberattack/</link>
@@ -180,48 +220,6 @@
 
 					<description><![CDATA[<p>Palo Alto Networks and SonicWall VPNs affected by vulnerabilities allowing remote code execution and privilege escalation.</p>
 <p>The post <a href="https://www.securityweek.com/new-vpn-attack-demonstrated-against-palo-alto-networks-sonicwall-products/">New VPN Attack Demonstrated Against Palo Alto Networks, SonicWall Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian APT Chained Firefox and Windows Zero-Days Against US and European Targets</title>
-		<link>https://www.securityweek.com/russian-apt-chained-firefox-and-windows-zero-days-against-us-and-european-targets/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 09:19:20 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[RomCOm]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40345</guid>
-
-					<description><![CDATA[<p>The Russia-linked RomCom APT has been observed chaining two zero-days in Firefox and Windows for backdoor delivery.</p>
-<p>The post <a href="https://www.securityweek.com/russian-apt-chained-firefox-and-windows-zero-days-against-us-and-european-targets/">Russian APT Chained Firefox and Windows Zero-Days Against US and European Targets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Interpol Clamps Down on Cybercrime and Arrests Over 1,000 Suspects in Africa</title>
-		<link>https://www.securityweek.com/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 26 Nov 2024 20:41:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Interpol]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40339</guid>
-
-					<description><![CDATA[<p>Operation Serengeti targeted criminal suspects in Africa behind ransomware, business email compromise, digital extortion and scams.</p>
-<p>The post <a href="https://www.securityweek.com/interpol-clamps-down-on-cybercrime-and-arrests-over-1000-suspects-in-africa/">Interpol Clamps Down on Cybercrime and Arrests Over 1,000 Suspects in Africa</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
