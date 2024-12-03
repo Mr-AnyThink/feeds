@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 02 Dec 2024 11:51:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Dec 2024 12:07:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,139 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers Stole $1.49 Billion in Cryptocurrency to Date in 2024</title>
+		<link>https://www.securityweek.com/hackers-stole-1-49-billion-in-cryptocurrency-to-date-in-2024/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 12:07:17 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40369</guid>
+
+					<description><![CDATA[<p>Hackers have caused close to $1.49 billion in cryptocurrency losses this year, with $71 million worth of assets stolen in November.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-stole-1-49-billion-in-cryptocurrency-to-date-in-2024/">Hackers Stole $1.49 Billion in Cryptocurrency to Date in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 12:07:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Energy Sector Contractor ENGlobal Targeted in Ransomware Attack</title>
+		<link>https://www.securityweek.com/energy-sector-contractor-englobal-targeted-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 11:34:24 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ENGlobal]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40368</guid>
+
+					<description><![CDATA[<p>Energy sector contractor ENGlobal Corporation has restricted access to some of its systems in response to a ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/energy-sector-contractor-englobal-targeted-in-ransomware-attack/">Energy Sector Contractor ENGlobal Targeted in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Warns of Attacks Exploiting Decade-Old ASA Vulnerability</title>
+		<link>https://www.securityweek.com/cisco-warns-of-attacks-exploiting-decade-old-asa-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2024 10:52:47 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Cisco ASA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40367</guid>
+
+					<description><![CDATA[<p>Cisco has updated an advisory for CVE-2014-2120 to warn customers that the vulnerability has been exploited in the wild. </p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-attacks-exploiting-decade-old-asa-vulnerability/">Cisco Warns of Attacks Exploiting Decade-Old ASA Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AWS Launches Incident Response Service</title>
+		<link>https://www.securityweek.com/aws-launches-incident-response-service/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 17:50:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40363</guid>
+
+					<description><![CDATA[<p>AWS has launched Security Incident Response, a new service for quick and efficient security event management.</p>
+<p>The post <a href="https://www.securityweek.com/aws-launches-incident-response-service/">AWS Launches Incident Response Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Prototype UEFI Bootkit is South Korean University Project; LogoFAIL Exploit Discovered</title>
+		<link>https://www.securityweek.com/prototype-uefi-bootkit-is-south-korean-university-project-logofail-exploit-discovered/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 16:49:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Binarly]]></category>
+		<category><![CDATA[bootkit]]></category>
+		<category><![CDATA[Bootkitty]]></category>
+		<category><![CDATA[ESET]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[South Korea]]></category>
+		<category><![CDATA[UEFI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40364</guid>
+
+					<description><![CDATA[<p>The 'Bootkitty' prototype UEFI bootkit contains an exploit for LogoFAIL and was created in a South Korea university program.</p>
+<p>The post <a href="https://www.securityweek.com/prototype-uefi-bootkit-is-south-korean-university-project-logofail-exploit-discovered/">Prototype UEFI Bootkit is South Korean University Project; LogoFAIL Exploit Discovered</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 49 Deals Announced in November 2024</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-49-deals-announced-in-november-2024/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 16:30:00 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40362</guid>
+
+					<description><![CDATA[<p>Roundup of the forty-nine cybersecurity-related merger and acquisition (M&#038;A) deals announced in November 2024.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-49-deals-announced-in-november-2024/">Cybersecurity M&#038;A Roundup: 49 Deals Announced in November 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability Found in Zabbix Network Monitoring Tool</title>
+		<link>https://www.securityweek.com/critical-vulnerability-found-in-zabbix-network-monitoring-tool/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2024 12:19:35 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zabbix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40361</guid>
+
+					<description><![CDATA[<p>A critical-severity vulnerability in open source enterprise network monitoring tool Zabbix could lead to full system compromise.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-found-in-zabbix-network-monitoring-tool/">Critical Vulnerability Found in Zabbix Network Monitoring Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Two UK Hospitals Hit by Cyberattacks, One Postponed Procedures</title>
 		<link>https://www.securityweek.com/two-uk-hospitals-hit-by-cyberattacks-one-postponed-procedures/</link>
 		
@@ -45,7 +178,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 11:51:46 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Russian Hacker With $10 Million Bounty on His Head Reportedly Arrested</title>
 		<link>https://www.securityweek.com/russian-hacker-with-10-million-bounty-on-his-head-reportedly-arrested/</link>
@@ -79,147 +212,6 @@
 
 					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: OnePoint Patient Care data breach impact doubles, a US soldier may have been involved in the Snowflake hack, Cloudflare lost customer logs. </p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-oppc-breach-impacts-1-7m-us-soldier-suspected-in-snowflake-hack-cloudflare-loses-logs/">In Other News: OPPC Breach Impacts 1.7M, US Soldier Suspected in Snowflake Hack, Cloudflare Loses Logs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>T-Mobile Shares More Information on China-Linked Cyberattack</title>
-		<link>https://www.securityweek.com/t-mobile-shares-more-information-on-china-linked-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 11:30:00 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<category><![CDATA[T-Mobile]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40352</guid>
-
-					<description><![CDATA[<p>T-Mobile has confirmed being targeted by hackers, likely China’s Salt Typhoon, but reiterated that the attack was blocked.</p>
-<p>The post <a href="https://www.securityweek.com/t-mobile-shares-more-information-on-china-linked-cyberattack/">T-Mobile Shares More Information on China-Linked Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Exploited Vulnerability in Partner Network Website</title>
-		<link>https://www.securityweek.com/microsoft-patches-exploited-vulnerability-in-partner-network-website/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 28 Nov 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40351</guid>
-
-					<description><![CDATA[<p>Microsoft informed customers that vulnerabilities affecting cloud, AI and other services have been patched, including an exploited flaw.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-vulnerability-in-partner-network-website/">Microsoft Patches Exploited Vulnerability in Partner Network Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ESET Flags Prototype UEFI Bootkit Targeting Linux</title>
-		<link>https://www.securityweek.com/eset-flags-prototype-uefi-bootkit-targeting-linux/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 17:00:42 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BlackLotus]]></category>
-		<category><![CDATA[Bootkitty]]></category>
-		<category><![CDATA[ESET]]></category>
-		<category><![CDATA[UEFI]]></category>
-		<category><![CDATA[UEFI bootkit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40350</guid>
-
-					<description><![CDATA[<p>ESET warns of a new reality: “UEFI bootkits are no longer confined to Windows systems alone.”</p>
-<p>The post <a href="https://www.securityweek.com/eset-flags-prototype-uefi-bootkit-targeting-linux/">ESET Flags Prototype UEFI Bootkit Targeting Linux</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Source Code of $3,000-a-Month macOS Malware &#8216;Banshee Stealer&#8217; Leaked</title>
-		<link>https://www.securityweek.com/source-code-of-3000-a-month-macos-malware-banshee-stealer-leaked/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 12:02:20 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Banshee stealer]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40348</guid>
-
-					<description><![CDATA[<p>The Banshee Stealer macOS malware operation, which emerged earlier this year, was reportedly shut down following a source code leak. </p>
-<p>The post <a href="https://www.securityweek.com/source-code-of-3000-a-month-macos-malware-banshee-stealer-leaked/">Source Code of $3,000-a-Month macOS Malware &#8216;Banshee Stealer&#8217; Leaked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ProjectSend Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/projectsend-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 11:22:05 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ProjectSend]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40347</guid>
-
-					<description><![CDATA[<p>VulnCheck warns of widespread exploitation of a year-and-a-half-old ProjectSend vulnerability for which multiple public exploits exist.</p>
-<p>The post <a href="https://www.securityweek.com/projectsend-vulnerability-exploited-in-the-wild/">ProjectSend Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bipartisan Legislation Seeks Stronger Healthcare Cybersecurity</title>
-		<link>https://www.securityweek.com/bipartisan-legislation-seeks-stronger-healthcare-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[bill]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Laws]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40346</guid>
-
-					<description><![CDATA[<p>US senators introduce new legislation to protect health data and strengthen the cybersecurity of the country’s healthcare sector.</p>
-<p>The post <a href="https://www.securityweek.com/bipartisan-legislation-seeks-stronger-healthcare-cybersecurity/">Bipartisan Legislation Seeks Stronger Healthcare Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New VPN Attack Demonstrated Against Palo Alto Networks, SonicWall Products</title>
-		<link>https://www.securityweek.com/new-vpn-attack-demonstrated-against-palo-alto-networks-sonicwall-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 09:55:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[VPN]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40344</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks and SonicWall VPNs affected by vulnerabilities allowing remote code execution and privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/new-vpn-attack-demonstrated-against-palo-alto-networks-sonicwall-products/">New VPN Attack Demonstrated Against Palo Alto Networks, SonicWall Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
