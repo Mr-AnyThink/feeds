@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 04 Dec 2024 11:59:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Dec 2024 11:47:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,183 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Android&#8217;s December 2024 Security Update Patches 14 Vulnerabilities</title>
-		<link>https://www.securityweek.com/androids-december-2024-security-update-patches-14-vulnerabilities/</link>
+		<title>Chemonics International Data Breach Impacts 260,000 Individuals</title>
+		<link>https://www.securityweek.com/chemonics-international-data-breach-impacts-260000-individuals/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 11:59:01 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40389</guid>
+		<pubDate>Thu, 05 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Chemonics]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40419</guid>
 
-					<description><![CDATA[<p>Google has released patches for 14 high-severity vulnerabilities as part of Android’s December 2024 security update.</p>
-<p>The post <a href="https://www.securityweek.com/androids-december-2024-security-update-patches-14-vulnerabilities/">Android&#8217;s December 2024 Security Update Patches 14 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Development firm Chemonics International has disclosed a year-old data breach impacting over 260,000 people.</p>
+<p>The post <a href="https://www.securityweek.com/chemonics-international-data-breach-impacts-260000-individuals/">Chemonics International Data Breach Impacts 260,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 11:59:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 12:00:02 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Solana Web3.js Library Backdoored in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/solana-web3-js-library-backdoored-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 11:30:00 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[Web3]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40387</guid>
-
-					<description><![CDATA[<p>Supply chain attack leads to decentralized application developers downloading backdoored versions of the Solana Web3.js library.</p>
-<p>The post <a href="https://www.securityweek.com/solana-web3-js-library-backdoored-in-supply-chain-attack/">Solana Web3.js Library Backdoored in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Law Enforcement Read Criminals&#8217; Messages After Hacking Matrix Service</title>
-		<link>https://www.securityweek.com/law-enforcement-read-criminals-messages-after-hacking-matrix-service/</link>
+		<title>System Two Security Emerges From Stealth With Detection Engineering Solution</title>
+		<link>https://www.securityweek.com/system-two-security-emerges-from-stealth-with-detection-engineering-solution/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 10:45:00 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Matrix]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40385</guid>
+		<pubDate>Thu, 05 Dec 2024 11:30:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[System Two Security]]></category>
+		<category><![CDATA[threat detection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40418</guid>
 
-					<description><![CDATA[<p>Law enforcement has taken down yet another encrypted messaging service used by criminals, but not before spying on its users.</p>
-<p>The post <a href="https://www.securityweek.com/law-enforcement-read-criminals-messages-after-hacking-matrix-service/">Law Enforcement Read Criminals&#8217; Messages After Hacking Matrix Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>System Two Security has emerged from stealth mode with a threat detection engineering solution and $7 million in seed funding.</p>
+<p>The post <a href="https://www.securityweek.com/system-two-security-emerges-from-stealth-with-detection-engineering-solution/">System Two Security Emerges From Stealth With Detection Engineering Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>FBI Tells Telecom Firms to Boost Security Following Wide-Ranging Chinese Hacking Campaign</title>
-		<link>https://www.securityweek.com/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/</link>
+		<title>White House Says at Least 8 US Telecom Firms, Dozens of Nations Impacted by China Hacking Campaign</title>
+		<link>https://www.securityweek.com/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 22:48:24 +0000</pubDate>
+		<pubDate>Thu, 05 Dec 2024 11:00:00 +0000</pubDate>
 				<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Salt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40381</guid>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40414</guid>
 
-					<description><![CDATA[<p>Guidance issued by the FBI and CISA is intended to help root out the hackers and prevent similar cyberespionage.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-tells-telecom-firms-to-boost-security-following-wide-ranging-chinese-hacking-campaign/">FBI Tells Telecom Firms to Boost Security Following Wide-Ranging Chinese Hacking Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A top White House official said at least eight U.S. telecom firms and dozens of nations have been impacted by a Chinese hacking campaign.</p>
+<p>The post <a href="https://www.securityweek.com/white-house-says-at-least-8-us-telecom-firms-dozens-of-nations-impacted-by-china-hacking-campaign/">White House Says at Least 8 US Telecom Firms, Dozens of Nations Impacted by China Hacking Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New EU Regulation Establishes European &#8216;Cybersecurity Shield&#8217;</title>
-		<link>https://www.securityweek.com/new-eu-regulation-establishes-european-cybersecurity-shield/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 17:40:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Laws]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40376</guid>
-
-					<description><![CDATA[<p>The European Union has adopted new legislation to establish a cybersecurity shield and ensure adequate security standards for managed security services.</p>
-<p>The post <a href="https://www.securityweek.com/new-eu-regulation-establishes-european-cybersecurity-shield/">New EU Regulation Establishes European &#8216;Cybersecurity Shield&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vendors Unveil New Cloud Security Products, Features at AWS re:Invent 2024</title>
-		<link>https://www.securityweek.com/vendors-unveil-new-cloud-security-products-features-at-aws-reinvent-2024/</link>
+		<title>BT Investigating Hack After Ransomware Group Claims Theft of Sensitive Data</title>
+		<link>https://www.securityweek.com/bt-investigating-hack-after-ransomware-group-claims-theft-of-sensitive-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 16:30:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40371</guid>
-
-					<description><![CDATA[<p>AWS and other vendors have announced new cloud security products and features at the cloud giant’s re:Invent 2024 conference.</p>
-<p>The post <a href="https://www.securityweek.com/vendors-unveil-new-cloud-security-products-features-at-aws-reinvent-2024/">Vendors Unveil New Cloud Security Products, Features at AWS re:Invent 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Expands List of Chinese Technology Companies Under Export Controls</title>
-		<link>https://www.securityweek.com/us-expands-list-of-chinese-technology-companies-under-export-controls/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 15:51:53 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[China]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40378</guid>
-
-					<description><![CDATA[<p>Commerce Department expanded the list of Chinese technology companies subject to export controls to include many that make equipment used to make computer chips, chipmaking tools and software.</p>
-<p>The post <a href="https://www.securityweek.com/us-expands-list-of-chinese-technology-companies-under-export-controls/">US Expands List of Chinese Technology Companies Under Export Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: Dan McInerney and Puzzle-Driven Hacking</title>
-		<link>https://www.securityweek.com/hacker-conversations-dan-mcinerney-and-puzzle-driven-hacking/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 14:51:25 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40373</guid>
-
-					<description><![CDATA[<p>McInerney’s path to becoming a hacker is subtly different to many other hackers. He started as a 22-year old psychology graduate rather than a computer-obsessed 9-year old kid. </p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-dan-mcinerney-and-puzzle-driven-hacking/">Hacker Conversations: Dan McInerney and Puzzle-Driven Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>760,000 Employee Records From Several Major Firms Leaked Online</title>
-		<link>https://www.securityweek.com/760000-employee-records-from-several-major-firms-leaked-online/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 12:37:58 +0000</pubDate>
+		<pubDate>Thu, 05 Dec 2024 10:50:39 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[BT]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40370</guid>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40420</guid>
 
-					<description><![CDATA[<p>A hacker has posted online over 760,000 records belonging to employees of Bank of America, Koch, Nokia, JLL, Xerox, Morgan Stanley, and Bridgewater.</p>
-<p>The post <a href="https://www.securityweek.com/760000-employee-records-from-several-major-firms-leaked-online/">760,000 Employee Records From Several Major Firms Leaked Online</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>UK telecoms company BT has launched an investigation after the Black Basta ransomware group claimed the theft of 500 Gb of data.</p>
+<p>The post <a href="https://www.securityweek.com/bt-investigating-hack-after-ransomware-group-claims-theft-of-sensitive-data/">BT Investigating Hack After Ransomware Group Claims Theft of Sensitive Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hackers Stole $1.49 Billion in Cryptocurrency to Date in 2024</title>
-		<link>https://www.securityweek.com/hackers-stole-1-49-billion-in-cryptocurrency-to-date-in-2024/</link>
+		<title>Veeam Warns of Critical Vulnerability in Service Provider Console</title>
+		<link>https://www.securityweek.com/veeam-warns-of-critical-vulnerability-in-service-provider-console/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 12:07:17 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40369</guid>
+		<pubDate>Wed, 04 Dec 2024 18:33:34 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2024-42448]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[Veeam]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40408</guid>
 
-					<description><![CDATA[<p>Hackers have caused close to $1.49 billion in cryptocurrency losses this year, with $71 million worth of assets stolen in November.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-stole-1-49-billion-in-cryptocurrency-to-date-in-2024/">Hackers Stole $1.49 Billion in Cryptocurrency to Date in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Veeam releases patches for two vulnerabilities in Service Provider Console, including a critical-severity remote code execution bug.</p>
+<p>The post <a href="https://www.securityweek.com/veeam-warns-of-critical-vulnerability-in-service-provider-console/">Veeam Warns of Critical Vulnerability in Service Provider Console</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spy v Spy: Russian APT Turla Caught Stealing From Pakistani APT</title>
+		<link>https://www.securityweek.com/spy-v-spy-russian-apt-turla-caught-stealing-from-pakistani-apt/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 17:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Pakistan]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Secret Blizzard]]></category>
+		<category><![CDATA[Turla]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40405</guid>
+
+					<description><![CDATA[<p>Russia's Turla hackers hijacked 33 command servers operated by Pakistani hackers who had themselves breached Afghanistan and Indian targets.</p>
+<p>The post <a href="https://www.securityweek.com/spy-v-spy-russian-apt-turla-caught-stealing-from-pakistani-apt/">Spy v Spy: Russian APT Turla Caught Stealing From Pakistani APT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Largest German Crime Marketplace Taken Down, Administrator Arrested</title>
+		<link>https://www.securityweek.com/largest-german-crime-marketplace-taken-down-administrator-arrested/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 16:45:00 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[dark web]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40401</guid>
+
+					<description><![CDATA[<p>Crimenetwork, the largest German-speaking online crime marketplace, has been shut down and one of its admins has been arrested.</p>
+<p>The post <a href="https://www.securityweek.com/largest-german-crime-marketplace-taken-down-administrator-arrested/">Largest German Crime Marketplace Taken Down, Administrator Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tuskira Scores $28.5M for AI-Powered Security Mesh</title>
+		<link>https://www.securityweek.com/tuskira-scores-28-5m-for-ai-powered-security-mesh/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Accurics]]></category>
+		<category><![CDATA[AI Automation]]></category>
+		<category><![CDATA[Tenable]]></category>
+		<category><![CDATA[Tuskira]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40380</guid>
+
+					<description><![CDATA[<p>Tuskira is working on an AI-powered security mesh promising to integrate fragmented security tools and mitigate risk exposure in real time.</p>
+<p>The post <a href="https://www.securityweek.com/tuskira-scores-28-5m-for-ai-powered-security-mesh/">Tuskira Scores $28.5M for AI-Powered Security Mesh</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Zyxel Firewall Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/cisa-warns-of-zyxel-firewall-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 13:13:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40398</guid>
+
+					<description><![CDATA[<p>A second vulnerability in Zyxel firewalls has been exploited in Helldown ransomware attacks over the past weeks.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-zyxel-firewall-vulnerability-exploited-in-attacks/">CISA Warns of Zyxel Firewall Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Government Guidance on Chinese Telco Hacking Highlights Threat to Cisco Devices</title>
+		<link>https://www.securityweek.com/government-guidance-on-chinese-telco-hack-highlights-threat-to-cisco-devices/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 13:01:32 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40396</guid>
+
+					<description><![CDATA[<p>Government agencies issue guidance on Chinese telecoms hacking as US officials say threat actors may have yet to be expelled. </p>
+<p>The post <a href="https://www.securityweek.com/government-guidance-on-chinese-telco-hack-highlights-threat-to-cisco-devices/">Government Guidance on Chinese Telco Hacking Highlights Threat to Cisco Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
