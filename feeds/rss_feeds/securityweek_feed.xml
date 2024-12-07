@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 06 Dec 2024 12:06:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Dec 2024 13:28:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Cloudflare Abuse, UK and EU Cybersecurity Reports, FBI Gen-AI Alert</title>
+		<link>https://www.securityweek.com/in-other-news-cloudflare-abuse-uk-and-eu-cybersecurity-reports-fbi-gen-ai-alert/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 13:28:54 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40437</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: ENISA and NCSC release cybersecurity reports, abuse of Cloudflare services, FBI warns of gen-AI enabling fraud. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-cloudflare-abuse-uk-and-eu-cybersecurity-reports-fbi-gen-ai-alert/">In Other News: Cloudflare Abuse, UK and EU Cybersecurity Reports, FBI Gen-AI Alert</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 06:14:12 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Ethyca Raises $10 Million for Data Privacy Platform</title>
+		<link>https://www.securityweek.com/ethyca-raises-10-million-for-data-privacy-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 13:10:59 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Ethyca]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40436</guid>
+
+					<description><![CDATA[<p>Data privacy solutions provider Ethyca has raised $10 million in a funding round led by Aspenwood Ventures and AVP.</p>
+<p>The post <a href="https://www.securityweek.com/ethyca-raises-10-million-for-data-privacy-platform/">Ethyca Raises $10 Million for Data Privacy Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Patches 6 Vulnerabilities in Secure Access Gateway</title>
+		<link>https://www.securityweek.com/sonicwall-patches-6-vulnerabilities-in-secure-access-gateway/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 12:26:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40435</guid>
+
+					<description><![CDATA[<p>SonicWall has released patches for multiple high-severity flaws in the SMA100 SSL-VPN secure access gateway.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-patches-6-vulnerabilities-in-secure-access-gateway/">SonicWall Patches 6 Vulnerabilities in Secure Access Gateway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Atrium Health Data Breach Impacts 585,000 People</title>
 		<link>https://www.securityweek.com/atrium-health-data-breach-impacts-585000-people/</link>
 		
@@ -45,7 +99,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 2, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-02-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-02-2024/</guid><pubDate>Mon, 02 Dec 2024 12:06:18 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 2, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Google Open Sources Security Patch Validation Tool for Android</title>
 		<link>https://www.securityweek.com/google-open-sources-security-patch-validation-tool-for-android/</link>
@@ -163,64 +217,6 @@
 		
 					<wfw:commentRss>https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>&#8216;DroidBot&#8217; Android Trojan Targets Banking, Cryptocurrency Applications</title>
-		<link>https://www.securityweek.com/droidbot-android-trojan-targets-banking-cryptocurrency-applications/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 05 Dec 2024 13:26:49 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android trojan]]></category>
-		<category><![CDATA[DroidBot]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40427</guid>
-
-					<description><![CDATA[<p>The newly discovered DroidBot Android trojan targets 77 banks, cryptocurrency exchanges, and national organizations.</p>
-<p>The post <a href="https://www.securityweek.com/droidbot-android-trojan-targets-banking-cryptocurrency-applications/">&#8216;DroidBot&#8217; Android Trojan Targets Banking, Cryptocurrency Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>50 Servers Linked to Cybercrime Marketplace and Phishing Sites Seized by Law Enforcement</title>
-		<link>https://www.securityweek.com/50-servers-linked-to-cybercrime-marketplace-and-phishing-sites-seized-by-law-enforcement/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 05 Dec 2024 13:10:31 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Manson Market]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40425</guid>
-
-					<description><![CDATA[<p>Europol announced an operation targeting a cybercrime marketplace and phishing websites, including the arrests of two suspects.</p>
-<p>The post <a href="https://www.securityweek.com/50-servers-linked-to-cybercrime-marketplace-and-phishing-sites-seized-by-law-enforcement/">50 Servers Linked to Cybercrime Marketplace and Phishing Sites Seized by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bootloader Vulnerability Impacts Over 100 Cisco Switches</title>
-		<link>https://www.securityweek.com/bootloader-vulnerability-impacts-over-100-cisco-switches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 05 Dec 2024 12:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40423</guid>
-
-					<description><![CDATA[<p>More than 100 Cisco products are affected by an NX-OS vulnerability that allows attackers to bypass image signature verification.</p>
-<p>The post <a href="https://www.securityweek.com/bootloader-vulnerability-impacts-over-100-cisco-switches/">Bootloader Vulnerability Impacts Over 100 Cisco Switches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
 		
 		
 			</item>
