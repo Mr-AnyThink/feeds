@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 09 Dec 2024 12:05:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Dec 2024 11:24:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft Rolls Out Default NTLM Relay Attack Mitigations</title>
+		<link>https://www.securityweek.com/microsoft-rolls-out-default-ntlm-relay-attack-mitigations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 11:23:30 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NTLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40457</guid>
+
+					<description><![CDATA[<p>Microsoft has rolled out new default security protections that mitigate NTLM relaying attacks across on-premises Exchange, AD CS, and LDAP services.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-default-ntlm-relay-attack-mitigations/">Microsoft Rolls Out Default NTLM Relay Attack Mitigations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 11:24:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>$50 Million Radiant Capital Heist Blamed on North Korean Hackers</title>
+		<link>https://www.securityweek.com/radiant-capital-50-million-heist-blamed-on-north-korean-hackers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 09:58:04 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[Radiant Capital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40455</guid>
+
+					<description><![CDATA[<p>Radiant Capital says a North Korean threat actor stole $50 million in assets in a sophisticated October attack.</p>
+<p>The post <a href="https://www.securityweek.com/radiant-capital-50-million-heist-blamed-on-north-korean-hackers/">$50 Million Radiant Capital Heist Blamed on North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical OpenWrt Flaw Exposes Firmware Update Server to Exploitation</title>
+		<link>https://www.securityweek.com/critical-openwrt-flaw-exposes-firmware-update-server-to-exploitation/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 18:27:51 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2024-54143]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[OpenWrt]]></category>
+		<category><![CDATA[SHA-256]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40452</guid>
+
+					<description><![CDATA[<p>The CVE-2024-54143 vulnerability affects the OpenWrt sysupgrade server and exposes users to risks of installing malicious firmware images.</p>
+<p>The post <a href="https://www.securityweek.com/critical-openwrt-flaw-exposes-firmware-update-server-to-exploitation/">Critical OpenWrt Flaw Exposes Firmware Update Server to Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Medical Device Maker Artivion Scrambling to Restore Systems After Ransomware Attack</title>
+		<link>https://www.securityweek.com/medical-device-maker-artivion-scrambling-to-restore-systems-after-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 14:04:04 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40450</guid>
+
+					<description><![CDATA[<p>Medical devices manufacturer Artivion says a ransomware attack caused disruptions to order and shipping processes.</p>
+<p>The post <a href="https://www.securityweek.com/medical-device-maker-artivion-scrambling-to-restore-systems-after-ransomware-attack/">Medical Device Maker Artivion Scrambling to Restore Systems After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>QNAP Patches Vulnerabilities Exploited at Pwn2Own</title>
+		<link>https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 13:24:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[QNAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40447</guid>
+
+					<description><![CDATA[<p>QNAP has released patches for multiple high-severity QTS and QuTS Hero vulnerabilities disclosed at the Pwn2Own Ireland 2024 hacking contest.</p>
+<p>The post <a href="https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own/">QNAP Patches Vulnerabilities Exploited at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blue Yonder Probing Data Theft Claims After Ransomware Gang Takes Credit for Attack</title>
+		<link>https://www.securityweek.com/blue-yonder-probing-data-theft-claims-after-ransomware-gang-takes-credit-for-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 13:01:41 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Blue Yonder]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40446</guid>
+
+					<description><![CDATA[<p>The Blue Yonder ransomware attack that caused disruptions to Starbucks and major grocery stores may have also involved information theft.</p>
+<p>The post <a href="https://www.securityweek.com/blue-yonder-probing-data-theft-claims-after-ransomware-gang-takes-credit-for-attack/">Blue Yonder Probing Data Theft Claims After Ransomware Gang Takes Credit for Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Deloitte Responds After Ransomware Group Claims Data Theft</title>
 		<link>https://www.securityweek.com/deloitte-responds-after-ransomware-groups-claims-data-theft/</link>
 		
@@ -46,7 +165,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 12:05:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Eight Suspected Phishers Arrested in Belgium, Netherlands</title>
 		<link>https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/</link>
@@ -102,119 +221,6 @@
 
 					<description><![CDATA[<p>EU sent TikTok an urgent request for more information about Romanian intelligence files suggesting that Russia coordinated influencers to promote a candidate who became the surprise front-runner in presidential election.</p>
 <p>The post <a href="https://www.securityweek.com/the-eu-makes-an-urgent-tiktok-inquiry-on-russias-role-in-romanian-election-turmoil/">The EU Makes an Urgent TikTok Inquiry on Russia&#8217;s Role in Romanian Election Turmoil</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Cloudflare Abuse, UK and EU Cybersecurity Reports, FBI Gen-AI Alert</title>
-		<link>https://www.securityweek.com/in-other-news-cloudflare-abuse-uk-and-eu-cybersecurity-reports-fbi-gen-ai-alert/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 13:28:54 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40437</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: ENISA and NCSC release cybersecurity reports, abuse of Cloudflare services, FBI warns of gen-AI enabling fraud. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-cloudflare-abuse-uk-and-eu-cybersecurity-reports-fbi-gen-ai-alert/">In Other News: Cloudflare Abuse, UK and EU Cybersecurity Reports, FBI Gen-AI Alert</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ethyca Raises $10 Million for Data Privacy Platform</title>
-		<link>https://www.securityweek.com/ethyca-raises-10-million-for-data-privacy-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 13:10:59 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[Ethyca]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40436</guid>
-
-					<description><![CDATA[<p>Data privacy solutions provider Ethyca has raised $10 million in a funding round led by Aspenwood Ventures and AVP.</p>
-<p>The post <a href="https://www.securityweek.com/ethyca-raises-10-million-for-data-privacy-platform/">Ethyca Raises $10 Million for Data Privacy Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches 6 Vulnerabilities in Secure Access Gateway</title>
-		<link>https://www.securityweek.com/sonicwall-patches-6-vulnerabilities-in-secure-access-gateway/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 12:26:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40435</guid>
-
-					<description><![CDATA[<p>SonicWall has released patches for multiple high-severity flaws in the SMA100 SSL-VPN secure access gateway.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-6-vulnerabilities-in-secure-access-gateway/">SonicWall Patches 6 Vulnerabilities in Secure Access Gateway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atrium Health Data Breach Impacts 585,000 People</title>
-		<link>https://www.securityweek.com/atrium-health-data-breach-impacts-585000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 12:06:12 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Atrium Health]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40434</guid>
-
-					<description><![CDATA[<p>Atrium Health has notified the HHS of a data breach impacting 585,000 individuals, and the incident may be related to online tracking.</p>
-<p>The post <a href="https://www.securityweek.com/atrium-health-data-breach-impacts-585000-people/">Atrium Health Data Breach Impacts 585,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Open Sources Security Patch Validation Tool for Android</title>
-		<link>https://www.securityweek.com/google-open-sources-security-patch-validation-tool-for-android/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 11:54:17 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40433</guid>
-
-					<description><![CDATA[<p>Google has announced the open source availability of Vanir, a patch validation tool for Android platform developers.</p>
-<p>The post <a href="https://www.securityweek.com/google-open-sources-security-patch-validation-tool-for-android/">Google Open Sources Security Patch Validation Tool for Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PoC Exploit Published for Unpatched Mitel MiCollab Vulnerability</title>
-		<link>https://www.securityweek.com/poc-exploit-published-for-unpatched-mitel-micollab-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 11:31:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Mitel]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40432</guid>
-
-					<description><![CDATA[<p>WatchTowr has published proof-of-concept (PoC) code for an unpatched vulnerability in the Mitel MiCollab enterprise collaboration platform.</p>
-<p>The post <a href="https://www.securityweek.com/poc-exploit-published-for-unpatched-mitel-micollab-vulnerability/">PoC Exploit Published for Unpatched Mitel MiCollab Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
