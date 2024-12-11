@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 10 Dec 2024 11:24:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Dec 2024 12:09:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Microsoft Rolls Out Default NTLM Relay Attack Mitigations</title>
-		<link>https://www.securityweek.com/microsoft-rolls-out-default-ntlm-relay-attack-mitigations/</link>
+		<title>Google&#8217;s Willow Chip Signals the Urgency of Post-Quantum Cryptography Migration</title>
+		<link>https://www.securityweek.com/googles-willow-chip-signals-the-urgency-of-post-quantum-cryptography-migration/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 11:23:30 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Exchange]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[NTLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40457</guid>
-
-					<description><![CDATA[<p>Microsoft has rolled out new default security protections that mitigate NTLM relaying attacks across on-premises Exchange, AD CS, and LDAP services.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-default-ntlm-relay-attack-mitigations/">Microsoft Rolls Out Default NTLM Relay Attack Mitigations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 11:24:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>$50 Million Radiant Capital Heist Blamed on North Korean Hackers</title>
-		<link>https://www.securityweek.com/radiant-capital-50-million-heist-blamed-on-north-korean-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 09:58:04 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 12:09:18 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[heist]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[Radiant Capital]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40455</guid>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Willow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40480</guid>
 
-					<description><![CDATA[<p>Radiant Capital says a North Korean threat actor stole $50 million in assets in a sophisticated October attack.</p>
-<p>The post <a href="https://www.securityweek.com/radiant-capital-50-million-heist-blamed-on-north-korean-hackers/">$50 Million Radiant Capital Heist Blamed on North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google’s Willow quantum chip marks a transformative moment in quantum computing development.</p>
+<p>The post <a href="https://www.securityweek.com/googles-willow-chip-signals-the-urgency-of-post-quantum-cryptography-migration/">Google&#8217;s Willow Chip Signals the Urgency of Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 12:09:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Critical OpenWrt Flaw Exposes Firmware Update Server to Exploitation</title>
-		<link>https://www.securityweek.com/critical-openwrt-flaw-exposes-firmware-update-server-to-exploitation/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 18:27:51 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2024-54143]]></category>
-		<category><![CDATA[firmware]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[OpenWrt]]></category>
-		<category><![CDATA[SHA-256]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40452</guid>
-
-					<description><![CDATA[<p>The CVE-2024-54143 vulnerability affects the OpenWrt sysupgrade server and exposes users to risks of installing malicious firmware images.</p>
-<p>The post <a href="https://www.securityweek.com/critical-openwrt-flaw-exposes-firmware-update-server-to-exploitation/">Critical OpenWrt Flaw Exposes Firmware Update Server to Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Medical Device Maker Artivion Scrambling to Restore Systems After Ransomware Attack</title>
-		<link>https://www.securityweek.com/medical-device-maker-artivion-scrambling-to-restore-systems-after-ransomware-attack/</link>
+		<title>446,000 Impacted by Center for Vein Restoration Data Breach</title>
+		<link>https://www.securityweek.com/446000-impacted-by-center-for-vein-restoration-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 14:04:04 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40450</guid>
-
-					<description><![CDATA[<p>Medical devices manufacturer Artivion says a ransomware attack caused disruptions to order and shipping processes.</p>
-<p>The post <a href="https://www.securityweek.com/medical-device-maker-artivion-scrambling-to-restore-systems-after-ransomware-attack/">Medical Device Maker Artivion Scrambling to Restore Systems After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>QNAP Patches Vulnerabilities Exploited at Pwn2Own</title>
-		<link>https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 13:24:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[QNAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40447</guid>
-
-					<description><![CDATA[<p>QNAP has released patches for multiple high-severity QTS and QuTS Hero vulnerabilities disclosed at the Pwn2Own Ireland 2024 hacking contest.</p>
-<p>The post <a href="https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own/">QNAP Patches Vulnerabilities Exploited at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blue Yonder Probing Data Theft Claims After Ransomware Gang Takes Credit for Attack</title>
-		<link>https://www.securityweek.com/blue-yonder-probing-data-theft-claims-after-ransomware-gang-takes-credit-for-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 13:01:41 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Blue Yonder]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40446</guid>
-
-					<description><![CDATA[<p>The Blue Yonder ransomware attack that caused disruptions to Starbucks and major grocery stores may have also involved information theft.</p>
-<p>The post <a href="https://www.securityweek.com/blue-yonder-probing-data-theft-claims-after-ransomware-gang-takes-credit-for-attack/">Blue Yonder Probing Data Theft Claims After Ransomware Gang Takes Credit for Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Deloitte Responds After Ransomware Group Claims Data Theft</title>
-		<link>https://www.securityweek.com/deloitte-responds-after-ransomware-groups-claims-data-theft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 12:04:48 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Deloitte]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40444</guid>
-
-					<description><![CDATA[<p>Deloitte has issued a response after the Brain Cipher ransomware group claimed to have stolen over 1 Tb of information belonging to the company.</p>
-<p>The post <a href="https://www.securityweek.com/deloitte-responds-after-ransomware-groups-claims-data-theft/">Deloitte Responds After Ransomware Group Claims Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Eight Suspected Phishers Arrested in Belgium, Netherlands</title>
-		<link>https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 11:28:42 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40443</guid>
-
-					<description><![CDATA[<p>Belgian and Dutch authorities arrested eight individuals for their alleged involvement in phishing, online scams, and money laundering operations.</p>
-<p>The post <a href="https://www.securityweek.com/eight-suspected-phishers-arrested-in-belgium-netherlands/">Eight Suspected Phishers Arrested in Belgium, Netherlands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anna Jaques Hospital Data Breach Impacts 316,000 People</title>
-		<link>https://www.securityweek.com/anna-jaques-hospital-data-breach-impacts-316000-people/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 11:00:00 +0000</pubDate>
+		<pubDate>Wed, 11 Dec 2024 11:56:15 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40440</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40481</guid>
 
-					<description><![CDATA[<p>Anna Jaques Hospital says the personal information of over 316,000 individuals was compromised in a year-old data breach.</p>
-<p>The post <a href="https://www.securityweek.com/anna-jaques-hospital-data-breach-impacts-316000-people/">Anna Jaques Hospital Data Breach Impacts 316,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Center for Vein Restoration discloses data breach impacting the personal, medical, and financial information of 446,000 individuals.</p>
+<p>The post <a href="https://www.securityweek.com/446000-impacted-by-center-for-vein-restoration-data-breach/">446,000 Impacted by Center for Vein Restoration Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>The EU Makes an Urgent TikTok Inquiry on Russia&#8217;s Role in Romanian Election Turmoil</title>
-		<link>https://www.securityweek.com/the-eu-makes-an-urgent-tiktok-inquiry-on-russias-role-in-romanian-election-turmoil/</link>
+		<title>ICS Patch Tuesday: Security Advisories Released by Siemens, Schneider, CISA, Others</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-security-advisories-released-by-siemens-schneider-cisa-others/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 10:43:09 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Election]]></category>
-		<category><![CDATA[influence]]></category>
-		<category><![CDATA[misinformation]]></category>
-		<category><![CDATA[Romania]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40441</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 11:29:18 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40479</guid>
 
-					<description><![CDATA[<p>EU sent TikTok an urgent request for more information about Romanian intelligence files suggesting that Russia coordinated influencers to promote a candidate who became the surprise front-runner in presidential election.</p>
-<p>The post <a href="https://www.securityweek.com/the-eu-makes-an-urgent-tiktok-inquiry-on-russias-role-in-romanian-election-turmoil/">The EU Makes an Urgent TikTok Inquiry on Russia&#8217;s Role in Romanian Election Turmoil</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>December 2024 ICS Patch Tuesday brings advisories from CISA, as well as several major industrial automation companies. </p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-security-advisories-released-by-siemens-schneider-cisa-others/">ICS Patch Tuesday: Security Advisories Released by Siemens, Schneider, CISA, Others</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Patches Critical Flaws in Connect Secure, Cloud Services Application</title>
+		<link>https://www.securityweek.com/ivanti-patches-critical-flaws-in-connect-secure-cloud-services-application/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 11:15:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40478</guid>
+
+					<description><![CDATA[<p>Ivanti has released patches for critical vulnerabilities in Cloud Services Application, Connect Secure, and Policy Secure.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-flaws-in-connect-secure-cloud-services-application/">Ivanti Patches Critical Flaws in Connect Secure, Cloud Services Application</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Charges, Sanctions Chinese Man Accused of Sophos Firewall Hacking</title>
+		<link>https://www.securityweek.com/us-charges-sanctions-chinese-man-accused-of-sophos-firewall-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 10:45:00 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Guan Tianfeng]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40475</guid>
+
+					<description><![CDATA[<p>The US government announced charges, sanctions and a reward for Guan Tianfeng, a Chinese national accused of involvement in Sophos firewall hacks.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-sanctions-chinese-man-accused-of-sophos-firewall-hacking/">US Charges, Sanctions Chinese Man Accused of Sophos Firewall Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Ships Urgent Patch for Exploited Windows CLFS Zero-Day</title>
+		<link>https://www.securityweek.com/microsoft-ships-urgent-patch-for-exploited-windows-clfs-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 20:28:48 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2023-44487]]></category>
+		<category><![CDATA[CVE-2024-49112]]></category>
+		<category><![CDATA[CVE-2024-49138]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40474</guid>
+
+					<description><![CDATA[<p>Patch Tuesday: Redmond patches 71  security flaws and calls immediate attention to an exploited Windows zero-day reported by CrowdStrike.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-ships-urgent-patch-for-exploited-windows-clfs-zero-day/">Microsoft Ships Urgent Patch for Exploited Windows CLFS Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches Over 160 Vulnerabilities Across 16 Products</title>
+		<link>https://www.securityweek.com/adobe-patches-over-160-vulnerabilities-across-16-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 18:58:53 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40472</guid>
+
+					<description><![CDATA[<p>Adobe has patched over 160 vulnerabilities across over a dozen products, including Reader, Illustrator, Photoshop and Connect.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-over-160-vulnerabilities-across-16-products/">Adobe Patches Over 160 Vulnerabilities Across 16 Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wald.ai Raises $4M in Seed Funding to Protect Data in Conversations With AI Assistants</title>
+		<link>https://www.securityweek.com/wald-ai-raises-4m-in-seed-funding-to-protect-data-in-conversations-with-ai-assistants/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 16:07:18 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[Wald]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40471</guid>
+
+					<description><![CDATA[<p>Wald.ai has raised $4 million in seed funding for a solution designed to ensure data protection when organizations use AI assistants.</p>
+<p>The post <a href="https://www.securityweek.com/wald-ai-raises-4m-in-seed-funding-to-protect-data-in-conversations-with-ai-assistants/">Wald.ai Raises $4M in Seed Funding to Protect Data in Conversations With AI Assistants</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cleo File Transfer Tool Vulnerability Exploited in Wild Against Enterprises</title>
+		<link>https://www.securityweek.com/cleo-file-transfer-tool-vulnerability-exploited-in-wild-against-enterprises/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 14:46:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cleo]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[file transfer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40469</guid>
+
+					<description><![CDATA[<p>CVE-2024-50623, an improperly patched vulnerability affecting Cleo file transfer tools, has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/cleo-file-transfer-tool-vulnerability-exploited-in-wild-against-enterprises/">Cleo File Transfer Tool Vulnerability Exploited in Wild Against Enterprises</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical Vulnerability in NetWeaver</title>
+		<link>https://www.securityweek.com/sap-patches-critical-vulnerability-in-netweaver/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Dec 2024 13:50:33 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40468</guid>
+
+					<description><![CDATA[<p>SAP has released patches for 16 vulnerabilities, including a critical-severity SSRF bug in NetWeaver (Adobe Document Services).</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerability-in-netweaver/">SAP Patches Critical Vulnerability in NetWeaver</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
