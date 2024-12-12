@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 11 Dec 2024 12:09:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Dec 2024 12:15:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google&#8217;s Willow Chip Signals the Urgency of Post-Quantum Cryptography Migration</title>
-		<link>https://www.securityweek.com/googles-willow-chip-signals-the-urgency-of-post-quantum-cryptography-migration/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 12:09:18 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Post quantum cryptography]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Willow]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40480</guid>
-
-					<description><![CDATA[<p>Google’s Willow quantum chip marks a transformative moment in quantum computing development.</p>
-<p>The post <a href="https://www.securityweek.com/googles-willow-chip-signals-the-urgency-of-post-quantum-cryptography-migration/">Google&#8217;s Willow Chip Signals the Urgency of Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 12:09:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>446,000 Impacted by Center for Vein Restoration Data Breach</title>
-		<link>https://www.securityweek.com/446000-impacted-by-center-for-vein-restoration-data-breach/</link>
+		<title>27 DDoS Attack Services Taken Down by Law Enforcement</title>
+		<link>https://www.securityweek.com/27-ddos-attack-services-taken-down-by-law-enforcement/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 11:56:15 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40481</guid>
-
-					<description><![CDATA[<p>Center for Vein Restoration discloses data breach impacting the personal, medical, and financial information of 446,000 individuals.</p>
-<p>The post <a href="https://www.securityweek.com/446000-impacted-by-center-for-vein-restoration-data-breach/">446,000 Impacted by Center for Vein Restoration Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Security Advisories Released by Siemens, Schneider, CISA, Others</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-security-advisories-released-by-siemens-schneider-cisa-others/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 11:29:18 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40479</guid>
-
-					<description><![CDATA[<p>December 2024 ICS Patch Tuesday brings advisories from CISA, as well as several major industrial automation companies. </p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-security-advisories-released-by-siemens-schneider-cisa-others/">ICS Patch Tuesday: Security Advisories Released by Siemens, Schneider, CISA, Others</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti Patches Critical Flaws in Connect Secure, Cloud Services Application</title>
-		<link>https://www.securityweek.com/ivanti-patches-critical-flaws-in-connect-secure-cloud-services-application/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 11:15:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40478</guid>
-
-					<description><![CDATA[<p>Ivanti has released patches for critical vulnerabilities in Cloud Services Application, Connect Secure, and Policy Secure.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-flaws-in-connect-secure-cloud-services-application/">Ivanti Patches Critical Flaws in Connect Secure, Cloud Services Application</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Charges, Sanctions Chinese Man Accused of Sophos Firewall Hacking</title>
-		<link>https://www.securityweek.com/us-charges-sanctions-chinese-man-accused-of-sophos-firewall-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 10:45:00 +0000</pubDate>
+		<pubDate>Thu, 12 Dec 2024 12:15:00 +0000</pubDate>
 				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Guan Tianfeng]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<category><![CDATA[Sophos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40475</guid>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40498</guid>
 
-					<description><![CDATA[<p>The US government announced charges, sanctions and a reward for Guan Tianfeng, a Chinese national accused of involvement in Sophos firewall hacks.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-sanctions-chinese-man-accused-of-sophos-firewall-hacking/">US Charges, Sanctions Chinese Man Accused of Sophos Firewall Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Law enforcement agencies in 15 countries cooperated in taking down 27 websites selling DDoS-for-hire services.</p>
+<p>The post <a href="https://www.securityweek.com/27-ddos-attack-services-taken-down-by-law-enforcement/">27 DDoS Attack Services Taken Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 12:15:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Microsoft Ships Urgent Patch for Exploited Windows CLFS Zero-Day</title>
-		<link>https://www.securityweek.com/microsoft-ships-urgent-patch-for-exploited-windows-clfs-zero-day/</link>
+		<title>Cleo Patches Exploited Flaw as Security Firms Detail Malware Pushed in Attacks</title>
+		<link>https://www.securityweek.com/cleo-patches-exploited-flaw-as-security-firms-detail-malware-pushed-in-attacks/</link>
 		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 20:28:48 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 11:00:00 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2023-44487]]></category>
-		<category><![CDATA[CVE-2024-49112]]></category>
-		<category><![CDATA[CVE-2024-49138]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40474</guid>
-
-					<description><![CDATA[<p>Patch Tuesday: Redmond patches 71  security flaws and calls immediate attention to an exploited Windows zero-day reported by CrowdStrike.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-ships-urgent-patch-for-exploited-windows-clfs-zero-day/">Microsoft Ships Urgent Patch for Exploited Windows CLFS Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Over 160 Vulnerabilities Across 16 Products</title>
-		<link>https://www.securityweek.com/adobe-patches-over-160-vulnerabilities-across-16-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 18:58:53 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40472</guid>
-
-					<description><![CDATA[<p>Adobe has patched over 160 vulnerabilities across over a dozen products, including Reader, Illustrator, Photoshop and Connect.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-over-160-vulnerabilities-across-16-products/">Adobe Patches Over 160 Vulnerabilities Across 16 Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wald.ai Raises $4M in Seed Funding to Protect Data in Conversations With AI Assistants</title>
-		<link>https://www.securityweek.com/wald-ai-raises-4m-in-seed-funding-to-protect-data-in-conversations-with-ai-assistants/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 16:07:18 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[Wald]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40471</guid>
-
-					<description><![CDATA[<p>Wald.ai has raised $4 million in seed funding for a solution designed to ensure data protection when organizations use AI assistants.</p>
-<p>The post <a href="https://www.securityweek.com/wald-ai-raises-4m-in-seed-funding-to-protect-data-in-conversations-with-ai-assistants/">Wald.ai Raises $4M in Seed Funding to Protect Data in Conversations With AI Assistants</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cleo File Transfer Tool Vulnerability Exploited in Wild Against Enterprises</title>
-		<link>https://www.securityweek.com/cleo-file-transfer-tool-vulnerability-exploited-in-wild-against-enterprises/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 14:46:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Cleo]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[file transfer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40469</guid>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Termite]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40496</guid>
 
-					<description><![CDATA[<p>CVE-2024-50623, an improperly patched vulnerability affecting Cleo file transfer tools, has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/cleo-file-transfer-tool-vulnerability-exploited-in-wild-against-enterprises/">Cleo File Transfer Tool Vulnerability Exploited in Wild Against Enterprises</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cleo has released patches for the exploited vulnerability and security firms have detailed the malware delivered in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cleo-patches-exploited-flaw-as-security-firms-detail-malware-pushed-in-attacks/">Cleo Patches Exploited Flaw as Security Firms Detail Malware Pushed in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>SAP Patches Critical Vulnerability in NetWeaver</title>
-		<link>https://www.securityweek.com/sap-patches-critical-vulnerability-in-netweaver/</link>
+		<title>Hunk Companion, WP Query Console Vulnerabilities Chained to Hack WordPress Sites</title>
+		<link>https://www.securityweek.com/hunk-companion-wp-query-console-vulnerabilities-chained-to-hack-wordpress-sites/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Dec 2024 13:50:33 +0000</pubDate>
+		<pubDate>Thu, 12 Dec 2024 10:25:13 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40468</guid>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress plugin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40495</guid>
 
-					<description><![CDATA[<p>SAP has released patches for 16 vulnerabilities, including a critical-severity SSRF bug in NetWeaver (Adobe Document Services).</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerability-in-netweaver/">SAP Patches Critical Vulnerability in NetWeaver</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Two vulnerabilities in the Hunk Companion and WP Query Console WordPress plugins allow attackers to backdoor websites.</p>
+<p>The post <a href="https://www.securityweek.com/hunk-companion-wp-query-console-vulnerabilities-chained-to-hack-wordpress-sites/">Hunk Companion, WP Query Console Vulnerabilities Chained to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Pushes Major iOS, macOS Security Updates</title>
+		<link>https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 19:51:34 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iOS 18.2]]></category>
+		<category><![CDATA[macOS Sequioa]]></category>
+		<category><![CDATA[tvOS]]></category>
+		<category><![CDATA[visionOS]]></category>
+		<category><![CDATA[watchOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40493</guid>
+
+					<description><![CDATA[<p>Cupertino ships iOS 18.2 and macOS Sequoia 15.2 patches to fix data leakage, sandbox escapes and code exection vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/">Apple Pushes Major iOS, macOS Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No Doughnuts Today? Cyberattack Puts Krispy Kreme in a Sticky Situation</title>
+		<link>https://www.securityweek.com/no-doughnuts-today-cyberattack-puts-krispy-kreme-in-a-sticky-situation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 18:22:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Krispy Kreme]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40492</guid>
+
+					<description><![CDATA[<p>The doughnut and coffeehouse chain confirmed a cyberattack took out parts of its online ordering system in parts of the United States.</p>
+<p>The post <a href="https://www.securityweek.com/no-doughnuts-today-cyberattack-puts-krispy-kreme-in-a-sticky-situation/">No Doughnuts Today? Cyberattack Puts Krispy Kreme in a Sticky Situation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BadRAM Attack Uses $10 Equipment to Break AMD Processor Protections</title>
+		<link>https://www.securityweek.com/badram-attack-uses-10-equipment-to-break-amd-processor-protections/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 15:57:25 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[BadRAM]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40491</guid>
+
+					<description><![CDATA[<p>Academic researchers devise BadRAM, a new attack that uses $10 equipment to break AMD’s latest trusted execution environment protections.</p>
+<p>The post <a href="https://www.securityweek.com/badram-attack-uses-10-equipment-to-break-amd-processor-protections/">BadRAM Attack Uses $10 Equipment to Break AMD Processor Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Pays $55,000 for High-Severity Chrome Browser Bug</title>
+		<link>https://www.securityweek.com/google-pays-55000-for-high-severity-chrome-browser-bug/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 15:13:53 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2024-12053]]></category>
+		<category><![CDATA[CVE-2024-12381]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[memory safety]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40490</guid>
+
+					<description><![CDATA[<p>Google pushes out major Chrome browser updates to fix multiple serious security defects.</p>
+<p>The post <a href="https://www.securityweek.com/google-pays-55000-for-high-severity-chrome-browser-bug/">Google Pays $55,000 for High-Severity Chrome Browser Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Now on Demand: Inside a Hacker’s Playbook &#8211; How Cybercriminals Use Deepfakes</title>
+		<link>https://www.securityweek.com/webinar-today-inside-a-hackers-playbook-how-cybercriminals-use-deepfakes/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 14:27:15 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40461</guid>
+
+					<description><![CDATA[<p>This eye-opening session that pulls back the curtain on how bad actors exploit social engineering tactics, like deepfake technology and Business Email Compromise (BEC).</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-inside-a-hackers-playbook-how-cybercriminals-use-deepfakes/">Now on Demand: Inside a Hacker’s Playbook &#8211; How Cybercriminals Use Deepfakes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian, Splunk Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/atlassian-splunk-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40487</guid>
+
+					<description><![CDATA[<p>Atlassian and Splunk on Tuesday announced patches for over two dozen vulnerabilities, including high-severity flaws.</p>
+<p>The post <a href="https://www.securityweek.com/atlassian-splunk-patch-high-severity-vulnerabilities/">Atlassian, Splunk Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cleo Vulnerability Exploitation Linked to Termite Ransomware Group</title>
+		<link>https://www.securityweek.com/cleo-vulnerability-exploitation-linked-to-termite-ransomware-group/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Dec 2024 12:35:54 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cleo]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Termite]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40486</guid>
+
+					<description><![CDATA[<p>Exploitation of a vulnerability affecting Cleo file transfer tools has been linked to the new Termite ransomware group.</p>
+<p>The post <a href="https://www.securityweek.com/cleo-vulnerability-exploitation-linked-to-termite-ransomware-group/">Cleo Vulnerability Exploitation Linked to Termite Ransomware Group</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
