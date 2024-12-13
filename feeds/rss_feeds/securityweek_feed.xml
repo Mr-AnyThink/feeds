@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 12 Dec 2024 12:15:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Dec 2024 11:56:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>27 DDoS Attack Services Taken Down by Law Enforcement</title>
-		<link>https://www.securityweek.com/27-ddos-attack-services-taken-down-by-law-enforcement/</link>
+		<title>Rydox Cybercrime Marketplace Disrupted, Administrators Arrested</title>
+		<link>https://www.securityweek.com/rydox-cybercrime-marketplace-disrupted-administrators-arrested/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 12:15:00 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[DDoS]]></category>
+		<pubDate>Fri, 13 Dec 2024 11:56:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
 		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Rydox]]></category>
 		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40498</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40517</guid>
 
-					<description><![CDATA[<p>Law enforcement agencies in 15 countries cooperated in taking down 27 websites selling DDoS-for-hire services.</p>
-<p>The post <a href="https://www.securityweek.com/27-ddos-attack-services-taken-down-by-law-enforcement/">27 DDoS Attack Services Taken Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The US announced the takedown of Rydox, a marketplace for stolen personal information, and the arrest of three administrators.</p>
+<p>The post <a href="https://www.securityweek.com/rydox-cybercrime-marketplace-disrupted-administrators-arrested/">Rydox Cybercrime Marketplace Disrupted, Administrators Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 12:15:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 11:56:18 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Cleo Patches Exploited Flaw as Security Firms Detail Malware Pushed in Attacks</title>
-		<link>https://www.securityweek.com/cleo-patches-exploited-flaw-as-security-firms-detail-malware-pushed-in-attacks/</link>
+		<title>Microsoft Patches Vulnerabilities in Windows Defender, Update Catalog </title>
+		<link>https://www.securityweek.com/microsoft-patches-vulnerabilities-in-windows-defender-update-catalog/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Termite]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40496</guid>
+		<pubDate>Fri, 13 Dec 2024 11:40:42 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows Defender]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40516</guid>
 
-					<description><![CDATA[<p>Cleo has released patches for the exploited vulnerability and security firms have detailed the malware delivered in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cleo-patches-exploited-flaw-as-security-firms-detail-malware-pushed-in-attacks/">Cleo Patches Exploited Flaw as Security Firms Detail Malware Pushed in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft has patched potentially critical vulnerabilities in Update Catalog and Windows Defender on the server side. </p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-vulnerabilities-in-windows-defender-update-catalog/">Microsoft Patches Vulnerabilities in Windows Defender, Update Catalog </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hunk Companion, WP Query Console Vulnerabilities Chained to Hack WordPress Sites</title>
-		<link>https://www.securityweek.com/hunk-companion-wp-query-console-vulnerabilities-chained-to-hack-wordpress-sites/</link>
+		<title>Germany Sinkholes Botnet of 30,000 BadBox-Infected Devices</title>
+		<link>https://www.securityweek.com/germany-sinkholes-botnet-of-30000-badbox-infected-devices/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 10:25:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40495</guid>
+		<pubDate>Fri, 13 Dec 2024 11:24:53 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[BadBox]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[sinkhole]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40515</guid>
 
-					<description><![CDATA[<p>Two vulnerabilities in the Hunk Companion and WP Query Console WordPress plugins allow attackers to backdoor websites.</p>
-<p>The post <a href="https://www.securityweek.com/hunk-companion-wp-query-console-vulnerabilities-chained-to-hack-wordpress-sites/">Hunk Companion, WP Query Console Vulnerabilities Chained to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Germany’s cybersecurity agency BSI has sinkholed a botnet of 30,000 devices shipped with BadBox malware pre-installed.</p>
+<p>The post <a href="https://www.securityweek.com/germany-sinkholes-botnet-of-30000-badbox-infected-devices/">Germany Sinkholes Botnet of 30,000 BadBox-Infected Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Apple Pushes Major iOS, macOS Security Updates</title>
-		<link>https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/</link>
+		<title>Iranian Hackers Use IOCONTROL Malware to Target OT, IoT Devices in US, Israel</title>
+		<link>https://www.securityweek.com/iranian-hackers-use-iocontrol-malware-to-target-ot-iot-devices-in-us-israel/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cyber Av3ngers]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS malware]]></category>
+		<category><![CDATA[IOCONTROL]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40513</guid>
+
+					<description><![CDATA[<p>The Iranian threat group CyberAv3ngers has used custom-built malware named IOCONTROL to target IoT and OT devices in the US and Israel.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-hackers-use-iocontrol-malware-to-target-ot-iot-devices-in-us-israel/">Iranian Hackers Use IOCONTROL Malware to Target OT, IoT Devices in US, Israel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fake IT Workers Funneled Millions to North Korea, DOJ Says</title>
+		<link>https://www.securityweek.com/fake-it-workers-funneled-millions-to-north-korea-doj-says/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 19:51:34 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS 18.2]]></category>
-		<category><![CDATA[macOS Sequioa]]></category>
-		<category><![CDATA[tvOS]]></category>
-		<category><![CDATA[visionOS]]></category>
-		<category><![CDATA[watchOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40493</guid>
+		<pubDate>Thu, 12 Dec 2024 19:42:13 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[DPRK]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Justice Department]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40509</guid>
 
-					<description><![CDATA[<p>Cupertino ships iOS 18.2 and macOS Sequoia 15.2 patches to fix data leakage, sandbox escapes and code exection vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/apple-pushes-major-ios-macos-security-updates/">Apple Pushes Major iOS, macOS Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Justice Department announced indictments against 14 North Koreans for involvement in a scheme to pose as remote IT workers to violate sanctions and commit wire fraud, money laundering, and identity theft.</p>
+<p>The post <a href="https://www.securityweek.com/fake-it-workers-funneled-millions-to-north-korea-doj-says/">Fake IT Workers Funneled Millions to North Korea, DOJ Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>No Doughnuts Today? Cyberattack Puts Krispy Kreme in a Sticky Situation</title>
-		<link>https://www.securityweek.com/no-doughnuts-today-cyberattack-puts-krispy-kreme-in-a-sticky-situation/</link>
+		<title>Phishing: The Silent Precursor to Data Breaches</title>
+		<link>https://www.securityweek.com/phishing-the-silent-precursor-to-data-breaches/</link>
+		
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 19:18:19 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40504</guid>
+
+					<description><![CDATA[<p>Phishing is more than a mere nuisance—it is a formidable precursor to destructive data breaches.</p>
+<p>The post <a href="https://www.securityweek.com/phishing-the-silent-precursor-to-data-breaches/">Phishing: The Silent Precursor to Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silent Push Raises $10 Million for Preemptive Threat Intelligence Platform</title>
+		<link>https://www.securityweek.com/silent-push-raises-10-million-for-preemptive-threat-intelligence-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 15:46:55 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[Silent Push]]></category>
+		<category><![CDATA[Ten Eleven Ventures]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40508</guid>
+
+					<description><![CDATA[<p>Threat intel startup Silent Push has raised $10 million in a funding round co-led by Ten Eleven Ventures and Stepstone Group LP.</p>
+<p>The post <a href="https://www.securityweek.com/silent-push-raises-10-million-for-preemptive-threat-intelligence-platform/">Silent Push Raises $10 Million for Preemptive Threat Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sublime Snags $60M Series B for Email Security Tech</title>
+		<link>https://www.securityweek.com/sublime-snags-60m-series-b-for-email-security-tech/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 18:22:10 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Krispy Kreme]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40492</guid>
+		<pubDate>Thu, 12 Dec 2024 15:22:13 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[email authentication]]></category>
+		<category><![CDATA[Series B]]></category>
+		<category><![CDATA[Sublime Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40507</guid>
 
-					<description><![CDATA[<p>The doughnut and coffeehouse chain confirmed a cyberattack took out parts of its online ordering system in parts of the United States.</p>
-<p>The post <a href="https://www.securityweek.com/no-doughnuts-today-cyberattack-puts-krispy-kreme-in-a-sticky-situation/">No Doughnuts Today? Cyberattack Puts Krispy Kreme in a Sticky Situation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sublime said the new capital was provided by IVP, Citi Ventures, Index Ventures, Decibel Partners, and Slow Ventures and brings the total raised to $93.8 million.</p>
+<p>The post <a href="https://www.securityweek.com/sublime-snags-60m-series-b-for-email-security-tech/">Sublime Snags $60M Series B for Email Security Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>BadRAM Attack Uses $10 Equipment to Break AMD Processor Protections</title>
-		<link>https://www.securityweek.com/badram-attack-uses-10-equipment-to-break-amd-processor-protections/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:57:25 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[BadRAM]]></category>
-		<category><![CDATA[CPU]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40491</guid>
-
-					<description><![CDATA[<p>Academic researchers devise BadRAM, a new attack that uses $10 equipment to break AMD’s latest trusted execution environment protections.</p>
-<p>The post <a href="https://www.securityweek.com/badram-attack-uses-10-equipment-to-break-amd-processor-protections/">BadRAM Attack Uses $10 Equipment to Break AMD Processor Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Pays $55,000 for High-Severity Chrome Browser Bug</title>
-		<link>https://www.securityweek.com/google-pays-55000-for-high-severity-chrome-browser-bug/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 15:13:53 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2024-12053]]></category>
-		<category><![CDATA[CVE-2024-12381]]></category>
-		<category><![CDATA[Google Chrome]]></category>
-		<category><![CDATA[memory safety]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40490</guid>
-
-					<description><![CDATA[<p>Google pushes out major Chrome browser updates to fix multiple serious security defects.</p>
-<p>The post <a href="https://www.securityweek.com/google-pays-55000-for-high-severity-chrome-browser-bug/">Google Pays $55,000 for High-Severity Chrome Browser Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Now on Demand: Inside a Hacker’s Playbook &#8211; How Cybercriminals Use Deepfakes</title>
-		<link>https://www.securityweek.com/webinar-today-inside-a-hackers-playbook-how-cybercriminals-use-deepfakes/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 14:27:15 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40461</guid>
-
-					<description><![CDATA[<p>This eye-opening session that pulls back the curtain on how bad actors exploit social engineering tactics, like deepfake technology and Business Email Compromise (BEC).</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-inside-a-hackers-playbook-how-cybercriminals-use-deepfakes/">Now on Demand: Inside a Hacker’s Playbook &#8211; How Cybercriminals Use Deepfakes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlassian, Splunk Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/atlassian-splunk-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 13:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40487</guid>
-
-					<description><![CDATA[<p>Atlassian and Splunk on Tuesday announced patches for over two dozen vulnerabilities, including high-severity flaws.</p>
-<p>The post <a href="https://www.securityweek.com/atlassian-splunk-patch-high-severity-vulnerabilities/">Atlassian, Splunk Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cleo Vulnerability Exploitation Linked to Termite Ransomware Group</title>
-		<link>https://www.securityweek.com/cleo-vulnerability-exploitation-linked-to-termite-ransomware-group/</link>
+		<title>Fortinet Acquires Perception Point Reportedly for $100 Million</title>
+		<link>https://www.securityweek.com/fortinet-acquires-perception-point-reportedly-for-100-million/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 12:35:54 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Termite]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40486</guid>
+		<pubDate>Thu, 12 Dec 2024 15:06:24 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Perception Point]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40505</guid>
 
-					<description><![CDATA[<p>Exploitation of a vulnerability affecting Cleo file transfer tools has been linked to the new Termite ransomware group.</p>
-<p>The post <a href="https://www.securityweek.com/cleo-vulnerability-exploitation-linked-to-termite-ransomware-group/">Cleo Vulnerability Exploitation Linked to Termite Ransomware Group</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Fortinet has acquired Israeli collaboration and email security company Perception Point to expand its offering.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-acquires-perception-point-reportedly-for-100-million/">Fortinet Acquires Perception Point Reportedly for $100 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Ghost of Christmas Past – AI’s Past, Present and Future</title>
+		<link>https://www.securityweek.com/the-ghost-of-christmas-past-ais-past-present-and-future/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Thu, 12 Dec 2024 14:38:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40503</guid>
+
+					<description><![CDATA[<p>The potential for how AI may change the way we work is endless, but we are still a way off from this and careful planning and consideration is what is needed. </p>
+<p>The post <a href="https://www.securityweek.com/the-ghost-of-christmas-past-ais-past-present-and-future/">The Ghost of Christmas Past – AI’s Past, Present and Future</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
