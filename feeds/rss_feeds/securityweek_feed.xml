@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Dec 2024 11:56:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Dec 2024 15:46:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,81 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical Vulnerabilities Found in Ruijie Reyee Cloud Management Platform</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-found-in-ruijie-reyee-cloud-management-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 15:46:15 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Claroty]]></category>
+		<category><![CDATA[CVE-2024-47547]]></category>
+		<category><![CDATA[CVE-2024-48874]]></category>
+		<category><![CDATA[CVE-2024-52324]]></category>
+		<category><![CDATA[Ruijie Reyee]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40524</guid>
+
+					<description><![CDATA[<p>Researchers warn about critical vulnerabilities in Ruijie Networks’ Reyee cloud management platform and Reyee OS network devices.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-found-in-ruijie-reyee-cloud-management-platform/">Critical Vulnerabilities Found in Ruijie Reyee Cloud Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 07:14:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>US Updates a Science and Technology Pact With China to Reflect Growing Rivalry and Security Threats</title>
+		<link>https://www.securityweek.com/us-updates-a-science-and-technology-pact-with-china-to-reflect-growing-rivalry-and-security-threats/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 15:37:40 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40521</guid>
+
+					<description><![CDATA[<p>The new agreement has a narrower scope and additional safeguards to minimize the risk to national security.</p>
+<p>The post <a href="https://www.securityweek.com/us-updates-a-science-and-technology-pact-with-china-to-reflect-growing-rivalry-and-security-threats/">US Updates a Science and Technology Pact With China to Reflect Growing Rivalry and Security Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Gen Digital Makes $1B Buy, Recall Captures Sensitive Data, MITRE ATT&#038;CK Evaluations</title>
+		<link>https://www.securityweek.com/in-other-news-gen-digital-makes-1b-buy-recall-captures-sensitive-data-mitre-attck-evaluations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 13:36:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40519</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: AV brand owner Gen Digital makes a $1 billion acquisition, Microsoft Recall captures sensitive data, MITRE releases ATT&#038;CK evaluations.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-gen-digital-makes-1b-buy-recall-captures-sensitive-data-mitre-attck-evaluations/">In Other News: Gen Digital Makes $1B Buy, Recall Captures Sensitive Data, MITRE ATT&#038;CK Evaluations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Possibly Stole Personal Data From Bitcoin ATM Operator Byte Federal</title>
+		<link>https://www.securityweek.com/hackers-possibly-stole-personal-data-from-bitcoin-atm-operator-byte-federal/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 13:19:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Byte Federal]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40518</guid>
+
+					<description><![CDATA[<p>Byte Federal says the personal information of 58,000 was compromised after a GitLab flaw allowed attackers to access a server.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-possibly-stole-personal-data-from-bitcoin-atm-operator-byte-federal/">Hackers Possibly Stole Personal Data From Bitcoin ATM Operator Byte Federal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rydox Cybercrime Marketplace Disrupted, Administrators Arrested</title>
 		<link>https://www.securityweek.com/rydox-cybercrime-marketplace-disrupted-administrators-arrested/</link>
 		
@@ -48,7 +123,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 9, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-09-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-09-2024/</guid><pubDate>Mon, 09 Dec 2024 11:56:18 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 9, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Microsoft Patches Vulnerabilities in Windows Defender, Update Catalog </title>
 		<link>https://www.securityweek.com/microsoft-patches-vulnerabilities-in-windows-defender-update-catalog/</link>
@@ -148,84 +223,6 @@
 
 					<description><![CDATA[<p>Phishing is more than a mere nuisance—it is a formidable precursor to destructive data breaches.</p>
 <p>The post <a href="https://www.securityweek.com/phishing-the-silent-precursor-to-data-breaches/">Phishing: The Silent Precursor to Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Silent Push Raises $10 Million for Preemptive Threat Intelligence Platform</title>
-		<link>https://www.securityweek.com/silent-push-raises-10-million-for-preemptive-threat-intelligence-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 15:46:55 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[Silent Push]]></category>
-		<category><![CDATA[Ten Eleven Ventures]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40508</guid>
-
-					<description><![CDATA[<p>Threat intel startup Silent Push has raised $10 million in a funding round co-led by Ten Eleven Ventures and Stepstone Group LP.</p>
-<p>The post <a href="https://www.securityweek.com/silent-push-raises-10-million-for-preemptive-threat-intelligence-platform/">Silent Push Raises $10 Million for Preemptive Threat Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sublime Snags $60M Series B for Email Security Tech</title>
-		<link>https://www.securityweek.com/sublime-snags-60m-series-b-for-email-security-tech/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 15:22:13 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[email authentication]]></category>
-		<category><![CDATA[Series B]]></category>
-		<category><![CDATA[Sublime Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40507</guid>
-
-					<description><![CDATA[<p>Sublime said the new capital was provided by IVP, Citi Ventures, Index Ventures, Decibel Partners, and Slow Ventures and brings the total raised to $93.8 million.</p>
-<p>The post <a href="https://www.securityweek.com/sublime-snags-60m-series-b-for-email-security-tech/">Sublime Snags $60M Series B for Email Security Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Acquires Perception Point Reportedly for $100 Million</title>
-		<link>https://www.securityweek.com/fortinet-acquires-perception-point-reportedly-for-100-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 15:06:24 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Perception Point]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40505</guid>
-
-					<description><![CDATA[<p>Fortinet has acquired Israeli collaboration and email security company Perception Point to expand its offering.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-acquires-perception-point-reportedly-for-100-million/">Fortinet Acquires Perception Point Reportedly for $100 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Ghost of Christmas Past – AI’s Past, Present and Future</title>
-		<link>https://www.securityweek.com/the-ghost-of-christmas-past-ais-past-present-and-future/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Thu, 12 Dec 2024 14:38:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40503</guid>
-
-					<description><![CDATA[<p>The potential for how AI may change the way we work is endless, but we are still a way off from this and careful planning and consideration is what is needed. </p>
-<p>The post <a href="https://www.securityweek.com/the-ghost-of-christmas-past-ais-past-present-and-future/">The Ghost of Christmas Past – AI’s Past, Present and Future</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
