@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 17 Dec 2024 09:42:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Dec 2024 11:36:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,203 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>FBI Warns of HiatusRAT Attacks on Cameras, DVR Systems</title>
-		<link>https://www.securityweek.com/fbi-warns-of-hiatusrat-attacks-on-cameras-dvr-systems/</link>
+		<title>CISA Issues Binding Operational Directive for Improved Cloud Security</title>
+		<link>https://www.securityweek.com/cisa-issues-binding-operational-directive-for-improved-cloud-security/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 12:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[camera]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[HiatusRAT]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40548</guid>
+		<pubDate>Wed, 18 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[BOD]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40565</guid>
 
-					<description><![CDATA[<p>FBI says HiatusRAT’s operators were seen scanning for web cameras and DVR systems affected by years-old vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-warns-of-hiatusrat-attacks-on-cameras-dvr-systems/">FBI Warns of HiatusRAT Attacks on Cameras, DVR Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA’s Binding Operational Directive 25-01 requires federal agencies to align cloud environments with SCuBA secure configuration baselines.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-issues-binding-operational-directive-for-improved-cloud-security/">CISA Issues Binding Operational Directive for Improved Cloud Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 12:00:02 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 12:00:04 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Texas Tech University Data Breach Impacts 1.4 Million People</title>
-		<link>https://www.securityweek.com/texas-tech-university-data-breach-impacts-1-4-million-people/</link>
+		<title>BeyondTrust Patches Critical Vulnerability Discovered During Security Incident Probe</title>
+		<link>https://www.securityweek.com/beyondtrust-patches-critical-vulnerability-discovered-during-security-incident-probe/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 11:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Texas Tech University]]></category>
-		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40547</guid>
+		<pubDate>Wed, 18 Dec 2024 11:20:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40563</guid>
 
-					<description><![CDATA[<p>Texas Tech University says the personal, health, and financial information of 1.4 million was stolen from its health sciences centers.</p>
-<p>The post <a href="https://www.securityweek.com/texas-tech-university-data-breach-impacts-1-4-million-people/">Texas Tech University Data Breach Impacts 1.4 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A critical vulnerability in BeyondTrust Privileged Remote Access and Remote Support could lead to arbitrary command execution.</p>
+<p>The post <a href="https://www.securityweek.com/beyondtrust-patches-critical-vulnerability-discovered-during-security-incident-probe/">BeyondTrust Patches Critical Vulnerability Discovered During Security Incident Probe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA Warns of Exploited Adobe ColdFusion, Windows Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-adobe-coldfusion-windows-vulnerabilities/</link>
+		<title>AI Regulation Gets Serious in 2025 &#8211; Is Your Organization Ready?</title>
+		<link>https://www.securityweek.com/ai-regulation-gets-serious-in-2025-is-your-organization-ready/</link>
+		
+		<dc:creator><![CDATA[Alastair Paterson]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Regulations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40558</guid>
+
+					<description><![CDATA[<p>While the challenges are significant, organizations have an opportunity to build scalable AI governance frameworks that ensure compliance while enabling responsible AI innovation.</p>
+<p>The post <a href="https://www.securityweek.com/ai-regulation-gets-serious-in-2025-is-your-organization-ready/">AI Regulation Gets Serious in 2025 &#8211; Is Your Organization Ready?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of Recent Critical Apache Struts 2 Flaw Begins</title>
+		<link>https://www.securityweek.com/exploitation-of-recent-critical-apache-struts-2-flaw-begins/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apache]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Struts]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40562</guid>
+
+					<description><![CDATA[<p>Researchers warn of malicious attacks exploiting a recently patched critical vulnerability in Apache Struts 2 leading to remote code execution (RCE).</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-recent-critical-apache-struts-2-flaw-begins/">Exploitation of Recent Critical Apache Struts 2 Flaw Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Leaks Cisco Data</title>
+		<link>https://www.securityweek.com/hacker-leaks-cisco-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[ColdFusion]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Wed, 18 Dec 2024 09:27:45 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40545</guid>
+		<category><![CDATA[IntelBroker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40561</guid>
 
-					<description><![CDATA[<p>CISA has warned organizations that two vulnerabilities affecting Adobe ColdFusion and Windows have been exploited in the wild. </p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-adobe-coldfusion-windows-vulnerabilities/">CISA Warns of Exploited Adobe ColdFusion, Windows Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>IntelBroker has leaked 2.9 Gb of data stolen recently from a Cisco DevHub instance, but claims it’s only a fraction of the total. </p>
+<p>The post <a href="https://www.securityweek.com/hacker-leaks-cisco-data/">Hacker Leaks Cisco Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Webinar Tomorrow: Navigating your OT Cybersecurity Journey: From Assessment to Implementation</title>
+		<title>Facebook Owner Hit With 251 Million Euros in Fines for 2018 Data Breach</title>
+		<link>https://www.securityweek.com/facebook-owner-hit-with-251-million-euros-in-fines-for-2018-data-breach/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 23:49:05 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40557</guid>
+
+					<description><![CDATA[<p>EU privacy watchdogs hit Facebook owner Meta with fines totaling 251 million euros after an investigation into a 2018 data breach that exposed millions of accounts.</p>
+<p>The post <a href="https://www.securityweek.com/facebook-owner-hit-with-251-million-euros-in-fines-for-2018-data-breach/">Facebook Owner Hit With 251 Million Euros in Fines for 2018 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Seeking Public Comment on Updated National Cyber Incident Response Plan</title>
+		<link>https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 14:36:14 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[NCIRP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40556</guid>
+
+					<description><![CDATA[<p>CISA has updated its National Cyber Incident Response Plan in line with the changing threat landscape and is now seeking public comment.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/">CISA Seeking Public Comment on Updated National Cyber Incident Response Plan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</title>
 		<link>https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 18:32:48 +0000</pubDate>
+		<pubDate>Tue, 17 Dec 2024 14:16:04 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=40540</guid>
 
 					<description><![CDATA[<p>Learn how to develop a holistic solution that provides you and your team the power to mitigate cyber threats effectively within your OT environment.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/">Webinar Tomorrow: Navigating your OT Cybersecurity Journey: From Assessment to Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/">Webinar Today: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Android Zero-Day Exploited in Spyware Campaigns, Amnesty International Points to Cellebrite</title>
-		<link>https://www.securityweek.com/android-zero-day-exploited-in-serbian-spyware-campaigns-amnesty-international-points-to-cellebrite/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 17:59:21 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Amnesty International]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Cellebrite]]></category>
-		<category><![CDATA[Novispy]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40543</guid>
-
-					<description><![CDATA[<p>Israeli forensics firm Cellebrite has been linked to an Android zero-day used to secretly install spyware on Serbian journalists' phones.</p>
-<p>The post <a href="https://www.securityweek.com/android-zero-day-exploited-in-serbian-spyware-campaigns-amnesty-international-points-to-cellebrite/">Android Zero-Day Exploited in Spyware Campaigns, Amnesty International Points to Cellebrite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Arctic Wolf Buys Cylance for $160M Plus Stock From BlackBerry, Which Bought It for $1.4B</title>
-		<link>https://www.securityweek.com/blackberry-sells-cylance-to-arctic-wolf-for-160-million-after-buying-it-for-1-4-billion/</link>
+		<title>Man Accused of SQL Injection Hacking Gets 69-Month Prison Sentence </title>
+		<link>https://www.securityweek.com/man-accused-of-sql-injection-hacking-gets-69-month-prison-sentence/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 15:42:01 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Arctic Wolf]]></category>
-		<category><![CDATA[BlackBerry]]></category>
-		<category><![CDATA[Cylance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40539</guid>
+		<pubDate>Tue, 17 Dec 2024 13:45:50 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[SQL injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40555</guid>
 
-					<description><![CDATA[<p>Security operations firm Arctic Wolf has acquired Cylance from BlackBerry for $160 million in cash and 5.5 million common shares.</p>
-<p>The post <a href="https://www.securityweek.com/blackberry-sells-cylance-to-arctic-wolf-for-160-million-after-buying-it-for-1-4-billion/">Arctic Wolf Buys Cylance for $160M Plus Stock From BlackBerry, Which Bought It for $1.4B</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Vitalii Antonenko has been sentenced to 69 months in prison for hacking, but he is being released as he has been detained since 2019.</p>
+<p>The post <a href="https://www.securityweek.com/man-accused-of-sql-injection-hacking-gets-69-month-prison-sentence/">Man Accused of SQL Injection Hacking Gets 69-Month Prison Sentence </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Citrix Warns of Password Spraying Attacks Targeting NetScaler Appliances</title>
-		<link>https://www.securityweek.com/citrix-warns-of-password-spraying-attacks-targeting-netscaler-appliances/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 14:53:30 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[MFA]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[password spray]]></category>
-		<category><![CDATA[router]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40538</guid>
-
-					<description><![CDATA[<p>Citrix issues warning on password spraying attacks targeting NetScaler and NetScaler Gateway appliances deployed by organizations worldwide.</p>
-<p>The post <a href="https://www.securityweek.com/citrix-warns-of-password-spraying-attacks-targeting-netscaler-appliances/">Citrix Warns of Password Spraying Attacks Targeting NetScaler Appliances</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Undocumented DrayTek Vulnerabilities Exploited to Hack Hundreds of Orgs</title>
-		<link>https://www.securityweek.com/undocumented-draytek-vulnerabilities-exploited-to-hack-hundreds-of-orgs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 14:17:18 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DrayTek]]></category>
-		<category><![CDATA[Forescout]]></category>
-		<category><![CDATA[Monstrous Mantis]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40536</guid>
-
-					<description><![CDATA[<p>Undocumented vulnerabilities in DrayTek devices were exploited in ransomware campaigns that compromised over 300 organizations.</p>
-<p>The post <a href="https://www.securityweek.com/undocumented-draytek-vulnerabilities-exploited-to-hack-hundreds-of-orgs/">Undocumented DrayTek Vulnerabilities Exploited to Hack Hundreds of Orgs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Major Auto Parts Firm LKQ Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/major-auto-parts-firm-lkq-hit-by-cyberattack/</link>
+		<title>Organizations Warned of Rise in Okta Support Phishing Attacks</title>
+		<link>https://www.securityweek.com/organizations-warned-of-rise-in-okta-support-phishing-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 13:52:03 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[LKQ]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40533</guid>
+		<pubDate>Tue, 17 Dec 2024 12:58:59 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Okta]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40554</guid>
 
-					<description><![CDATA[<p>LKQ, a major provider of auto parts, told the SEC that a recent cyberattack caused disruptions at a Canadian business unit.</p>
-<p>The post <a href="https://www.securityweek.com/major-auto-parts-firm-lkq-hit-by-cyberattack/">Major Auto Parts Firm LKQ Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SRP Federal Credit Union Ransomware Attack Impacts 240,000</title>
-		<link>https://www.securityweek.com/srp-federal-credit-union-ransomware-attack-impacts-240000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Dec 2024 13:28:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40531</guid>
-
-					<description><![CDATA[<p>SRP Federal Credit Union says the personal information of 240,000 was stolen in a recent cyberattack claimed by a ransomware gang.</p>
-<p>The post <a href="https://www.securityweek.com/srp-federal-credit-union-ransomware-attack-impacts-240000/">SRP Federal Credit Union Ransomware Attack Impacts 240,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Okta has warned customers that it has seen an increase in phishing attacks impersonating its support team.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-rise-in-okta-support-phishing-attacks/">Organizations Warned of Rise in Okta Support Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
