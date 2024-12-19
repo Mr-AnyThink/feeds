@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 18 Dec 2024 11:36:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Dec 2024 12:03:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,160 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fortinet Patches Critical FortiWLM Vulnerability</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-fortiwlm-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 12:03:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40575</guid>
+
+					<description><![CDATA[<p>Fortinet has released patches for a critical-severity path traversal vulnerability in FortiWLM that was reported last year.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-fortiwlm-vulnerability/">Fortinet Patches Critical FortiWLM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 12:03:08 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>SandboxAQ Raises $300 Million at $5.3 Billion Valuation </title>
+		<link>https://www.securityweek.com/sandboxaq-raises-300-million-at-5-3-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 11:45:10 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[SandboxAQ]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40574</guid>
+
+					<description><![CDATA[<p>Alphabet spinoff SandboxAQ has announced raising $300 million in funding at a valuation of $5.3 billion.</p>
+<p>The post <a href="https://www.securityweek.com/sandboxaq-raises-300-million-at-5-3-billion-valuation/">SandboxAQ Raises $300 Million at $5.3 Billion Valuation </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 131 Update Patches High-Severity Memory Safety Bugs</title>
+		<link>https://www.securityweek.com/chrome-131-update-patches-high-severity-memory-safety-bugs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 11:31:49 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40573</guid>
+
+					<description><![CDATA[<p>Google has released a Chrome 131 update to patch multiple high-severity memory safety vulnerabilities, including three affecting the V8 JavaScript engine.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-131-update-patches-high-severity-memory-safety-bugs/">Chrome 131 Update Patches High-Severity Memory Safety Bugs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Juniper Warns of Mirai Botnet Targeting Session Smart Routers</title>
+		<link>https://www.securityweek.com/juniper-warns-of-mirai-botnet-targeting-session-smart-routers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 10:43:32 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Juniper]]></category>
+		<category><![CDATA[Mirai]]></category>
+		<category><![CDATA[password]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40572</guid>
+
+					<description><![CDATA[<p>Juniper Networks says a Mirai botnet is ensnaring session smart router devices that are using default passwords.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-warns-of-mirai-botnet-targeting-session-smart-routers/">Juniper Warns of Mirai Botnet Targeting Session Smart Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bureau Raises $30M to Tackle Deepfakes, Payment Fraud</title>
+		<link>https://www.securityweek.com/bureau-raises-30m-to-tackle-deepfakes-payment-fraud/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 16:32:55 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Bureau]]></category>
+		<category><![CDATA[Deepfake]]></category>
+		<category><![CDATA[payment fraud]]></category>
+		<category><![CDATA[Series B]]></category>
+		<category><![CDATA[Sorenson Ventures]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40569</guid>
+
+					<description><![CDATA[<p>San Francisco startup scores a Series B round to thwart money mule accounts, deep-fake identities, account takeovers and payment fraud.</p>
+<p>The post <a href="https://www.securityweek.com/bureau-raises-30m-to-tackle-deepfakes-payment-fraud/">Bureau Raises $30M to Tackle Deepfakes, Payment Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recorded Future Tagged as ‘Undesirable’ in Russia</title>
+		<link>https://www.securityweek.com/recorded-future-tagged-as-undesirable-in-russia/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 15:02:14 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[Mastercard]]></category>
+		<category><![CDATA[Recorded Future]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40567</guid>
+
+					<description><![CDATA[<p>The Russian government accuses the US threat-intel firm of participating in the collection and analysis of data on the actions of the Russia's armed forces. </p>
+<p>The post <a href="https://www.securityweek.com/recorded-future-tagged-as-undesirable-in-russia/">Recorded Future Tagged as ‘Undesirable’ in Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Regional Care Data Breach Impacts 225,000 People</title>
+		<link>https://www.securityweek.com/regional-care-data-breach-impacts-225000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 12:43:59 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40566</guid>
+
+					<description><![CDATA[<p>Healthcare insurance firm Regional Care has disclosed a data breach impacting more than 225,000 individuals.</p>
+<p>The post <a href="https://www.securityweek.com/regional-care-data-breach-impacts-225000-people/">Regional Care Data Breach Impacts 225,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch Now: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</title>
+		<link>https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 12:41:54 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40540</guid>
+
+					<description><![CDATA[<p>Learn how to develop a holistic solution that provides you and your team the power to mitigate cyber threats effectively within your OT environment.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/">Watch Now: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CISA Issues Binding Operational Directive for Improved Cloud Security</title>
 		<link>https://www.securityweek.com/cisa-issues-binding-operational-directive-for-improved-cloud-security/</link>
 		
@@ -47,7 +201,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 12:00:04 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>BeyondTrust Patches Critical Vulnerability Discovered During Security Incident Probe</title>
 		<link>https://www.securityweek.com/beyondtrust-patches-critical-vulnerability-discovered-during-security-incident-probe/</link>
@@ -62,157 +216,6 @@
 
 					<description><![CDATA[<p>A critical vulnerability in BeyondTrust Privileged Remote Access and Remote Support could lead to arbitrary command execution.</p>
 <p>The post <a href="https://www.securityweek.com/beyondtrust-patches-critical-vulnerability-discovered-during-security-incident-probe/">BeyondTrust Patches Critical Vulnerability Discovered During Security Incident Probe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Regulation Gets Serious in 2025 &#8211; Is Your Organization Ready?</title>
-		<link>https://www.securityweek.com/ai-regulation-gets-serious-in-2025-is-your-organization-ready/</link>
-		
-		<dc:creator><![CDATA[Alastair Paterson]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40558</guid>
-
-					<description><![CDATA[<p>While the challenges are significant, organizations have an opportunity to build scalable AI governance frameworks that ensure compliance while enabling responsible AI innovation.</p>
-<p>The post <a href="https://www.securityweek.com/ai-regulation-gets-serious-in-2025-is-your-organization-ready/">AI Regulation Gets Serious in 2025 &#8211; Is Your Organization Ready?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Recent Critical Apache Struts 2 Flaw Begins</title>
-		<link>https://www.securityweek.com/exploitation-of-recent-critical-apache-struts-2-flaw-begins/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Struts]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40562</guid>
-
-					<description><![CDATA[<p>Researchers warn of malicious attacks exploiting a recently patched critical vulnerability in Apache Struts 2 leading to remote code execution (RCE).</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-recent-critical-apache-struts-2-flaw-begins/">Exploitation of Recent Critical Apache Struts 2 Flaw Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Leaks Cisco Data</title>
-		<link>https://www.securityweek.com/hacker-leaks-cisco-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 09:27:45 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[IntelBroker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40561</guid>
-
-					<description><![CDATA[<p>IntelBroker has leaked 2.9 Gb of data stolen recently from a Cisco DevHub instance, but claims it’s only a fraction of the total. </p>
-<p>The post <a href="https://www.securityweek.com/hacker-leaks-cisco-data/">Hacker Leaks Cisco Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Facebook Owner Hit With 251 Million Euros in Fines for 2018 Data Breach</title>
-		<link>https://www.securityweek.com/facebook-owner-hit-with-251-million-euros-in-fines-for-2018-data-breach/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 23:49:05 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40557</guid>
-
-					<description><![CDATA[<p>EU privacy watchdogs hit Facebook owner Meta with fines totaling 251 million euros after an investigation into a 2018 data breach that exposed millions of accounts.</p>
-<p>The post <a href="https://www.securityweek.com/facebook-owner-hit-with-251-million-euros-in-fines-for-2018-data-breach/">Facebook Owner Hit With 251 Million Euros in Fines for 2018 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Seeking Public Comment on Updated National Cyber Incident Response Plan</title>
-		<link>https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 14:36:14 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[NCIRP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40556</guid>
-
-					<description><![CDATA[<p>CISA has updated its National Cyber Incident Response Plan in line with the changing threat landscape and is now seeking public comment.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-seeking-public-comment-on-updated-national-cyber-incident-response-plan/">CISA Seeking Public Comment on Updated National Cyber Incident Response Plan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</title>
-		<link>https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 14:16:04 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40540</guid>
-
-					<description><![CDATA[<p>Learn how to develop a holistic solution that provides you and your team the power to mitigate cyber threats effectively within your OT environment.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-navigating-your-ot-cybersecurity-journey-from-assessment-to-implementation/">Webinar Today: Navigating Your OT Cybersecurity Journey: From Assessment to Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Man Accused of SQL Injection Hacking Gets 69-Month Prison Sentence </title>
-		<link>https://www.securityweek.com/man-accused-of-sql-injection-hacking-gets-69-month-prison-sentence/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 13:45:50 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[SQL injection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40555</guid>
-
-					<description><![CDATA[<p>Vitalii Antonenko has been sentenced to 69 months in prison for hacking, but he is being released as he has been detained since 2019.</p>
-<p>The post <a href="https://www.securityweek.com/man-accused-of-sql-injection-hacking-gets-69-month-prison-sentence/">Man Accused of SQL Injection Hacking Gets 69-Month Prison Sentence </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Rise in Okta Support Phishing Attacks</title>
-		<link>https://www.securityweek.com/organizations-warned-of-rise-in-okta-support-phishing-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Dec 2024 12:58:59 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Okta]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40554</guid>
-
-					<description><![CDATA[<p>Okta has warned customers that it has seen an increase in phishing attacks impersonating its support team.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-rise-in-okta-support-phishing-attacks/">Organizations Warned of Rise in Okta Support Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
