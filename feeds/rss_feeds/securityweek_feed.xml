@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 20 Dec 2024 11:58:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Dec 2024 12:00:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: McDonald&#8217;s API Hacking, Netflix Fine, Malware Kills ICS Process  </title>
+		<link>https://www.securityweek.com/in-other-news-mcdonalds-hacking-netflix-fine-malware-kills-ics-process/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 13:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40589</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: McDonald’s API hacking, Netflix fined nearly $5 million in Netherlands, experimental malware killing ICS process. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-mcdonalds-hacking-netflix-fine-malware-kills-ics-process/">In Other News: McDonald&#8217;s API Hacking, Netflix Fine, Malware Kills ICS Process  </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 06:14:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Botnet of 190,000 BadBox-Infected Android Devices Discovered</title>
+		<link>https://www.securityweek.com/botnet-of-190000-badbox-infected-android-devices-discovered/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 12:20:00 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[BadBox]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40590</guid>
+
+					<description><![CDATA[<p>Bitsight has discovered a BadBox botnet consisting of over 190,000 Android devices, mainly Yandex smart TVs and Hisense smartphones.</p>
+<p>The post <a href="https://www.securityweek.com/botnet-of-190000-badbox-infected-android-devices-discovered/">Botnet of 190,000 BadBox-Infected Android Devices Discovered</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ransomware Group Claims Theft of Personal, Financial Data From Krispy Kreme</title>
 		<link>https://www.securityweek.com/ransomware-group-claims-theft-of-personal-financial-data-from-krispy-kreme/</link>
 		
@@ -46,7 +83,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 12:10:02 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Another NetWalker Ransomware Affiliate Gets 20-Year Prison Sentence in US</title>
 		<link>https://www.securityweek.com/another-netwalker-ransomware-affiliate-gets-20-year-prison-sentence-in-us/</link>
@@ -173,45 +210,6 @@
 
 					<description><![CDATA[<p>Cisco has announced its intention to acquire threat detection company SnapAttack to boost Splunk security product capabilities. </p>
 <p>The post <a href="https://www.securityweek.com/cisco-to-acquire-threat-detection-company-snapattack/">Cisco to Acquire Threat Detection Company SnapAttack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Patches Critical FortiWLM Vulnerability</title>
-		<link>https://www.securityweek.com/fortinet-patches-critical-fortiwlm-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 12:03:03 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40575</guid>
-
-					<description><![CDATA[<p>Fortinet has released patches for a critical-severity path traversal vulnerability in FortiWLM that was reported last year.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-fortiwlm-vulnerability/">Fortinet Patches Critical FortiWLM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SandboxAQ Raises $300 Million at $5.3 Billion Valuation </title>
-		<link>https://www.securityweek.com/sandboxaq-raises-300-million-at-5-3-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 11:45:10 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[SandboxAQ]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40574</guid>
-
-					<description><![CDATA[<p>Alphabet spinoff SandboxAQ has announced raising $300 million in funding at a valuation of $5.3 billion.</p>
-<p>The post <a href="https://www.securityweek.com/sandboxaq-raises-300-million-at-5-3-billion-valuation/">SandboxAQ Raises $300 Million at $5.3 Billion Valuation </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
