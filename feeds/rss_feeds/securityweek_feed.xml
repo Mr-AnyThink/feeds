@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 20 Dec 2024 12:00:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Dec 2024 09:50:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,88 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sophos Patches Critical Firewall Vulnerabilities</title>
+		<link>https://www.securityweek.com/sophos-patches-critical-firewall-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 11:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40600</guid>
+
+					<description><![CDATA[<p>Sophos has released patches for a critical-severity firewall vulnerability that could lead to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/sophos-patches-critical-firewall-vulnerabilities/">Sophos Patches Critical Firewall Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 23, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-23-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-23-2024/</guid><pubDate>Mon, 23 Dec 2024 11:30:04 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 23, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>LockBit Ransomware Developer Arrested in Israel at Request of US</title>
+		<link>https://www.securityweek.com/lockbit-ransomware-developer-arrested-in-israel-at-request-of-us/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LockBit]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40597</guid>
+
+					<description><![CDATA[<p>Dual Russian and Israeli national has been arrested in Israel and will be extradited to the US to face charges related to LockBit ransomware development.</p>
+<p>The post <a href="https://www.securityweek.com/lockbit-ransomware-developer-arrested-in-israel-at-request-of-us/">LockBit Ransomware Developer Arrested in Israel at Request of US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Italy&#8217;s Privacy Watchdog Fines OpenAI for ChatGPT&#8217;s Violations in Collecting Users Personal Data</title>
+		<link>https://www.securityweek.com/italys-privacy-watchdog-fines-openai-for-chatgpts-violations-in-collecting-users-personal-data/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40596</guid>
+
+					<description><![CDATA[<p>Italy’s data protection watchdog fined OpenAI 15 million euros ($15.6 million) after wrapping up a probe into collection of personal data.</p>
+<p>The post <a href="https://www.securityweek.com/italys-privacy-watchdog-fines-openai-for-chatgpts-violations-in-collecting-users-personal-data/">Italy&#8217;s Privacy Watchdog Fines OpenAI for ChatGPT&#8217;s Violations in Collecting Users Personal Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Complains Meta Requests Risk Privacy in Spat Over EU Efforts to Widen Access to iPhone Tech</title>
+		<link>https://www.securityweek.com/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 10:00:00 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40594</guid>
+
+					<description><![CDATA[<p>Apple complained that requests from Meta Platforms for access to its operating software threaten user privacy, in a spat fueled by the European Union’s intensifying efforts to get the iPhone maker to open up to products from tech rivals.</p>
+<p>The post <a href="https://www.securityweek.com/apple-complains-meta-requests-risk-privacy-in-spat-over-eu-efforts-to-widen-access-to-iphone-tech/">Apple Complains Meta Requests Risk Privacy in Spat Over EU Efforts to Widen Access to iPhone Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: McDonald&#8217;s API Hacking, Netflix Fine, Malware Kills ICS Process  </title>
 		<link>https://www.securityweek.com/in-other-news-mcdonalds-hacking-netflix-fine-malware-kills-ics-process/</link>
 		
@@ -43,7 +125,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 16, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-16-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-16-2024/</guid><pubDate>Mon, 16 Dec 2024 06:14:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 16, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Botnet of 190,000 BadBox-Infected Android Devices Discovered</title>
 		<link>https://www.securityweek.com/botnet-of-190000-badbox-infected-android-devices-discovered/</link>
@@ -135,81 +217,6 @@
 
 					<description><![CDATA[<p>Rockwell’s PowerMonitor is affected by critical vulnerabilities that can enable remote access to industrial systems for disruption or further attacks.</p>
 <p>The post <a href="https://www.securityweek.com/rockwell-powermonitor-vulnerabilities-allow-remote-hacking-of-industrial-systems/">Rockwell PowerMonitor Vulnerabilities Allow Remote Hacking of Industrial Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to Implement Impactful Security Benchmarks for Software Development Teams</title>
-		<link>https://www.securityweek.com/how-to-implement-impactful-security-benchmarks-for-software-development-teams/</link>
-		
-		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 16:40:34 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[DevSecOps]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40581</guid>
-
-					<description><![CDATA[<p>Benchmarking is all about taking back control – you’re measuring to gain complete awareness of your development teams’ security skills and practices.</p>
-<p>The post <a href="https://www.securityweek.com/how-to-implement-impactful-security-benchmarks-for-software-development-teams/">How to Implement Impactful Security Benchmarks for Software Development Teams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Releases Mobile Security Guidance After Chinese Telecom Hacking</title>
-		<link>https://www.securityweek.com/cisa-releases-mobile-security-guidance-after-chinese-telecom-hacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 13:50:32 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40578</guid>
-
-					<description><![CDATA[<p>In light of recent Chinese hacking into US telecom infrastructure, CISA has released guidance on protecting mobile communications.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-releases-mobile-security-guidance-after-chinese-telecom-hacking/">CISA Releases Mobile Security Guidance After Chinese Telecom Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ukrainian Raccoon Infostealer Operator Sentenced to Prison in US</title>
-		<link>https://www.securityweek.com/ukrainian-raccoon-infostealer-operator-sentenced-to-prison-in-us/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 13:16:26 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Raccoon Infostealer]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40577</guid>
-
-					<description><![CDATA[<p>Raccoon Infostealer MaaS operator Mark Sokolovsky was sentenced to 60 months in prison in the US and agreed to pay over $910,000 in restitution.</p>
-<p>The post <a href="https://www.securityweek.com/ukrainian-raccoon-infostealer-operator-sentenced-to-prison-in-us/">Ukrainian Raccoon Infostealer Operator Sentenced to Prison in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco to Acquire Threat Detection Company SnapAttack</title>
-		<link>https://www.securityweek.com/cisco-to-acquire-threat-detection-company-snapattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Dec 2024 12:54:31 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[SnapAttack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40576</guid>
-
-					<description><![CDATA[<p>Cisco has announced its intention to acquire threat detection company SnapAttack to boost Splunk security product capabilities. </p>
-<p>The post <a href="https://www.securityweek.com/cisco-to-acquire-threat-detection-company-snapattack/">Cisco to Acquire Threat Detection Company SnapAttack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
