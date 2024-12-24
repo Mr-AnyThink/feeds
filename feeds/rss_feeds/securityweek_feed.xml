@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 23 Dec 2024 09:50:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 09:59:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,103 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>American Addiction Centers Data Breach Impacts 422,000 People</title>
+		<link>https://www.securityweek.com/american-addiction-centers-data-breach-impacts-422000-people/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 12:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40607</guid>
+
+					<description><![CDATA[<p>American Addiction Centers says the personal information of more than 422,000 people was stolen in a data breach.</p>
+<p>The post <a href="https://www.securityweek.com/american-addiction-centers-data-breach-impacts-422000-people/">American Addiction Centers Data Breach Impacts 422,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of December 23, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-23-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-23-2024/</guid><pubDate>Mon, 23 Dec 2024 12:00:02 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 23, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>2025 NDAA Provides $3 Billion Funding for FCC&#8217;s Rip-and-Replace Program</title>
+		<link>https://www.securityweek.com/2025-ndaa-provides-3-billion-funding-for-fccs-rip-and-replace-program/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 11:30:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[NDAA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40606</guid>
+
+					<description><![CDATA[<p>The 2025 National Defense Authorization Act (NDAA) has been signed into law and it authorizes several cyber-related initiatives. </p>
+<p>The post <a href="https://www.securityweek.com/2025-ndaa-provides-3-billion-funding-for-fccs-rip-and-replace-program/">2025 NDAA Provides $3 Billion Funding for FCC&#8217;s Rip-and-Replace Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches ColdFusion Flaw at High Risk of Exploitation</title>
+		<link>https://www.securityweek.com/adobe-patches-coldfusion-flaw-at-high-risk-of-exploitation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 11:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[ColdFusion]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[PoC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40605</guid>
+
+					<description><![CDATA[<p>Adobe has released patches for a high-severity ColdFusion vulnerability for which proof-of-concept (PoC) code exists.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-coldfusion-flaw-at-high-risk-of-exploitation/">Adobe Patches ColdFusion Flaw at High Risk of Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Beware Of Shadow AI – Shadow IT&#8217;s Less Well-Known Brother</title>
+		<link>https://www.securityweek.com/beware-of-shadow-ai-shadow-its-less-well-known-brother/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 14:25:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Shadow AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40604</guid>
+
+					<description><![CDATA[<p>While AI tools can enable employees to be innovative and productive, significant data privacy risks can stem from their usage.</p>
+<p>The post <a href="https://www.securityweek.com/beware-of-shadow-ai-shadow-its-less-well-known-brother/">Beware Of Shadow AI – Shadow IT&#8217;s Less Well-Known Brother</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5.6 Million Impacted by Ransomware Attack on Healthcare Giant Ascension</title>
+		<link>https://www.securityweek.com/5-6-million-impacted-by-ransomware-attack-on-healthcare-giant-ascension/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 12:24:58 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40602</guid>
+
+					<description><![CDATA[<p>Ascension Health says the personal, medical, and payment information of 5.6 million people was stolen in a May 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/5-6-million-impacted-by-ransomware-attack-on-healthcare-giant-ascension/">5.6 Million Impacted by Ransomware Attack on Healthcare Giant Ascension</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sophos Patches Critical Firewall Vulnerabilities</title>
 		<link>https://www.securityweek.com/sophos-patches-critical-firewall-vulnerabilities/</link>
 		
@@ -45,7 +142,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of December 23, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/dec-23-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/dec-23-2024/</guid><pubDate>Mon, 23 Dec 2024 11:30:04 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of December 23, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>LockBit Ransomware Developer Arrested in Israel at Request of US</title>
 		<link>https://www.securityweek.com/lockbit-ransomware-developer-arrested-in-israel-at-request-of-us/</link>
@@ -121,102 +218,6 @@
 
 					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: McDonald’s API hacking, Netflix fined nearly $5 million in Netherlands, experimental malware killing ICS process. </p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-mcdonalds-hacking-netflix-fine-malware-kills-ics-process/">In Other News: McDonald&#8217;s API Hacking, Netflix Fine, Malware Kills ICS Process  </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Botnet of 190,000 BadBox-Infected Android Devices Discovered</title>
-		<link>https://www.securityweek.com/botnet-of-190000-badbox-infected-android-devices-discovered/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 12:20:00 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[BadBox]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[IoT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40590</guid>
-
-					<description><![CDATA[<p>Bitsight has discovered a BadBox botnet consisting of over 190,000 Android devices, mainly Yandex smart TVs and Hisense smartphones.</p>
-<p>The post <a href="https://www.securityweek.com/botnet-of-190000-badbox-infected-android-devices-discovered/">Botnet of 190,000 BadBox-Infected Android Devices Discovered</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Theft of Personal, Financial Data From Krispy Kreme</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-theft-of-personal-financial-data-from-krispy-kreme/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 11:58:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Krispy Kreme]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40591</guid>
-
-					<description><![CDATA[<p>The Play ransomware group claims to have stolen sensitive data from donut and coffee retail chain Krispy Kreme.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-theft-of-personal-financial-data-from-krispy-kreme/">Ransomware Group Claims Theft of Personal, Financial Data From Krispy Kreme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Another NetWalker Ransomware Affiliate Gets 20-Year Prison Sentence in US</title>
-		<link>https://www.securityweek.com/another-netwalker-ransomware-affiliate-gets-20-year-prison-sentence-in-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 11:40:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[NetWalker]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40588</guid>
-
-					<description><![CDATA[<p>A second individual accused of being involved in NetWalker ransomware attacks, a Romanian national, has received a 20-year prison sentence.</p>
-<p>The post <a href="https://www.securityweek.com/another-netwalker-ransomware-affiliate-gets-20-year-prison-sentence-in-us/">Another NetWalker Ransomware Affiliate Gets 20-Year Prison Sentence in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Urges Immediate Patching of Exploited BeyondTrust Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-beyondtrust-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 11:20:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40587</guid>
-
-					<description><![CDATA[<p>CISA is urging federal agencies to patch a recent critical vulnerability in BeyondTrust remote access products in one week.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-beyondtrust-vulnerability/">CISA Urges Immediate Patching of Exploited BeyondTrust Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rockwell PowerMonitor Vulnerabilities Allow Remote Hacking of Industrial Systems</title>
-		<link>https://www.securityweek.com/rockwell-powermonitor-vulnerabilities-allow-remote-hacking-of-industrial-systems/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Dec 2024 11:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40585</guid>
-
-					<description><![CDATA[<p>Rockwell’s PowerMonitor is affected by critical vulnerabilities that can enable remote access to industrial systems for disruption or further attacks.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-powermonitor-vulnerabilities-allow-remote-hacking-of-industrial-systems/">Rockwell PowerMonitor Vulnerabilities Allow Remote Hacking of Industrial Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
