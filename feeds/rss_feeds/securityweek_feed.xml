@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 31 Dec 2024 07:09:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Dec 2024 14:12:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rhode Islanders’ Data Was Leaked From a Cyberattack on State Health Benefits Website</title>
+		<link>https://www.securityweek.com/rhode-islanders-data-was-leaked-from-a-cyberattack-on-state-health-benefits-website/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2024 14:12:16 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[dark web]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40635</guid>
+
+					<description><![CDATA[<p>Cybercriminals who hacked Rhode Island’s system for health and benefits programs have released files to a site on the dark web,</p>
+<p>The post <a href="https://www.securityweek.com/rhode-islanders-data-was-leaked-from-a-cyberattack-on-state-health-benefits-website/">Rhode Islanders’ Data Was Leaked From a Cyberattack on State Health Benefits Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 1, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-01-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-01-2024/</guid><pubDate>Mon, 01 Jan 2024 14:12:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 1, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Cyberhaven Chrome Extension Hack Linked to Widening Supply Chain Campaign</title>
+		<link>https://www.securityweek.com/cyberhaven-chrome-extension-hack-linked-to-widening-supply-chain-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 31 Dec 2024 13:03:40 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Cyberhaven]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40633</guid>
+
+					<description><![CDATA[<p>The recent compromise of Cyberhaven’s Chrome extension appears to be part of a broad campaign that started over a year ago.</p>
+<p>The post <a href="https://www.securityweek.com/cyberhaven-chrome-extension-hack-linked-to-widening-supply-chain-campaign/">Cyberhaven Chrome Extension Hack Linked to Widening Supply Chain Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese Hackers Accessed US Treasury Workstations in ‘Major&#8217; Cybersecurity Incident</title>
 		<link>https://www.securityweek.com/chinese-hackers-accessed-us-treasury-workstations-in-major-cybersecurity-incident/</link>
 		
@@ -47,7 +83,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 1, 2024 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-01-2024/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-01-2024/</guid><pubDate>Mon, 01 Jan 2024 07:09:43 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 1, 2024. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Palo Alto Networks Patches Firewall Zero-Day Exploited for DoS Attacks</title>
 		<link>https://www.securityweek.com/palo-alto-networks-patches-firewall-zero-day-exploited-for-dos-attacks/</link>
@@ -187,44 +223,6 @@
 
 					<description><![CDATA[<p>Artificial Intelligence (A) is revolutionizing intelligence gathering, empowering cybersecurity defenders, and amplifying threat actor capabilities.</p>
 <p>The post <a href="https://www.securityweek.com/the-intersection-of-ai-and-osint-advanced-threats-on-the-horizon/">The Intersection of AI and OSINT: Advanced Threats On The Horizon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Defense Giant General Dynamics Says Employees Targeted in Phishing Attack</title>
-		<link>https://www.securityweek.com/defense-giant-general-dynamics-says-employees-targeted-in-phishing-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 12:00:00 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[General Dynamics]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40618</guid>
-
-					<description><![CDATA[<p>General Dynamics says several benefits accounts were hacked after threat actors targeted employees in a phishing campaign.</p>
-<p>The post <a href="https://www.securityweek.com/defense-giant-general-dynamics-says-employees-targeted-in-phishing-attack/">Defense Giant General Dynamics Says Employees Targeted in Phishing Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cl0p Ransomware Group to Name Over 60 Victims of Cleo Attack</title>
-		<link>https://www.securityweek.com/cl0p-ransomware-group-to-name-over-60-victims-of-cleo-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 26 Dec 2024 11:30:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40615</guid>
-
-					<description><![CDATA[<p>The Cl0p ransomware group has confirmed that Blue Yonder was hit in the Cleo attack and the hackers are preparing to name over 60 others.</p>
-<p>The post <a href="https://www.securityweek.com/cl0p-ransomware-group-to-name-over-60-victims-of-cleo-attack/">Cl0p Ransomware Group to Name Over 60 Victims of Cleo Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
