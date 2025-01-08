@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 07 Jan 2025 11:28:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jan 2025 12:01:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,192 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CISA: No Federal Agency Beyond Treasury Impacted by BeyondTrust Incident</title>
-		<link>https://www.securityweek.com/cisa-no-federal-agency-beyond-treasury-impacted-by-beyondtrust-incident/</link>
+		<title>Insider Threat: Tackling the Complex Challenges of the Enemy Within</title>
+		<link>https://www.securityweek.com/insider-threat-tackling-the-complex-challenges-of-the-enemy-within/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 11:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 12:00:25 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Insider Threat]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40693</guid>
+
+					<description><![CDATA[<p>The insider threat problem will worsen, and the solutions will widen, in the age of generative-AI.</p>
+<p>The post <a href="https://www.securityweek.com/insider-threat-tackling-the-complex-challenges-of-the-enemy-within/">Insider Threat: Tackling the Complex Challenges of the Enemy Within</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 12:01:42 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>New Labels Will Help People Pick Devices Less at Risk of Hacking</title>
+		<link>https://www.securityweek.com/new-labels-will-help-people-pick-devices-less-at-risk-of-hacking/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 11:45:30 +0000</pubDate>
 				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<category><![CDATA[Treasury]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40668</guid>
+		<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[U.S. Cyber Trust Mark]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40699</guid>
 
-					<description><![CDATA[<p>CISA says no federal agencies other than Treasury were impacted by the recent compromise of a BeyondTrust cloud-based service.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-no-federal-agency-beyond-treasury-impacted-by-beyondtrust-incident/">CISA: No Federal Agency Beyond Treasury Impacted by BeyondTrust Incident</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 11:30:01 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Critical Infrastructure Ransomware Attack Tracker Reaches 2,000 Incidents</title>
-		<link>https://www.securityweek.com/universitys-critical-infrastructure-ransomware-attack-tracker-reaches-2000-incidents/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[tracker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40667</guid>
-
-					<description><![CDATA[<p>Temple University’s Critical Infrastructure Ransomware Attacks (CIRA) database now contains over 2,000 entries.</p>
-<p>The post <a href="https://www.securityweek.com/universitys-critical-infrastructure-ransomware-attack-tracker-reaches-2000-incidents/">Critical Infrastructure Ransomware Attack Tracker Reaches 2,000 Incidents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The US government is rolling out a consumer labeling system designed to help Americans pick smart devices that are less vulnerable to hacking.</p>
+<p>The post <a href="https://www.securityweek.com/new-labels-will-help-people-pick-devices-less-at-risk-of-hacking/">New Labels Will Help People Pick Devices Less at Risk of Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>China Protests US Sanctions for Its Alleged Role in Hacking, Complains of Foreign Hacker Attacks</title>
-		<link>https://www.securityweek.com/china-protests-us-sanctions-for-its-alleged-role-in-hacking-complains-of-foreign-hacker-attacks/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 09:47:30 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[deny]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40665</guid>
-
-					<description><![CDATA[<p>China has slammed a decision by the US Treasury to sanction a Beijing-based cybersecurity company for its alleged role in multiple hacking incidents targeting critical infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/china-protests-us-sanctions-for-its-alleged-role-in-hacking-complains-of-foreign-hacker-attacks/">China Protests US Sanctions for Its Alleged Role in Hacking, Complains of Foreign Hacker Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anticipating the Cyber Frontier: Top Predictions for 2025</title>
-		<link>https://www.securityweek.com/anticipating-the-cyber-frontier-top-predictions-for-2025/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 16:56:19 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40662</guid>
-
-					<description><![CDATA[<p>The cybersecurity landscape in 2025 will demand a careful balance between robust defense mechanisms and adaptive resilience.</p>
-<p>The post <a href="https://www.securityweek.com/anticipating-the-cyber-frontier-top-predictions-for-2025/">Anticipating the Cyber Frontier: Top Predictions for 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wallet Drainer Malware Used to Steal $500 Million in Cryptocurrency in 2024</title>
-		<link>https://www.securityweek.com/wallet-drainer-malware-used-to-steal-500-million-in-cryptocurrency-in-2024/</link>
+		<title>CISA Warns of Mitel MiCollab Vulnerabilities Exploited in Attacks</title>
+		<link>https://www.securityweek.com/cisa-warns-of-mitel-micollab-vulnerabilities-exploited-in-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 14:10:35 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40661</guid>
-
-					<description><![CDATA[<p>Close to $500 million in cryptocurrency from over 332,000 addresses was stolen in 2024 using wallet drainer malware.</p>
-<p>The post <a href="https://www.securityweek.com/wallet-drainer-malware-used-to-steal-500-million-in-cryptocurrency-in-2024/">Wallet Drainer Malware Used to Steal $500 Million in Cryptocurrency in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Code Execution Flaw Found in Nuclei Vulnerability Scanner</title>
-		<link>https://www.securityweek.com/code-execution-flaw-found-in-nuclei-vulnerability-scanner/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 13:50:10 +0000</pubDate>
+		<pubDate>Wed, 08 Jan 2025 11:34:43 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Nuclei]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40660</guid>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[MiCollab]]></category>
+		<category><![CDATA[Mitel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40697</guid>
 
-					<description><![CDATA[<p>A vulnerability in Nuclei's template signature verification system could have allowed attackers to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/code-execution-flaw-found-in-nuclei-vulnerability-scanner/">Code Execution Flaw Found in Nuclei Vulnerability Scanner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA says two recently disclosed path traversal vulnerabilities in the Mitel MiCollab collaboration platform have been exploited in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-mitel-micollab-vulnerabilities-exploited-in-attacks/">CISA Warns of Mitel MiCollab Vulnerabilities Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cybersecurity M&#038;A Roundup: 37 Deals Announced in December 2024</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-december-2024/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 13:36:21 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Mergers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40659</guid>
-
-					<description><![CDATA[<p>Roundup of the thirty-seven cybersecurity-related merger and acquisition (M&#038;A) deals announced in December 2024.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-december-2024/">Cybersecurity M&#038;A Roundup: 37 Deals Announced in December 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tenable Disables Nessus Agents Over Faulty Updates</title>
-		<link>https://www.securityweek.com/tenable-disables-nessus-agents-over-faulty-updates/</link>
+		<title>Chrome 131, Firefox 134 Updates Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-131-firefox-134-updates-patch-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 13:01:45 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[buggy update]]></category>
-		<category><![CDATA[Nessus]]></category>
-		<category><![CDATA[Tenable]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40658</guid>
+		<pubDate>Wed, 08 Jan 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40690</guid>
 
-					<description><![CDATA[<p>Tenable has disabled two Nessus scanner agent versions after a differential plugin update caused the agents to go offline.</p>
-<p>The post <a href="https://www.securityweek.com/tenable-disables-nessus-agents-over-faulty-updates/">Tenable Disables Nessus Agents Over Faulty Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Chrome and Firefox updates released this week resolve high-severity vulnerabilities in the two popular browsers.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-131-firefox-134-updates-patch-high-severity-vulnerabilities/">Chrome 131, Firefox 134 Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Is Your Car Spying on You? What It Means That Tesla Shared Data in the Las Vegas Explosion</title>
-		<link>https://www.securityweek.com/is-your-car-spying-on-you-what-it-means-that-tesla-shared-data-in-the-las-vegas-explosion/</link>
+		<title>First Android Update of 2025 Patches Critical Code Execution Vulnerabilities</title>
+		<link>https://www.securityweek.com/first-android-update-of-2025-patches-critical-code-execution-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 09:42:06 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40689</guid>
+
+					<description><![CDATA[<p>This year’s first batch of monthly security updates for Android resolves 36 vulnerabilities, including critical remote code execution flaws.</p>
+<p>The post <a href="https://www.securityweek.com/first-android-update-of-2025-patches-critical-code-execution-vulnerabilities/">First Android Update of 2025 Patches Critical Code Execution Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Veracode Targets Malicious Code Threats With Phylum Acquisition</title>
+		<link>https://www.securityweek.com/veracode-targets-malicious-code-threats-with-phylum-acquisition/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 22:53:30 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Phylum]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[Veracode]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40684</guid>
+
+					<description><![CDATA[<p>The deal includes certain Phylum assets, including its malicious package analysis, detection, and mitigation technology. </p>
+<p>The post <a href="https://www.securityweek.com/veracode-targets-malicious-code-threats-with-phylum-acquisition/">Veracode Targets Malicious Code Threats With Phylum Acquisition</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trolley Problem, Safety Versus Security of Generative AI</title>
+		<link>https://www.securityweek.com/trolley-problem-safety-versus-security-of-generative-ai/</link>
+		
+		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 17:40:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40674</guid>
+
+					<description><![CDATA[<p>The only way to advance AI safety is to increase human interactions, human values and societal governance to promote a reinforced human feedback loop, much like we do with traditional AI training methods.</p>
+<p>The post <a href="https://www.securityweek.com/trolley-problem-safety-versus-security-of-generative-ai/">Trolley Problem, Safety Versus Security of Generative AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former NSA Director Rob Joyce Joins DataTribe as Venture Partner</title>
+		<link>https://www.securityweek.com/former-nsa-director-rob-joyce-joins-datatribe-as-venture-partner/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 16:38:26 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[DataTribe]]></category>
+		<category><![CDATA[NSA]]></category>
+		<category><![CDATA[Rob Joyce]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40673</guid>
+
+					<description><![CDATA[<p>DataTribe said Joyce will be a venture partner tasked with finding entrepreneurs developing new and emerging technologies for cyber defense.</p>
+<p>The post <a href="https://www.securityweek.com/former-nsa-director-rob-joyce-joins-datatribe-as-venture-partner/">Former NSA Director Rob Joyce Joins DataTribe as Venture Partner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Tech Companies Tencent, CATL and Others Protest US Listings as Army-Linked Companies</title>
+		<link>https://www.securityweek.com/chinese-tech-companies-tencent-catl-and-others-protest-us-listings-as-army-linked-companies/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 12:08:50 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40656</guid>
+		<pubDate>Tue, 07 Jan 2025 16:09:39 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40672</guid>
 
-					<description><![CDATA[<p>Many cars know where you’ve been and where you are going, and also often have access to your contacts, call logs, texts and other sensitive information thanks to cell phone syncing.</p>
-<p>The post <a href="https://www.securityweek.com/is-your-car-spying-on-you-what-it-means-that-tesla-shared-data-in-the-las-vegas-explosion/">Is Your Car Spying on You? What It Means That Tesla Shared Data in the Las Vegas Explosion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The U.S. Defense Department added dozens of Chinese companies, including Tencent, SenseTime and battery maker CATL, to a list of companies it says have ties to China’s military.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-tech-companies-tencent-catl-and-others-protest-us-listings-as-army-linked-companies/">Chinese Tech Companies Tencent, CATL and Others Protest US Listings as Army-Linked Companies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Sanctions Chinese Firm Linked to Flax Typhoon Attacks on Critical Infrastructure</title>
-		<link>https://www.securityweek.com/us-sanctions-chinese-firm-linked-to-flax-typhoon-attacks-on-critical-infrastructure/</link>
+		<title>Dell, HPE, MediaTek Patch Vulnerabilities in Their Products</title>
+		<link>https://www.securityweek.com/dell-hpe-mediatek-patch-vulnerabilities-in-their-products/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Flax Typhoon]]></category>
-		<category><![CDATA[Integrity Tech]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40654</guid>
+		<pubDate>Tue, 07 Jan 2025 13:05:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[HPE]]></category>
+		<category><![CDATA[MediaTek]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40670</guid>
 
-					<description><![CDATA[<p>The US Treasury has sanctioned Chinese company Integrity Technology for supporting state-sponsored group Flax Typhoon in hacking US critical infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/us-sanctions-chinese-firm-linked-to-flax-typhoon-attacks-on-critical-infrastructure/">US Sanctions Chinese Firm Linked to Flax Typhoon Attacks on Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>MediaTek, HPE and Dell release advisories to inform customers about potentially serious vulnerabilities found and patched in their products.</p>
+<p>The post <a href="https://www.securityweek.com/dell-hpe-mediatek-patch-vulnerabilities-in-their-products/">Dell, HPE, MediaTek Patch Vulnerabilities in Their Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
