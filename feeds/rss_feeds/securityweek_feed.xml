@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 08 Jan 2025 12:01:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 11:57:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Insider Threat: Tackling the Complex Challenges of the Enemy Within</title>
-		<link>https://www.securityweek.com/insider-threat-tackling-the-complex-challenges-of-the-enemy-within/</link>
+		<title>From Silos to Synergy: Transforming Threat Intelligence Sharing in 2025</title>
+		<link>https://www.securityweek.com/from-silos-to-synergy-transforming-threat-intelligence-sharing-in-2025/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 12:00:25 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Insider Threat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40693</guid>
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40720</guid>
 
-					<description><![CDATA[<p>The insider threat problem will worsen, and the solutions will widen, in the age of generative-AI.</p>
-<p>The post <a href="https://www.securityweek.com/insider-threat-tackling-the-complex-challenges-of-the-enemy-within/">Insider Threat: Tackling the Complex Challenges of the Enemy Within</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>In the face of ever-growing threats and adversaries, organizations must break down the silos between ALL teams involved in security.</p>
+<p>The post <a href="https://www.securityweek.com/from-silos-to-synergy-transforming-threat-intelligence-sharing-in-2025/">From Silos to Synergy: Transforming Threat Intelligence Sharing in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 12:01:42 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 12:00:01 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>New Labels Will Help People Pick Devices Less at Risk of Hacking</title>
-		<link>https://www.securityweek.com/new-labels-will-help-people-pick-devices-less-at-risk-of-hacking/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:45:30 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[U.S. Cyber Trust Mark]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40699</guid>
-
-					<description><![CDATA[<p>The US government is rolling out a consumer labeling system designed to help Americans pick smart devices that are less vulnerable to hacking.</p>
-<p>The post <a href="https://www.securityweek.com/new-labels-will-help-people-pick-devices-less-at-risk-of-hacking/">New Labels Will Help People Pick Devices Less at Risk of Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Mitel MiCollab Vulnerabilities Exploited in Attacks</title>
-		<link>https://www.securityweek.com/cisa-warns-of-mitel-micollab-vulnerabilities-exploited-in-attacks/</link>
+		<title>Palo Alto Networks Patches High-Severity Vulnerability in Retired Migration Tool</title>
+		<link>https://www.securityweek.com/palo-alto-networks-patches-high-severity-vulnerability-in-retired-migration-tool/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:34:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[MiCollab]]></category>
-		<category><![CDATA[Mitel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40697</guid>
-
-					<description><![CDATA[<p>CISA says two recently disclosed path traversal vulnerabilities in the Mitel MiCollab collaboration platform have been exploited in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-mitel-micollab-vulnerabilities-exploited-in-attacks/">CISA Warns of Mitel MiCollab Vulnerabilities Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 131, Firefox 134 Updates Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-131-firefox-134-updates-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
+		<pubDate>Thu, 09 Jan 2025 11:53:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Expedition]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40690</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40722</guid>
 
-					<description><![CDATA[<p>Chrome and Firefox updates released this week resolve high-severity vulnerabilities in the two popular browsers.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-131-firefox-134-updates-patch-high-severity-vulnerabilities/">Chrome 131, Firefox 134 Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Palo Alto Networks has released patches for multiple vulnerabilities in the Expedition migration tool, which was retired on December 31, 2024.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-high-severity-vulnerability-in-retired-migration-tool/">Palo Alto Networks Patches High-Severity Vulnerability in Retired Migration Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>First Android Update of 2025 Patches Critical Code Execution Vulnerabilities</title>
-		<link>https://www.securityweek.com/first-android-update-of-2025-patches-critical-code-execution-vulnerabilities/</link>
+		<title>Excelsior Orthopaedics Data Breach Impacts 357,000 People</title>
+		<link>https://www.securityweek.com/excelsior-orthopaedics-data-breach-impacts-357000-people/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Jan 2025 09:42:06 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40689</guid>
+		<pubDate>Thu, 09 Jan 2025 11:32:08 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40721</guid>
 
-					<description><![CDATA[<p>This year’s first batch of monthly security updates for Android resolves 36 vulnerabilities, including critical remote code execution flaws.</p>
-<p>The post <a href="https://www.securityweek.com/first-android-update-of-2025-patches-critical-code-execution-vulnerabilities/">First Android Update of 2025 Patches Critical Code Execution Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Excelsior Orthopaedics says the information of roughly 357,000 patients and employees was stolen in a June 2024 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/excelsior-orthopaedics-data-breach-impacts-357000-people/">Excelsior Orthopaedics Data Breach Impacts 357,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Veracode Targets Malicious Code Threats With Phylum Acquisition</title>
-		<link>https://www.securityweek.com/veracode-targets-malicious-code-threats-with-phylum-acquisition/</link>
+		<title>Exploitation of New Ivanti VPN Zero-Day Linked to Chinese Cyberspies</title>
+		<link>https://www.securityweek.com/exploitation-of-new-ivanti-vpn-zero-day-linked-to-chinese-cyberspies/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 10:52:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40716</guid>
+
+					<description><![CDATA[<p>Google Cloud’s Mandiant has linked the exploitation of CVE-2025-0282, a new Ivanti VPN zero-day, to Chinese cyberspies.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-new-ivanti-vpn-zero-day-linked-to-chinese-cyberspies/">Exploitation of New Ivanti VPN Zero-Day Linked to Chinese Cyberspies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Warns of New Zero-Day Attacks Hitting Connect Secure Product</title>
+		<link>https://www.securityweek.com/ivanti-warns-of-new-zero-day-attacks-hitting-connect-secure-product/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 22:53:30 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Phylum]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[Veracode]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40684</guid>
+		<pubDate>Wed, 08 Jan 2025 19:56:48 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Connect Secure]]></category>
+		<category><![CDATA[CVE-2025-0282]]></category>
+		<category><![CDATA[CVE-2025-0283]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40710</guid>
 
-					<description><![CDATA[<p>The deal includes certain Phylum assets, including its malicious package analysis, detection, and mitigation technology. </p>
-<p>The post <a href="https://www.securityweek.com/veracode-targets-malicious-code-threats-with-phylum-acquisition/">Veracode Targets Malicious Code Threats With Phylum Acquisition</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Ivanti confirms zero-day exploitation of a remotely exploitable code execution flaw in its Connect Security product line.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-warns-of-new-zero-day-attacks-hitting-connect-secure-product/">Ivanti Warns of New Zero-Day Attacks Hitting Connect Secure Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trolley Problem, Safety Versus Security of Generative AI</title>
-		<link>https://www.securityweek.com/trolley-problem-safety-versus-security-of-generative-ai/</link>
+		<title>Telegram Shared Data of Thousands of Users After CEO&#8217;s Arrest</title>
+		<link>https://www.securityweek.com/telegram-shared-data-of-thousands-of-users-after-ceos-arrest/</link>
 		
-		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 17:40:07 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40674</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[information sharing]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[transparency report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40709</guid>
 
-					<description><![CDATA[<p>The only way to advance AI safety is to increase human interactions, human values and societal governance to promote a reinforced human feedback loop, much like we do with traditional AI training methods.</p>
-<p>The post <a href="https://www.securityweek.com/trolley-problem-safety-versus-security-of-generative-ai/">Trolley Problem, Safety Versus Security of Generative AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>After its CEO was arrested last summer, Telegram has been increasingly sharing user data at the request of authorities.</p>
+<p>The post <a href="https://www.securityweek.com/telegram-shared-data-of-thousands-of-users-after-ceos-arrest/">Telegram Shared Data of Thousands of Users After CEO&#8217;s Arrest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Former NSA Director Rob Joyce Joins DataTribe as Venture Partner</title>
-		<link>https://www.securityweek.com/former-nsa-director-rob-joyce-joins-datatribe-as-venture-partner/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 16:38:26 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[DataTribe]]></category>
-		<category><![CDATA[NSA]]></category>
-		<category><![CDATA[Rob Joyce]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40673</guid>
-
-					<description><![CDATA[<p>DataTribe said Joyce will be a venture partner tasked with finding entrepreneurs developing new and emerging technologies for cyber defense.</p>
-<p>The post <a href="https://www.securityweek.com/former-nsa-director-rob-joyce-joins-datatribe-as-venture-partner/">Former NSA Director Rob Joyce Joins DataTribe as Venture Partner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Tech Companies Tencent, CATL and Others Protest US Listings as Army-Linked Companies</title>
-		<link>https://www.securityweek.com/chinese-tech-companies-tencent-catl-and-others-protest-us-listings-as-army-linked-companies/</link>
+		<title>Japan Links Chinese Hacker MirrorFace to Dozens of Cyberattacks Targeting Security and Tech Data</title>
+		<link>https://www.securityweek.com/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 16:09:39 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
+		<pubDate>Wed, 08 Jan 2025 15:06:44 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
 		<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[China]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40672</guid>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[MirrorFace]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40708</guid>
 
-					<description><![CDATA[<p>The U.S. Defense Department added dozens of Chinese companies, including Tencent, SenseTime and battery maker CATL, to a list of companies it says have ties to China’s military.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-tech-companies-tencent-catl-and-others-protest-us-listings-as-army-linked-companies/">Chinese Tech Companies Tencent, CATL and Others Protest US Listings as Army-Linked Companies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Japan says China-linked cyberattacks were systematic attacks with an aim of stealing data on Japanese national security and advanced technology.</p>
+<p>The post <a href="https://www.securityweek.com/japan-links-chinese-hacker-mirrorface-to-dozens-of-cyberattacks-targeting-security-and-tech-data/">Japan Links Chinese Hacker MirrorFace to Dozens of Cyberattacks Targeting Security and Tech Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Dell, HPE, MediaTek Patch Vulnerabilities in Their Products</title>
-		<link>https://www.securityweek.com/dell-hpe-mediatek-patch-vulnerabilities-in-their-products/</link>
+		<title>Rationalizing the Stack: The Case for Security Vendor Consolidation</title>
+		<link>https://www.securityweek.com/rationalizing-the-stack-the-case-for-security-vendor-consolidation/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 14:11:46 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[Consolidation]]></category>
+		<category><![CDATA[Platform]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40704</guid>
+
+					<description><![CDATA[<p>Consolidating from an overly burdensome number of point solutions to an easier to manage platform-based approach brings with it a number of benefits.</p>
+<p>The post <a href="https://www.securityweek.com/rationalizing-the-stack-the-case-for-security-vendor-consolidation/">Rationalizing the Stack: The Case for Security Vendor Consolidation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands Impacted by Casio Data Breach</title>
+		<link>https://www.securityweek.com/thousands-impacted-by-casio-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 13:26:52 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Casio]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Underground]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40705</guid>
+
+					<description><![CDATA[<p>Casio has completed its investigation into the data breach caused by a recent ransomware attack and found that thousands of individuals are impacted.</p>
+<p>The post <a href="https://www.securityweek.com/thousands-impacted-by-casio-data-breach/">Thousands Impacted by Casio Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity Funding Reached $9.5 Billion in 2024: Report</title>
+		<link>https://www.securityweek.com/cybersecurity-funding-reached-9-5-billion-in-2024-report/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 13:05:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Dell]]></category>
-		<category><![CDATA[HPE]]></category>
-		<category><![CDATA[MediaTek]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40670</guid>
+		<pubDate>Wed, 08 Jan 2025 12:34:51 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Pinpoint]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40702</guid>
 
-					<description><![CDATA[<p>MediaTek, HPE and Dell release advisories to inform customers about potentially serious vulnerabilities found and patched in their products.</p>
-<p>The post <a href="https://www.securityweek.com/dell-hpe-mediatek-patch-vulnerabilities-in-their-products/">Dell, HPE, MediaTek Patch Vulnerabilities in Their Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cybersecurity firms raised $9.5 billion in over 300 funding rounds in 2024, with Wiz scoring the largest investment at $1 billion.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-funding-reached-9-5-billion-in-2024-report/">Cybersecurity Funding Reached $9.5 Billion in 2024: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
