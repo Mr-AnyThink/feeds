@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Jan 2025 12:11:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jan 2025 17:17:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Meloni Says Italy Is Exploring Deals on Telecoms Security, but Denies Private Talks With Musk</title>
+		<link>https://www.securityweek.com/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 17:17:16 +0000</pubDate>
+				<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Italy]]></category>
+		<category><![CDATA[SpaceX]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40737</guid>
+
+					<description><![CDATA[<p>If the deal is sealed, SpaceX would provide encryption services for the Italian government and communications infrastructure for the military and emergency services.</p>
+<p>The post <a href="https://www.securityweek.com/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/">Meloni Says Italy Is Exploring Deals on Telecoms Security, but Denies Private Talks With Musk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 06:34:29 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>In Other News: Bank of America Warns of Data Breach, Trucking Cybersecurity, Treasury Hack Linked to Silk Typhoon</title>
+		<link>https://www.securityweek.com/in-other-news-bank-of-america-warns-of-data-breach-trucking-cybersecurity-treasury-hack-linked-to-silk-typhoon/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 13:21:07 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40735</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: 2025 trucking cybersecurity report, Bank of America discloses data breach, Silk Typhoon behind US Treasury hack.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-bank-of-america-warns-of-data-breach-trucking-cybersecurity-treasury-hack-linked-to-silk-typhoon/">In Other News: Bank of America Warns of Data Breach, Trucking Cybersecurity, Treasury Hack Linked to Silk Typhoon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Banshee macOS Malware Expands Targeting</title>
+		<link>https://www.securityweek.com/banshee-macos-malware-expands-target-list/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 12:25:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Banshee stealer]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40734</guid>
+
+					<description><![CDATA[<p>The latest version of the Banshee macOS information stealer no longer checks if the infected systems have the Russian language installed.</p>
+<p>The post <a href="https://www.securityweek.com/banshee-macos-malware-expands-target-list/">Banshee macOS Malware Expands Targeting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Major Addiction Treatment Firm BayMark Confirms Ransomware Attack Caused Data Breach</title>
 		<link>https://www.securityweek.com/major-addiction-treatment-firm-baymark-confirms-ransomware-attack-caused-data-breach/</link>
 		
@@ -47,7 +102,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 12:11:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>PayPal Phishing Campaign Employs Genuine Links to Take Over Accounts</title>
 		<link>https://www.securityweek.com/paypal-phishing-campaign-employs-genuine-links-to-take-over-accounts/</link>
@@ -162,61 +217,6 @@
 
 					<description><![CDATA[<p>SonicWall has released patches for multiple vulnerabilities in SonicOS, including high-severity authentication bypass flaws.</p>
 <p>The post <a href="https://www.securityweek.com/sonicwall-patches-authentication-bypass-vulnerabilities-in-firewalls/">SonicWall Patches Authentication Bypass Vulnerabilities in Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The &#8216;Worst in Show&#8217; CES Products Put Your Data at Risk and Cause Waste, Privacy Advocates Say</title>
-		<link>https://www.securityweek.com/the-worst-in-show-ces-products-put-your-data-at-risk-and-cause-waste-privacy-advocates-say/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:19:36 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[CES]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40723</guid>
-
-					<description><![CDATA[<p>Some of the innovative products presented at CES can pose a serious risk to data and privacy.</p>
-<p>The post <a href="https://www.securityweek.com/the-worst-in-show-ces-products-put-your-data-at-risk-and-cause-waste-privacy-advocates-say/">The &#8216;Worst in Show&#8217; CES Products Put Your Data at Risk and Cause Waste, Privacy Advocates Say</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>From Silos to Synergy: Transforming Threat Intelligence Sharing in 2025</title>
-		<link>https://www.securityweek.com/from-silos-to-synergy-transforming-threat-intelligence-sharing-in-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40720</guid>
-
-					<description><![CDATA[<p>In the face of ever-growing threats and adversaries, organizations must break down the silos between ALL teams involved in security.</p>
-<p>The post <a href="https://www.securityweek.com/from-silos-to-synergy-transforming-threat-intelligence-sharing-in-2025/">From Silos to Synergy: Transforming Threat Intelligence Sharing in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Patches High-Severity Vulnerability in Retired Migration Tool</title>
-		<link>https://www.securityweek.com/palo-alto-networks-patches-high-severity-vulnerability-in-retired-migration-tool/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 11:53:46 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Expedition]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40722</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has released patches for multiple vulnerabilities in the Expedition migration tool, which was retired on December 31, 2024.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-high-severity-vulnerability-in-retired-migration-tool/">Palo Alto Networks Patches High-Severity Vulnerability in Retired Migration Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
