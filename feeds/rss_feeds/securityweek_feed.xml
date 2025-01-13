@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Jan 2025 17:17:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jan 2025 12:04:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</title>
+		<link>https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:04:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Juniper]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40743</guid>
+
+					<description><![CDATA[<p>Juniper Networks has patched multiple high-severity vulnerabilities in Junos OS and its third-party components.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/">Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:04:25 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>China Targeted Foreign Investment, Sanctions Offices in Treasury Hack: Reports</title>
+		<link>https://www.securityweek.com/china-targeted-foreign-investment-sanctions-offices-in-treasury-hack-reports/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 11:25:32 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40741</guid>
+
+					<description><![CDATA[<p>Chinese cyberspies targeted offices dealing with foreign investments and sanctions in the recent US Treasury hack. </p>
+<p>The post <a href="https://www.securityweek.com/china-targeted-foreign-investment-sanctions-offices-in-treasury-hack-reports/">China Targeted Foreign Investment, Sanctions Offices in Treasury Hack: Reports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Meloni Says Italy Is Exploring Deals on Telecoms Security, but Denies Private Talks With Musk</title>
 		<link>https://www.securityweek.com/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</link>
 		
@@ -45,7 +84,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 6, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-06-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-06-2025/</guid><pubDate>Mon, 06 Jan 2025 06:34:29 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 6, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: Bank of America Warns of Data Breach, Trucking Cybersecurity, Treasury Hack Linked to Silk Typhoon</title>
 		<link>https://www.securityweek.com/in-other-news-bank-of-america-warns-of-data-breach-trucking-cybersecurity-treasury-hack-linked-to-silk-typhoon/</link>
@@ -179,44 +218,6 @@
 
 					<description><![CDATA[<p>Medical billing solutions provider Medusind has revealed that a data breach discovered in December 2023 impacts over 360,000 individuals.</p>
 <p>The post <a href="https://www.securityweek.com/medical-billing-firm-medusind-says-data-breach-impacts-360000-people/">Medical Billing Firm Medusind Says Data Breach Impacts 360,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GFI KerioControl Firewall Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/gfi-keriocontrol-firewall-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:58:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[GFI KerioControl]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40725</guid>
-
-					<description><![CDATA[<p>Threat actors are exploiting a recent GFI KerioControl firewall vulnerability that leads to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/gfi-keriocontrol-firewall-vulnerability-exploited-in-the-wild/">GFI KerioControl Firewall Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches Authentication Bypass Vulnerabilities in Firewalls</title>
-		<link>https://www.securityweek.com/sonicwall-patches-authentication-bypass-vulnerabilities-in-firewalls/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 12:40:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40724</guid>
-
-					<description><![CDATA[<p>SonicWall has released patches for multiple vulnerabilities in SonicOS, including high-severity authentication bypass flaws.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-authentication-bypass-vulnerabilities-in-firewalls/">SonicWall Patches Authentication Bypass Vulnerabilities in Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
