@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 13 Jan 2025 12:04:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 12:12:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,184 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Compromised AWS Keys Abused in Codefinger Ransomware Attacks</title>
+		<link>https://www.securityweek.com/compromised-aws-keys-abused-in-codefinger-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 12:12:26 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Codefinger]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40755</guid>
+
+					<description><![CDATA[<p>A ransomware group tracked as Codefinger is using compromised AWS keys to encrypt S3 bucket data using SSE-C.</p>
+<p>The post <a href="https://www.securityweek.com/compromised-aws-keys-abused-in-codefinger-ransomware-attacks/">Compromised AWS Keys Abused in Codefinger Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:12:32 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>CISA Warns of Second BeyondTrust Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/cisa-warns-of-second-beyondtrust-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 11:47:05 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40754</guid>
+
+					<description><![CDATA[<p>Attackers have been exploiting a second vulnerability in BeyondTrust’s remote management solutions, CISA warns.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-second-beyondtrust-vulnerability-exploited-in-attacks/">CISA Warns of Second BeyondTrust Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Many Ivanti VPNs Still Unpatched as UK Domain Registry Emerges as Victim of Exploitation</title>
+		<link>https://www.securityweek.com/many-ivanti-vpns-still-unpatched-as-uk-domain-registry-emerges-as-victim-of-exploitation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Nominet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40752</guid>
+
+					<description><![CDATA[<p>Many Ivanti VPNs are still exposed to attacks exploiting a recent vulnerability tracked as CVE-2025-0282 and Nominet has been named as a victim.</p>
+<p>The post <a href="https://www.securityweek.com/many-ivanti-vpns-still-unpatched-as-uk-domain-registry-emerges-as-victim-of-exploitation/">Many Ivanti VPNs Still Unpatched as UK Domain Registry Emerges as Victim of Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Aviatrix Controller Vulnerability Exploited Against Cloud Environments</title>
+		<link>https://www.securityweek.com/critical-aviatrix-controller-vulnerability-exploited-against-cloud-environments/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 10:46:31 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Aviatrix]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40753</guid>
+
+					<description><![CDATA[<p>Attackers are exploiting a critical vulnerability in Aviatrix Controller to execute arbitrary code in AWS cloud environments.</p>
+<p>The post <a href="https://www.securityweek.com/critical-aviatrix-controller-vulnerability-exploited-against-cloud-environments/">Critical Aviatrix Controller Vulnerability Exploited Against Cloud Environments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Infostealer Infections Lead to Telefonica Ticketing System Breach</title>
+		<link>https://www.securityweek.com/infostealer-infections-lead-to-telefonica-internal-ticketing-system-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 05:03:14 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[Telefonica]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40750</guid>
+
+					<description><![CDATA[<p>Infostealer malware allowed threat actors to compromise Telefonica employees’ credentials and access the company’s internal ticketing system.</p>
+<p>The post <a href="https://www.securityweek.com/infostealer-infections-lead-to-telefonica-internal-ticketing-system-breach/">Infostealer Infections Lead to Telefonica Ticketing System Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Won’t Take This Job: Microsoft Says Human Ingenuity Crucial to Red-Teaming</title>
+		<link>https://www.securityweek.com/ai-wont-take-this-job-microsoft-says-human-ingenuity-crucial-to-red-teaming/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 18:42:37 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[PyRIT]]></category>
+		<category><![CDATA[Red Team]]></category>
+		<category><![CDATA[SSRF]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40748</guid>
+
+					<description><![CDATA[<p>Redmond's AI Red Team says human involvement remains irreplaceable in addressing nuanced risks.</p>
+<p>The post <a href="https://www.securityweek.com/ai-wont-take-this-job-microsoft-says-human-ingenuity-crucial-to-red-teaming/">AI Won’t Take This Job: Microsoft Says Human Ingenuity Crucial to Red-Teaming</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Infostealer Masquerades as PoC Code Targeting Recent LDAP Vulnerability</title>
+		<link>https://www.securityweek.com/infostealer-masquerades-as-poc-code-targeting-recent-ldap-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 14:23:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[fake PoC]]></category>
+		<category><![CDATA[LDAPNightmare]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PoC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40747</guid>
+
+					<description><![CDATA[<p>A fake proof-of-concept (PoC) exploit for a recent LDAP vulnerability distributes information stealer malware.</p>
+<p>The post <a href="https://www.securityweek.com/infostealer-masquerades-as-poc-code-targeting-recent-ldap-vulnerability/">Infostealer Masquerades as PoC Code Targeting Recent LDAP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Charges 3 Russians for Operating Cryptocurrency Mixers Used by Cybercriminals</title>
+		<link>https://www.securityweek.com/us-charges-3-russians-for-operating-cryptocurrency-mixers-used-by-cybercriminals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 13:39:26 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Sinbad]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40746</guid>
+
+					<description><![CDATA[<p>The US Justice Department has announced charges against three Russians for operating the Blender and Sinbad cryptocurrency mixers.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-3-russians-for-operating-cryptocurrency-mixers-used-by-cybercriminals/">US Charges 3 Russians for Operating Cryptocurrency Mixers Used by Cybercriminals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Emerging FunkSec Ransomware Developed Using AI</title>
+		<link>https://www.securityweek.com/emerging-funksec-ransomware-developed-using-ai/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 12:21:01 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40745</guid>
+
+					<description><![CDATA[<p>Developed with the help of AI, the emerging FunkSec ransomware claimed over 80 victims in December 2024.</p>
+<p>The post <a href="https://www.securityweek.com/emerging-funksec-ransomware-developed-using-ai/">Emerging FunkSec Ransomware Developed Using AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</title>
 		<link>https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/</link>
 		
@@ -40,184 +218,6 @@
 
 					<description><![CDATA[<p>Juniper Networks has patched multiple high-severity vulnerabilities in Junos OS and its third-party components.</p>
 <p>The post <a href="https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/">Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:04:25 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>China Targeted Foreign Investment, Sanctions Offices in Treasury Hack: Reports</title>
-		<link>https://www.securityweek.com/china-targeted-foreign-investment-sanctions-offices-in-treasury-hack-reports/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 11:25:32 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Treasury]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40741</guid>
-
-					<description><![CDATA[<p>Chinese cyberspies targeted offices dealing with foreign investments and sanctions in the recent US Treasury hack. </p>
-<p>The post <a href="https://www.securityweek.com/china-targeted-foreign-investment-sanctions-offices-in-treasury-hack-reports/">China Targeted Foreign Investment, Sanctions Offices in Treasury Hack: Reports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meloni Says Italy Is Exploring Deals on Telecoms Security, but Denies Private Talks With Musk</title>
-		<link>https://www.securityweek.com/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 17:17:16 +0000</pubDate>
-				<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[SpaceX]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40737</guid>
-
-					<description><![CDATA[<p>If the deal is sealed, SpaceX would provide encryption services for the Italian government and communications infrastructure for the military and emergency services.</p>
-<p>The post <a href="https://www.securityweek.com/meloni-says-italy-is-exploring-deals-on-telecoms-security-but-denies-private-talks-with-musk/">Meloni Says Italy Is Exploring Deals on Telecoms Security, but Denies Private Talks With Musk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Bank of America Warns of Data Breach, Trucking Cybersecurity, Treasury Hack Linked to Silk Typhoon</title>
-		<link>https://www.securityweek.com/in-other-news-bank-of-america-warns-of-data-breach-trucking-cybersecurity-treasury-hack-linked-to-silk-typhoon/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 13:21:07 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40735</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: 2025 trucking cybersecurity report, Bank of America discloses data breach, Silk Typhoon behind US Treasury hack.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-bank-of-america-warns-of-data-breach-trucking-cybersecurity-treasury-hack-linked-to-silk-typhoon/">In Other News: Bank of America Warns of Data Breach, Trucking Cybersecurity, Treasury Hack Linked to Silk Typhoon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Banshee macOS Malware Expands Targeting</title>
-		<link>https://www.securityweek.com/banshee-macos-malware-expands-target-list/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 12:25:09 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Banshee stealer]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40734</guid>
-
-					<description><![CDATA[<p>The latest version of the Banshee macOS information stealer no longer checks if the infected systems have the Russian language installed.</p>
-<p>The post <a href="https://www.securityweek.com/banshee-macos-malware-expands-target-list/">Banshee macOS Malware Expands Targeting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Major Addiction Treatment Firm BayMark Confirms Ransomware Attack Caused Data Breach</title>
-		<link>https://www.securityweek.com/major-addiction-treatment-firm-baymark-confirms-ransomware-attack-caused-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 12:11:05 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[BayMark]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40733</guid>
-
-					<description><![CDATA[<p>Substance abuse treatment provider BayMark Health Services says patient personal information was compromised in a data breach.</p>
-<p>The post <a href="https://www.securityweek.com/major-addiction-treatment-firm-baymark-confirms-ransomware-attack-caused-data-breach/">Major Addiction Treatment Firm BayMark Confirms Ransomware Attack Caused Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PayPal Phishing Campaign Employs Genuine Links to Take Over Accounts</title>
-		<link>https://www.securityweek.com/paypal-phishing-campaign-employs-genuine-links-to-take-over-accounts/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 11:50:45 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[PayPal]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40732</guid>
-
-					<description><![CDATA[<p>Fortinet warns of a phishing campaign that uses legitimate links to take over the victims’ PayPal accounts.</p>
-<p>The post <a href="https://www.securityweek.com/paypal-phishing-campaign-employs-genuine-links-to-take-over-accounts/">PayPal Phishing Campaign Employs Genuine Links to Take Over Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft DRM Hacking Raises Questions on Vulnerability Disclosures</title>
-		<link>https://www.securityweek.com/microsoft-drm-hacking-raises-questions-on-vulnerability-disclosures/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 11:20:49 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[PlayReady]]></category>
-		<category><![CDATA[vulnerability disclosure]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40731</guid>
-
-					<description><![CDATA[<p>A research project into vulnerabilities affecting Microsoft’s PlayReady DRM raises some questions on responsible disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-drm-hacking-raises-questions-on-vulnerability-disclosures/">Microsoft DRM Hacking Raises Questions on Vulnerability Disclosures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Darktrace to Acquire Incident Investigation Firm Cado Security</title>
-		<link>https://www.securityweek.com/darktrace-to-acquire-incident-investigation-firm-cado-security/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 13:58:02 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Cado Security]]></category>
-		<category><![CDATA[Darktrace]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40727</guid>
-
-					<description><![CDATA[<p>Darktrace has announced the proposed acquisition of UK-based incident investigation firm Cado Security, reportedly for up to $100 million. </p>
-<p>The post <a href="https://www.securityweek.com/darktrace-to-acquire-incident-investigation-firm-cado-security/">Darktrace to Acquire Incident Investigation Firm Cado Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Medical Billing Firm Medusind Says Data Breach Impacts 360,000 People</title>
-		<link>https://www.securityweek.com/medical-billing-firm-medusind-says-data-breach-impacts-360000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Jan 2025 13:33:29 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Medusind]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40726</guid>
-
-					<description><![CDATA[<p>Medical billing solutions provider Medusind has revealed that a data breach discovered in December 2023 impacts over 360,000 individuals.</p>
-<p>The post <a href="https://www.securityweek.com/medical-billing-firm-medusind-says-data-breach-impacts-360000-people/">Medical Billing Firm Medusind Says Data Breach Impacts 360,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
