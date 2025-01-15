@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 14 Jan 2025 12:12:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 12:10:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Compromised AWS Keys Abused in Codefinger Ransomware Attacks</title>
-		<link>https://www.securityweek.com/compromised-aws-keys-abused-in-codefinger-ransomware-attacks/</link>
+		<title>US, Japan, South Korea Blame North Korean Hackers for $660M Crypto Heists</title>
+		<link>https://www.securityweek.com/us-japan-south-korea-blame-north-korean-hackers-for-660m-crypto-heists/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 12:12:26 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[Codefinger]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40755</guid>
+		<pubDate>Wed, 15 Jan 2025 12:10:45 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40788</guid>
 
-					<description><![CDATA[<p>A ransomware group tracked as Codefinger is using compromised AWS keys to encrypt S3 bucket data using SSE-C.</p>
-<p>The post <a href="https://www.securityweek.com/compromised-aws-keys-abused-in-codefinger-ransomware-attacks/">Compromised AWS Keys Abused in Codefinger Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The US, Japan, and South Korea say North Korean hackers stole roughly $660 million in cryptocurrency last year.</p>
+<p>The post <a href="https://www.securityweek.com/us-japan-south-korea-blame-north-korean-hackers-for-660m-crypto-heists/">US, Japan, South Korea Blame North Korean Hackers for $660M Crypto Heists</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:12:32 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:10:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>CISA Warns of Second BeyondTrust Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/cisa-warns-of-second-beyondtrust-vulnerability-exploited-in-attacks/</link>
+		<title>Ivanti Patches Critical Vulnerabilities in Endpoint Manager</title>
+		<link>https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager-2/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 11:47:05 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40754</guid>
+		<pubDate>Wed, 15 Jan 2025 11:51:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40787</guid>
 
-					<description><![CDATA[<p>Attackers have been exploiting a second vulnerability in BeyondTrust’s remote management solutions, CISA warns.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-second-beyondtrust-vulnerability-exploited-in-attacks/">CISA Warns of Second BeyondTrust Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Ivanti has released patches for multiple vulnerabilities in Endpoint Manager (EPM), including four critical-severity flaws.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager-2/">Ivanti Patches Critical Vulnerabilities in Endpoint Manager</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Many Ivanti VPNs Still Unpatched as UK Domain Registry Emerges as Victim of Exploitation</title>
-		<link>https://www.securityweek.com/many-ivanti-vpns-still-unpatched-as-uk-domain-registry-emerges-as-victim-of-exploitation/</link>
+		<title>Fortinet Confirms New Zero-Day Exploitation </title>
+		<link>https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 11:20:00 +0000</pubDate>
+		<pubDate>Wed, 15 Jan 2025 11:31:57 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Nominet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40752</guid>
-
-					<description><![CDATA[<p>Many Ivanti VPNs are still exposed to attacks exploiting a recent vulnerability tracked as CVE-2025-0282 and Nominet has been named as a victim.</p>
-<p>The post <a href="https://www.securityweek.com/many-ivanti-vpns-still-unpatched-as-uk-domain-registry-emerges-as-victim-of-exploitation/">Many Ivanti VPNs Still Unpatched as UK Domain Registry Emerges as Victim of Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Aviatrix Controller Vulnerability Exploited Against Cloud Environments</title>
-		<link>https://www.securityweek.com/critical-aviatrix-controller-vulnerability-exploited-against-cloud-environments/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 10:46:31 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Aviatrix]]></category>
-		<category><![CDATA[cloud security]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40753</guid>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40785</guid>
 
-					<description><![CDATA[<p>Attackers are exploiting a critical vulnerability in Aviatrix Controller to execute arbitrary code in AWS cloud environments.</p>
-<p>The post <a href="https://www.securityweek.com/critical-aviatrix-controller-vulnerability-exploited-against-cloud-environments/">Critical Aviatrix Controller Vulnerability Exploited Against Cloud Environments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Fortinet patches critical vulnerabilities, including a zero-day that has been exploited in the wild since at least November 2024. </p>
+<p>The post <a href="https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/">Fortinet Confirms New Zero-Day Exploitation </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Infostealer Infections Lead to Telefonica Ticketing System Breach</title>
-		<link>https://www.securityweek.com/infostealer-infections-lead-to-telefonica-internal-ticketing-system-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 05:03:14 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Telefonica]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40750</guid>
-
-					<description><![CDATA[<p>Infostealer malware allowed threat actors to compromise Telefonica employees’ credentials and access the company’s internal ticketing system.</p>
-<p>The post <a href="https://www.securityweek.com/infostealer-infections-lead-to-telefonica-internal-ticketing-system-breach/">Infostealer Infections Lead to Telefonica Ticketing System Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Won’t Take This Job: Microsoft Says Human Ingenuity Crucial to Red-Teaming</title>
-		<link>https://www.securityweek.com/ai-wont-take-this-job-microsoft-says-human-ingenuity-crucial-to-red-teaming/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 18:42:37 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[PyRIT]]></category>
-		<category><![CDATA[Red Team]]></category>
-		<category><![CDATA[SSRF]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40748</guid>
-
-					<description><![CDATA[<p>Redmond's AI Red Team says human involvement remains irreplaceable in addressing nuanced risks.</p>
-<p>The post <a href="https://www.securityweek.com/ai-wont-take-this-job-microsoft-says-human-ingenuity-crucial-to-red-teaming/">AI Won’t Take This Job: Microsoft Says Human Ingenuity Crucial to Red-Teaming</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Infostealer Masquerades as PoC Code Targeting Recent LDAP Vulnerability</title>
-		<link>https://www.securityweek.com/infostealer-masquerades-as-poc-code-targeting-recent-ldap-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 14:23:12 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[fake PoC]]></category>
-		<category><![CDATA[LDAPNightmare]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PoC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40747</guid>
-
-					<description><![CDATA[<p>A fake proof-of-concept (PoC) exploit for a recent LDAP vulnerability distributes information stealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/infostealer-masquerades-as-poc-code-targeting-recent-ldap-vulnerability/">Infostealer Masquerades as PoC Code Targeting Recent LDAP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Charges 3 Russians for Operating Cryptocurrency Mixers Used by Cybercriminals</title>
-		<link>https://www.securityweek.com/us-charges-3-russians-for-operating-cryptocurrency-mixers-used-by-cybercriminals/</link>
+		<title>ICS Patch Tuesday: Security Advisories Published by Schneider, Siemens, Phoenix Contact, CISA</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-security-advisories-published-by-schneider-siemens-phoenix-contact-cisa/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 13:39:26 +0000</pubDate>
+		<pubDate>Wed, 15 Jan 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40784</guid>
+
+					<description><![CDATA[<p>Schneider Electric, Siemens, CISA, and Phoenix Contact have released January 2025 Patch Tuesday ICS security advisories.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-security-advisories-published-by-schneider-siemens-phoenix-contact-cisa/">ICS Patch Tuesday: Security Advisories Published by Schneider, Siemens, Phoenix Contact, CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe: Critical Code Execution Flaws in Photoshop</title>
+		<link>https://www.securityweek.com/adobe-critical-code-execution-flaws-in-photoshop/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 20:03:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Illustrator]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[Substance3D]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40781</guid>
+
+					<description><![CDATA[<p>Patch Tuesday: Adobe ships patches for more than a dozen security defects in a wide range of software products. </p>
+<p>The post <a href="https://www.securityweek.com/adobe-critical-code-execution-flaws-in-photoshop/">Adobe: Critical Code Execution Flaws in Photoshop</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Trio of Exploited Windows Hyper-V Zero-Days</title>
+		<link>https://www.securityweek.com/microsoft-patches-trio-of-exploited-windows-hyper-v-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 19:26:39 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-21333]]></category>
+		<category><![CDATA[CVE-2025-21334]]></category>
+		<category><![CDATA[CVE-2025-21335]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hyper-V]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40778</guid>
+
+					<description><![CDATA[<p>Patch Tuesday: Microsoft's January Patch Tuesday rollout includes fixes for 160 security defects, the largest number of CVEs addressed in any single month since at least 2017.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-trio-of-exploited-windows-hyper-v-zero-days/">Microsoft Patches Trio of Exploited Windows Hyper-V Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Biden Signs Executive Order Aimed at Growing AI Infrastructure in the US</title>
+		<link>https://www.securityweek.com/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 19:06:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40776</guid>
+
+					<description><![CDATA[<p>The executive order comes on the heels of the Biden administration’s proposed restrictions on exports of AI chips, an attempt to balance national security concerns about the technology with economic interests of producers and other countries.</p>
+<p>The post <a href="https://www.securityweek.com/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/">Biden Signs Executive Order Aimed at Growing AI Infrastructure in the US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Considers Banning Ransomware Payment by Public Sector and CNI</title>
+		<link>https://www.securityweek.com/uk-considers-banning-ransomware-payment-by-public-sector-and-cni/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 18:51:46 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Sinbad]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40746</guid>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40775</guid>
 
-					<description><![CDATA[<p>The US Justice Department has announced charges against three Russians for operating the Blender and Sinbad cryptocurrency mixers.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-3-russians-for-operating-cryptocurrency-mixers-used-by-cybercriminals/">US Charges 3 Russians for Operating Cryptocurrency Mixers Used by Cybercriminals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Since no technical means have been found to curtail criminal extortion through prevention or attack, the new proposal is to eliminate its profitability. </p>
+<p>The post <a href="https://www.securityweek.com/uk-considers-banning-ransomware-payment-by-public-sector-and-cni/">UK Considers Banning Ransomware Payment by Public Sector and CNI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Emerging FunkSec Ransomware Developed Using AI</title>
-		<link>https://www.securityweek.com/emerging-funksec-ransomware-developed-using-ai/</link>
+		<title>WEF Report Reveals Growing Cyber Resilience Divide Between Public and Private Sectors</title>
+		<link>https://www.securityweek.com/wef-report-reveals-growing-cyber-resilience-divide-between-public-and-private-sectors/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 12:21:01 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40745</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 18:30:38 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Resilience]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40774</guid>
 
-					<description><![CDATA[<p>Developed with the help of AI, the emerging FunkSec ransomware claimed over 80 victims in December 2024.</p>
-<p>The post <a href="https://www.securityweek.com/emerging-funksec-ransomware-developed-using-ai/">Emerging FunkSec Ransomware Developed Using AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>WEF's Global Cybersecurity Outlook 2025 report highlights key challenges like the skills gap, third-party risks, and resilience disparities between businesses and private sectors.</p>
+<p>The post <a href="https://www.securityweek.com/wef-report-reveals-growing-cyber-resilience-divide-between-public-and-private-sectors/">WEF Report Reveals Growing Cyber Resilience Divide Between Public and Private Sectors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</title>
-		<link>https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/</link>
+		<title>BforeAI Raises $10 Million for Predictive Attack Intelligence</title>
+		<link>https://www.securityweek.com/bforeai-raises-10-million-for-predictive-attack-intelligence/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jan 2025 12:04:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40743</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[BforeAI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40759</guid>
 
-					<description><![CDATA[<p>Juniper Networks has patched multiple high-severity vulnerabilities in Junos OS and its third-party components.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-fixes-high-severity-vulnerabilities-in-junos-os/">Juniper Networks Fixes High-Severity Vulnerabilities in Junos OS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>BforeAI has raised $10 million in Series B funding, which brings the total raised by the security firm to more than $30 million.</p>
+<p>The post <a href="https://www.securityweek.com/bforeai-raises-10-million-for-predictive-attack-intelligence/">BforeAI Raises $10 Million for Predictive Attack Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
