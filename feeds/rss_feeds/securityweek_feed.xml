@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 15 Jan 2025 12:10:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jan 2025 11:54:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>US, Japan, South Korea Blame North Korean Hackers for $660M Crypto Heists</title>
-		<link>https://www.securityweek.com/us-japan-south-korea-blame-north-korean-hackers-for-660m-crypto-heists/</link>
+		<title>Cyber Insights 2025: Identities</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-identities/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Jan 2025 12:10:45 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[heist]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40788</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[IAM]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[Zero Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40819</guid>
 
-					<description><![CDATA[<p>The US, Japan, and South Korea say North Korean hackers stole roughly $660 million in cryptocurrency last year.</p>
-<p>The post <a href="https://www.securityweek.com/us-japan-south-korea-blame-north-korean-hackers-for-660m-crypto-heists/">US, Japan, South Korea Blame North Korean Hackers for $660M Crypto Heists</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Both human and machine identities occupy a unique position: they are simultaneously the foundation of cybersecurity and its weakest link.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-identities/">Cyber Insights 2025: Identities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:10:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:00:02 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Ivanti Patches Critical Vulnerabilities in Endpoint Manager</title>
-		<link>https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager-2/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Jan 2025 11:51:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40787</guid>
-
-					<description><![CDATA[<p>Ivanti has released patches for multiple vulnerabilities in Endpoint Manager (EPM), including four critical-severity flaws.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-vulnerabilities-in-endpoint-manager-2/">Ivanti Patches Critical Vulnerabilities in Endpoint Manager</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Confirms New Zero-Day Exploitation </title>
-		<link>https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Jan 2025 11:31:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40785</guid>
-
-					<description><![CDATA[<p>Fortinet patches critical vulnerabilities, including a zero-day that has been exploited in the wild since at least November 2024. </p>
-<p>The post <a href="https://www.securityweek.com/fortinet-confirms-new-zero-day-exploitation/">Fortinet Confirms New Zero-Day Exploitation </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Security Advisories Published by Schneider, Siemens, Phoenix Contact, CISA</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-security-advisories-published-by-schneider-siemens-phoenix-contact-cisa/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Jan 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40784</guid>
-
-					<description><![CDATA[<p>Schneider Electric, Siemens, CISA, and Phoenix Contact have released January 2025 Patch Tuesday ICS security advisories.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-security-advisories-published-by-schneider-siemens-phoenix-contact-cisa/">ICS Patch Tuesday: Security Advisories Published by Schneider, Siemens, Phoenix Contact, CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe: Critical Code Execution Flaws in Photoshop</title>
-		<link>https://www.securityweek.com/adobe-critical-code-execution-flaws-in-photoshop/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 20:03:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Illustrator]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[Photoshop]]></category>
-		<category><![CDATA[Substance3D]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40781</guid>
-
-					<description><![CDATA[<p>Patch Tuesday: Adobe ships patches for more than a dozen security defects in a wide range of software products. </p>
-<p>The post <a href="https://www.securityweek.com/adobe-critical-code-execution-flaws-in-photoshop/">Adobe: Critical Code Execution Flaws in Photoshop</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Trio of Exploited Windows Hyper-V Zero-Days</title>
-		<link>https://www.securityweek.com/microsoft-patches-trio-of-exploited-windows-hyper-v-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 19:26:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-21333]]></category>
-		<category><![CDATA[CVE-2025-21334]]></category>
-		<category><![CDATA[CVE-2025-21335]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hyper-V]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40778</guid>
-
-					<description><![CDATA[<p>Patch Tuesday: Microsoft's January Patch Tuesday rollout includes fixes for 160 security defects, the largest number of CVEs addressed in any single month since at least 2017.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-trio-of-exploited-windows-hyper-v-zero-days/">Microsoft Patches Trio of Exploited Windows Hyper-V Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Biden Signs Executive Order Aimed at Growing AI Infrastructure in the US</title>
-		<link>https://www.securityweek.com/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/</link>
+		<title>Biden Executive Order Aims to Shore Up US Cyber Defenses</title>
+		<link>https://www.securityweek.com/biden-executive-order-aims-to-shore-up-us-cyber-defenses/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 19:06:04 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40776</guid>
+		<pubDate>Thu, 16 Jan 2025 11:50:09 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40825</guid>
 
-					<description><![CDATA[<p>The executive order comes on the heels of the Biden administration’s proposed restrictions on exports of AI chips, an attempt to balance national security concerns about the technology with economic interests of producers and other countries.</p>
-<p>The post <a href="https://www.securityweek.com/biden-signs-executive-order-aimed-at-growing-ai-infrastructure-in-the-us/">Biden Signs Executive Order Aimed at Growing AI Infrastructure in the US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>President Joe Biden issued an executive order aimed at strengthening the nation’s cybersecurity and making it easier to go after foreign adversaries or hacking groups.</p>
+<p>The post <a href="https://www.securityweek.com/biden-executive-order-aims-to-shore-up-us-cyber-defenses/">Biden Executive Order Aims to Shore Up US Cyber Defenses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>UK Considers Banning Ransomware Payment by Public Sector and CNI</title>
-		<link>https://www.securityweek.com/uk-considers-banning-ransomware-payment-by-public-sector-and-cni/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 18:51:46 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40775</guid>
-
-					<description><![CDATA[<p>Since no technical means have been found to curtail criminal extortion through prevention or attack, the new proposal is to eliminate its profitability. </p>
-<p>The post <a href="https://www.securityweek.com/uk-considers-banning-ransomware-payment-by-public-sector-and-cni/">UK Considers Banning Ransomware Payment by Public Sector and CNI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WEF Report Reveals Growing Cyber Resilience Divide Between Public and Private Sectors</title>
-		<link>https://www.securityweek.com/wef-report-reveals-growing-cyber-resilience-divide-between-public-and-private-sectors/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 18:30:38 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[Resilience]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40774</guid>
-
-					<description><![CDATA[<p>WEF's Global Cybersecurity Outlook 2025 report highlights key challenges like the skills gap, third-party risks, and resilience disparities between businesses and private sectors.</p>
-<p>The post <a href="https://www.securityweek.com/wef-report-reveals-growing-cyber-resilience-divide-between-public-and-private-sectors/">WEF Report Reveals Growing Cyber Resilience Divide Between Public and Private Sectors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BforeAI Raises $10 Million for Predictive Attack Intelligence</title>
-		<link>https://www.securityweek.com/bforeai-raises-10-million-for-predictive-attack-intelligence/</link>
+		<title>Data From 15,000 Fortinet Firewalls Leaked by Hackers</title>
+		<link>https://www.securityweek.com/data-from-15000-fortinet-firewalls-leaked-by-hackers/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[BforeAI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40759</guid>
+		<pubDate>Thu, 16 Jan 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40815</guid>
 
-					<description><![CDATA[<p>BforeAI has raised $10 million in Series B funding, which brings the total raised by the security firm to more than $30 million.</p>
-<p>The post <a href="https://www.securityweek.com/bforeai-raises-10-million-for-predictive-attack-intelligence/">BforeAI Raises $10 Million for Predictive Attack Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers have leaked 15,000 Fortinet firewall configurations, which were apparently obtained as a result of exploitation of CVE-2022–40684.</p>
+<p>The post <a href="https://www.securityweek.com/data-from-15000-fortinet-firewalls-leaked-by-hackers/">Data From 15,000 Fortinet Firewalls Leaked by Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>2024 US Healthcare Data Breaches: 585 Incidents, 180 Million Compromised User Records</title>
+		<link>https://www.securityweek.com/2024-us-healthcare-data-breaches-585-incidents-180-million-compromised-user-records/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40813</guid>
+
+					<description><![CDATA[<p>In 2024 organizations informed the US government about 585 healthcare data breaches affecting a total of nearly 180 million user records.</p>
+<p>The post <a href="https://www.securityweek.com/2024-us-healthcare-data-breaches-585-incidents-180-million-compromised-user-records/">2024 US Healthcare Data Breaches: 585 Incidents, 180 Million Compromised User Records</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Head of US Cybersecurity Agency Says She Hopes It Keeps up Election Work Under Trump</title>
+		<link>https://www.securityweek.com/head-of-us-cybersecurity-agency-says-she-hopes-it-keeps-up-election-work-under-trump/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 02:27:36 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40808</guid>
+
+					<description><![CDATA[<p>Jen Easterly hopes CISA is allowed to continue its election-related work under new leadership despite “contentiousness” around that part of its mission.</p>
+<p>The post <a href="https://www.securityweek.com/head-of-us-cybersecurity-agency-says-she-hopes-it-keeps-up-election-work-under-trump/">Head of US Cybersecurity Agency Says She Hopes It Keeps up Election Work Under Trump</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI Uses Malware’s Own ‘Self-Delete’ Trick to Erase Chinese PlugX From US Computers</title>
+		<link>https://www.securityweek.com/fbi-uses-malwares-own-self-delete-trick-to-erase-chinese-plugx-from-us-computers/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 19:52:23 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Justice Department]]></category>
+		<category><![CDATA[Mustang Panda]]></category>
+		<category><![CDATA[PlugX]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40805</guid>
+
+					<description><![CDATA[<p>Law enforcement turns the PlugX malware’s own self-delete mechanism against it, nuking the China-linked trojan from thousands of US machines.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-uses-malwares-own-self-delete-trick-to-erase-chinese-plugx-from-us-computers/">FBI Uses Malware’s Own ‘Self-Delete’ Trick to Erase Chinese PlugX From US Computers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DORA&#8217;s Deadline Looms: Navigating the EU&#8217;s Mandate for Threat Led Penetration Testing</title>
+		<link>https://www.securityweek.com/doras-deadline-looms-navigating-the-eus-mandate-for-threat-led-penetration-testing/</link>
+		
+		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 16:45:47 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[DORA]]></category>
+		<category><![CDATA[EU]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40803</guid>
+
+					<description><![CDATA[<p>With DORA’s January 2025 compliance deadline approaching, financial institutions must embrace rigorous testing, tailored threat profiles, and continuous vigilance to safeguard against cyber threats.</p>
+<p>The post <a href="https://www.securityweek.com/doras-deadline-looms-navigating-the-eus-mandate-for-threat-led-penetration-testing/">DORA&#8217;s Deadline Looms: Navigating the EU&#8217;s Mandate for Threat Led Penetration Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: Open Source and Software Supply Chain Security</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-open-source-and-the-software-supply-chain/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 15:14:44 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40791</guid>
+
+					<description><![CDATA[<p>Open source software (OSS) is a prime target for supply chain cyberattacks and protecting it remains a major challenge.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-open-source-and-the-software-supply-chain/">Cyber Insights 2025: Open Source and Software Supply Chain Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google OAuth Flaw Leads to Account Takeover When Domain Ownership Changes</title>
+		<link>https://www.securityweek.com/google-oauth-flaw-leads-to-account-takeover-when-domain-ownership-changes/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 14:58:44 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[email takeover]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[OAuth]]></category>
+		<category><![CDATA[Truffle Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40798</guid>
+
+					<description><![CDATA[<p>A vulnerability in Google’s OAuth implementation allows takeover of old employee accounts when domain ownership changes.</p>
+<p>The post <a href="https://www.securityweek.com/google-oauth-flaw-leads-to-account-takeover-when-domain-ownership-changes/">Google OAuth Flaw Leads to Account Takeover When Domain Ownership Changes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 132 Patches 16 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-132-patches-16-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 13:32:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40790</guid>
+
+					<description><![CDATA[<p>Google has released Chrome 132 with fixes for 16 vulnerabilities, including multiple high-severity security defects.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-132-patches-16-vulnerabilities/">Chrome 132 Patches 16 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
