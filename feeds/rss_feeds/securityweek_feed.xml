@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 18 Jan 2025 08:46:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jan 2025 11:38:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,65 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA, FBI Update Software Security Recommendations </title>
+		<link>https://www.securityweek.com/cisa-fbi-update-software-security-recommendations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 11:38:43 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[guidance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40867</guid>
+
+					<description><![CDATA[<p>CISA and the FBI have updated their guidance regarding risky software security bad practices based on feedback received from the public.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-fbi-update-software-security-recommendations/">CISA, FBI Update Software Security Recommendations </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 11:38:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>HPE Investigating Breach Claims After Hacker Offers to Sell Data</title>
+		<link>https://www.securityweek.com/hpe-investigating-breach-claims-after-hacker-offers-to-sell-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 11:18:40 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[HPE]]></category>
+		<category><![CDATA[IntelBroker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40866</guid>
+
+					<description><![CDATA[<p>HPE is investigating claims by the hacker IntelBroker, who is offering to sell source code and other data allegedly stolen from the tech giant.</p>
+<p>The post <a href="https://www.securityweek.com/hpe-investigating-breach-claims-after-hacker-offers-to-sell-data/">HPE Investigating Breach Claims After Hacker Offers to Sell Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TikTok Restores Service for US Users Based on Trump&#8217;s Promised Executive Order</title>
+		<link>https://www.securityweek.com/tiktok-restores-service-for-us-users-based-on-trumps-promised-executive-order/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ban]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40865</guid>
+
+					<description><![CDATA[<p>TikTok restored service to users in the United States on Sunday just hours after the popular video-sharing platform went dark in response to a federal ban.</p>
+<p>The post <a href="https://www.securityweek.com/tiktok-restores-service-for-us-users-based-on-trumps-promised-executive-order/">TikTok Restores Service for US Users Based on Trump&#8217;s Promised Executive Order</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Treasury Levels Sanctions Tied to a Massive Hack of Telecom Companies and Breach of Its Own Network</title>
 		<link>https://www.securityweek.com/treasury-levels-sanctions-tied-to-a-massive-hack-of-telecom-companies-and-breach-of-its-own-network/</link>
 		
@@ -48,7 +107,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 13, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-13-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-13-2025/</guid><pubDate>Mon, 13 Jan 2025 12:00:01 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 13, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>TikTok Says It Will &#8216;Go Dark&#8217; Unless It Gets Clarity From Biden Following Supreme Court Ruling</title>
 		<link>https://www.securityweek.com/tiktok-says-it-will-go-dark-unless-it-gets-clarity-from-biden-following-supreme-court-ruling/</link>
@@ -157,62 +216,6 @@
 
 					<description><![CDATA[<p>The US Treasury has sanctioned two individuals and four entities involved in the North Korean fake IT worker scheme.</p>
 <p>The post <a href="https://www.securityweek.com/us-announces-sanctions-against-north-korean-fake-it-worker-network/">US Announces Sanctions Against North Korean Fake IT Worker Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to Biden&#8217;s Cybersecurity Executive Order: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-bidens-cybersecurity-executive-order-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 17 Jan 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40836</guid>
-
-					<description><![CDATA[<p>Industry professionals comment on the Biden administration’s new executive order on cybersecurity. </p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-bidens-cybersecurity-executive-order-feedback-friday/">Industry Reactions to Biden&#8217;s Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities in SimpleHelp Remote Access Software May Lead to System Compromise</title>
-		<link>https://www.securityweek.com/vulnerabilities-in-simplehelp-remote-access-software-may-lead-to-system-compromise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jan 2025 05:02:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40833</guid>
-
-					<description><![CDATA[<p>Three vulnerabilities in SimpleHelp could allow attackers to compromise the remote access software’s server and the client machine.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-in-simplehelp-remote-access-software-may-lead-to-system-compromise/">Vulnerabilities in SimpleHelp Remote Access Software May Lead to System Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Unveils New AI Application Security Solution</title>
-		<link>https://www.securityweek.com/cisco-unveils-new-ai-application-security-solution/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[security product]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40832</guid>
-
-					<description><![CDATA[<p>Cisco has unveiled AI Defense, a solution designed to help organizations protect development and use of AI applications. </p>
-<p>The post <a href="https://www.securityweek.com/cisco-unveils-new-ai-application-security-solution/">Cisco Unveils New AI Application Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
