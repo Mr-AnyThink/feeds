@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 22 Jan 2025 12:01:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 11:43:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,206 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Record-Breaking DDoS Attack Reached 5.6 Tbps</title>
-		<link>https://www.securityweek.com/record-breaking-ddos-attack-reached-5-6-tbps/</link>
+		<title>Cisco Patches Critical Vulnerability in Meeting Management</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 12:01:01 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[DDoS record]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40902</guid>
+		<pubDate>Thu, 23 Jan 2025 11:42:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40930</guid>
 
-					<description><![CDATA[<p>Cloudflare saw a 53% increase in DDoS attack frequency last year, when it blocked a record-breaking 5.6 Tbps attack.</p>
-<p>The post <a href="https://www.securityweek.com/record-breaking-ddos-attack-reached-5-6-tbps/">Record-Breaking DDoS Attack Reached 5.6 Tbps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco has released patches for three vulnerabilities, including a critical privilege escalation bug and a DoS flaw for which exploit code exists.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/">Cisco Patches Critical Vulnerability in Meeting Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 12:01:07 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 11:43:13 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Researcher Says ABB Building Control Products Affected by 1,000 Vulnerabilities</title>
-		<link>https://www.securityweek.com/researcher-says-abb-building-control-products-affected-by-1000-vulnerabilities/</link>
+		<title>SonicWall Learns From Microsoft About Potentially Exploited Zero-Day</title>
+		<link>https://www.securityweek.com/sonicwall-learns-from-microsoft-about-potentially-exploited-zero-day/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 11:28:06 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[building]]></category>
-		<category><![CDATA[ICS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40897</guid>
+		<pubDate>Thu, 23 Jan 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SMA]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40928</guid>
 
-					<description><![CDATA[<p>ABB has patched building control product vulnerabilities that can expose many facilities to remote attacks.</p>
-<p>The post <a href="https://www.securityweek.com/researcher-says-abb-building-control-products-affected-by-1000-vulnerabilities/">Researcher Says ABB Building Control Products Affected by 1,000 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SonicWall has credited Microsoft for reporting CVE-2025-23006, a critical remote command execution vulnerability possibly exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-learns-from-microsoft-about-potentially-exploited-zero-day/">SonicWall Learns From Microsoft About Potentially Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Book Review: Infected &#8211; A Candid Look at VirusTotal’s Birth and Legacy</title>
-		<link>https://www.securityweek.com/book-review-infected-a-candid-look-at-virustotals-birth-and-legacy/</link>
+		<title>Record Number of Ransomware Attacks in December 2024</title>
+		<link>https://www.securityweek.com/record-number-of-ransomware-attacks-in-december-2024/</link>
 		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Bernardo Quintero]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Infected]]></category>
-		<category><![CDATA[VirusTotal]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40885</guid>
-
-					<description><![CDATA[<p>Part entrepreneurial adventure, part security history, Bernardo Quintero's 'Infected' documents how the VirusTotal  side project became a threat-intel cornerstone.</p>
-<p>The post <a href="https://www.securityweek.com/book-review-infected-a-candid-look-at-virustotals-birth-and-legacy/">Book Review: Infected &#8211; A Candid Look at VirusTotal’s Birth and Legacy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Pardons Founder of Silk Road Website</title>
-		<link>https://www.securityweek.com/trump-pardons-founder-of-silk-road-website/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[pardoned]]></category>
-		<category><![CDATA[Ross Ulbricht]]></category>
-		<category><![CDATA[Silk Road]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40891</guid>
-
-					<description><![CDATA[<p>President Donald Trump has pardoned Ross Ulbricht, the founder of Silk Road, an underground website for selling drugs.</p>
-<p>The post <a href="https://www.securityweek.com/trump-pardons-founder-of-silk-road-website/">Trump Pardons Founder of Silk Road Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mitiga Banks $30M Series B to Expand Cloud and SaaS Security Platform</title>
-		<link>https://www.securityweek.com/mitiga-banks30m-series-b-to-expand-cloud-and-saas-security-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 21:33:47 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<category><![CDATA[Series B]]></category>
-		<category><![CDATA[SYN Ventures]]></category>
-		<category><![CDATA[TDIR]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40886</guid>
-
-					<description><![CDATA[<p>New York/Israel startup selling threat detection, investigation, and response tools raised $30 million in a Series B led by SYN Ventures. </p>
-<p>The post <a href="https://www.securityweek.com/mitiga-banks30m-series-b-to-expand-cloud-and-saas-security-platform/">Mitiga Banks $30M Series B to Expand Cloud and SaaS Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Groups Abuse Microsoft Services for Initial Access</title>
-		<link>https://www.securityweek.com/ransomware-groups-abuse-microsoft-services-for-initial-access/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 13:47:43 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 09:53:30 +0000</pubDate>
 				<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40883</guid>
+		<category><![CDATA[record]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40925</guid>
 
-					<description><![CDATA[<p>Sophos warns of two ransomware groups abusing Microsoft 365 services and default configurations to contact internal enterprise users.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-groups-abuse-microsoft-services-for-initial-access/">Ransomware Groups Abuse Microsoft Services for Initial Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>NCC Group saw over 570 ransomware attacks in December 2024, the highest number since it started monitoring them in 2021. </p>
+<p>The post <a href="https://www.securityweek.com/record-number-of-ransomware-attacks-in-december-2024/">Record Number of Ransomware Attacks in December 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyber Insights 2025: Attack Surface Management</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-attack-surface-management/</link>
+		<title>FBI/CISA Share Details on Ivanti Exploits Chains: What Network Defenders Need to Know</title>
+		<link>https://www.securityweek.com/fbi-cisa-share-details-on-ivanti-exploits-chains-what-network-defenders-need-to-know/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 13:44:53 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[attack surface management]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40875</guid>
-
-					<description><![CDATA[<p>SecurityWeek's Cyber Insights 2025 examines expert opinions to gain their opinions on what to expect in Attack Surface Management in 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-attack-surface-management/">Cyber Insights 2025: Attack Surface Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Students, Educators Impacted by PowerSchool Data Breach</title>
-		<link>https://www.securityweek.com/students-educators-impacted-by-powerschool-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 12:45:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[education]]></category>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 00:46:20 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CVE-2024-8190]]></category>
+		<category><![CDATA[CVE-2024-8963]]></category>
+		<category><![CDATA[CVE-2024-9379]]></category>
+		<category><![CDATA[CVE-2024-9380]]></category>
+		<category><![CDATA[FBI]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PowerSchool]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[school]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40880</guid>
+		<category><![CDATA[Ivanti]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40920</guid>
 
-					<description><![CDATA[<p>PowerSchool says the personal information of students and educators was stolen in a December 2024 data breach.</p>
-<p>The post <a href="https://www.securityweek.com/students-educators-impacted-by-powerschool-data-breach/">Students, Educators Impacted by PowerSchool Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The US government shared exploit chains,  IOCs and post-incident forensics data to help network defenders hunt for signs of Chinese hacking gangs.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-cisa-share-details-on-ivanti-exploits-chains-what-network-defenders-need-to-know/">FBI/CISA Share Details on Ivanti Exploits Chains: What Network Defenders Need to Know</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Washington Man Admits to Role in Multiple Cybercrime, Fraud Schemes</title>
-		<link>https://www.securityweek.com/washington-man-admits-to-role-in-multiple-cybercrime-fraud-schemes/</link>
+		<title>DHS Disbands Cyber Safety Review Board, Ending One of CISA’s Few Bright Spots</title>
+		<link>https://www.securityweek.com/dhs-disbands-cyber-safety-review-board-ending-one-of-cisas-few-bright-spots/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40873</guid>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 17:24:34 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CSRB]]></category>
+		<category><![CDATA[DHS]]></category>
+		<category><![CDATA[Lapsus$]]></category>
+		<category><![CDATA[Log4Shell]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40917</guid>
 
-					<description><![CDATA[<p>Marco Raquan Honesty has pleaded guilty to his roles in several fraud schemes, including smishing, identity theft, and bank account takeover.</p>
-<p>The post <a href="https://www.securityweek.com/washington-man-admits-to-role-in-multiple-cybercrime-fraud-schemes/">Washington Man Admits to Role in Multiple Cybercrime, Fraud Schemes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Trump administration has disbanded the Cyber Safety Review Board (CSRB), ending one of the few bright spots at CISA.</p>
+<p>The post <a href="https://www.securityweek.com/dhs-disbands-cyber-safety-review-board-ending-one-of-cisas-few-bright-spots/">DHS Disbands Cyber Safety Review Board, Ending One of CISA’s Few Bright Spots</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Social Media Security Firm Spikerz Raises $7 Million</title>
-		<link>https://www.securityweek.com/social-media-security-firm-spikerz-raises-7-million/</link>
+		<title>Application Security Firm DryRun Raises $8.7 Million in Seed Funding </title>
+		<link>https://www.securityweek.com/application-security-firm-dryrun-raises-8-7-million-in-seed-funding/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 13:41:41 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
+		<pubDate>Wed, 22 Jan 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[DryRun]]></category>
 		<category><![CDATA[funding]]></category>
 		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Spikers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40872</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40910</guid>
 
-					<description><![CDATA[<p>Social media security startup Spikerz has raised $7 million in a seed funding round led by Disruptive AI.</p>
-<p>The post <a href="https://www.securityweek.com/social-media-security-firm-spikerz-raises-7-million/">Social Media Security Firm Spikerz Raises $7 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>DryRun Security has raised $8.7 million in a seed funding round for its AI-powered application security solutions. </p>
+<p>The post <a href="https://www.securityweek.com/application-security-firm-dryrun-raises-8-7-million-in-seed-funding/">Application Security Firm DryRun Raises $8.7 Million in Seed Funding </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Doti AI Raises $7 Million Seed Funding for Instant Access to Internal Company Data</title>
+		<link>https://www.securityweek.com/doti-ai-raises-7-million-seed-funding-for-instant-access-to-internal-company-data/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 15:27:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40912</guid>
+
+					<description><![CDATA[<p>Doti's platform uses AI to improve, automate, and streamline standard office and business processes across distributed and hybrid environments. </p>
+<p>The post <a href="https://www.securityweek.com/doti-ai-raises-7-million-seed-funding-for-instant-access-to-internal-company-data/">Doti AI Raises $7 Million Seed Funding for Instant Access to Internal Company Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Call for Presentations Open for SecurityWeek’s 2025 Supply Chain Security &#038; Third-Party Risk Summit</title>
+		<link>https://www.securityweek.com/call-for-presentations-open-for-securityweeks-2025-supply-chain-security-third-party-risk-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 14:09:40 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Conference]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40909</guid>
+
+					<description><![CDATA[<p>Join Us in Shaping the Future of Supply Chain Security -  Don’t miss this chance to be part of the conversation addressing one of the most pressing cybersecurity challenges .</p>
+<p>The post <a href="https://www.securityweek.com/call-for-presentations-open-for-securityweeks-2025-supply-chain-security-third-party-risk-summit/">Call for Presentations Open for SecurityWeek’s 2025 Supply Chain Security &amp; Third-Party Risk Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: APIs – The Threat Continues</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-apis-the-threat-continues/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Cyber Insights]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40892</guid>
+
+					<description><![CDATA[<p>APIs are easy to develop, simple to implement, and frequently attacked. They are  prime and lucrative targets for cybercriminals. </p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-apis-the-threat-continues/">Cyber Insights 2025: APIs – The Threat Continues</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over $380,000 Paid Out on First Day of Pwn2Own Automotive 2025</title>
+		<link>https://www.securityweek.com/over-380000-paid-out-on-first-day-of-pwn2own-automotive-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2025 13:34:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[automotive]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40905</guid>
+
+					<description><![CDATA[<p>$380,000 paid out on the first day of Pwn2Own Automotive 2025 for exploits targeting car infotainment units, operating systems, and chargers. </p>
+<p>The post <a href="https://www.securityweek.com/over-380000-paid-out-on-first-day-of-pwn2own-automotive-2025/">Over $380,000 Paid Out on First Day of Pwn2Own Automotive 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
