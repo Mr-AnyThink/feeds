@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 23 Jan 2025 11:43:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jan 2025 12:02:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,183 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Millions Impacted by PowerSchool Data Breach</title>
+		<link>https://www.securityweek.com/millions-impacted-by-powerschool-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[PowerSchool]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40954</guid>
+
+					<description><![CDATA[<p>Four decades of student and educator information was stolen from PowerSchool – tens of millions are potentially affected.</p>
+<p>The post <a href="https://www.securityweek.com/millions-impacted-by-powerschool-data-breach/">Millions Impacted by PowerSchool Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 12:02:22 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Cyber Insights 2025: Social Engineering Gets AI Wings</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-social-engineering-gets-ai-wings/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 11:48:28 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40955</guid>
+
+					<description><![CDATA[<p>Business resilience must be the ultimate purpose of all the security controls and processes we employ, because we will never conclusively defeat or protect ourselves from social engineering.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-social-engineering-gets-ai-wings/">Cyber Insights 2025: Social Engineering Gets AI Wings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Earn $886,000 at Pwn2Own Automotive 2025 for Charger, OS, Infotainment Exploits</title>
+		<link>https://www.securityweek.com/hackers-earn-886000-at-pwn2own-automotive-2025-for-charger-os-infotainment-exploits/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 11:42:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[automotive]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40951</guid>
+
+					<description><![CDATA[<p>Pwn2Own Automotive 2025 has come to an end and participants have earned a total of $886,000 for exploits targeting EV chargers and infotainment systems.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-earn-886000-at-pwn2own-automotive-2025-for-charger-os-infotainment-exploits/">Hackers Earn $886,000 at Pwn2Own Automotive 2025 for Charger, OS, Infotainment Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks Addresses Impact of BIOS, Bootloader Vulnerabilities on Its Firewalls</title>
+		<link>https://www.securityweek.com/palo-alto-networks-addresses-impact-of-bios-bootloader-vulnerabilities-on-its-firewalls/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[BIOS]]></category>
+		<category><![CDATA[bootloader]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[secure boot]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40950</guid>
+
+					<description><![CDATA[<p>Eclypsium warns that Palo Alto Networks firewalls are impacted by BIOS and bootloader flaws, but the vendor says users should not be concerned.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-addresses-impact-of-bios-bootloader-vulnerabilities-on-its-firewalls/">Palo Alto Networks Addresses Impact of BIOS, Bootloader Vulnerabilities on Its Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Conduent Confirms Cyberattack After Government Agencies Report Outages</title>
+		<link>https://www.securityweek.com/conduent-confirms-cyberattack-after-government-agencies-report-outages/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 17:20:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[conduent]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40938</guid>
+
+					<description><![CDATA[<p>Conduent has confirmed suffering disruptions due to a cyberattack after government agencies reported service outages.</p>
+<p>The post <a href="https://www.securityweek.com/conduent-confirms-cyberattack-after-government-agencies-report-outages/">Conduent Confirms Cyberattack After Government Agencies Report Outages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: Malware Directions</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-malware-directions/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 16:49:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40931</guid>
+
+					<description><![CDATA[<p>The continuing advance of AI brings the likelihood of effective, specific vulnerability-targeted new malware automatically produced in hours rather than days or weeks ever closer.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-malware-directions/">Cyber Insights 2025: Malware Directions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Axoflow Raises $7 Million for Security Data Curation Platform</title>
+		<link>https://www.securityweek.com/axoflow-raises-7-million-for-security-data-curation-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 13:36:35 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Axoflow]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40937</guid>
+
+					<description><![CDATA[<p>Security data pipeline management startup Axoflow has raised $7 million in a seed funding round led by EBRD Venture Capital.</p>
+<p>The post <a href="https://www.securityweek.com/axoflow-raises-7-million-for-security-data-curation-platform/">Axoflow Raises $7 Million for Security Data Curation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Homebrew macOS Users Targeted With Information Stealer Malware</title>
+		<link>https://www.securityweek.com/homebrew-macos-users-targeted-with-information-stealer-malware/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 13:00:55 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AMOS]]></category>
+		<category><![CDATA[Atomic]]></category>
+		<category><![CDATA[malvertising]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[stealer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40935</guid>
+
+					<description><![CDATA[<p>A malicious campaign has been redirecting macOS users to a fake Homebrew website, infecting them with information stealer malware.</p>
+<p>The post <a href="https://www.securityweek.com/homebrew-macos-users-targeted-with-information-stealer-malware/">Homebrew macOS Users Targeted With Information Stealer Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tesla Charger Exploits Earn Hackers $129,000 at Pwn2Own</title>
+		<link>https://www.securityweek.com/tesla-charger-exploits-earn-hackers-129000-at-pwn2own/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 12:48:36 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[charger]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<category><![CDATA[Tesla]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40932</guid>
+
+					<description><![CDATA[<p>Hackers earned more than $700,000 on the first two days of Pwn2Own Automotive 2025 for EV charger and infotainment exploits.</p>
+<p>The post <a href="https://www.securityweek.com/tesla-charger-exploits-earn-hackers-129000-at-pwn2own/">Tesla Charger Exploits Earn Hackers $129,000 at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cisco Patches Critical Vulnerability in Meeting Management</title>
 		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/</link>
 		
@@ -40,194 +217,6 @@
 
 					<description><![CDATA[<p>Cisco has released patches for three vulnerabilities, including a critical privilege escalation bug and a DoS flaw for which exploit code exists.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/">Cisco Patches Critical Vulnerability in Meeting Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 11:43:13 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>SonicWall Learns From Microsoft About Potentially Exploited Zero-Day</title>
-		<link>https://www.securityweek.com/sonicwall-learns-from-microsoft-about-potentially-exploited-zero-day/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SMA]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40928</guid>
-
-					<description><![CDATA[<p>SonicWall has credited Microsoft for reporting CVE-2025-23006, a critical remote command execution vulnerability possibly exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-learns-from-microsoft-about-potentially-exploited-zero-day/">SonicWall Learns From Microsoft About Potentially Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Record Number of Ransomware Attacks in December 2024</title>
-		<link>https://www.securityweek.com/record-number-of-ransomware-attacks-in-december-2024/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 09:53:30 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[record]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40925</guid>
-
-					<description><![CDATA[<p>NCC Group saw over 570 ransomware attacks in December 2024, the highest number since it started monitoring them in 2021. </p>
-<p>The post <a href="https://www.securityweek.com/record-number-of-ransomware-attacks-in-december-2024/">Record Number of Ransomware Attacks in December 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FBI/CISA Share Details on Ivanti Exploits Chains: What Network Defenders Need to Know</title>
-		<link>https://www.securityweek.com/fbi-cisa-share-details-on-ivanti-exploits-chains-what-network-defenders-need-to-know/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 00:46:20 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CVE-2024-8190]]></category>
-		<category><![CDATA[CVE-2024-8963]]></category>
-		<category><![CDATA[CVE-2024-9379]]></category>
-		<category><![CDATA[CVE-2024-9380]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40920</guid>
-
-					<description><![CDATA[<p>The US government shared exploit chains,  IOCs and post-incident forensics data to help network defenders hunt for signs of Chinese hacking gangs.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-cisa-share-details-on-ivanti-exploits-chains-what-network-defenders-need-to-know/">FBI/CISA Share Details on Ivanti Exploits Chains: What Network Defenders Need to Know</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DHS Disbands Cyber Safety Review Board, Ending One of CISA’s Few Bright Spots</title>
-		<link>https://www.securityweek.com/dhs-disbands-cyber-safety-review-board-ending-one-of-cisas-few-bright-spots/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 17:24:34 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CSRB]]></category>
-		<category><![CDATA[DHS]]></category>
-		<category><![CDATA[Lapsus$]]></category>
-		<category><![CDATA[Log4Shell]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40917</guid>
-
-					<description><![CDATA[<p>The Trump administration has disbanded the Cyber Safety Review Board (CSRB), ending one of the few bright spots at CISA.</p>
-<p>The post <a href="https://www.securityweek.com/dhs-disbands-cyber-safety-review-board-ending-one-of-cisas-few-bright-spots/">DHS Disbands Cyber Safety Review Board, Ending One of CISA’s Few Bright Spots</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Application Security Firm DryRun Raises $8.7 Million in Seed Funding </title>
-		<link>https://www.securityweek.com/application-security-firm-dryrun-raises-8-7-million-in-seed-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[DryRun]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40910</guid>
-
-					<description><![CDATA[<p>DryRun Security has raised $8.7 million in a seed funding round for its AI-powered application security solutions. </p>
-<p>The post <a href="https://www.securityweek.com/application-security-firm-dryrun-raises-8-7-million-in-seed-funding/">Application Security Firm DryRun Raises $8.7 Million in Seed Funding </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Doti AI Raises $7 Million Seed Funding for Instant Access to Internal Company Data</title>
-		<link>https://www.securityweek.com/doti-ai-raises-7-million-seed-funding-for-instant-access-to-internal-company-data/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 15:27:44 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40912</guid>
-
-					<description><![CDATA[<p>Doti's platform uses AI to improve, automate, and streamline standard office and business processes across distributed and hybrid environments. </p>
-<p>The post <a href="https://www.securityweek.com/doti-ai-raises-7-million-seed-funding-for-instant-access-to-internal-company-data/">Doti AI Raises $7 Million Seed Funding for Instant Access to Internal Company Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Call for Presentations Open for SecurityWeek’s 2025 Supply Chain Security &#038; Third-Party Risk Summit</title>
-		<link>https://www.securityweek.com/call-for-presentations-open-for-securityweeks-2025-supply-chain-security-third-party-risk-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 14:09:40 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Conference]]></category>
-		<category><![CDATA[Event]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40909</guid>
-
-					<description><![CDATA[<p>Join Us in Shaping the Future of Supply Chain Security -  Don’t miss this chance to be part of the conversation addressing one of the most pressing cybersecurity challenges .</p>
-<p>The post <a href="https://www.securityweek.com/call-for-presentations-open-for-securityweeks-2025-supply-chain-security-third-party-risk-summit/">Call for Presentations Open for SecurityWeek’s 2025 Supply Chain Security &amp; Third-Party Risk Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: APIs – The Threat Continues</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-apis-the-threat-continues/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[Cyber Insights]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40892</guid>
-
-					<description><![CDATA[<p>APIs are easy to develop, simple to implement, and frequently attacked. They are  prime and lucrative targets for cybercriminals. </p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-apis-the-threat-continues/">Cyber Insights 2025: APIs – The Threat Continues</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over $380,000 Paid Out on First Day of Pwn2Own Automotive 2025</title>
-		<link>https://www.securityweek.com/over-380000-paid-out-on-first-day-of-pwn2own-automotive-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Jan 2025 13:34:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[automotive]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[Pwn2Own 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40905</guid>
-
-					<description><![CDATA[<p>$380,000 paid out on the first day of Pwn2Own Automotive 2025 for exploits targeting car infotainment units, operating systems, and chargers. </p>
-<p>The post <a href="https://www.securityweek.com/over-380000-paid-out-on-first-day-of-pwn2own-automotive-2025/">Over $380,000 Paid Out on First Day of Pwn2Own Automotive 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
