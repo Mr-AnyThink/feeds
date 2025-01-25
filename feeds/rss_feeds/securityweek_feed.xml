@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 24 Jan 2025 12:02:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jan 2025 15:49:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,98 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Subaru Starlink Vulnerability Exposed Cars to Remote Hacking</title>
+		<link>https://www.securityweek.com/subaru-starlink-vulnerability-exposed-cars-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 13:54:03 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[Subaru]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40968</guid>
+
+					<description><![CDATA[<p>A vulnerability in Subaru’s Starlink connected vehicle service exposed US, Canada, and Japan vehicle and customer accounts.</p>
+<p>The post <a href="https://www.securityweek.com/subaru-starlink-vulnerability-exposed-cars-to-remote-hacking/">Subaru Starlink Vulnerability Exposed Cars to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 05:10:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>North Korean Fake IT Workers More Aggressively Extorting Enterprises</title>
+		<link>https://www.securityweek.com/north-korean-fake-it-workers-more-aggressively-extorting-enterprises/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 13:28:08 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40966</guid>
+
+					<description><![CDATA[<p>North Korean fake IT workers are more aggressively extorting their employers in response to law enforcement actions.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-fake-it-workers-more-aggressively-extorting-enterprises/">North Korean Fake IT Workers More Aggressively Extorting Enterprises</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: VPN Supply Chain Attack, PayPal $2M Settlement, RAT Builder Hacks Script Kiddies</title>
+		<link>https://www.securityweek.com/in-other-news-vpn-supply-chain-attack-paypal-2m-settlement-rat-builder-hacks-script-kiddies/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 13:15:38 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40965</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Korean VPN supply chain attack, PayPal settles with New York for $2 million, trojanized RAT builder targets script kiddies.  </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-vpn-supply-chain-attack-paypal-2m-settlement-rat-builder-hacks-script-kiddies/">In Other News: VPN Supply Chain Attack, PayPal $2M Settlement, RAT Builder Hacks Script Kiddies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Charges Five People Over North Korean IT Worker Scheme</title>
+		<link>https://www.securityweek.com/us-charges-five-people-over-north-korean-it-worker-scheme/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 12:41:50 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40964</guid>
+
+					<description><![CDATA[<p>The US has announced charges against five individuals involved in a fake IT workers scheme to funnel funds to North Korea.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-five-people-over-north-korean-it-worker-scheme/">US Charges Five People Over North Korean IT Worker Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Old jQuery Vulnerability Linked to Chinese APT</title>
+		<link>https://www.securityweek.com/cisa-warns-of-old-jquery-vulnerability-linked-to-chinese-apt/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2025 12:29:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40963</guid>
+
+					<description><![CDATA[<p>CISA has added the JQuery flaw CVE-2020-11023, previously linked to APT1, to its Known Exploited Vulnerabilities (KEV) catalog.  </p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-old-jquery-vulnerability-linked-to-chinese-apt/">CISA Warns of Old jQuery Vulnerability Linked to Chinese APT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Millions Impacted by PowerSchool Data Breach</title>
 		<link>https://www.securityweek.com/millions-impacted-by-powerschool-data-breach/</link>
 		
@@ -47,7 +139,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 20, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-20-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-20-2025/</guid><pubDate>Mon, 20 Jan 2025 12:02:22 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 20, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Cyber Insights 2025: Social Engineering Gets AI Wings</title>
 		<link>https://www.securityweek.com/cyber-insights-2025-social-engineering-gets-ai-wings/</link>
@@ -119,104 +211,6 @@
 
 					<description><![CDATA[<p>Conduent has confirmed suffering disruptions due to a cyberattack after government agencies reported service outages.</p>
 <p>The post <a href="https://www.securityweek.com/conduent-confirms-cyberattack-after-government-agencies-report-outages/">Conduent Confirms Cyberattack After Government Agencies Report Outages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: Malware Directions</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-malware-directions/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 16:49:09 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40931</guid>
-
-					<description><![CDATA[<p>The continuing advance of AI brings the likelihood of effective, specific vulnerability-targeted new malware automatically produced in hours rather than days or weeks ever closer.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-malware-directions/">Cyber Insights 2025: Malware Directions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Axoflow Raises $7 Million for Security Data Curation Platform</title>
-		<link>https://www.securityweek.com/axoflow-raises-7-million-for-security-data-curation-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 13:36:35 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Axoflow]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40937</guid>
-
-					<description><![CDATA[<p>Security data pipeline management startup Axoflow has raised $7 million in a seed funding round led by EBRD Venture Capital.</p>
-<p>The post <a href="https://www.securityweek.com/axoflow-raises-7-million-for-security-data-curation-platform/">Axoflow Raises $7 Million for Security Data Curation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Homebrew macOS Users Targeted With Information Stealer Malware</title>
-		<link>https://www.securityweek.com/homebrew-macos-users-targeted-with-information-stealer-malware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 13:00:55 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AMOS]]></category>
-		<category><![CDATA[Atomic]]></category>
-		<category><![CDATA[malvertising]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[stealer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40935</guid>
-
-					<description><![CDATA[<p>A malicious campaign has been redirecting macOS users to a fake Homebrew website, infecting them with information stealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/homebrew-macos-users-targeted-with-information-stealer-malware/">Homebrew macOS Users Targeted With Information Stealer Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tesla Charger Exploits Earn Hackers $129,000 at Pwn2Own</title>
-		<link>https://www.securityweek.com/tesla-charger-exploits-earn-hackers-129000-at-pwn2own/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 12:48:36 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[charger]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[Pwn2Own 2025]]></category>
-		<category><![CDATA[Tesla]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40932</guid>
-
-					<description><![CDATA[<p>Hackers earned more than $700,000 on the first two days of Pwn2Own Automotive 2025 for EV charger and infotainment exploits.</p>
-<p>The post <a href="https://www.securityweek.com/tesla-charger-exploits-earn-hackers-129000-at-pwn2own/">Tesla Charger Exploits Earn Hackers $129,000 at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Critical Vulnerability in Meeting Management</title>
-		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 11:42:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40930</guid>
-
-					<description><![CDATA[<p>Cisco has released patches for three vulnerabilities, including a critical privilege escalation bug and a DoS flaw for which exploit code exists.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-meeting-management/">Cisco Patches Critical Vulnerability in Meeting Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
