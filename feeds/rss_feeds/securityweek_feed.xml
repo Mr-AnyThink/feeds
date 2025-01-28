@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 27 Jan 2025 11:26:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 11:55:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,182 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ENGlobal Says Personal Information Accessed in Ransomware Attack</title>
+		<link>https://www.securityweek.com/englobal-says-personal-information-accessed-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 11:55:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ENGlobal]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40988</guid>
+
+					<description><![CDATA[<p>ENGlobal has informed the SEC that personal information was compromised in a November 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/englobal-says-personal-information-accessed-in-ransomware-attack/">ENGlobal Says Personal Information Accessed in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 11:55:22 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>SonicWall Confirms Exploitation of New SMA Zero-Day</title>
+		<link>https://www.securityweek.com/sonicwall-confirms-exploitation-of-new-sma-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 11:21:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SMA]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40987</guid>
+
+					<description><![CDATA[<p>SonicWall has confirmed that an SMA 1000 zero-day tracked as CVE-2025-23006 has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-confirms-exploitation-of-new-sma-zero-day/">SonicWall Confirms Exploitation of New SMA Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Patches First Exploited iOS Zero-Day of 2025</title>
+		<link>https://www.securityweek.com/apple-patches-first-exploited-ios-zero-day-of-2025/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 10:55:38 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40986</guid>
+
+					<description><![CDATA[<p>Apple has released fixes for dozens of vulnerabilities in its mobile and desktop products, including an iOS zero-day exploited in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/apple-patches-first-exploited-ios-zero-day-of-2025/">Apple Patches First Exploited iOS Zero-Day of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TalkTalk Confirms Data Breach, Downplays Impact</title>
+		<link>https://www.securityweek.com/talktalk-confirms-data-breach-downplays-impact/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 16:50:26 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[TalkTalk]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40985</guid>
+
+					<description><![CDATA[<p>UK telecoms firm TalkTalk has confirmed falling victim to a data breach after a threat actor boasted about hacking it.</p>
+<p>The post <a href="https://www.securityweek.com/talktalk-confirms-data-breach-downplays-impact/">TalkTalk Confirms Data Breach, Downplays Impact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LTE, 5G Vulnerabilities Could Cut Entire Cities From Cellular Connectivity</title>
+		<link>https://www.securityweek.com/lte-5g-vulnerabilities-could-cut-entire-cities-from-cellular-connectivity/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 16:30:43 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[5G]]></category>
+		<category><![CDATA[cellular]]></category>
+		<category><![CDATA[LTE]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40982</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in LTE/5G core infrastructure, some remotely exploitable, could lead to persistent denial-of-service to entire cities.</p>
+<p>The post <a href="https://www.securityweek.com/lte-5g-vulnerabilities-could-cut-entire-cities-from-cellular-connectivity/">LTE, 5G Vulnerabilities Could Cut Entire Cities From Cellular Connectivity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: Cybersecurity Regulatory Mayhem</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-cybersecurity-regulatory-mayhem/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 15:47:36 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Regulations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40979</guid>
+
+					<description><![CDATA[<p>Cybersecurity regulations are facing a tipping point. There are too many and they are too complex to manage – and it’s getting worse.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-cybersecurity-regulatory-mayhem/">Cyber Insights 2025: Cybersecurity Regulatory Mayhem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Endor Labs and Allies Launch Opengrep, Reviving True OSS for SAST</title>
+		<link>https://www.securityweek.com/endor-labs-and-allies-launch-opengrep-reviving-true-oss-for-sast/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 15:07:49 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Opengrep]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40981</guid>
+
+					<description><![CDATA[<p>Opengrep is a new consortium-backed fork of Semgrep, intended to be and remain a true genuine OSS SAST tool.</p>
+<p>The post <a href="https://www.securityweek.com/endor-labs-and-allies-launch-opengrep-reviving-true-oss-for-sast/">Endor Labs and Allies Launch Opengrep, Reviving True OSS for SAST</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Building Automation Protocols Increasingly Targeted in OT Attacks: Report</title>
+		<link>https://www.securityweek.com/building-automation-protocols-increasingly-targeted-in-ot-attacks-report/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 14:03:58 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40977</guid>
+
+					<description><![CDATA[<p>Industrial automation protocols continue to be the most targeted in OT attacks, but building automation systems have been increasingly targeted. </p>
+<p>The post <a href="https://www.securityweek.com/building-automation-protocols-increasingly-targeted-in-ot-attacks-report/">Building Automation Protocols Increasingly Targeted in OT Attacks: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Git Vulnerabilities Led to Credentials Exposure</title>
+		<link>https://www.securityweek.com/git-vulnerabilities-led-to-credentials-exposure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 12:41:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Clone2Leak]]></category>
+		<category><![CDATA[Git]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40978</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in Git’s credential retrieval protocol could have allowed attackers to compromise user credentials.</p>
+<p>The post <a href="https://www.securityweek.com/git-vulnerabilities-led-to-credentials-exposure/">Git Vulnerabilities Led to Credentials Exposure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Change Healthcare Data Breach Impact Grows to 190 Million Individuals</title>
 		<link>https://www.securityweek.com/change-healthcare-data-breach-impact-grows-to-190-million-individuals/</link>
 		
@@ -43,177 +219,6 @@
 
 					<description><![CDATA[<p>The impact of the Change Healthcare ransomware-caused data breach has increased from 100 million to 190 million individuals.</p>
 <p>The post <a href="https://www.securityweek.com/change-healthcare-data-breach-impact-grows-to-190-million-individuals/">Change Healthcare Data Breach Impact Grows to 190 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 11:26:58 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Subaru Starlink Vulnerability Exposed Cars to Remote Hacking</title>
-		<link>https://www.securityweek.com/subaru-starlink-vulnerability-exposed-cars-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 13:54:03 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[Subaru]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40968</guid>
-
-					<description><![CDATA[<p>A vulnerability in Subaru’s Starlink connected vehicle service exposed US, Canada, and Japan vehicle and customer accounts.</p>
-<p>The post <a href="https://www.securityweek.com/subaru-starlink-vulnerability-exposed-cars-to-remote-hacking/">Subaru Starlink Vulnerability Exposed Cars to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Fake IT Workers More Aggressively Extorting Enterprises</title>
-		<link>https://www.securityweek.com/north-korean-fake-it-workers-more-aggressively-extorting-enterprises/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 13:28:08 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40966</guid>
-
-					<description><![CDATA[<p>North Korean fake IT workers are more aggressively extorting their employers in response to law enforcement actions.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-fake-it-workers-more-aggressively-extorting-enterprises/">North Korean Fake IT Workers More Aggressively Extorting Enterprises</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: VPN Supply Chain Attack, PayPal $2M Settlement, RAT Builder Hacks Script Kiddies</title>
-		<link>https://www.securityweek.com/in-other-news-vpn-supply-chain-attack-paypal-2m-settlement-rat-builder-hacks-script-kiddies/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 13:15:38 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40965</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Korean VPN supply chain attack, PayPal settles with New York for $2 million, trojanized RAT builder targets script kiddies.  </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-vpn-supply-chain-attack-paypal-2m-settlement-rat-builder-hacks-script-kiddies/">In Other News: VPN Supply Chain Attack, PayPal $2M Settlement, RAT Builder Hacks Script Kiddies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Charges Five People Over North Korean IT Worker Scheme</title>
-		<link>https://www.securityweek.com/us-charges-five-people-over-north-korean-it-worker-scheme/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 12:41:50 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40964</guid>
-
-					<description><![CDATA[<p>The US has announced charges against five individuals involved in a fake IT workers scheme to funnel funds to North Korea.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-five-people-over-north-korean-it-worker-scheme/">US Charges Five People Over North Korean IT Worker Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Old jQuery Vulnerability Linked to Chinese APT</title>
-		<link>https://www.securityweek.com/cisa-warns-of-old-jquery-vulnerability-linked-to-chinese-apt/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 12:29:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[jQuery]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40963</guid>
-
-					<description><![CDATA[<p>CISA has added the JQuery flaw CVE-2020-11023, previously linked to APT1, to its Known Exploited Vulnerabilities (KEV) catalog.  </p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-old-jquery-vulnerability-linked-to-chinese-apt/">CISA Warns of Old jQuery Vulnerability Linked to Chinese APT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Millions Impacted by PowerSchool Data Breach</title>
-		<link>https://www.securityweek.com/millions-impacted-by-powerschool-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PowerSchool]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40954</guid>
-
-					<description><![CDATA[<p>Four decades of student and educator information was stolen from PowerSchool – tens of millions are potentially affected.</p>
-<p>The post <a href="https://www.securityweek.com/millions-impacted-by-powerschool-data-breach/">Millions Impacted by PowerSchool Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: Social Engineering Gets AI Wings</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-social-engineering-gets-ai-wings/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 11:48:28 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40955</guid>
-
-					<description><![CDATA[<p>Business resilience must be the ultimate purpose of all the security controls and processes we employ, because we will never conclusively defeat or protect ourselves from social engineering.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-social-engineering-gets-ai-wings/">Cyber Insights 2025: Social Engineering Gets AI Wings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Earn $886,000 at Pwn2Own Automotive 2025 for Charger, OS, Infotainment Exploits</title>
-		<link>https://www.securityweek.com/hackers-earn-886000-at-pwn2own-automotive-2025-for-charger-os-infotainment-exploits/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 11:42:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[automotive]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[Pwn2Own 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40951</guid>
-
-					<description><![CDATA[<p>Pwn2Own Automotive 2025 has come to an end and participants have earned a total of $886,000 for exploits targeting EV chargers and infotainment systems.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-earn-886000-at-pwn2own-automotive-2025-for-charger-os-infotainment-exploits/">Hackers Earn $886,000 at Pwn2Own Automotive 2025 for Charger, OS, Infotainment Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Addresses Impact of BIOS, Bootloader Vulnerabilities on Its Firewalls</title>
-		<link>https://www.securityweek.com/palo-alto-networks-addresses-impact-of-bios-bootloader-vulnerabilities-on-its-firewalls/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Jan 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[BIOS]]></category>
-		<category><![CDATA[bootloader]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[secure boot]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40950</guid>
-
-					<description><![CDATA[<p>Eclypsium warns that Palo Alto Networks firewalls are impacted by BIOS and bootloader flaws, but the vendor says users should not be concerned.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-addresses-impact-of-bios-bootloader-vulnerabilities-on-its-firewalls/">Palo Alto Networks Addresses Impact of BIOS, Bootloader Vulnerabilities on Its Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
