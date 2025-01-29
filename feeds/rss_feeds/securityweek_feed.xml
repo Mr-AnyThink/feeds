@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 28 Jan 2025 11:55:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 12:12:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>ENGlobal Says Personal Information Accessed in Ransomware Attack</title>
-		<link>https://www.securityweek.com/englobal-says-personal-information-accessed-in-ransomware-attack/</link>
+		<title>Aquabot Botnet Targeting Vulnerable Mitel Phones</title>
+		<link>https://www.securityweek.com/aquabot-botnet-targeting-vulnerable-mitel-phones/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 11:55:17 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ENGlobal]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40988</guid>
+		<pubDate>Wed, 29 Jan 2025 12:12:16 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Aquabot]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Mirai]]></category>
+		<category><![CDATA[Mitel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41015</guid>
 
-					<description><![CDATA[<p>ENGlobal has informed the SEC that personal information was compromised in a November 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/englobal-says-personal-information-accessed-in-ransomware-attack/">ENGlobal Says Personal Information Accessed in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Mirai-based Aquabot botnet has been targeting a vulnerability in Mitel SIP phones for which a proof-of-concept (PoC) exploit exists.</p>
+<p>The post <a href="https://www.securityweek.com/aquabot-botnet-targeting-vulnerable-mitel-phones/">Aquabot Botnet Targeting Vulnerable Mitel Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 11:55:22 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 12:12:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>SonicWall Confirms Exploitation of New SMA Zero-Day</title>
-		<link>https://www.securityweek.com/sonicwall-confirms-exploitation-of-new-sma-zero-day/</link>
+		<title>Smiths Group Scrambling to Restore Systems Following Cyberattack</title>
+		<link>https://www.securityweek.com/smiths-group-scrambling-to-restore-systems-following-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 11:50:05 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Smiths]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41014</guid>
+
+					<description><![CDATA[<p>Engineering firm Smiths Group has disclosed a cyberattack that forced it to take some systems offline and activate business continuity plans.</p>
+<p>The post <a href="https://www.securityweek.com/smiths-group-scrambling-to-restore-systems-following-cyberattack/">Smiths Group Scrambling to Restore Systems Following Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rockwell Patches Critical, High-Severity Vulnerabilities in Several Products</title>
+		<link>https://www.securityweek.com/rockwell-patches-critical-high-severity-vulnerabilities-in-several-products/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 11:21:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SMA]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40987</guid>
-
-					<description><![CDATA[<p>SonicWall has confirmed that an SMA 1000 zero-day tracked as CVE-2025-23006 has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-confirms-exploitation-of-new-sma-zero-day/">SonicWall Confirms Exploitation of New SMA Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Patches First Exploited iOS Zero-Day of 2025</title>
-		<link>https://www.securityweek.com/apple-patches-first-exploited-ios-zero-day-of-2025/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 10:55:38 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40986</guid>
-
-					<description><![CDATA[<p>Apple has released fixes for dozens of vulnerabilities in its mobile and desktop products, including an iOS zero-day exploited in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-first-exploited-ios-zero-day-of-2025/">Apple Patches First Exploited iOS Zero-Day of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TalkTalk Confirms Data Breach, Downplays Impact</title>
-		<link>https://www.securityweek.com/talktalk-confirms-data-breach-downplays-impact/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 16:50:26 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[TalkTalk]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40985</guid>
-
-					<description><![CDATA[<p>UK telecoms firm TalkTalk has confirmed falling victim to a data breach after a threat actor boasted about hacking it.</p>
-<p>The post <a href="https://www.securityweek.com/talktalk-confirms-data-breach-downplays-impact/">TalkTalk Confirms Data Breach, Downplays Impact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LTE, 5G Vulnerabilities Could Cut Entire Cities From Cellular Connectivity</title>
-		<link>https://www.securityweek.com/lte-5g-vulnerabilities-could-cut-entire-cities-from-cellular-connectivity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 16:30:43 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[5G]]></category>
-		<category><![CDATA[cellular]]></category>
-		<category><![CDATA[LTE]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40982</guid>
-
-					<description><![CDATA[<p>Vulnerabilities in LTE/5G core infrastructure, some remotely exploitable, could lead to persistent denial-of-service to entire cities.</p>
-<p>The post <a href="https://www.securityweek.com/lte-5g-vulnerabilities-could-cut-entire-cities-from-cellular-connectivity/">LTE, 5G Vulnerabilities Could Cut Entire Cities From Cellular Connectivity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: Cybersecurity Regulatory Mayhem</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-cybersecurity-regulatory-mayhem/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 15:47:36 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40979</guid>
-
-					<description><![CDATA[<p>Cybersecurity regulations are facing a tipping point. There are too many and they are too complex to manage – and it’s getting worse.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-cybersecurity-regulatory-mayhem/">Cyber Insights 2025: Cybersecurity Regulatory Mayhem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Endor Labs and Allies Launch Opengrep, Reviving True OSS for SAST</title>
-		<link>https://www.securityweek.com/endor-labs-and-allies-launch-opengrep-reviving-true-oss-for-sast/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 15:07:49 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[Opengrep]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40981</guid>
-
-					<description><![CDATA[<p>Opengrep is a new consortium-backed fork of Semgrep, intended to be and remain a true genuine OSS SAST tool.</p>
-<p>The post <a href="https://www.securityweek.com/endor-labs-and-allies-launch-opengrep-reviving-true-oss-for-sast/">Endor Labs and Allies Launch Opengrep, Reviving True OSS for SAST</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Building Automation Protocols Increasingly Targeted in OT Attacks: Report</title>
-		<link>https://www.securityweek.com/building-automation-protocols-increasingly-targeted-in-ot-attacks-report/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 14:03:58 +0000</pubDate>
+		<pubDate>Wed, 29 Jan 2025 11:22:00 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40977</guid>
+		<category><![CDATA[Rockwell Automation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41013</guid>
 
-					<description><![CDATA[<p>Industrial automation protocols continue to be the most targeted in OT attacks, but building automation systems have been increasingly targeted. </p>
-<p>The post <a href="https://www.securityweek.com/building-automation-protocols-increasingly-targeted-in-ot-attacks-report/">Building Automation Protocols Increasingly Targeted in OT Attacks: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Rockwell Automation has released six new security advisories to inform customers about several critical and high-severity vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/rockwell-patches-critical-high-severity-vulnerabilities-in-several-products/">Rockwell Patches Critical, High-Severity Vulnerabilities in Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Git Vulnerabilities Led to Credentials Exposure</title>
-		<link>https://www.securityweek.com/git-vulnerabilities-led-to-credentials-exposure/</link>
+		<title>Cyber Insights 2025: Artificial Intelligence</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-artificial-intelligence/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 11:05:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41003</guid>
+
+					<description><![CDATA[<p>Artificial intelligence is upending cybersecurity. It is used by adversaries in their attacks, and by defenders in their defense. </p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-artificial-intelligence/">Cyber Insights 2025: Artificial Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SimpleHelp Remote Access Software Exploited in Attacks</title>
+		<link>https://www.securityweek.com/simplehelp-remote-access-software-exploited-in-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 12:41:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Clone2Leak]]></category>
-		<category><![CDATA[Git]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40978</guid>
+		<pubDate>Wed, 29 Jan 2025 10:36:22 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[remote access]]></category>
+		<category><![CDATA[SimpleHelp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41010</guid>
 
-					<description><![CDATA[<p>Vulnerabilities in Git’s credential retrieval protocol could have allowed attackers to compromise user credentials.</p>
-<p>The post <a href="https://www.securityweek.com/git-vulnerabilities-led-to-credentials-exposure/">Git Vulnerabilities Led to Credentials Exposure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Threat actors have been exploiting SimpleHelp remote access software shortly after the disclosure of three vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/simplehelp-remote-access-software-exploited-in-attacks/">SimpleHelp Remote Access Software Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Change Healthcare Data Breach Impact Grows to 190 Million Individuals</title>
-		<link>https://www.securityweek.com/change-healthcare-data-breach-impact-grows-to-190-million-individuals/</link>
+		<title>Frenos Raises $3.88M in Seed Funding for OT Security Assessment Platform</title>
+		<link>https://www.securityweek.com/frenos-raises-3-88m-in-seed-funding-for-ot-security-assessment-platform/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jan 2025 11:26:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Change Healthcare]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40976</guid>
+		<pubDate>Wed, 29 Jan 2025 09:46:52 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Frenos]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41002</guid>
 
-					<description><![CDATA[<p>The impact of the Change Healthcare ransomware-caused data breach has increased from 100 million to 190 million individuals.</p>
-<p>The post <a href="https://www.securityweek.com/change-healthcare-data-breach-impact-grows-to-190-million-individuals/">Change Healthcare Data Breach Impact Grows to 190 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Frenos, a company that has developed an autonomous OT security assessment platform, has raised $3.88 million in seed funding. </p>
+<p>The post <a href="https://www.securityweek.com/frenos-raises-3-88m-in-seed-funding-for-ot-security-assessment-platform/">Frenos Raises $3.88M in Seed Funding for OT Security Assessment Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Warns of High-Risk Blind SQL Injection Bug in Avi Load Balancer</title>
+		<link>https://www.securityweek.com/vmware-warns-of-high-risk-blind-sql-injection-bug-in-avi-load-balancer/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 20:49:52 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Avi Load Balancer]]></category>
+		<category><![CDATA[SQL injection]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41001</guid>
+
+					<description><![CDATA[<p>VMware warns that a malicious user with network access may be able to use specially crafted SQL queries to gain database access.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-warns-of-high-risk-blind-sql-injection-bug-in-avi-load-balancer/">VMware Warns of High-Risk Blind SQL Injection Bug in Avi Load Balancer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Eclypsium Eyes Global Expansion with $45 Million Series C Investment</title>
+		<link>https://www.securityweek.com/eclypsium-eyes-global-expansion-with-45-million-series-c-investment/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 15:49:16 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Eclypsium]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Qualcomm Ventures]]></category>
+		<category><![CDATA[Series B]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40998</guid>
+
+					<description><![CDATA[<p>The investment includes equity and debt from new investors Qualcomm Ventures, Pavilion Capital, Singtel Innov8, and Sixty Degree Capital. </p>
+<p>The post <a href="https://www.securityweek.com/eclypsium-eyes-global-expansion-with-45-million-series-c-investment/">Eclypsium Eyes Global Expansion with $45 Million Series C Investment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Drain Over $85 Million From Crypto Exchange Phemex</title>
+		<link>https://www.securityweek.com/hackers-drain-over-85-million-from-crypto-exchange-phemex/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 13:49:35 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[Phemex]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40994</guid>
+
+					<description><![CDATA[<p>Hackers stole more than $85 million in crypto assets from hot wallets at cryptocurrency exchange Phemex.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-drain-over-85-million-from-crypto-exchange-phemex/">Hackers Drain Over $85 Million From Crypto Exchange Phemex</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NinjaOne to Acquire Dropsuite for $252 Million</title>
+		<link>https://www.securityweek.com/ninjaone-to-acquire-dropsuite-for-252-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 28 Jan 2025 13:41:40 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Endpoint]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=40993</guid>
+
+					<description><![CDATA[<p>Endpoint management and security firm NinjaOne to acquire cloud data backup, archiving, and recovery solutions provider Dropsuite for $252 million.</p>
+<p>The post <a href="https://www.securityweek.com/ninjaone-to-acquire-dropsuite-for-252-million/">NinjaOne to Acquire Dropsuite for $252 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
