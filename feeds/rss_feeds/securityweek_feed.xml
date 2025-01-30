@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 29 Jan 2025 12:12:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jan 2025 11:46:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,151 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Frederick Health Hit by Ransomware Attack</title>
+		<link>https://www.securityweek.com/frederick-health-hit-by-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Frederick Health]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41030</guid>
+
+					<description><![CDATA[<p>Maryland healthcare provider Frederick Health has taken some of its systems offline in response to a ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/frederick-health-hit-by-ransomware-attack/">Frederick Health Hit by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 12:00:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>152,000 Impacted by Data Breach at Berman &#038; Rabin</title>
+		<link>https://www.securityweek.com/152000-impacted-by-data-breach-at-berman-rabin/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Berman Rabin]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41028</guid>
+
+					<description><![CDATA[<p>Law firm Berman &#038; Rabin says 152,000 people are impacted by a data breach resulting from a July 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/152000-impacted-by-data-breach-at-berman-rabin/">152,000 Impacted by Data Breach at Berman &#038; Rabin</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unprotected DeepSeek Database Exposed Chats, Other Sensitive Information</title>
+		<link>https://www.securityweek.com/unprotected-deepseek-database-leaked-highly-sensitive-information/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[database]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[exposed]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41024</guid>
+
+					<description><![CDATA[<p>An unprotected database belonging to Chinese AI company DeepSeek exposed highly sensitive information, including chat history, secret keys, and backend data.</p>
+<p>The post <a href="https://www.securityweek.com/unprotected-deepseek-database-leaked-highly-sensitive-information/">Unprotected DeepSeek Database Exposed Chats, Other Sensitive Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tenable to Acquire Vulcan Cyber for $150 Million</title>
+		<link>https://www.securityweek.com/tenable-to-acquire-vulcan-cyber-for-150-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 10:40:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Tenable]]></category>
+		<category><![CDATA[Vulcan Cyber]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41026</guid>
+
+					<description><![CDATA[<p>Tenable plans to acquire exposure management company Vulcan Cyber for roughly $150 million in cash and stock. </p>
+<p>The post <a href="https://www.securityweek.com/tenable-to-acquire-vulcan-cyber-for-150-million/">Tenable to Acquire Vulcan Cyber for $150 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Zyxel Zero-Day Under Attack, No Patch Available</title>
+		<link>https://www.securityweek.com/new-zyxel-zero-day-under-attack-no-patch-available/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 16:13:27 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Censys]]></category>
+		<category><![CDATA[CVE-2024-40891]]></category>
+		<category><![CDATA[GreyNoise]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41021</guid>
+
+					<description><![CDATA[<p>GreyNoise reports active exploitation of a newly discovered zero-day vulnerability in Zyxel CPE devices. There are no patches available.</p>
+<p>The post <a href="https://www.securityweek.com/new-zyxel-zero-day-under-attack-no-patch-available/">New Zyxel Zero-Day Under Attack, No Patch Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oligo Raises $50M to Tackle Application Detection and Response</title>
+		<link>https://www.securityweek.com/oligo-raises-50m-to-tackle-application-detection-and-response/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 15:26:16 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[appsec]]></category>
+		<category><![CDATA[Greenfield Partners]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Oligo]]></category>
+		<category><![CDATA[Series B]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41019</guid>
+
+					<description><![CDATA[<p>Oligo Security has raised $50 million in Series B funding for its application detection and response (ADR) platform.</p>
+<p>The post <a href="https://www.securityweek.com/oligo-raises-50m-to-tackle-application-detection-and-response/">Oligo Raises $50M to Tackle Application Detection and Response</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New SLAP and FLOP CPU Attacks Expose Data From Apple Computers, Phones</title>
+		<link>https://www.securityweek.com/new-slap-and-flop-cpu-attacks-expose-data-from-apple-computers-phones/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2025 12:44:46 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[FLOP]]></category>
+		<category><![CDATA[side-channel attack]]></category>
+		<category><![CDATA[SLAP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41016</guid>
+
+					<description><![CDATA[<p>New CPU side-channel attacks named SLAP and FLOP can be exploited to remotely steal data from Apple mobile and desktop devices. </p>
+<p>The post <a href="https://www.securityweek.com/new-slap-and-flop-cpu-attacks-expose-data-from-apple-computers-phones/">New SLAP and FLOP CPU Attacks Expose Data From Apple Computers, Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Aquabot Botnet Targeting Vulnerable Mitel Phones</title>
 		<link>https://www.securityweek.com/aquabot-botnet-targeting-vulnerable-mitel-phones/</link>
 		
@@ -47,7 +192,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 12:12:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Smiths Group Scrambling to Restore Systems Following Cyberattack</title>
 		<link>https://www.securityweek.com/smiths-group-scrambling-to-restore-systems-following-cyberattack/</link>
@@ -79,147 +224,6 @@
 
 					<description><![CDATA[<p>Rockwell Automation has released six new security advisories to inform customers about several critical and high-severity vulnerabilities.</p>
 <p>The post <a href="https://www.securityweek.com/rockwell-patches-critical-high-severity-vulnerabilities-in-several-products/">Rockwell Patches Critical, High-Severity Vulnerabilities in Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: Artificial Intelligence</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-artificial-intelligence/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 11:05:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41003</guid>
-
-					<description><![CDATA[<p>Artificial intelligence is upending cybersecurity. It is used by adversaries in their attacks, and by defenders in their defense. </p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-artificial-intelligence/">Cyber Insights 2025: Artificial Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SimpleHelp Remote Access Software Exploited in Attacks</title>
-		<link>https://www.securityweek.com/simplehelp-remote-access-software-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 10:36:22 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[remote access]]></category>
-		<category><![CDATA[SimpleHelp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41010</guid>
-
-					<description><![CDATA[<p>Threat actors have been exploiting SimpleHelp remote access software shortly after the disclosure of three vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/simplehelp-remote-access-software-exploited-in-attacks/">SimpleHelp Remote Access Software Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Frenos Raises $3.88M in Seed Funding for OT Security Assessment Platform</title>
-		<link>https://www.securityweek.com/frenos-raises-3-88m-in-seed-funding-for-ot-security-assessment-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 09:46:52 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Frenos]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41002</guid>
-
-					<description><![CDATA[<p>Frenos, a company that has developed an autonomous OT security assessment platform, has raised $3.88 million in seed funding. </p>
-<p>The post <a href="https://www.securityweek.com/frenos-raises-3-88m-in-seed-funding-for-ot-security-assessment-platform/">Frenos Raises $3.88M in Seed Funding for OT Security Assessment Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Warns of High-Risk Blind SQL Injection Bug in Avi Load Balancer</title>
-		<link>https://www.securityweek.com/vmware-warns-of-high-risk-blind-sql-injection-bug-in-avi-load-balancer/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 20:49:52 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Avi Load Balancer]]></category>
-		<category><![CDATA[SQL injection]]></category>
-		<category><![CDATA[VMware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41001</guid>
-
-					<description><![CDATA[<p>VMware warns that a malicious user with network access may be able to use specially crafted SQL queries to gain database access.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-warns-of-high-risk-blind-sql-injection-bug-in-avi-load-balancer/">VMware Warns of High-Risk Blind SQL Injection Bug in Avi Load Balancer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Eclypsium Eyes Global Expansion with $45 Million Series C Investment</title>
-		<link>https://www.securityweek.com/eclypsium-eyes-global-expansion-with-45-million-series-c-investment/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 15:49:16 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Eclypsium]]></category>
-		<category><![CDATA[firmware]]></category>
-		<category><![CDATA[Qualcomm Ventures]]></category>
-		<category><![CDATA[Series B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40998</guid>
-
-					<description><![CDATA[<p>The investment includes equity and debt from new investors Qualcomm Ventures, Pavilion Capital, Singtel Innov8, and Sixty Degree Capital. </p>
-<p>The post <a href="https://www.securityweek.com/eclypsium-eyes-global-expansion-with-45-million-series-c-investment/">Eclypsium Eyes Global Expansion with $45 Million Series C Investment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Drain Over $85 Million From Crypto Exchange Phemex</title>
-		<link>https://www.securityweek.com/hackers-drain-over-85-million-from-crypto-exchange-phemex/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 13:49:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[heist]]></category>
-		<category><![CDATA[Phemex]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40994</guid>
-
-					<description><![CDATA[<p>Hackers stole more than $85 million in crypto assets from hot wallets at cryptocurrency exchange Phemex.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-drain-over-85-million-from-crypto-exchange-phemex/">Hackers Drain Over $85 Million From Crypto Exchange Phemex</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NinjaOne to Acquire Dropsuite for $252 Million</title>
-		<link>https://www.securityweek.com/ninjaone-to-acquire-dropsuite-for-252-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 13:41:40 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[Endpoint]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=40993</guid>
-
-					<description><![CDATA[<p>Endpoint management and security firm NinjaOne to acquire cloud data backup, archiving, and recovery solutions provider Dropsuite for $252 million.</p>
-<p>The post <a href="https://www.securityweek.com/ninjaone-to-acquire-dropsuite-for-252-million/">NinjaOne to Acquire Dropsuite for $252 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
