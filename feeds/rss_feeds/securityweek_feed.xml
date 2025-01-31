@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 30 Jan 2025 11:46:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Jan 2025 11:46:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,202 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Frederick Health Hit by Ransomware Attack</title>
-		<link>https://www.securityweek.com/frederick-health-hit-by-ransomware-attack/</link>
+		<title>CISA, FDA Warn of Dangerous Backdoor in Contec Patient Monitors</title>
+		<link>https://www.securityweek.com/cisa-fda-warn-of-dangerous-backdoor-in-contec-patient-monitors/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Jan 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Frederick Health]]></category>
+		<pubDate>Fri, 31 Jan 2025 11:46:52 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[FDA]]></category>
 		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41030</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41064</guid>
 
-					<description><![CDATA[<p>Maryland healthcare provider Frederick Health has taken some of its systems offline in response to a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/frederick-health-hit-by-ransomware-attack/">Frederick Health Hit by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA and FDA say Contec patient monitors used in the US contain a backdoor function that could allow remote attackers to tamper with the device.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-fda-warn-of-dangerous-backdoor-in-contec-patient-monitors/">CISA, FDA Warn of Dangerous Backdoor in Contec Patient Monitors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 12:00:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 11:46:58 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>152,000 Impacted by Data Breach at Berman &#038; Rabin</title>
-		<link>https://www.securityweek.com/152000-impacted-by-data-breach-at-berman-rabin/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Jan 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Berman Rabin]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41028</guid>
-
-					<description><![CDATA[<p>Law firm Berman &#038; Rabin says 152,000 people are impacted by a data breach resulting from a July 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/152000-impacted-by-data-breach-at-berman-rabin/">152,000 Impacted by Data Breach at Berman &#038; Rabin</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unprotected DeepSeek Database Exposed Chats, Other Sensitive Information</title>
-		<link>https://www.securityweek.com/unprotected-deepseek-database-leaked-highly-sensitive-information/</link>
+		<title>ChatGPT, DeepSeek Vulnerable to AI Jailbreaks</title>
+		<link>https://www.securityweek.com/ai-jailbreaks-target-chatgpt-deepseek-alibaba-qwen/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 30 Jan 2025 11:00:00 +0000</pubDate>
+		<pubDate>Fri, 31 Jan 2025 11:16:52 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[database]]></category>
+		<category><![CDATA[AI jailbreak]]></category>
+		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[exposed]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41024</guid>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<category><![CDATA[Qwen]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41063</guid>
 
-					<description><![CDATA[<p>An unprotected database belonging to Chinese AI company DeepSeek exposed highly sensitive information, including chat history, secret keys, and backend data.</p>
-<p>The post <a href="https://www.securityweek.com/unprotected-deepseek-database-leaked-highly-sensitive-information/">Unprotected DeepSeek Database Exposed Chats, Other Sensitive Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Different research teams have demonstrated jailbreaks against ChatGPT, DeepSeek, and Alibaba’s Qwen AI models. </p>
+<p>The post <a href="https://www.securityweek.com/ai-jailbreaks-target-chatgpt-deepseek-alibaba-qwen/">ChatGPT, DeepSeek Vulnerable to AI Jailbreaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Tenable to Acquire Vulcan Cyber for $150 Million</title>
-		<link>https://www.securityweek.com/tenable-to-acquire-vulcan-cyber-for-150-million/</link>
+		<title>NorthBay Health Data Breach Impacts 569,000 Individuals</title>
+		<link>https://www.securityweek.com/northbay-health-data-breach-impacts-569000-individuals/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 30 Jan 2025 10:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 09:53:02 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[NorthBay]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41060</guid>
+
+					<description><![CDATA[<p>NorthBay Health says hackers stole the personal information of 569,000 individuals in a 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/northbay-health-data-breach-impacts-569000-individuals/">NorthBay Health Data Breach Impacts 569,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Clutch Security Raises $20 Million for Non-Human Identity Protection Platform</title>
+		<link>https://www.securityweek.com/clutch-security-raises-20-million-for-non-human-identity-protection-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 05:28:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Clutch Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[identity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41059</guid>
+
+					<description><![CDATA[<p>Clutch Security has raised $20 million in a Series A funding round led by SignalFire to secure non-human identities.</p>
+<p>The post <a href="https://www.securityweek.com/clutch-security-raises-20-million-for-non-human-identity-protection-platform/">Clutch Security Raises $20 Million for Non-Human Identity Protection Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Administration Faces Security Balancing Act in Borderless Cyber Landscape</title>
+		<link>https://www.securityweek.com/trump-administration-faces-security-balancing-act-in-borderless-cyber-landscape/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 01:05:57 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41056</guid>
+
+					<description><![CDATA[<p>What challenges will the new administration face and what might President Trump’s record on cybersecurity indicate about the likely approach in 2025 and beyond?</p>
+<p>The post <a href="https://www.securityweek.com/trump-administration-faces-security-balancing-act-in-borderless-cyber-landscape/">Trump Administration Faces Security Balancing Act in Borderless Cyber Landscape</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Justice Department Sues to Block $14 Billion Juniper Buyout by Hewlett Packard Enterprise</title>
+		<link>https://www.securityweek.com/justice-department-sues-to-block-14-billion-juniper-buyout-by-hewlett-packard-enterprise/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 20:24:16 +0000</pubDate>
 				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Network Security]]></category>
 		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Tenable]]></category>
-		<category><![CDATA[Vulcan Cyber]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41026</guid>
+		<category><![CDATA[Juniper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41053</guid>
 
-					<description><![CDATA[<p>Tenable plans to acquire exposure management company Vulcan Cyber for roughly $150 million in cash and stock. </p>
-<p>The post <a href="https://www.securityweek.com/tenable-to-acquire-vulcan-cyber-for-150-million/">Tenable to Acquire Vulcan Cyber for $150 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The lawsuit said that the combination of businesses would eliminate competition, raise prices and reduce innovation.</p>
+<p>The post <a href="https://www.securityweek.com/justice-department-sues-to-block-14-billion-juniper-buyout-by-hewlett-packard-enterprise/">Justice Department Sues to Block $14 Billion Juniper Buyout by Hewlett Packard Enterprise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New Zyxel Zero-Day Under Attack, No Patch Available</title>
-		<link>https://www.securityweek.com/new-zyxel-zero-day-under-attack-no-patch-available/</link>
+		<title>VMware Patches High-Risk Flaws in Oft-Targeted Aria Operations Products</title>
+		<link>https://www.securityweek.com/vmware-patches-high-risk-flaws-in-oft-targeted-aria-operations-products/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 16:13:27 +0000</pubDate>
+		<pubDate>Thu, 30 Jan 2025 19:17:24 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Censys]]></category>
-		<category><![CDATA[CVE-2024-40891]]></category>
-		<category><![CDATA[GreyNoise]]></category>
-		<category><![CDATA[Zyxel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41021</guid>
+		<category><![CDATA[Aria Operations]]></category>
+		<category><![CDATA[CVE-2025-22218]]></category>
+		<category><![CDATA[CVE-2025-22222]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41052</guid>
 
-					<description><![CDATA[<p>GreyNoise reports active exploitation of a newly discovered zero-day vulnerability in Zyxel CPE devices. There are no patches available.</p>
-<p>The post <a href="https://www.securityweek.com/new-zyxel-zero-day-under-attack-no-patch-available/">New Zyxel Zero-Day Under Attack, No Patch Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>VMware calls attention to patches for multiple 'high-risk' security defects in its Aria Operations and Aria Operations for Logs products.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-patches-high-risk-flaws-in-oft-targeted-aria-operations-products/">VMware Patches High-Risk Flaws in Oft-Targeted Aria Operations Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Oligo Raises $50M to Tackle Application Detection and Response</title>
-		<link>https://www.securityweek.com/oligo-raises-50m-to-tackle-application-detection-and-response/</link>
+		<title>Conifers.ai Scores $25M Investment for Agentic AI SOC Technology</title>
+		<link>https://www.securityweek.com/conifers-ai-scores-25m-investment-for-agentic-ai-soc-technology/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 15:26:16 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 18:47:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[Greenfield Partners]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Oligo]]></category>
-		<category><![CDATA[Series B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41019</guid>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[Conifers.ai]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[SYN Ventures]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41051</guid>
 
-					<description><![CDATA[<p>Oligo Security has raised $50 million in Series B funding for its application detection and response (ADR) platform.</p>
-<p>The post <a href="https://www.securityweek.com/oligo-raises-50m-to-tackle-application-detection-and-response/">Oligo Raises $50M to Tackle Application Detection and Response</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Backed by SYN Ventures, Conifers.ai plans to use  “agentic AI” technology to tackle complex security operations center (SOC) problems.</p>
+<p>The post <a href="https://www.securityweek.com/conifers-ai-scores-25m-investment-for-agentic-ai-soc-technology/">Conifers.ai Scores $25M Investment for Agentic AI SOC Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New SLAP and FLOP CPU Attacks Expose Data From Apple Computers, Phones</title>
-		<link>https://www.securityweek.com/new-slap-and-flop-cpu-attacks-expose-data-from-apple-computers-phones/</link>
+		<title>Taming Shadow AI: Valence Security, Endor Labs Unveil New Protections to Counter Hidden AI Threats</title>
+		<link>https://www.securityweek.com/taming-shadow-ai-valence-security-endor-labs-unveil-new-protections-to-counter-hidden-ai-threats/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 17:47:39 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Shadow AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41049</guid>
+
+					<description><![CDATA[<p>Valence Security and Endor Labs have introduced extensions to their existing platforms specifically to tackle the invisibility and wrongful use of Shadow AI. </p>
+<p>The post <a href="https://www.securityweek.com/taming-shadow-ai-valence-security-endor-labs-unveil-new-protections-to-counter-hidden-ai-threats/">Taming Shadow AI: Valence Security, Endor Labs Unveil New Protections to Counter Hidden AI Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Backline Emerges From Stealth With $9M in Funding for Vulnerability Remediation Platform</title>
+		<link>https://www.securityweek.com/backline-emerges-from-stealth-with-vulnerability-remediation-platform-9m-in-funding/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 12:44:46 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FLOP]]></category>
-		<category><![CDATA[side-channel attack]]></category>
-		<category><![CDATA[SLAP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41016</guid>
+		<pubDate>Thu, 30 Jan 2025 17:15:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Backline]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41037</guid>
 
-					<description><![CDATA[<p>New CPU side-channel attacks named SLAP and FLOP can be exploited to remotely steal data from Apple mobile and desktop devices. </p>
-<p>The post <a href="https://www.securityweek.com/new-slap-and-flop-cpu-attacks-expose-data-from-apple-computers-phones/">New SLAP and FLOP CPU Attacks Expose Data From Apple Computers, Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aquabot Botnet Targeting Vulnerable Mitel Phones</title>
-		<link>https://www.securityweek.com/aquabot-botnet-targeting-vulnerable-mitel-phones/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 12:12:16 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Aquabot]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Mirai]]></category>
-		<category><![CDATA[Mitel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41015</guid>
-
-					<description><![CDATA[<p>The Mirai-based Aquabot botnet has been targeting a vulnerability in Mitel SIP phones for which a proof-of-concept (PoC) exploit exists.</p>
-<p>The post <a href="https://www.securityweek.com/aquabot-botnet-targeting-vulnerable-mitel-phones/">Aquabot Botnet Targeting Vulnerable Mitel Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Smiths Group Scrambling to Restore Systems Following Cyberattack</title>
-		<link>https://www.securityweek.com/smiths-group-scrambling-to-restore-systems-following-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 11:50:05 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Smiths]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41014</guid>
-
-					<description><![CDATA[<p>Engineering firm Smiths Group has disclosed a cyberattack that forced it to take some systems offline and activate business continuity plans.</p>
-<p>The post <a href="https://www.securityweek.com/smiths-group-scrambling-to-restore-systems-following-cyberattack/">Smiths Group Scrambling to Restore Systems Following Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rockwell Patches Critical, High-Severity Vulnerabilities in Several Products</title>
-		<link>https://www.securityweek.com/rockwell-patches-critical-high-severity-vulnerabilities-in-several-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 11:22:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Rockwell Automation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41013</guid>
-
-					<description><![CDATA[<p>Rockwell Automation has released six new security advisories to inform customers about several critical and high-severity vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-patches-critical-high-severity-vulnerabilities-in-several-products/">Rockwell Patches Critical, High-Severity Vulnerabilities in Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Backline has emerged from stealth mode with an autonomous security remediation platform and $9 million in seed funding.</p>
+<p>The post <a href="https://www.securityweek.com/backline-emerges-from-stealth-with-vulnerability-remediation-platform-9m-in-funding/">Backline Emerges From Stealth With $9M in Funding for Vulnerability Remediation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
