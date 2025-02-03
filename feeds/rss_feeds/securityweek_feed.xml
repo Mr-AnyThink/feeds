@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 01 Feb 2025 11:09:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Feb 2025 12:03:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</title>
+		<link>https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 12:03:45 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI jailbreak]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41077</guid>
+
+					<description><![CDATA[<p>Researchers found a jailbreak method that exposed DeepSeek’s system prompt, while others have analyzed the DDoS attacks aimed at the new gen-AI.</p>
+<p>The post <a href="https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/">DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:03:53 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Insurance Company Globe Life Notifying 850,000 People of Data Breach</title>
+		<link>https://www.securityweek.com/insurance-company-globe-life-notifying-850000-people-of-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 11:10:48 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Globe Life]]></category>
+		<category><![CDATA[insurance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41076</guid>
+
+					<description><![CDATA[<p>Insurance firm Globe Life says a threat actor may have compromised the personal information of roughly 850,000 individuals.</p>
+<p>The post <a href="https://www.securityweek.com/insurance-company-globe-life-notifying-850000-people-of-data-breach/">Insurance Company Globe Life Notifying 850,000 People of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>1 Million Impacted by Data Breach at Connecticut Healthcare Provider</title>
+		<link>https://www.securityweek.com/1-million-impacted-by-data-breach-at-connecticut-healthcare-provider/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 09:54:11 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41075</guid>
+
+					<description><![CDATA[<p>Community Health Center, Inc. says hackers stole the personal and health information of over one million individuals.</p>
+<p>The post <a href="https://www.securityweek.com/1-million-impacted-by-data-breach-at-connecticut-healthcare-provider/">1 Million Impacted by Data Breach at Connecticut Healthcare Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Texas Governor Orders Ban on DeepSeek, RedNote for Government Devices</title>
 		<link>https://www.securityweek.com/texas-governor-orders-ban-on-deepseek-rednote-for-government-devices/</link>
 		
@@ -46,7 +103,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of January 27, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/jan-27-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/jan-27-2025/</guid><pubDate>Mon, 27 Jan 2025 11:09:45 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of January 27, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: Browser Syncjacking, Fake AWS Hack, Google Blocked 2M Bad Apps</title>
 		<link>https://www.securityweek.com/in-other-news-browser-syncjacking-fake-aws-hack-google-blocked-2m-bad-apps/</link>
@@ -160,69 +217,6 @@
 
 					<description><![CDATA[<p>CISA and FDA say Contec patient monitors used in the US contain a backdoor function that could allow remote attackers to tamper with the device.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-fda-warn-of-dangerous-backdoor-in-contec-patient-monitors/">CISA, FDA Warn of Dangerous Backdoor in Contec Patient Monitors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT, DeepSeek Vulnerable to AI Jailbreaks</title>
-		<link>https://www.securityweek.com/ai-jailbreaks-target-chatgpt-deepseek-alibaba-qwen/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 11:16:52 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<category><![CDATA[Qwen]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41063</guid>
-
-					<description><![CDATA[<p>Different research teams have demonstrated jailbreaks against ChatGPT, DeepSeek, and Alibaba’s Qwen AI models. </p>
-<p>The post <a href="https://www.securityweek.com/ai-jailbreaks-target-chatgpt-deepseek-alibaba-qwen/">ChatGPT, DeepSeek Vulnerable to AI Jailbreaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NorthBay Health Data Breach Impacts 569,000 Individuals</title>
-		<link>https://www.securityweek.com/northbay-health-data-breach-impacts-569000-individuals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 09:53:02 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[NorthBay]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41060</guid>
-
-					<description><![CDATA[<p>NorthBay Health says hackers stole the personal information of 569,000 individuals in a 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/northbay-health-data-breach-impacts-569000-individuals/">NorthBay Health Data Breach Impacts 569,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Clutch Security Raises $20 Million for Non-Human Identity Protection Platform</title>
-		<link>https://www.securityweek.com/clutch-security-raises-20-million-for-non-human-identity-protection-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 05:28:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Clutch Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41059</guid>
-
-					<description><![CDATA[<p>Clutch Security has raised $20 million in a Series A funding round led by SignalFire to secure non-human identities.</p>
-<p>The post <a href="https://www.securityweek.com/clutch-security-raises-20-million-for-non-human-identity-protection-platform/">Clutch Security Raises $20 Million for Non-Human Identity Protection Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
