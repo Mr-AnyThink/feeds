@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 03 Feb 2025 12:03:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Feb 2025 11:58:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,189 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cyber Insights 2025: The CISO Outlook</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-the-ciso-outlook/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41091</guid>
+
+					<description><![CDATA[<p>There has never been a single job description for the CISO – the role depends upon each company, its maturity, its size and resources, and the risk tolerance of boards. </p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-the-ciso-outlook/">Cyber Insights 2025: The CISO Outlook</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:00:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Developers Targeted With Malware Disguised as DeepSeek Package</title>
+		<link>https://www.securityweek.com/developers-targeted-with-malware-disguised-as-deepseek-package/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 11:56:55 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PyPI]]></category>
+		<category><![CDATA[Python]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41103</guid>
+
+					<description><![CDATA[<p>Python developers looking to integrate DeepSeek into their projects were targeted with malicious packages delivered through PyPI.</p>
+<p>The post <a href="https://www.securityweek.com/developers-targeted-with-malware-disguised-as-deepseek-package/">Developers Targeted With Malware Disguised as DeepSeek Package</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Contec Patient Monitors Not Malicious, but Still Pose Big Risk to Healthcare</title>
+		<link>https://www.securityweek.com/contec-patient-monitors-not-malicious-but-still-pose-big-risk-to-healthcare/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 11:33:48 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[Contec]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41102</guid>
+
+					<description><![CDATA[<p>The Contec CMS8000 patient monitors do not contain a malicious backdoor but are plagued by an insecure and vulnerable design.</p>
+<p>The post <a href="https://www.securityweek.com/contec-patient-monitors-not-malicious-but-still-pose-big-risk-to-healthcare/">Contec Patient Monitors Not Malicious, but Still Pose Big Risk to Healthcare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability Patched in Android Possibly Exploited by Forensic Tools</title>
+		<link>https://www.securityweek.com/vulnerability-patched-in-android-possibly-exploited-by-forensic-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[forensic]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41089</guid>
+
+					<description><![CDATA[<p>The February 2025 Android patches resolve 46 vulnerabilities, including a Linux kernel bug that has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-patched-in-android-possibly-exploited-by-forensic-tools/">Vulnerability Patched in Android Possibly Exploited by Forensic Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DeepSeek Compared to ChatGPT, Gemini in AI Jailbreak Test</title>
+		<link>https://www.securityweek.com/deepseek-compared-to-chatgpt-gemini-in-ai-jailbreak-test/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 09:50:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI jailbreak]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41087</guid>
+
+					<description><![CDATA[<p>DeepSeek’s susceptibility to jailbreaks has been compared by Cisco to other popular AI models, including from Meta, OpenAI and Google.</p>
+<p>The post <a href="https://www.securityweek.com/deepseek-compared-to-chatgpt-gemini-in-ai-jailbreak-test/">DeepSeek Compared to ChatGPT, Gemini in AI Jailbreak Test</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>XE Group Cybercrime Gang Moves from Credit Card Skimming to Zero-Day Exploits</title>
+		<link>https://www.securityweek.com/xe-group-cybercrime-gang-moves-from-credit-card-skimming-to-zero-day-exploits/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 17:37:08 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Intezer]]></category>
+		<category><![CDATA[Solis Security]]></category>
+		<category><![CDATA[VeraCore]]></category>
+		<category><![CDATA[XE Group]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41085</guid>
+
+					<description><![CDATA[<p>Vietnamese cybercrime gang shifts from credit card-skimming to exploiting at least two zero-day vulnerabilities enterprise software product.</p>
+<p>The post <a href="https://www.securityweek.com/xe-group-cybercrime-gang-moves-from-credit-card-skimming-to-zero-day-exploits/">XE Group Cybercrime Gang Moves from Credit Card Skimming to Zero-Day Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: Quantum and the Threat to Encryption</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-quantum-and-the-threat-to-encryption/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 14:52:05 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[CyberInsights2024]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<category><![CDATA[Quantum cryptography]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41081</guid>
+
+					<description><![CDATA[<p>2025 is an important year – it is probably our last chance to start our migration to post quantum cryptography before we are all undone by cryptographically relevant quantum computers.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-quantum-and-the-threat-to-encryption/">Cyber Insights 2025: Quantum and the Threat to Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hundreds of Thousands Hit by Data Breaches at Healthcare Firms in Colorado, North Carolina</title>
+		<link>https://www.securityweek.com/hundreds-of-thousands-hit-by-data-breaches-at-healthcare-firms-in-colorado-north-carolina/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 12:55:31 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41080</guid>
+
+					<description><![CDATA[<p>Hundreds of thousands have been impacted by data breaches at Asheville Eye Associates and Delta County Memorial Hospital District.</p>
+<p>The post <a href="https://www.securityweek.com/hundreds-of-thousands-hit-by-data-breaches-at-healthcare-firms-in-colorado-north-carolina/">Hundreds of Thousands Hit by Data Breaches at Healthcare Firms in Colorado, North Carolina</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Casio Website Infected With Skimmer </title>
+		<link>https://www.securityweek.com/casio-website-infected-with-skimmer/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 12:24:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Casio]]></category>
+		<category><![CDATA[skimmer]]></category>
+		<category><![CDATA[web skimmer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41079</guid>
+
+					<description><![CDATA[<p>A threat actor has infected Casio UK’s website with a web skimmer on all pages, except the typical checkout page.</p>
+<p>The post <a href="https://www.securityweek.com/casio-website-infected-with-skimmer/">Casio Website Infected With Skimmer </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</title>
 		<link>https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/</link>
 		
@@ -42,181 +225,6 @@
 
 					<description><![CDATA[<p>Researchers found a jailbreak method that exposed DeepSeek’s system prompt, while others have analyzed the DDoS attacks aimed at the new gen-AI.</p>
 <p>The post <a href="https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/">DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:03:53 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Insurance Company Globe Life Notifying 850,000 People of Data Breach</title>
-		<link>https://www.securityweek.com/insurance-company-globe-life-notifying-850000-people-of-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 11:10:48 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Globe Life]]></category>
-		<category><![CDATA[insurance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41076</guid>
-
-					<description><![CDATA[<p>Insurance firm Globe Life says a threat actor may have compromised the personal information of roughly 850,000 individuals.</p>
-<p>The post <a href="https://www.securityweek.com/insurance-company-globe-life-notifying-850000-people-of-data-breach/">Insurance Company Globe Life Notifying 850,000 People of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1 Million Impacted by Data Breach at Connecticut Healthcare Provider</title>
-		<link>https://www.securityweek.com/1-million-impacted-by-data-breach-at-connecticut-healthcare-provider/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 09:54:11 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41075</guid>
-
-					<description><![CDATA[<p>Community Health Center, Inc. says hackers stole the personal and health information of over one million individuals.</p>
-<p>The post <a href="https://www.securityweek.com/1-million-impacted-by-data-breach-at-connecticut-healthcare-provider/">1 Million Impacted by Data Breach at Connecticut Healthcare Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Texas Governor Orders Ban on DeepSeek, RedNote for Government Devices</title>
-		<link>https://www.securityweek.com/texas-governor-orders-ban-on-deepseek-rednote-for-government-devices/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 01 Feb 2025 11:09:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[ban]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41072</guid>
-
-					<description><![CDATA[<p>“Texas will not allow the Chinese Communist Party to infiltrate our state’s critical infrastructure through data-harvesting AI and social media apps,” Abbott said. </p>
-<p>The post <a href="https://www.securityweek.com/texas-governor-orders-ban-on-deepseek-rednote-for-government-devices/">Texas Governor Orders Ban on DeepSeek, RedNote for Government Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Browser Syncjacking, Fake AWS Hack, Google Blocked 2M Bad Apps</title>
-		<link>https://www.securityweek.com/in-other-news-browser-syncjacking-fake-aws-hack-google-blocked-2m-bad-apps/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 17:10:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41071</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: stealing browser data via Syncjacking, hackers falsely claim AWS breach, Google prevented 2 million bad apps from reaching Google Play. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-browser-syncjacking-fake-aws-hack-google-blocked-2m-bad-apps/">In Other News: Browser Syncjacking, Fake AWS Hack, Google Blocked 2M Bad Apps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Italy Blocks Access to the Chinese AI Application DeepSeek to Protect Users’ Data</title>
-		<link>https://www.securityweek.com/italy-blocks-access-to-the-chinese-ai-application-deepseek-to-protect-users-data/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 14:50:16 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[Italy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41070</guid>
-
-					<description><![CDATA[<p>Italy’s data protection authority expressed dissatisfaction with DeepSeek’s response to its query about what personal data is collected, where it is stored and how users are notified.</p>
-<p>The post <a href="https://www.securityweek.com/italy-blocks-access-to-the-chinese-ai-application-deepseek-to-protect-users-data/">Italy Blocks Access to the Chinese AI Application DeepSeek to Protect Users’ Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US, Dutch Authorities Disrupt Pakistani Hacking Shop Network</title>
-		<link>https://www.securityweek.com/us-dutch-authorities-disrupt-pakistani-hacking-shop-network/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 13:30:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[Pakistan]]></category>
-		<category><![CDATA[Saim Raza]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41068</guid>
-
-					<description><![CDATA[<p>US and Dutch authorities seized 39 domains to disrupt a network of hacking and fraud marketplaces operated by Saim Raza.</p>
-<p>The post <a href="https://www.securityweek.com/us-dutch-authorities-disrupt-pakistani-hacking-shop-network/">US, Dutch Authorities Disrupt Pakistani Hacking Shop Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2 Arrested in Takedown of Nulled, Cracked Hacking Forums</title>
-		<link>https://www.securityweek.com/2-arrested-in-takedown-of-nulled-cracked-hacking-forums/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 12:33:20 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Cracked]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Nulled]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41067</guid>
-
-					<description><![CDATA[<p>Two individuals have been arrested and one alleged admin has been charged in the takedown of the Nulled and Cracked cybercrime forums.</p>
-<p>The post <a href="https://www.securityweek.com/2-arrested-in-takedown-of-nulled-cracked-hacking-forums/">2 Arrested in Takedown of Nulled, Cracked Hacking Forums</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New York Blood Bank Hit by Ransomware</title>
-		<link>https://www.securityweek.com/new-york-blood-bank-hit-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 12:17:53 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[New York Blood Bank]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41066</guid>
-
-					<description><![CDATA[<p>New York Blood Center Enterprises and its operating divisions have taken systems offline to contain a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/new-york-blood-bank-hit-by-ransomware/">New York Blood Bank Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA, FDA Warn of Dangerous Backdoor in Contec Patient Monitors</title>
-		<link>https://www.securityweek.com/cisa-fda-warn-of-dangerous-backdoor-in-contec-patient-monitors/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jan 2025 11:46:52 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[FDA]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41064</guid>
-
-					<description><![CDATA[<p>CISA and FDA say Contec patient monitors used in the US contain a backdoor function that could allow remote attackers to tamper with the device.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-fda-warn-of-dangerous-backdoor-in-contec-patient-monitors/">CISA, FDA Warn of Dangerous Backdoor in Contec Patient Monitors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
