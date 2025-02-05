@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 04 Feb 2025 11:58:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2025 12:02:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,203 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cyber Insights 2025: The CISO Outlook</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-the-ciso-outlook/</link>
+		<title>Russian Hackers Exploited 7-Zip Zero-Day Against Ukraine</title>
+		<link>https://www.securityweek.com/russian-hackers-exploited-7-zip-zero-day-against-ukraine/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41091</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 12:02:48 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[7-Zip]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41119</guid>
 
-					<description><![CDATA[<p>There has never been a single job description for the CISO – the role depends upon each company, its maturity, its size and resources, and the risk tolerance of boards. </p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-the-ciso-outlook/">Cyber Insights 2025: The CISO Outlook</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Russian threat groups have been observed exploiting a zero-day vulnerability in 7-Zip against Ukrainian entities.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hackers-exploited-7-zip-zero-day-against-ukraine/">Russian Hackers Exploited 7-Zip Zero-Day Against Ukraine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:00:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:02:54 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Developers Targeted With Malware Disguised as DeepSeek Package</title>
-		<link>https://www.securityweek.com/developers-targeted-with-malware-disguised-as-deepseek-package/</link>
+		<title>Chrome 133, Firefox 135 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-133-firefox-135-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 11:41:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41118</guid>
+
+					<description><![CDATA[<p>Chrome 133 and Firefox 135 were released with patches for multiple high-severity memory safety vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-133-firefox-135-patch-high-severity-vulnerabilities/">Chrome 133, Firefox 135 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Defenders on the Frontline &#8211; Incident Response and Threat Intel Under the Microscope </title>
+		<link>https://www.securityweek.com/ciso-forum-webinar-defenders-on-the-frontline-incident-response-and-threat-intel-under-the-microscope/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 11:24:57 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41110</guid>
+
+					<description><![CDATA[<p>Join this panel of CISOs and threat-intel professionals for a deep-dive on aligning incident response and threat intelligence with broader business objectives.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-forum-webinar-defenders-on-the-frontline-incident-response-and-threat-intel-under-the-microscope/">Webinar Today: Defenders on the Frontline &#8211; Incident Response and Threat Intel Under the Microscope </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Issues Exploitation Warning for .NET Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-issues-exploitation-warning-for-net-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 11:56:55 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PyPI]]></category>
-		<category><![CDATA[Python]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41103</guid>
+		<pubDate>Wed, 05 Feb 2025 10:56:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[.NET]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41117</guid>
 
-					<description><![CDATA[<p>Python developers looking to integrate DeepSeek into their projects were targeted with malicious packages delivered through PyPI.</p>
-<p>The post <a href="https://www.securityweek.com/developers-targeted-with-malware-disguised-as-deepseek-package/">Developers Targeted With Malware Disguised as DeepSeek Package</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA has added CVE-2024-29059, a flaw affecting Microsoft .NET, to its Known Exploited Vulnerabilities catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-issues-exploitation-warning-for-net-vulnerability/">CISA Issues Exploitation Warning for .NET Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Contec Patient Monitors Not Malicious, but Still Pose Big Risk to Healthcare</title>
-		<link>https://www.securityweek.com/contec-patient-monitors-not-malicious-but-still-pose-big-risk-to-healthcare/</link>
+		<title>Zyxel Issues &#8216;No Patch&#8217; Warning for Exploited Zero-Days</title>
+		<link>https://www.securityweek.com/zyxel-issues-no-patch-warning-for-exploited-zero-days/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 11:33:48 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[Contec]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[IoT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41102</guid>
-
-					<description><![CDATA[<p>The Contec CMS8000 patient monitors do not contain a malicious backdoor but are plagued by an insecure and vulnerable design.</p>
-<p>The post <a href="https://www.securityweek.com/contec-patient-monitors-not-malicious-but-still-pose-big-risk-to-healthcare/">Contec Patient Monitors Not Malicious, but Still Pose Big Risk to Healthcare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability Patched in Android Possibly Exploited by Forensic Tools</title>
-		<link>https://www.securityweek.com/vulnerability-patched-in-android-possibly-exploited-by-forensic-tools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
+		<pubDate>Wed, 05 Feb 2025 09:57:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[forensic]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41089</guid>
+		<category><![CDATA[unpatched]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41116</guid>
 
-					<description><![CDATA[<p>The February 2025 Android patches resolve 46 vulnerabilities, including a Linux kernel bug that has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-patched-in-android-possibly-exploited-by-forensic-tools/">Vulnerability Patched in Android Possibly Exploited by Forensic Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Multiple Zyxel legacy DSL CPE products are affected by exploited zero-day vulnerabilities that will not be patched.</p>
+<p>The post <a href="https://www.securityweek.com/zyxel-issues-no-patch-warning-for-exploited-zero-days/">Zyxel Issues &#8216;No Patch&#8217; Warning for Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>DeepSeek Compared to ChatGPT, Gemini in AI Jailbreak Test</title>
-		<link>https://www.securityweek.com/deepseek-compared-to-chatgpt-gemini-in-ai-jailbreak-test/</link>
+		<title>Sophos Completes Acquisition of Secureworks</title>
+		<link>https://www.securityweek.com/sophos-completes-acquisition-of-secureworks/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 09:50:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41087</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 20:16:40 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[SecureWorks]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41115</guid>
 
-					<description><![CDATA[<p>DeepSeek’s susceptibility to jailbreaks has been compared by Cisco to other popular AI models, including from Meta, OpenAI and Google.</p>
-<p>The post <a href="https://www.securityweek.com/deepseek-compared-to-chatgpt-gemini-in-ai-jailbreak-test/">DeepSeek Compared to ChatGPT, Gemini in AI Jailbreak Test</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sophos has completed its $859 million all-cash acquisition of SecureWorks.</p>
+<p>The post <a href="https://www.securityweek.com/sophos-completes-acquisition-of-secureworks/">Sophos Completes Acquisition of Secureworks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>XE Group Cybercrime Gang Moves from Credit Card Skimming to Zero-Day Exploits</title>
-		<link>https://www.securityweek.com/xe-group-cybercrime-gang-moves-from-credit-card-skimming-to-zero-day-exploits/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 17:37:08 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Intezer]]></category>
-		<category><![CDATA[Solis Security]]></category>
-		<category><![CDATA[VeraCore]]></category>
-		<category><![CDATA[XE Group]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41085</guid>
-
-					<description><![CDATA[<p>Vietnamese cybercrime gang shifts from credit card-skimming to exploiting at least two zero-day vulnerabilities enterprise software product.</p>
-<p>The post <a href="https://www.securityweek.com/xe-group-cybercrime-gang-moves-from-credit-card-skimming-to-zero-day-exploits/">XE Group Cybercrime Gang Moves from Credit Card Skimming to Zero-Day Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2025: Quantum and the Threat to Encryption</title>
-		<link>https://www.securityweek.com/cyber-insights-2025-quantum-and-the-threat-to-encryption/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 14:52:05 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[CyberInsights2024]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Post quantum cryptography]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<category><![CDATA[Quantum cryptography]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41081</guid>
-
-					<description><![CDATA[<p>2025 is an important year – it is probably our last chance to start our migration to post quantum cryptography before we are all undone by cryptographically relevant quantum computers.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-quantum-and-the-threat-to-encryption/">Cyber Insights 2025: Quantum and the Threat to Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hundreds of Thousands Hit by Data Breaches at Healthcare Firms in Colorado, North Carolina</title>
-		<link>https://www.securityweek.com/hundreds-of-thousands-hit-by-data-breaches-at-healthcare-firms-in-colorado-north-carolina/</link>
+		<title>Exploitation of Over 700 Vulnerabilities Came to Light in 2024</title>
+		<link>https://www.securityweek.com/exploitation-of-over-700-vulnerabilities-came-to-light-in-2024/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 12:55:31 +0000</pubDate>
+		<pubDate>Tue, 04 Feb 2025 17:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41109</guid>
+
+					<description><![CDATA[<p>The number of vulnerabilities first reported as exploited surged last year amid a decrease in zero-day reports.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-over-700-vulnerabilities-came-to-light-in-2024/">Exploitation of Over 700 Vulnerabilities Came to Light in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>22 New Mac Malware Families Seen in 2024</title>
+		<link>https://www.securityweek.com/22-new-mac-malware-families-seen-in-2024/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41107</guid>
+
+					<description><![CDATA[<p>Nearly two dozen new macOS malware families were observed in 2024, including stealers, backdoors, downloaders and ransomware. </p>
+<p>The post <a href="https://www.securityweek.com/22-new-mac-malware-families-seen-in-2024/">22 New Mac Malware Families Seen in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AMD Patches CPU Vulnerability That Could Break Confidential Computing Protections</title>
+		<link>https://www.securityweek.com/amd-patches-cpu-vulnerability-found-by-google/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 13:26:12 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41106</guid>
+
+					<description><![CDATA[<p>AMD has released patches for a microprocessor vulnerability found by Google that could allow an attacker to load malicious microcode.</p>
+<p>The post <a href="https://www.securityweek.com/amd-patches-cpu-vulnerability-found-by-google/">AMD Patches CPU Vulnerability That Could Break Confidential Computing Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Personal Information Compromised in GrubHub Data Breach</title>
+		<link>https://www.securityweek.com/personal-information-compromised-in-grubhub-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2025 12:28:51 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41080</guid>
+		<category><![CDATA[GrubHub]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41104</guid>
 
-					<description><![CDATA[<p>Hundreds of thousands have been impacted by data breaches at Asheville Eye Associates and Delta County Memorial Hospital District.</p>
-<p>The post <a href="https://www.securityweek.com/hundreds-of-thousands-hit-by-data-breaches-at-healthcare-firms-in-colorado-north-carolina/">Hundreds of Thousands Hit by Data Breaches at Healthcare Firms in Colorado, North Carolina</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Casio Website Infected With Skimmer </title>
-		<link>https://www.securityweek.com/casio-website-infected-with-skimmer/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 12:24:57 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Casio]]></category>
-		<category><![CDATA[skimmer]]></category>
-		<category><![CDATA[web skimmer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41079</guid>
-
-					<description><![CDATA[<p>A threat actor has infected Casio UK’s website with a web skimmer on all pages, except the typical checkout page.</p>
-<p>The post <a href="https://www.securityweek.com/casio-website-infected-with-skimmer/">Casio Website Infected With Skimmer </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</title>
-		<link>https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 12:03:45 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41077</guid>
-
-					<description><![CDATA[<p>Researchers found a jailbreak method that exposed DeepSeek’s system prompt, while others have analyzed the DDoS attacks aimed at the new gen-AI.</p>
-<p>The post <a href="https://www.securityweek.com/deepseek-security-system-prompt-jailbreak-details-emerge-on-cyberattacks/">DeepSeek Security: System Prompt Jailbreak, Details Emerge on Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Food delivery firm GrubHub has disclosed a data breach impacting the personal information of drivers and customers.</p>
+<p>The post <a href="https://www.securityweek.com/personal-information-compromised-in-grubhub-data-breach/">Personal Information Compromised in GrubHub Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
