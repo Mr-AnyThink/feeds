@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 05 Feb 2025 12:02:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Feb 2025 11:38:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,191 +28,189 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Russian Hackers Exploited 7-Zip Zero-Day Against Ukraine</title>
-		<link>https://www.securityweek.com/russian-hackers-exploited-7-zip-zero-day-against-ukraine/</link>
+		<title>Security Teams Pay the Price: The Unfair Reality of Cyber Incidents</title>
+		<link>https://www.securityweek.com/security-teams-pay-the-price-the-unfair-reality-of-cyber-incidents/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 12:02:48 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[7-Zip]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41119</guid>
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41055</guid>
 
-					<description><![CDATA[<p>Russian threat groups have been observed exploiting a zero-day vulnerability in 7-Zip against Ukrainian entities.</p>
-<p>The post <a href="https://www.securityweek.com/russian-hackers-exploited-7-zip-zero-day-against-ukraine/">Russian Hackers Exploited 7-Zip Zero-Day Against Ukraine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The blame of security incidents may be shared—but the burden of response always falls on the security team. Here’s how to prepare for the inevitable.</p>
+<p>The post <a href="https://www.securityweek.com/security-teams-pay-the-price-the-unfair-reality-of-cyber-incidents/">Security Teams Pay the Price: The Unfair Reality of Cyber Incidents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:02:54 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:00:08 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Chrome 133, Firefox 135 Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-133-firefox-135-patch-high-severity-vulnerabilities/</link>
+		<title>Cisco Patches Critical Vulnerabilities in Enterprise Management Product</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-management-product/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 11:41:43 +0000</pubDate>
+		<pubDate>Thu, 06 Feb 2025 11:25:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41118</guid>
+		<category><![CDATA[Cisco]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41143</guid>
 
-					<description><![CDATA[<p>Chrome 133 and Firefox 135 were released with patches for multiple high-severity memory safety vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-133-firefox-135-patch-high-severity-vulnerabilities/">Chrome 133, Firefox 135 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Critical vulnerabilities in Cisco Identity Services Engine could lead to elevation of privileges and  system configuration modifications.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-management-product/">Cisco Patches Critical Vulnerabilities in Enterprise Management Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Webinar Today: Defenders on the Frontline &#8211; Incident Response and Threat Intel Under the Microscope </title>
-		<link>https://www.securityweek.com/ciso-forum-webinar-defenders-on-the-frontline-incident-response-and-threat-intel-under-the-microscope/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 11:24:57 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41110</guid>
-
-					<description><![CDATA[<p>Join this panel of CISOs and threat-intel professionals for a deep-dive on aligning incident response and threat intelligence with broader business objectives.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-forum-webinar-defenders-on-the-frontline-incident-response-and-threat-intel-under-the-microscope/">Webinar Today: Defenders on the Frontline &#8211; Incident Response and Threat Intel Under the Microscope </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Issues Exploitation Warning for .NET Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-issues-exploitation-warning-for-net-vulnerability/</link>
+		<title>Fake DeepSeek Sites Used for Credential Phishing, Crypto Theft, Scams</title>
+		<link>https://www.securityweek.com/fake-deepseek-sites-used-for-credential-phishing-crypto-theft-scams/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 10:56:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[.NET]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41117</guid>
+		<pubDate>Thu, 06 Feb 2025 11:05:00 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41139</guid>
 
-					<description><![CDATA[<p>CISA has added CVE-2024-29059, a flaw affecting Microsoft .NET, to its Known Exploited Vulnerabilities catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-issues-exploitation-warning-for-net-vulnerability/">CISA Issues Exploitation Warning for .NET Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Researchers see dozens of fake DeepSeek websites used for credential phishing, cryptocurrency theft, and scams.</p>
+<p>The post <a href="https://www.securityweek.com/fake-deepseek-sites-used-for-credential-phishing-crypto-theft-scams/">Fake DeepSeek Sites Used for Credential Phishing, Crypto Theft, Scams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Zyxel Issues &#8216;No Patch&#8217; Warning for Exploited Zero-Days</title>
-		<link>https://www.securityweek.com/zyxel-issues-no-patch-warning-for-exploited-zero-days/</link>
+		<title>7AI Launches With $36 Million in Seed Funding for Agentic Security Platform</title>
+		<link>https://www.securityweek.com/7ai-raises-36-million-in-seed-funding-for-agentic-security-platform/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 09:57:05 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[unpatched]]></category>
-		<category><![CDATA[Zyxel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41116</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 09:55:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[7AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41138</guid>
 
-					<description><![CDATA[<p>Multiple Zyxel legacy DSL CPE products are affected by exploited zero-day vulnerabilities that will not be patched.</p>
-<p>The post <a href="https://www.securityweek.com/zyxel-issues-no-patch-warning-for-exploited-zero-days/">Zyxel Issues &#8216;No Patch&#8217; Warning for Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>7AI has launched an agentic security platform, which uses AI agents to handle repetitive tasks.</p>
+<p>The post <a href="https://www.securityweek.com/7ai-raises-36-million-in-seed-funding-for-agentic-security-platform/">7AI Launches With $36 Million in Seed Funding for Agentic Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Sophos Completes Acquisition of Secureworks</title>
-		<link>https://www.securityweek.com/sophos-completes-acquisition-of-secureworks/</link>
+		<title>Semgrep Raises $100M for AI-Powered Code Security Platform</title>
+		<link>https://www.securityweek.com/semgrep-raises-100m-for-ai-powered-code-security-platform/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 20:16:40 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
+		<pubDate>Wed, 05 Feb 2025 21:50:43 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
 		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Menlo Ventures]]></category>
+		<category><![CDATA[Opengrep]]></category>
+		<category><![CDATA[Semgrep]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41137</guid>
+
+					<description><![CDATA[<p>San Francisco application security startup raises $100 million in a Series D funding round led by Menlo Ventures. </p>
+<p>The post <a href="https://www.securityweek.com/semgrep-raises-100m-for-ai-powered-code-security-platform/">Semgrep Raises $100M for AI-Powered Code Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers Link DeepSeek’s Blockbuster Chatbot to Chinese Telecom Banned From Doing Business in US</title>
+		<link>https://www.securityweek.com/researchers-link-deepseeks-blockbuster-chatbot-to-chinese-telecom-banned-from-doing-business-in-us/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 21:40:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41135</guid>
+
+					<description><![CDATA[<p>DeepSeek has computer code that could send some user login information to China Mobile.</p>
+<p>The post <a href="https://www.securityweek.com/researchers-link-deepseeks-blockbuster-chatbot-to-chinese-telecom-banned-from-doing-business-in-us/">Researchers Link DeepSeek’s Blockbuster Chatbot to Chinese Telecom Banned From Doing Business in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How Agentic AI will be Weaponized for Social Engineering Attacks</title>
+		<link>https://www.securityweek.com/how-agentic-ai-will-be-weaponized-for-social-engineering-attacks/</link>
+		
+		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 16:20:39 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41132</guid>
+
+					<description><![CDATA[<p>With each passing year, social engineering attacks are becoming bigger and bolder thanks to rapid advancements in artificial intelligence.</p>
+<p>The post <a href="https://www.securityweek.com/how-agentic-ai-will-be-weaponized-for-social-engineering-attacks/">How Agentic AI will be Weaponized for Social Engineering Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: David Kennedy – an Atypical Typical Hacker</title>
+		<link>https://www.securityweek.com/hacker-conversations-david-kennedy-an-atypical-typical-hacker/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 15:03:55 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41128</guid>
+
+					<description><![CDATA[<p>David Kennedy is a hacker. There is no doubt about that. He has qualities common among hackers, but also many differences.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-david-kennedy-an-atypical-typical-hacker/">Hacker Conversations: David Kennedy – an Atypical Typical Hacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2025: OT Security</title>
+		<link>https://www.securityweek.com/cyber-insights-2025-ot-security/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 14:22:43 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Industrial Cybersecurity]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41122</guid>
+
+					<description><![CDATA[<p>Just as OT technology differs from IT technology, the threats, likely adversaries, and potential harm also differ.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2025-ot-security/">Cyber Insights 2025: OT Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 45 Deals Announced in January 2025</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-45-deals-announced-in-january-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 13:44:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
 		<category><![CDATA[M&A Tracker]]></category>
 		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[SecureWorks]]></category>
-		<category><![CDATA[Sophos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41115</guid>
+		<category><![CDATA[merger]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41123</guid>
 
-					<description><![CDATA[<p>Sophos has completed its $859 million all-cash acquisition of SecureWorks.</p>
-<p>The post <a href="https://www.securityweek.com/sophos-completes-acquisition-of-secureworks/">Sophos Completes Acquisition of Secureworks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Over 700 Vulnerabilities Came to Light in 2024</title>
-		<link>https://www.securityweek.com/exploitation-of-over-700-vulnerabilities-came-to-light-in-2024/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 17:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41109</guid>
-
-					<description><![CDATA[<p>The number of vulnerabilities first reported as exploited surged last year amid a decrease in zero-day reports.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-over-700-vulnerabilities-came-to-light-in-2024/">Exploitation of Over 700 Vulnerabilities Came to Light in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>22 New Mac Malware Families Seen in 2024</title>
-		<link>https://www.securityweek.com/22-new-mac-malware-families-seen-in-2024/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41107</guid>
-
-					<description><![CDATA[<p>Nearly two dozen new macOS malware families were observed in 2024, including stealers, backdoors, downloaders and ransomware. </p>
-<p>The post <a href="https://www.securityweek.com/22-new-mac-malware-families-seen-in-2024/">22 New Mac Malware Families Seen in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AMD Patches CPU Vulnerability That Could Break Confidential Computing Protections</title>
-		<link>https://www.securityweek.com/amd-patches-cpu-vulnerability-found-by-google/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 13:26:12 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41106</guid>
-
-					<description><![CDATA[<p>AMD has released patches for a microprocessor vulnerability found by Google that could allow an attacker to load malicious microcode.</p>
-<p>The post <a href="https://www.securityweek.com/amd-patches-cpu-vulnerability-found-by-google/">AMD Patches CPU Vulnerability That Could Break Confidential Computing Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Personal Information Compromised in GrubHub Data Breach</title>
-		<link>https://www.securityweek.com/personal-information-compromised-in-grubhub-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Feb 2025 12:28:51 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[GrubHub]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41104</guid>
-
-					<description><![CDATA[<p>Food delivery firm GrubHub has disclosed a data breach impacting the personal information of drivers and customers.</p>
-<p>The post <a href="https://www.securityweek.com/personal-information-compromised-in-grubhub-data-breach/">Personal Information Compromised in GrubHub Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A significant number of cybersecurity-related merger and acquisition (M&#038;A) deals announced in January 2025. </p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-45-deals-announced-in-january-2025/">Cybersecurity M&#038;A Roundup: 45 Deals Announced in January 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
