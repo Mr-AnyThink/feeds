@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 07 Feb 2025 12:06:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 19:38:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,62 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ThreatMate Raises $3.2 Million for Attack Surface Management Platform</title>
+		<link>https://www.securityweek.com/threatmate-raises-3-2-million-for-attack-surface-management-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 17:35:28 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[attack surface management]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[ThreatMate]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41170</guid>
+
+					<description><![CDATA[<p>ThreatMate has raised $3.2 million in seed funding for its AI-powered attack surface management solution for MSPs.</p>
+<p>The post <a href="https://www.securityweek.com/threatmate-raises-3-2-million-for-attack-surface-management-platform/">ThreatMate Raises $3.2 Million for Attack Surface Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 05:10:13 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>In Other News: Cybersecurity Salaries, NanoLock Collapse, NSO Transparency Report</title>
+		<link>https://www.securityweek.com/in-other-news-cybersecurity-salaries-nanolock-collapse-nso-transparency-report/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 13:50:59 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41169</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: NanoLock Security ceases operations, NSO publishes transparency report, cybersecurity salaries data.  </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-cybersecurity-salaries-nanolock-collapse-nso-transparency-report/">In Other News: Cybersecurity Salaries, NanoLock Collapse, NSO Transparency Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Information of 883,000 Stolen in Crippling Attack on Hospital Sisters Health System</title>
+		<link>https://www.securityweek.com/information-of-883000-stolen-in-crippling-attack-on-hospital-sisters-health-system/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 13:08:09 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41168</guid>
+
+					<description><![CDATA[<p>Hospital Sisters Health System says the personal information of 883,000 individuals was compromised in a 2023 crippling cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/information-of-883000-stolen-in-crippling-attack-on-hospital-sisters-health-system/">Information of 883,000 Stolen in Crippling Attack on Hospital Sisters Health System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UK Engineering Giant IMI Hit by Cyberattack</title>
 		<link>https://www.securityweek.com/uk-engineering-giant-imi-hit-by-cyberattack/</link>
 		
@@ -44,7 +100,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-03-2025/</guid><pubDate>Mon, 03 Feb 2025 12:06:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>430,000 Impacted by Data Breaches at New York, Pennsylvania Healthcare Organizations</title>
 		<link>https://www.securityweek.com/430000-impacted-by-data-breaches-at-new-york-pennsylvania-healthcare-organizations/</link>
@@ -159,64 +215,6 @@
 
 					<description><![CDATA[<p>Astra Security and Invary have received new funding to fuel development of their vulnerability scanning and runtime security solutions.</p>
 <p>The post <a href="https://www.securityweek.com/astra-invary-raise-millions-for-ai-powered-pentesting-runtime-security/">Astra, Invary Raise Millions for AI-Powered Pentesting, Runtime Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Who Targeted NATO, US Army Arrested in Spain</title>
-		<link>https://www.securityweek.com/hacker-who-targeted-nato-us-army-arrested-in-spain/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 13:18:13 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Natohub]]></category>
-		<category><![CDATA[Spain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41147</guid>
-
-					<description><![CDATA[<p>Spanish authorities have arrested an individual who allegedly hacked several high-profile organizations, including NATO and the US army.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-who-targeted-nato-us-army-arrested-in-spain/">Hacker Who Targeted NATO, US Army Arrested in Spain</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Five Eyes Agencies Release Guidance on Securing Edge Devices</title>
-		<link>https://www.securityweek.com/five-eyes-agencies-release-guidance-on-securing-edge-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 12:24:48 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Edge Devices]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[network security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41146</guid>
-
-					<description><![CDATA[<p>Five Eyes cybersecurity agencies have released guidance on securing edge devices against increasing threats.</p>
-<p>The post <a href="https://www.securityweek.com/five-eyes-agencies-release-guidance-on-securing-edge-devices/">Five Eyes Agencies Release Guidance on Securing Edge Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Teams Pay the Price: The Unfair Reality of Cyber Incidents</title>
-		<link>https://www.securityweek.com/security-teams-pay-the-price-the-unfair-reality-of-cyber-incidents/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41055</guid>
-
-					<description><![CDATA[<p>The blame of security incidents may be shared—but the burden of response always falls on the security team. Here’s how to prepare for the inevitable.</p>
-<p>The post <a href="https://www.securityweek.com/security-teams-pay-the-price-the-unfair-reality-of-cyber-incidents/">Security Teams Pay the Price: The Unfair Reality of Cyber Incidents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
