@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 11 Feb 2025 12:07:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 12:00:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Alabama Man Pleads Guilty to Hacking SEC&#8217;s X Account</title>
-		<link>https://www.securityweek.com/alabama-man-pleads-guilty-to-hacking-secs-x-account/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 12:07:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41191</guid>
-
-					<description><![CDATA[<p>Eric Council Jr. pleaded guilty to hacking the X (formerly Twitter) account of the US Securities and Exchange Commission.</p>
-<p>The post <a href="https://www.securityweek.com/alabama-man-pleads-guilty-to-hacking-secs-x-account/">Alabama Man Pleads Guilty to Hacking SEC&#8217;s X Account</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 12:07:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>US Cyber Agency Puts Election Security Staffers Who Worked With the States on Leave</title>
-		<link>https://www.securityweek.com/us-cyber-agency-puts-election-security-staffers-who-worked-with-the-states-on-leave/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 11:42:21 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Election]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41190</guid>
-
-					<description><![CDATA[<p>Staffers at the nation’s cybersecurity agency whose job is to ensure the security of US elections have been placed on administrative leave.</p>
-<p>The post <a href="https://www.securityweek.com/us-cyber-agency-puts-election-security-staffers-who-worked-with-the-states-on-leave/">US Cyber Agency Puts Election Security Staffers Who Worked With the States on Leave</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Finds No Evidence of Breach After Hacker Offers to Sell 20 Million Credentials</title>
-		<link>https://www.securityweek.com/openai-finds-no-evidence-of-breach-after-hacker-offers-to-sell-20m-credentials/</link>
+		<title>Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 11:05:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41188</guid>
+		<pubDate>Wed, 12 Feb 2025 12:00:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41212</guid>
 
-					<description><![CDATA[<p>A hacker recently offered to sell 20 million OpenAI credentials, but the data likely comes from information stealers, not the AI firm’s systems.</p>
-<p>The post <a href="https://www.securityweek.com/openai-finds-no-evidence-of-breach-after-hacker-offers-to-sell-20m-credentials/">OpenAI Finds No Evidence of Breach After Hacker Offers to Sell 20 Million Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Chipmakers Intel, AMD and Nvidia on Tuesday published new security advisories to inform customers about vulnerabilities found in their products. </p>
+<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/">Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 12:06:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Cisco Says Ransomware Group&#8217;s Leak Related to Old Hack</title>
+		<link>https://www.securityweek.com/cisco-says-ransomware-groups-leak-related-to-old-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 11:39:48 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41210</guid>
+
+					<description><![CDATA[<p>A fresh post on the Kraken ransomware group’s leak website refers to data stolen in a 2022 cyberattack, Cisco says.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-says-ransomware-groups-leak-related-to-old-hack/">Cisco Says Ransomware Group&#8217;s Leak Related to Old Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Apple Confirms USB Restricted Mode Exploited in ‘Extremely Sophisticated’ Attack </title>
-		<link>https://www.securityweek.com/apple-confirms-usb-restricted-mode-exploited-in-extremely-sophisticated-attack/</link>
+		<title>ICS Patch Tuesday: Vulnerabilities Addressed by Schneider Electric, Siemens</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-schneider-electric-siemens/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 09:54:02 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41209</guid>
+
+					<description><![CDATA[<p>Industrial giants Schneider Electric and Siemens have released February 2025 Patch Tuesday ICS security advisories.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-schneider-electric-siemens/">ICS Patch Tuesday: Vulnerabilities Addressed by Schneider Electric, Siemens</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybercrime Threatens National Security, Google Threat Intel Team Says</title>
+		<link>https://www.securityweek.com/cybercrime-threatens-national-security-google-threat-intel-team-says/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 00:01:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41205</guid>
+
+					<description><![CDATA[<p>On the eve of the Munich Security Conference, Google argues that the cybercriminal threat should be treated as a national security threat like state-backed hacking groups.</p>
+<p>The post <a href="https://www.securityweek.com/cybercrime-threatens-national-security-google-threat-intel-team-says/">Cybercrime Threatens National Security, Google Threat Intel Team Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches ‘Wormable’ Windows Flaw and File-Deleting Zero-Day</title>
+		<link>https://www.securityweek.com/microsoft-patches-wormable-windows-flaw-and-file-deleting-zero-day/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 19:58:53 +0000</pubDate>
+		<pubDate>Tue, 11 Feb 2025 19:59:22 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Citizen Lab]]></category>
-		<category><![CDATA[CVE-2025-24200]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-21391]]></category>
+		<category><![CDATA[CVE-2025-21418]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iOS 18.3.1]]></category>
-		<category><![CDATA[USB Restricted Mode]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41186</guid>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41203</guid>
 
-					<description><![CDATA[<p>Cupertino’s security response team said the flaw was used in “an extremely sophisticated attack against specific targeted individuals.” </p>
-<p>The post <a href="https://www.securityweek.com/apple-confirms-usb-restricted-mode-exploited-in-extremely-sophisticated-attack/">Apple Confirms USB Restricted Mode Exploited in ‘Extremely Sophisticated’ Attack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Microsoft Patch Tuesday machine hummed loudly this month with urgent fixes for a pair of already-exploited Windows zero-days.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-wormable-windows-flaw-and-file-deleting-zero-day/">Microsoft Patches ‘Wormable’ Windows Flaw and File-Deleting Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trump’s AI Ambition and China’s DeepSeek Overshadow an AI Summit in Paris</title>
-		<link>https://www.securityweek.com/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris/</link>
+		<title>Adobe Plugs 45 Software Security Holes, Warns of Code Execution Risks</title>
+		<link>https://www.securityweek.com/adobe-plugs-45-software-security-holes-warn-of-code-execution-risks/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2025 19:24:15 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Commerce]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41202</guid>
+
+					<description><![CDATA[<p>Patch Tuesday: Adobe patches 45 vulnerabilities across multiple products and warns of remote code execution exploitation risks.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-plugs-45-software-security-holes-warn-of-code-execution-risks/">Adobe Plugs 45 Software Security Holes, Warns of Code Execution Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Cybercrime Network Targeted for Sanctions Across US, UK and Australia</title>
+		<link>https://www.securityweek.com/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 13:38:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41184</guid>
+		<pubDate>Tue, 11 Feb 2025 18:24:13 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[LockBit]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41201</guid>
 
-					<description><![CDATA[<p>French organizers said “the summit aims at promoting an ambitious French and European AI strategy” as advances in the sector have been led by the U.S. and China.</p>
-<p>The post <a href="https://www.securityweek.com/trumps-ai-ambition-and-chinas-deepseek-overshadow-an-ai-summit-in-paris/">Trump’s AI Ambition and China’s DeepSeek Overshadow an AI Summit in Paris</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Russia-based bulletproof hosting services provider Zservers was sanctioned for providing services to support LockBit ransomware operations.</p>
+<p>The post <a href="https://www.securityweek.com/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/">Russian Cybercrime Network Targeted for Sanctions Across US, UK and Australia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Orthanc Server Vulnerability Poses Risk to Medical Data, Healthcare Operations</title>
-		<link>https://www.securityweek.com/orthanc-server-vulnerability-poses-risk-to-medical-data-healthcare-operations/</link>
+		<title>High-Severity OpenSSL Vulnerability Found by Apple Allows MitM Attacks</title>
+		<link>https://www.securityweek.com/high-severity-openssl-vulnerability-found-by-apple-allows-mitm-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 12:53:16 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[medical]]></category>
-		<category><![CDATA[Orthanc]]></category>
-		<category><![CDATA[OT]]></category>
+		<pubDate>Tue, 11 Feb 2025 18:07:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[OpenSSL]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41182</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41200</guid>
 
-					<description><![CDATA[<p>A critical vulnerability found in Orthanc servers can pose a serious risk to medical data and healthcare operations.</p>
-<p>The post <a href="https://www.securityweek.com/orthanc-server-vulnerability-poses-risk-to-medical-data-healthcare-operations/">Orthanc Server Vulnerability Poses Risk to Medical Data, Healthcare Operations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>OpenSSL has patched CVE-2024-12797, a high-severity vulnerability found by Apple that can allow man-in-the-middle attacks.</p>
+<p>The post <a href="https://www.securityweek.com/high-severity-openssl-vulnerability-found-by-apple-allows-mitm-attacks/">High-Severity OpenSSL Vulnerability Found by Apple Allows MitM Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Expands Copilot Bug Bounty Program, Increases Payouts</title>
-		<link>https://www.securityweek.com/microsoft-expands-copilot-bug-bounty-program-increases-payouts/</link>
+		<title>SAP Releases 21 Security Patches</title>
+		<link>https://www.securityweek.com/sap-releases-21-security-patches/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 12:34:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41181</guid>
+		<pubDate>Tue, 11 Feb 2025 17:05:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41199</guid>
 
-					<description><![CDATA[<p>Microsoft has added more Copilot consumer products to its bug bounty program and is offering higher rewards for medium-severity vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-expands-copilot-bug-bounty-program-increases-payouts/">Microsoft Expands Copilot Bug Bounty Program, Increases Payouts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SAP has released 19 new and two updated security notes on its February 2025 patch day, including six notes for high-severity vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/sap-releases-21-security-patches/">SAP Releases 21 Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>HPE Says Personal Information Stolen in 2023 Russian Hack</title>
-		<link>https://www.securityweek.com/hpe-says-personal-information-stolen-in-2023-russian-hack/</link>
+		<title>Authorities Disrupt 8Base Ransomware, Arrest Four Russian Operators</title>
+		<link>https://www.securityweek.com/authorities-disrupt-8base-ransomware-arrest-four-russian-operators/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[HPE]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41180</guid>
-
-					<description><![CDATA[<p>HPE is notifying an unknown number of individuals that Russian hackers accessed their personal information in a December 2023 attack.</p>
-<p>The post <a href="https://www.securityweek.com/hpe-says-personal-information-stolen-in-2023-russian-hack/">HPE Says Personal Information Stolen in 2023 Russian Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Indiana Man Sentenced to 20 Years in Prison for Hacking, $37 Million Crypto Theft</title>
-		<link>https://www.securityweek.com/indiana-man-sentenced-to-20-years-in-prison-for-hacking-37-million-crypto-theft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 11:40:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41179</guid>
-
-					<description><![CDATA[<p>Evan Light was sentenced to 20 years in federal prison for hacking an investment holdings company and stealing $37 million in cryptocurrency.</p>
-<p>The post <a href="https://www.securityweek.com/indiana-man-sentenced-to-20-years-in-prison-for-hacking-37-million-crypto-theft/">Indiana Man Sentenced to 20 Years in Prison for Hacking, $37 Million Crypto Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Information of 120,000 Stolen in Ransomware Attack on Georgia Hospital</title>
-		<link>https://www.securityweek.com/information-of-120000-stolen-in-ransomware-attack-on-georgia-hospital/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
+		<pubDate>Tue, 11 Feb 2025 13:52:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[8base]]></category>
+		<category><![CDATA[law enforcement]]></category>
 		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41178</guid>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41194</guid>
 
-					<description><![CDATA[<p>Memorial Hospital and Manor says 120,000 people had their personal information stolen in a November 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/information-of-120000-stolen-in-ransomware-attack-on-georgia-hospital/">Information of 120,000 Stolen in Ransomware Attack on Georgia Hospital</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Law enforcement agencies take down the 8Base ransomware group’s infrastructure, arrest four Russian operators.</p>
+<p>The post <a href="https://www.securityweek.com/authorities-disrupt-8base-ransomware-arrest-four-russian-operators/">Authorities Disrupt 8Base Ransomware, Arrest Four Russian Operators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
