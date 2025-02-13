@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 12 Feb 2025 12:00:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Feb 2025 11:52:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Palo Alto Networks Patches Potentially Serious Firewall Vulnerability</title>
+		<link>https://www.securityweek.com/palo-alto-networks-patches-potentially-serious-firewall-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 11:52:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[PAN-OS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41227</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks has published 10 new security advisories, including one for a high-severity firewall authentication bypass vulnerability.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-potentially-serious-firewall-vulnerability/">Palo Alto Networks Patches Potentially Serious Firewall Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 11:52:56 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Exploitation of Old ThinkPHP, OwnCloud Vulnerabilities Surges</title>
+		<link>https://www.securityweek.com/exploitation-of-old-thinkphp-owncloud-vulnerabilities-surges/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 11:22:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ownCloud]]></category>
+		<category><![CDATA[ThinkPHP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41225</guid>
+
+					<description><![CDATA[<p>Threat actors are increasingly exploiting two old vulnerabilities in ThinkPHP and OwnCloud in their attacks.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-old-thinkphp-owncloud-vulnerabilities-surges/">Exploitation of Old ThinkPHP, OwnCloud Vulnerabilities Surges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Pays Out $55,000 Bug Bounty for Chrome Vulnerability</title>
+		<link>https://www.securityweek.com/google-pays-out-55000-bug-bounty-for-chrome-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 10:50:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41224</guid>
+
+					<description><![CDATA[<p>Google has released a Chrome 133 update to address four high-severity vulnerabilities reported by external researchers.</p>
+<p>The post <a href="https://www.securityweek.com/google-pays-out-55000-bug-bounty-for-chrome-vulnerability/">Google Pays Out $55,000 Bug Bounty for Chrome Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Italian Government Denies It Spied on Journalists and Migrant Activists Using Paragon Spyware</title>
+		<link>https://www.securityweek.com/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:58:40 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[spyware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41222</guid>
+
+					<description><![CDATA[<p>The Italian government denied it hacked seven cellphones with military-grade surveillance technology from Paragon Solutions.</p>
+<p>The post <a href="https://www.securityweek.com/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware/">Italian Government Denies It Spied on Journalists and Migrant Activists Using Paragon Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>QuSecure Banks $28M Series A for Post-Quantum Cryptography Tech</title>
+		<link>https://www.securityweek.com/qusecure-banks-28m-series-a-for-post-quantum-cryptography-tech/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 19:26:31 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[PQC]]></category>
+		<category><![CDATA[QuProtect]]></category>
+		<category><![CDATA[QuSecure]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[Two Bear Capital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41221</guid>
+
+					<description><![CDATA[<p>QuSecure is pitching a software-based security architecture that overlays onto current networks to help businesses with PQC migration.</p>
+<p>The post <a href="https://www.securityweek.com/qusecure-banks-28m-series-a-for-post-quantum-cryptography-tech/">QuSecure Banks $28M Series A for Post-Quantum Cryptography Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Seashell Blizzard Hackers Have Access to Critical Infrastructure: Microsoft</title>
+		<link>https://www.securityweek.com/russian-seashell-blizzard-hackers-gain-maintain-access-to-high-value-targets-microsoft/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT44]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Sandworm]]></category>
+		<category><![CDATA[Seashell Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41214</guid>
+
+					<description><![CDATA[<p>A subgroup of the Russia-linked Seashell Blizzard is tasked with broad initial access operations to sustain long-term persistence.</p>
+<p>The post <a href="https://www.securityweek.com/russian-seashell-blizzard-hackers-gain-maintain-access-to-high-value-targets-microsoft/">Russian Seashell Blizzard Hackers Have Access to Critical Infrastructure: Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Drata to Acquire SafeBase in $250 Million Deal</title>
+		<link>https://www.securityweek.com/drata-to-acquire-safebase-in-250-million-deal/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 13:52:52 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Drata]]></category>
+		<category><![CDATA[merger]]></category>
+		<category><![CDATA[SafeBase]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41218</guid>
+
+					<description><![CDATA[<p>Security and compliance automation firm Drata has acquired trust center platform SafeBase in a quarter billion dollar deal.</p>
+<p>The post <a href="https://www.securityweek.com/drata-to-acquire-safebase-in-250-million-deal/">Drata to Acquire SafeBase in $250 Million Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti, Fortinet Patch Remote Code Execution Vulnerabilities</title>
+		<link>https://www.securityweek.com/ivanti-fortinet-patch-remote-code-execution-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 13:29:32 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41217</guid>
+
+					<description><![CDATA[<p>Ivanti and Fortinet on Tuesday released patches for multiple critical- and high-severity vulnerabilities in their products.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-fortinet-patch-remote-code-execution-vulnerabilities/">Ivanti, Fortinet Patch Remote Code Execution Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GAO Tells Coast Guard to Improve Cybersecurity of Maritime Transportation System</title>
+		<link>https://www.securityweek.com/gao-tells-coast-guard-to-improve-cybersecurity-of-maritime-transportation-system/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 13:04:36 +0000</pubDate>
+				<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[coast guard]]></category>
+		<category><![CDATA[GAO]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[Maritime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41215</guid>
+
+					<description><![CDATA[<p>A new GAO report assesses that the Coast Guard needs to improve Maritime Transportation System (MTS) cybersecurity.</p>
+<p>The post <a href="https://www.securityweek.com/gao-tells-coast-guard-to-improve-cybersecurity-of-maritime-transportation-system/">GAO Tells Coast Guard to Improve Cybersecurity of Maritime Transportation System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</title>
 		<link>https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/</link>
 		
@@ -43,182 +227,6 @@
 
 					<description><![CDATA[<p>Chipmakers Intel, AMD and Nvidia on Tuesday published new security advisories to inform customers about vulnerabilities found in their products. </p>
 <p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/">Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 12:06:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Cisco Says Ransomware Group&#8217;s Leak Related to Old Hack</title>
-		<link>https://www.securityweek.com/cisco-says-ransomware-groups-leak-related-to-old-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 11:39:48 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[fake hack]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41210</guid>
-
-					<description><![CDATA[<p>A fresh post on the Kraken ransomware group’s leak website refers to data stolen in a 2022 cyberattack, Cisco says.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-says-ransomware-groups-leak-related-to-old-hack/">Cisco Says Ransomware Group&#8217;s Leak Related to Old Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Vulnerabilities Addressed by Schneider Electric, Siemens</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-schneider-electric-siemens/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 09:54:02 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41209</guid>
-
-					<description><![CDATA[<p>Industrial giants Schneider Electric and Siemens have released February 2025 Patch Tuesday ICS security advisories.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-schneider-electric-siemens/">ICS Patch Tuesday: Vulnerabilities Addressed by Schneider Electric, Siemens</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybercrime Threatens National Security, Google Threat Intel Team Says</title>
-		<link>https://www.securityweek.com/cybercrime-threatens-national-security-google-threat-intel-team-says/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 00:01:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41205</guid>
-
-					<description><![CDATA[<p>On the eve of the Munich Security Conference, Google argues that the cybercriminal threat should be treated as a national security threat like state-backed hacking groups.</p>
-<p>The post <a href="https://www.securityweek.com/cybercrime-threatens-national-security-google-threat-intel-team-says/">Cybercrime Threatens National Security, Google Threat Intel Team Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches ‘Wormable’ Windows Flaw and File-Deleting Zero-Day</title>
-		<link>https://www.securityweek.com/microsoft-patches-wormable-windows-flaw-and-file-deleting-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 19:59:22 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-21391]]></category>
-		<category><![CDATA[CVE-2025-21418]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41203</guid>
-
-					<description><![CDATA[<p>The Microsoft Patch Tuesday machine hummed loudly this month with urgent fixes for a pair of already-exploited Windows zero-days.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-wormable-windows-flaw-and-file-deleting-zero-day/">Microsoft Patches ‘Wormable’ Windows Flaw and File-Deleting Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Plugs 45 Software Security Holes, Warns of Code Execution Risks</title>
-		<link>https://www.securityweek.com/adobe-plugs-45-software-security-holes-warn-of-code-execution-risks/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 19:24:15 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Adobe Commerce]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[Photoshop]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41202</guid>
-
-					<description><![CDATA[<p>Patch Tuesday: Adobe patches 45 vulnerabilities across multiple products and warns of remote code execution exploitation risks.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-plugs-45-software-security-holes-warn-of-code-execution-risks/">Adobe Plugs 45 Software Security Holes, Warns of Code Execution Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Cybercrime Network Targeted for Sanctions Across US, UK and Australia</title>
-		<link>https://www.securityweek.com/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 18:24:13 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[LockBit]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41201</guid>
-
-					<description><![CDATA[<p>Russia-based bulletproof hosting services provider Zservers was sanctioned for providing services to support LockBit ransomware operations.</p>
-<p>The post <a href="https://www.securityweek.com/russian-cybercrime-network-targeted-for-sanctions-across-us-uk-and-australia/">Russian Cybercrime Network Targeted for Sanctions Across US, UK and Australia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity OpenSSL Vulnerability Found by Apple Allows MitM Attacks</title>
-		<link>https://www.securityweek.com/high-severity-openssl-vulnerability-found-by-apple-allows-mitm-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 18:07:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[OpenSSL]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41200</guid>
-
-					<description><![CDATA[<p>OpenSSL has patched CVE-2024-12797, a high-severity vulnerability found by Apple that can allow man-in-the-middle attacks.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-openssl-vulnerability-found-by-apple-allows-mitm-attacks/">High-Severity OpenSSL Vulnerability Found by Apple Allows MitM Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Releases 21 Security Patches</title>
-		<link>https://www.securityweek.com/sap-releases-21-security-patches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 17:05:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41199</guid>
-
-					<description><![CDATA[<p>SAP has released 19 new and two updated security notes on its February 2025 patch day, including six notes for high-severity vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/sap-releases-21-security-patches/">SAP Releases 21 Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Authorities Disrupt 8Base Ransomware, Arrest Four Russian Operators</title>
-		<link>https://www.securityweek.com/authorities-disrupt-8base-ransomware-arrest-four-russian-operators/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 13:52:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[8base]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41194</guid>
-
-					<description><![CDATA[<p>Law enforcement agencies take down the 8Base ransomware group’s infrastructure, arrest four Russian operators.</p>
-<p>The post <a href="https://www.securityweek.com/authorities-disrupt-8base-ransomware-arrest-four-russian-operators/">Authorities Disrupt 8Base Ransomware, Arrest Four Russian Operators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
