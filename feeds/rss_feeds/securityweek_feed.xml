@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 13 Feb 2025 11:52:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Feb 2025 10:58:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Palo Alto Networks Patches Potentially Serious Firewall Vulnerability</title>
-		<link>https://www.securityweek.com/palo-alto-networks-patches-potentially-serious-firewall-vulnerability/</link>
+		<title>Salt Typhoon Targeting Old Cisco Vulnerabilities in Fresh Telecom Hacks</title>
+		<link>https://www.securityweek.com/salt-typhoon-targeting-old-cisco-vulnerabilities-in-fresh-telecom-hacks/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 11:52:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[PAN-OS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41227</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41254</guid>
 
-					<description><![CDATA[<p>Palo Alto Networks has published 10 new security advisories, including one for a high-severity firewall authentication bypass vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-potentially-serious-firewall-vulnerability/">Palo Alto Networks Patches Potentially Serious Firewall Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>China-linked APT Salt Typhoon has been exploiting known vulnerabilities in Cisco devices in attacks on telecom providers in the US and abroad.</p>
+<p>The post <a href="https://www.securityweek.com/salt-typhoon-targeting-old-cisco-vulnerabilities-in-fresh-telecom-hacks/">Salt Typhoon Targeting Old Cisco Vulnerabilities in Fresh Telecom Hacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 11:52:56 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of February 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-10-2025/</guid><pubDate>Mon, 10 Feb 2025 12:00:16 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Exploitation of Old ThinkPHP, OwnCloud Vulnerabilities Surges</title>
-		<link>https://www.securityweek.com/exploitation-of-old-thinkphp-owncloud-vulnerabilities-surges/</link>
+		<title>New Windows Zero-Day Exploited by Chinese APT: Security Firm</title>
+		<link>https://www.securityweek.com/new-windows-zero-day-exploited-by-chinese-apt-security-firm/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 11:40:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Mustang Panda]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41252</guid>
+
+					<description><![CDATA[<p>ClearSky Cyber Security says it has seen a new Windows zero-day being exploited by a Chinese APT named Mustang Panda. </p>
+<p>The post <a href="https://www.securityweek.com/new-windows-zero-day-exploited-by-chinese-apt-security-firm/">New Windows Zero-Day Exploited by Chinese APT: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SGNL Raises $30 Million for Identity Management Solution</title>
+		<link>https://www.securityweek.com/sgnl-raises-30-million-for-identity-management-solution/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 11:22:07 +0000</pubDate>
+		<pubDate>Fri, 14 Feb 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[SGNL]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41253</guid>
+
+					<description><![CDATA[<p>Identity management provider SGNL has raised $30 million in a Series A funding round led by Brightmind Partners.</p>
+<p>The post <a href="https://www.securityweek.com/sgnl-raises-30-million-for-identity-management-solution/">SGNL Raises $30 Million for Identity Management Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Exploit Palo Alto Firewall Vulnerability Day After Disclosure</title>
+		<link>https://www.securityweek.com/hackers-exploit-palo-alto-firewall-vulnerability-day-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2025 11:00:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ownCloud]]></category>
-		<category><![CDATA[ThinkPHP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41225</guid>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41250</guid>
 
-					<description><![CDATA[<p>Threat actors are increasingly exploiting two old vulnerabilities in ThinkPHP and OwnCloud in their attacks.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-old-thinkphp-owncloud-vulnerabilities-surges/">Exploitation of Old ThinkPHP, OwnCloud Vulnerabilities Surges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Attempts to exploit CVE-2024-0108, an authentication bypass vulnerability in Palo Alto firewalls, started one day after disclosure. </p>
+<p>The post <a href="https://www.securityweek.com/hackers-exploit-palo-alto-firewall-vulnerability-day-after-disclosure/">Hackers Exploit Palo Alto Firewall Vulnerability Day After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Pays Out $55,000 Bug Bounty for Chrome Vulnerability</title>
-		<link>https://www.securityweek.com/google-pays-out-55000-bug-bounty-for-chrome-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 10:50:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41224</guid>
-
-					<description><![CDATA[<p>Google has released a Chrome 133 update to address four high-severity vulnerabilities reported by external researchers.</p>
-<p>The post <a href="https://www.securityweek.com/google-pays-out-55000-bug-bounty-for-chrome-vulnerability/">Google Pays Out $55,000 Bug Bounty for Chrome Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Italian Government Denies It Spied on Journalists and Migrant Activists Using Paragon Spyware</title>
-		<link>https://www.securityweek.com/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 19:58:40 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41222</guid>
-
-					<description><![CDATA[<p>The Italian government denied it hacked seven cellphones with military-grade surveillance technology from Paragon Solutions.</p>
-<p>The post <a href="https://www.securityweek.com/italian-government-denies-it-spied-on-journalists-and-migrant-activists-using-paragon-spyware/">Italian Government Denies It Spied on Journalists and Migrant Activists Using Paragon Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>QuSecure Banks $28M Series A for Post-Quantum Cryptography Tech</title>
-		<link>https://www.securityweek.com/qusecure-banks-28m-series-a-for-post-quantum-cryptography-tech/</link>
+		<title>Rapid7 Flags New PostgreSQL Zero-Day Connected to BeyondTrust Exploitation</title>
+		<link>https://www.securityweek.com/rapid7-flags-new-postgresql-zero-day-connected-to-beyondtrust-exploitation/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 19:26:31 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[Post quantum cryptography]]></category>
-		<category><![CDATA[PQC]]></category>
-		<category><![CDATA[QuProtect]]></category>
-		<category><![CDATA[QuSecure]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[Two Bear Capital]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41221</guid>
-
-					<description><![CDATA[<p>QuSecure is pitching a software-based security architecture that overlays onto current networks to help businesses with PQC migration.</p>
-<p>The post <a href="https://www.securityweek.com/qusecure-banks-28m-series-a-for-post-quantum-cryptography-tech/">QuSecure Banks $28M Series A for Post-Quantum Cryptography Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Seashell Blizzard Hackers Have Access to Critical Infrastructure: Microsoft</title>
-		<link>https://www.securityweek.com/russian-seashell-blizzard-hackers-gain-maintain-access-to-high-value-targets-microsoft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 17:01:00 +0000</pubDate>
+		<pubDate>Thu, 13 Feb 2025 20:03:33 +0000</pubDate>
 				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT44]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[CVE-2024-12356]]></category>
+		<category><![CDATA[CVE-2025-1094]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Sandworm]]></category>
-		<category><![CDATA[Seashell Blizzard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41214</guid>
+		<category><![CDATA[Rapid7]]></category>
+		<category><![CDATA[Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41248</guid>
 
-					<description><![CDATA[<p>A subgroup of the Russia-linked Seashell Blizzard is tasked with broad initial access operations to sustain long-term persistence.</p>
-<p>The post <a href="https://www.securityweek.com/russian-seashell-blizzard-hackers-gain-maintain-access-to-high-value-targets-microsoft/">Russian Seashell Blizzard Hackers Have Access to Critical Infrastructure: Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Rapid7 finds a new zero-day vulnerability in PostgreSQL and links it to chain of attacks against a BeyondTrust Remote Support product.</p>
+<p>The post <a href="https://www.securityweek.com/rapid7-flags-new-postgresql-zero-day-connected-to-beyondtrust-exploitation/">Rapid7 Flags New PostgreSQL Zero-Day Connected to BeyondTrust Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Drata to Acquire SafeBase in $250 Million Deal</title>
-		<link>https://www.securityweek.com/drata-to-acquire-safebase-in-250-million-deal/</link>
+		<title>Google Hub in Poland to Develop AI Use in Energy and Cybersecurity Sectors</title>
+		<link>https://www.securityweek.com/google-hub-in-poland-to-develop-ai-use-in-energy-and-cybersecurity-sectors/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 19:49:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Poland]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41247</guid>
+
+					<description><![CDATA[<p>Poland is being targeted by various forms of cyberattacks and sabotage actions believed to be sponsored by Russia.</p>
+<p>The post <a href="https://www.securityweek.com/google-hub-in-poland-to-develop-ai-use-in-energy-and-cybersecurity-sectors/">Google Hub in Poland to Develop AI Use in Energy and Cybersecurity Sectors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Circuit Board Maker Unimicron Targeted in Ransomware Attack</title>
+		<link>https://www.securityweek.com/circuit-board-maker-unimicron-targeted-in-ransomware-attack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 13:52:52 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
+		<pubDate>Thu, 13 Feb 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Unimicron]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41240</guid>
+
+					<description><![CDATA[<p>The Sarcoma ransomware group is threatening to leak data stolen from Taiwanese printed circuit board manufacturer Unimicron.</p>
+<p>The post <a href="https://www.securityweek.com/circuit-board-maker-unimicron-targeted-in-ransomware-attack/">Circuit Board Maker Unimicron Targeted in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CyberArk Expands Identity Security Play With $165M Acquisition of Zilla Security</title>
+		<link>https://www.securityweek.com/cyberark-expands-identity-security-play-with-165m-acquisition-of-zilla-security/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 15:33:16 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Identity & Access]]></category>
 		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[Drata]]></category>
-		<category><![CDATA[merger]]></category>
-		<category><![CDATA[SafeBase]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41218</guid>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[CyberArk]]></category>
+		<category><![CDATA[IGA]]></category>
+		<category><![CDATA[Venafi]]></category>
+		<category><![CDATA[Zilla Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41246</guid>
 
-					<description><![CDATA[<p>Security and compliance automation firm Drata has acquired trust center platform SafeBase in a quarter billion dollar deal.</p>
-<p>The post <a href="https://www.securityweek.com/drata-to-acquire-safebase-in-250-million-deal/">Drata to Acquire SafeBase in $250 Million Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CyberArk acquires early stage Boston startup Zilla Security for $165M, expanding its identity security and IGA capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/cyberark-expands-identity-security-play-with-165m-acquisition-of-zilla-security/">CyberArk Expands Identity Security Play With $165M Acquisition of Zilla Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ivanti, Fortinet Patch Remote Code Execution Vulnerabilities</title>
-		<link>https://www.securityweek.com/ivanti-fortinet-patch-remote-code-execution-vulnerabilities/</link>
+		<title>DeepSeek Exposes Major Cybersecurity Blind Spot</title>
+		<link>https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/</link>
+		
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2025 15:28:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[DeepSeek]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41242</guid>
+
+					<description><![CDATA[<p>Millions of uninformed users have flocked to DeepSeek and share personal information without considering security or privacy risks. </p>
+<p>The post <a href="https://www.securityweek.com/deepseek-exposes-major-cybersecurity-blind-spot/">DeepSeek Exposes Major Cybersecurity Blind Spot</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Cyberspy Possibly Launching Ransomware Attacks as Side Job</title>
+		<link>https://www.securityweek.com/chinese-cyberspy-possibly-launching-ransomware-attacks-as-side-job/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 13:29:32 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41217</guid>
+		<pubDate>Thu, 13 Feb 2025 13:25:10 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41238</guid>
 
-					<description><![CDATA[<p>Ivanti and Fortinet on Tuesday released patches for multiple critical- and high-severity vulnerabilities in their products.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-fortinet-patch-remote-code-execution-vulnerabilities/">Ivanti, Fortinet Patch Remote Code Execution Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GAO Tells Coast Guard to Improve Cybersecurity of Maritime Transportation System</title>
-		<link>https://www.securityweek.com/gao-tells-coast-guard-to-improve-cybersecurity-of-maritime-transportation-system/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 13:04:36 +0000</pubDate>
-				<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[coast guard]]></category>
-		<category><![CDATA[GAO]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[Maritime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41215</guid>
-
-					<description><![CDATA[<p>A new GAO report assesses that the Coast Guard needs to improve Maritime Transportation System (MTS) cybersecurity.</p>
-<p>The post <a href="https://www.securityweek.com/gao-tells-coast-guard-to-improve-cybersecurity-of-maritime-transportation-system/">GAO Tells Coast Guard to Improve Cybersecurity of Maritime Transportation System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Feb 2025 12:00:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41212</guid>
-
-					<description><![CDATA[<p>Chipmakers Intel, AMD and Nvidia on Tuesday published new security advisories to inform customers about vulnerabilities found in their products. </p>
-<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-nvidia-fix-high-severity-vulnerabilities/">Chipmaker Patch Tuesday: Intel, AMD, Nvidia Fix High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A toolset associated with China-linked espionage intrusions was employed in a ransomware attack, likely by a single individual.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-cyberspy-possibly-launching-ransomware-attacks-as-side-job/">Chinese Cyberspy Possibly Launching Ransomware Attacks as Side Job</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
