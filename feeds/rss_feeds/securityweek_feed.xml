@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 19 Feb 2025 11:25:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 11:41:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Free Diagram Tool Aids Management of Complex ICS/OT Cybersecurity Decisions</title>
-		<link>https://www.securityweek.com/free-diagram-tool-aids-management-of-complex-ics-ot-cybersecurity-decisions/</link>
+		<title>PoC Exploit Published for Critical Ivanti EPM Vulnerabilities</title>
+		<link>https://www.securityweek.com/poc-exploit-published-for-critical-ivanti-epm-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[free tool]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[tool]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41295</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 11:41:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41316</guid>
 
-					<description><![CDATA[<p>Admeritia has launched Cyber Decision Diagrams, a free tool designed to help organizations manage complex decisions related to ICS/OT cybersecurity. </p>
-<p>The post <a href="https://www.securityweek.com/free-diagram-tool-aids-management-of-complex-ics-ot-cybersecurity-decisions/">Free Diagram Tool Aids Management of Complex ICS/OT Cybersecurity Decisions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Proof-of-concept (PoC) code and technical details on four critical-severity Ivanti EPM vulnerabilities are now available.</p>
+<p>The post <a href="https://www.securityweek.com/poc-exploit-published-for-critical-ivanti-epm-vulnerabilities/">PoC Exploit Published for Critical Ivanti EPM Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of February 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-17-2025/</guid><pubDate>Mon, 17 Feb 2025 12:00:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of February 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-17-2025/</guid><pubDate>Mon, 17 Feb 2025 11:41:19 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Lee Enterprises Newspaper Disruptions Caused by Ransomware</title>
-		<link>https://www.securityweek.com/lee-enterprises-newspaper-disruptions-caused-by-ransomware/</link>
+		<title>US Military Health Provider HNFS Pays $11M in Settlement Over Cybersecurity Failures</title>
+		<link>https://www.securityweek.com/us-military-health-provider-hnfs-pays-11m-in-settlement-over-cybersecurity-failures/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Lee Enterprises]]></category>
-		<category><![CDATA[newspaper]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41292</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 11:15:00 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[DoD]]></category>
+		<category><![CDATA[settlement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41315</guid>
 
-					<description><![CDATA[<p>Lee Enterprises has shared more details on the recent cyberattack, saying the attackers encrypted and stole files.</p>
-<p>The post <a href="https://www.securityweek.com/lee-enterprises-newspaper-disruptions-caused-by-ransomware/">Lee Enterprises Newspaper Disruptions Caused by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Russian Hackers Are Exploiting Signal &#8216;Linked Devices&#8217; Feature for Real-Time Spying</title>
-		<link>https://www.securityweek.com/how-russian-hackers-are-exploiting-signals-linked-devices-for-real-time-spying/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT44]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[QR code]]></category>
-		<category><![CDATA[Sandworm]]></category>
-		<category><![CDATA[Signal Messenger]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41291</guid>
-
-					<description><![CDATA[<p>Mandiant warns that multiple Russian APTs are abusing a nifty Signal Messenger feature to surreptitiously spy on encrypted conversations.</p>
-<p>The post <a href="https://www.securityweek.com/how-russian-hackers-are-exploiting-signals-linked-devices-for-real-time-spying/">How Russian Hackers Are Exploiting Signal &#8216;Linked Devices&#8217; Feature for Real-Time Spying</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>US military health benefits program administrator HNFS to pay $11 million in settlement over its false claims of cybersecurity compliance.</p>
+<p>The post <a href="https://www.securityweek.com/us-military-health-provider-hnfs-pays-11m-in-settlement-over-cybersecurity-failures/">US Military Health Provider HNFS Pays $11M in Settlement Over Cybersecurity Failures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Pangea Launches AI Guard and Prompt Guard to Combat Gen-AI Security Risks</title>
-		<link>https://www.securityweek.com/pangea-launches-ai-guard-and-prompt-guard-to-combat-gen-ai-security-risks/</link>
+		<title>Microsoft Patches Exploited Power Pages Vulnerability</title>
+		<link>https://www.securityweek.com/microsoft-patches-exploited-power-pages-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 10:44:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Power Pages]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41314</guid>
+
+					<description><![CDATA[<p>Microsoft has patched CVE-2025-24989, a Power Pages privilege escalation vulnerability that has been exploited in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-power-pages-vulnerability/">Microsoft Patches Exploited Power Pages Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How Hackers Manipulate Agentic AI with Prompt Engineering</title>
+		<link>https://www.securityweek.com/how-hackers-manipulate-agentic-ai-with-prompt-engineering/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 14:43:52 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[Prompt Engineering]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41308</guid>
+
+					<description><![CDATA[<p>Organizations adopting the transformative nature of agentic AI are urged to take heed of prompt engineering tactics being practiced by threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/how-hackers-manipulate-agentic-ai-with-prompt-engineering/">How Hackers Manipulate Agentic AI with Prompt Engineering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Kevin Winter at Deloitte and Richard Marcus at AuditBoard</title>
+		<link>https://www.securityweek.com/ciso-conversations-kevin-winter-at-deloitte-and-richard-marcus-at-auditboard/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 18:15:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[Pangea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41289</guid>
+		<pubDate>Wed, 19 Feb 2025 14:22:02 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41284</guid>
 
-					<description><![CDATA[<p>Guardrail specialist releases new products to aid the development and use of secure gen-AI apps.</p>
-<p>The post <a href="https://www.securityweek.com/pangea-launches-ai-guard-and-prompt-guard-to-combat-gen-ai-security-risks/">Pangea Launches AI Guard and Prompt Guard to Combat Gen-AI Security Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SecurityWeek speaks with Kevin Winter, Global CISO at Deloitte, and Richard Marcus, CISO at AuditBoard.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-kevin-winter-at-deloitte-and-richard-marcus-at-auditboard/">CISO Conversations: Kevin Winter at Deloitte and Richard Marcus at AuditBoard</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>MirrorTab Raises $8.5M Seed Round to Take on Browser-Based Attacks</title>
-		<link>https://www.securityweek.com/mirrortab-raises-8-5m-seed-round-to-take-on-browser-based-attacks/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 16:54:07 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Enterprise Browser]]></category>
-		<category><![CDATA[Fraud Detection]]></category>
-		<category><![CDATA[MirrorTab]]></category>
-		<category><![CDATA[seed-stage]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41288</guid>
-
-					<description><![CDATA[<p>San Francisco startup secures $8.5 million in seed funding led by Valley Capital Partners to tackle browser-based malware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/mirrortab-raises-8-5m-seed-round-to-take-on-browser-based-attacks/">MirrorTab Raises $8.5M Seed Round to Take on Browser-Based Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Finastra Starts Notifying People Impacted by Recent Data Breach</title>
-		<link>https://www.securityweek.com/finastra-starts-notifying-people-impacted-by-recent-data-breach/</link>
+		<title>Blockaid Raises $50 Million to Secure Blockchain Applications</title>
+		<link>https://www.securityweek.com/blockaid-raises-50-million-to-secure-blockchain-applications/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 13:36:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Finastra]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41282</guid>
-
-					<description><![CDATA[<p>Financial software firm Finastra is notifying individuals whose personal information was stolen in a recent data breach.</p>
-<p>The post <a href="https://www.securityweek.com/finastra-starts-notifying-people-impacted-by-recent-data-breach/">Finastra Starts Notifying People Impacted by Recent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Patched in Juniper Session Smart Router</title>
-		<link>https://www.securityweek.com/critical-vulnerability-patched-in-juniper-session-smart-router/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 13:20:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41281</guid>
-
-					<description><![CDATA[<p>A critical vulnerability tracked as CVE-2025-21589 has been patched in Juniper Networks’ Session Smart Router.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-patched-in-juniper-session-smart-router/">Critical Vulnerability Patched in Juniper Session Smart Router</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Singulr Launches With $10M in Funding for AI Security and Governance Platform</title>
-		<link>https://www.securityweek.com/singulr-launches-with-10m-in-funding-for-ai-security-and-governance-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
+		<pubDate>Wed, 19 Feb 2025 13:45:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Blockaid]]></category>
+		<category><![CDATA[blockchain]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Singulr]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41275</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41302</guid>
 
-					<description><![CDATA[<p>Singulr AI announced its launch with $10 million in seed funding raised for an enterprise AI security and governance platform. </p>
-<p>The post <a href="https://www.securityweek.com/singulr-launches-with-10m-in-funding-for-ai-security-and-governance-platform/">Singulr Launches With $10M in Funding for AI Security and Governance Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Blockaid raises $50 million in Series B funding to scale operations to meet demand for its blockchain application security platform.</p>
+<p>The post <a href="https://www.securityweek.com/blockaid-raises-50-million-to-secure-blockchain-applications/">Blockaid Raises $50 Million to Secure Blockchain Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Golang Backdoor Abuses Telegram for C&#038;C Communication</title>
-		<link>https://www.securityweek.com/golang-backdoor-abuses-telegram-for-cc-communication/</link>
+		<title>OpenSSH Patches Vulnerabilities Allowing MitM, DoS Attacks</title>
+		<link>https://www.securityweek.com/openssh-patches-vulnerabilities-allowing-mitm-dos-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 12:50:48 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41280</guid>
+		<pubDate>Wed, 19 Feb 2025 13:32:41 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DoS]]></category>
+		<category><![CDATA[MitM]]></category>
+		<category><![CDATA[OpenSSH]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41301</guid>
 
-					<description><![CDATA[<p>A newly discovered Golang backdoor is abusing Telegram for communication with its command-and-control (C&#038;C) server.</p>
-<p>The post <a href="https://www.securityweek.com/golang-backdoor-abuses-telegram-for-cc-communication/">Golang Backdoor Abuses Telegram for C&#038;C Communication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The latest OpenSSH update patches two vulnerabilities, including one that enabled MitM attacks with no user interaction.</p>
+<p>The post <a href="https://www.securityweek.com/openssh-patches-vulnerabilities-allowing-mitm-dos-attacks/">OpenSSH Patches Vulnerabilities Allowing MitM, DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Warns of Improved XCSSET macOS Malware</title>
-		<link>https://www.securityweek.com/microsoft-warns-of-improvements-to-xcsset-macos-malware/</link>
+		<title>VC Firm Insight Partners Hacked</title>
+		<link>https://www.securityweek.com/vc-company-insight-partners-hacked/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 13:12:41 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Insight Partners]]></category>
+		<category><![CDATA[private equity]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41299</guid>
+
+					<description><![CDATA[<p>Venture capital firm Insight Partners has been targeted in a cyberattack that involved unauthorized access to its information systems.</p>
+<p>The post <a href="https://www.securityweek.com/vc-company-insight-partners-hacked/">VC Firm Insight Partners Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 133, Firefox 135 Updates Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-133-firefox-135-updates-patch-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 11:28:43 +0000</pubDate>
+		<pubDate>Wed, 19 Feb 2025 12:57:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41298</guid>
+
+					<description><![CDATA[<p>Google and Mozilla resolve high-severity memory safety vulnerabilities with the latest Chrome and Firefox security updates.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-133-firefox-135-updates-patch-high-severity-vulnerabilities/">Chrome 133, Firefox 135 Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New FrigidStealer macOS Malware Distributed as Fake Browser Update</title>
+		<link>https://www.securityweek.com/new-frigidstealer-macos-malware-distributed-as-fake-browser-update/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:20:00 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[FrigidStealer]]></category>
 		<category><![CDATA[macOS malware]]></category>
 		<category><![CDATA[malware]]></category>
-		<category><![CDATA[XCSSET]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41278</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41297</guid>
 
-					<description><![CDATA[<p>Microsoft has observed a new variant of the XCSSET malware being used in limited attacks against macOS users.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-improvements-to-xcsset-macos-malware/">Microsoft Warns of Improved XCSSET macOS Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A recently identified macOS infostealer named FrigidStealer has been distributed through a compromised website, as a fake browser update.</p>
+<p>The post <a href="https://www.securityweek.com/new-frigidstealer-macos-malware-distributed-as-fake-browser-update/">New FrigidStealer macOS Malware Distributed as Fake Browser Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
