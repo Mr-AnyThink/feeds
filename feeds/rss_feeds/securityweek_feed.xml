@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 20 Feb 2025 11:41:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Feb 2025 11:44:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA Warns of Attacks Exploiting Craft CMS Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-craft-cms-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2025 11:44:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Craft]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41326</guid>
+
+					<description><![CDATA[<p>CISA has added a Craft CMS flaw tracked as CVE-2025-23209 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-craft-cms-vulnerability/">CISA Warns of Attacks Exploiting Craft CMS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-17-2025/</guid><pubDate>Mon, 17 Feb 2025 11:44:33 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Second Recently Patched Flaw Exploited to Hack Palo Alto Firewalls</title>
+		<link>https://www.securityweek.com/second-recently-patched-flaw-exploited-to-hack-palo-alto-firewalls/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2025 11:01:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41324</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks is warning customers that a second vulnerability patched in February is being exploited in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/second-recently-patched-flaw-exploited-to-hack-palo-alto-firewalls/">Second Recently Patched Flaw Exploited to Hack Palo Alto Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese APT Tools Found in Ransomware Schemes, Blurring Attribution Lines</title>
+		<link>https://www.securityweek.com/chinese-apt-tools-found-in-ransomware-schemes-blurring-attribution-lines/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 17:04:09 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT41]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[PlugX]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Shadowpad]]></category>
+		<category><![CDATA[Symantec]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41322</guid>
+
+					<description><![CDATA[<p>China-linked cyberespionage toolkits are popping up in ransomware attacks,  forcing defenders to rethink how they combat state-backed hackers.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-tools-found-in-ransomware-schemes-blurring-attribution-lines/">Chinese APT Tools Found in Ransomware Schemes, Blurring Attribution Lines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mining Company NioCorp Loses $500,000 in BEC Hack</title>
+		<link>https://www.securityweek.com/mining-company-niocorp-loses-500000-in-bec-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 16:02:50 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[BEC]]></category>
+		<category><![CDATA[NioCorp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41321</guid>
+
+					<description><![CDATA[<p>NioCorp Developments has informed the SEC that it lost $0.5 million after its systems were compromised.</p>
+<p>The post <a href="https://www.securityweek.com/mining-company-niocorp-loses-500000-in-bec-hack/">Mining Company NioCorp Loses $500,000 in BEC Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Can Supercharge Productivity, But We Still Need a Human-in-the-Loop</title>
+		<link>https://www.securityweek.com/ai-can-supercharge-productivity-but-we-still-need-a-human-in-the-loop/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 14:23:19 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41320</guid>
+
+					<description><![CDATA[<p>AI systems can sometimes struggle with complex or nuanced situations, so human intervention can help identify and address potential issues that algorithms might not.</p>
+<p>The post <a href="https://www.securityweek.com/ai-can-supercharge-productivity-but-we-still-need-a-human-in-the-loop/">AI Can Supercharge Productivity, But We Still Need a Human-in-the-Loop</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian Patches Critical Vulnerabilities in Confluence, Crowd</title>
+		<link>https://www.securityweek.com/atlassian-patches-critical-vulnerabilities-in-confluence-crowd/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 13:34:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41319</guid>
+
+					<description><![CDATA[<p>Atlassian has released patches for 12 critical- and high-severity vulnerabilities in Bamboo, Bitbucket, Confluence, Crowd, and Jira.</p>
+<p>The post <a href="https://www.securityweek.com/atlassian-patches-critical-vulnerabilities-in-confluence-crowd/">Atlassian Patches Critical Vulnerabilities in Confluence, Crowd</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA, FBI Warn of China-Linked Ghost Ransomware Attacks</title>
+		<link>https://www.securityweek.com/cisa-fbi-warn-of-china-linked-ghost-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 13:24:08 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Cring]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Ghost]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41318</guid>
+
+					<description><![CDATA[<p>CISA and the FBI warn organizations of attacks employing the Ghost (Cring) ransomware, operated by Chinese hackers.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-fbi-warn-of-china-linked-ghost-ransomware-attacks/">CISA, FBI Warn of China-Linked Ghost Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>PoC Exploit Published for Critical Ivanti EPM Vulnerabilities</title>
 		<link>https://www.securityweek.com/poc-exploit-published-for-critical-ivanti-epm-vulnerabilities/</link>
 		
@@ -45,7 +186,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-17-2025/</guid><pubDate>Mon, 17 Feb 2025 11:41:19 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>US Military Health Provider HNFS Pays $11M in Settlement Over Cybersecurity Failures</title>
 		<link>https://www.securityweek.com/us-military-health-provider-hnfs-pays-11m-in-settlement-over-cybersecurity-failures/</link>
@@ -81,143 +222,6 @@
 
 					<description><![CDATA[<p>Microsoft has patched CVE-2025-24989, a Power Pages privilege escalation vulnerability that has been exploited in attacks.</p>
 <p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-power-pages-vulnerability/">Microsoft Patches Exploited Power Pages Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Hackers Manipulate Agentic AI with Prompt Engineering</title>
-		<link>https://www.securityweek.com/how-hackers-manipulate-agentic-ai-with-prompt-engineering/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:43:52 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[Prompt Engineering]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41308</guid>
-
-					<description><![CDATA[<p>Organizations adopting the transformative nature of agentic AI are urged to take heed of prompt engineering tactics being practiced by threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/how-hackers-manipulate-agentic-ai-with-prompt-engineering/">How Hackers Manipulate Agentic AI with Prompt Engineering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Kevin Winter at Deloitte and Richard Marcus at AuditBoard</title>
-		<link>https://www.securityweek.com/ciso-conversations-kevin-winter-at-deloitte-and-richard-marcus-at-auditboard/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 14:22:02 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41284</guid>
-
-					<description><![CDATA[<p>SecurityWeek speaks with Kevin Winter, Global CISO at Deloitte, and Richard Marcus, CISO at AuditBoard.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-kevin-winter-at-deloitte-and-richard-marcus-at-auditboard/">CISO Conversations: Kevin Winter at Deloitte and Richard Marcus at AuditBoard</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blockaid Raises $50 Million to Secure Blockchain Applications</title>
-		<link>https://www.securityweek.com/blockaid-raises-50-million-to-secure-blockchain-applications/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 13:45:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Blockaid]]></category>
-		<category><![CDATA[blockchain]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41302</guid>
-
-					<description><![CDATA[<p>Blockaid raises $50 million in Series B funding to scale operations to meet demand for its blockchain application security platform.</p>
-<p>The post <a href="https://www.securityweek.com/blockaid-raises-50-million-to-secure-blockchain-applications/">Blockaid Raises $50 Million to Secure Blockchain Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenSSH Patches Vulnerabilities Allowing MitM, DoS Attacks</title>
-		<link>https://www.securityweek.com/openssh-patches-vulnerabilities-allowing-mitm-dos-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 13:32:41 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DoS]]></category>
-		<category><![CDATA[MitM]]></category>
-		<category><![CDATA[OpenSSH]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41301</guid>
-
-					<description><![CDATA[<p>The latest OpenSSH update patches two vulnerabilities, including one that enabled MitM attacks with no user interaction.</p>
-<p>The post <a href="https://www.securityweek.com/openssh-patches-vulnerabilities-allowing-mitm-dos-attacks/">OpenSSH Patches Vulnerabilities Allowing MitM, DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VC Firm Insight Partners Hacked</title>
-		<link>https://www.securityweek.com/vc-company-insight-partners-hacked/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 13:12:41 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Insight Partners]]></category>
-		<category><![CDATA[private equity]]></category>
-		<category><![CDATA[social engineering]]></category>
-		<category><![CDATA[venture capital]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41299</guid>
-
-					<description><![CDATA[<p>Venture capital firm Insight Partners has been targeted in a cyberattack that involved unauthorized access to its information systems.</p>
-<p>The post <a href="https://www.securityweek.com/vc-company-insight-partners-hacked/">VC Firm Insight Partners Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 133, Firefox 135 Updates Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-133-firefox-135-updates-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:57:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41298</guid>
-
-					<description><![CDATA[<p>Google and Mozilla resolve high-severity memory safety vulnerabilities with the latest Chrome and Firefox security updates.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-133-firefox-135-updates-patch-high-severity-vulnerabilities/">Chrome 133, Firefox 135 Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New FrigidStealer macOS Malware Distributed as Fake Browser Update</title>
-		<link>https://www.securityweek.com/new-frigidstealer-macos-malware-distributed-as-fake-browser-update/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 12:20:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[FrigidStealer]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41297</guid>
-
-					<description><![CDATA[<p>A recently identified macOS infostealer named FrigidStealer has been distributed through a compromised website, as a fake browser update.</p>
-<p>The post <a href="https://www.securityweek.com/new-frigidstealer-macos-malware-distributed-as-fake-browser-update/">New FrigidStealer macOS Malware Distributed as Fake Browser Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
