@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 22 Feb 2025 17:18:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Feb 2025 11:47:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US Charges Genesis Market User</title>
+		<link>https://www.securityweek.com/us-charges-genesis-market-user/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 11:47:32 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Genesis Market]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41346</guid>
+
+					<description><![CDATA[<p>A Michigan man has been charged for buying compromised credentials on Genesis Market and using and selling them.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-genesis-market-user/">US Charges Genesis Market User</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:47:36 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>$1.5 Billion Bybit Heist Linked to North Korean Hackers</title>
+		<link>https://www.securityweek.com/1-5-billion-bybit-heist-linked-to-north-korean-hackers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 09:52:34 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Bybit]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[Lazarus]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41343</guid>
+
+					<description><![CDATA[<p>Companies and experts have found evidence linking the $1.5 billion Bybit cryptocurrency heist to North Korean Lazarus hackers.</p>
+<p>The post <a href="https://www.securityweek.com/1-5-billion-bybit-heist-linked-to-north-korean-hackers/">$1.5 Billion Bybit Heist Linked to North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bybit Hack Drains $1.5 Billion From Cryptocurrency Exchange</title>
 		<link>https://www.securityweek.com/bybit-hack-drains-1-5-billion-from-cryptocurrency-exchange/</link>
 		
@@ -36,7 +77,6 @@
 				<category><![CDATA[Cybercrime]]></category>
 		<category><![CDATA[Bybit]]></category>
 		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Hacked]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=41338</guid>
 
@@ -46,7 +86,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-17-2025/</guid><pubDate>Mon, 17 Feb 2025 17:18:34 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Freelance Software Developers in North Korean Malware Crosshairs</title>
 		<link>https://www.securityweek.com/freelance-software-developers-in-north-korean-malware-crosshairs/</link>
@@ -186,52 +226,6 @@
 
 					<description><![CDATA[<p>CISA has added a Craft CMS flaw tracked as CVE-2025-23209 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-craft-cms-vulnerability/">CISA Warns of Attacks Exploiting Craft CMS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Second Recently Patched Flaw Exploited to Hack Palo Alto Firewalls</title>
-		<link>https://www.securityweek.com/second-recently-patched-flaw-exploited-to-hack-palo-alto-firewalls/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 11:01:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41324</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks is warning customers that a second vulnerability patched in February is being exploited in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/second-recently-patched-flaw-exploited-to-hack-palo-alto-firewalls/">Second Recently Patched Flaw Exploited to Hack Palo Alto Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APT Tools Found in Ransomware Schemes, Blurring Attribution Lines</title>
-		<link>https://www.securityweek.com/chinese-apt-tools-found-in-ransomware-schemes-blurring-attribution-lines/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 20 Feb 2025 17:04:09 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT41]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[PlugX]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Shadowpad]]></category>
-		<category><![CDATA[Symantec]]></category>
-		<category><![CDATA[Trend Micro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41322</guid>
-
-					<description><![CDATA[<p>China-linked cyberespionage toolkits are popping up in ransomware attacks,  forcing defenders to rethink how they combat state-backed hackers.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apt-tools-found-in-ransomware-schemes-blurring-attribution-lines/">Chinese APT Tools Found in Ransomware Schemes, Blurring Attribution Lines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
