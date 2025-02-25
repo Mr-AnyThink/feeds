@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 24 Feb 2025 11:47:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 11:22:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,131 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 11:22:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Agile PLM]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41361</guid>
+
+					<description><![CDATA[<p>CISA has added CVE-2024-20953, an Oracle Agile PLM vulnerability patched in January 2024, to its KEV catalog. </p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/">CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:22:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>What Microsoft’s Majorana 1 Chip Means for Quantum Decryption</title>
+		<link>https://www.securityweek.com/what-microsofts-majorana-1-chip-means-for-quantum-decryption/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 19:05:15 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<category><![CDATA[Quantum cryptography]]></category>
+		<category><![CDATA[Quantum Decryption]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41353</guid>
+
+					<description><![CDATA[<p>The question is whether Majorana 1 advances progress toward quantum computing – or for security professionals, the arrival of computers powerful enough to break PKE.</p>
+<p>The post <a href="https://www.securityweek.com/what-microsofts-majorana-1-chip-means-for-quantum-decryption/">What Microsoft’s Majorana 1 Chip Means for Quantum Decryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rad Security Raises $14 Million for AI, Cloud Security Platform </title>
+		<link>https://www.securityweek.com/rad-security-raises-14-million-for-ai-cloud-security-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 17:40:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[RAD Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41351</guid>
+
+					<description><![CDATA[<p>Rad Security has raised $14 million in Series A funding for a defense platform for AI workloads and cloud infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/rad-security-raises-14-million-for-ai-cloud-security-platform/">Rad Security Raises $14 Million for AI, Cloud Security Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Bans ChatGPT Accounts Used by Chinese Group for Spy Tools</title>
+		<link>https://www.securityweek.com/openai-bans-chatgpt-accounts-used-by-chinese-group-for-spy-tools/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 17:10:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[spyware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41349</guid>
+
+					<description><![CDATA[<p>OpenAI has banned ChatGPT accounts used by Chinese threat actors, including ones leveraged for the development of spying tools.</p>
+<p>The post <a href="https://www.securityweek.com/openai-bans-chatgpt-accounts-used-by-chinese-group-for-spy-tools/">OpenAI Bans ChatGPT Accounts Used by Chinese Group for Spy Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NinjaOne Scores $500M in Series C Extensions at $5 Billion Valuation</title>
+		<link>https://www.securityweek.com/ninjaone-scores-500m-in-series-c-extensions-at-5-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 15:30:26 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[CapitalG]]></category>
+		<category><![CDATA[Dropsuite]]></category>
+		<category><![CDATA[ICONIQ]]></category>
+		<category><![CDATA[NinjaOne]]></category>
+		<category><![CDATA[Series C]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41350</guid>
+
+					<description><![CDATA[<p>Texas automated endpoint management vendor banks $500 million infusion in Series C extensions that values the company at $5 billion. </p>
+<p>The post <a href="https://www.securityweek.com/ninjaone-scores-500m-in-series-c-extensions-at-5-billion-valuation/">NinjaOne Scores $500M in Series C Extensions at $5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kaspersky Banned on Australian Government Systems</title>
+		<link>https://www.securityweek.com/kaspersky-banned-on-australian-government-systems/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Feb 2025 12:55:17 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[ban]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Kaspersky]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41348</guid>
+
+					<description><![CDATA[<p>Australian government entities have been banned from using products and services of Russian cybersecurity company Kaspersky.</p>
+<p>The post <a href="https://www.securityweek.com/kaspersky-banned-on-australian-government-systems/">Kaspersky Banned on Australian Government Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US Charges Genesis Market User</title>
 		<link>https://www.securityweek.com/us-charges-genesis-market-user/</link>
 		
@@ -45,7 +170,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:47:36 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>$1.5 Billion Bybit Heist Linked to North Korean Hackers</title>
 		<link>https://www.securityweek.com/1-5-billion-bybit-heist-linked-to-north-korean-hackers/</link>
@@ -105,127 +230,6 @@
 
 					<description><![CDATA[<p>ESET says hundreds of freelance software developers have fallen victim to North Korean hackers posing as recruiters.</p>
 <p>The post <a href="https://www.securityweek.com/freelance-software-developers-in-north-korean-malware-crosshairs/">Freelance Software Developers in North Korean Malware Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Pulls Advanced Data Protection for New UK Users Amid Backdoor Demand</title>
-		<link>https://www.securityweek.com/apple-pulls-advanced-data-protection-for-new-uk-users-amid-backdoor-demand/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 15:56:04 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[iCloud]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<category><![CDATA[UK government]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41336</guid>
-
-					<description><![CDATA[<p>Apple says it can no longer offer end-to-end encrypted cloud backups in the UK and insists it will never build a backdoor or master key.</p>
-<p>The post <a href="https://www.securityweek.com/apple-pulls-advanced-data-protection-for-new-uk-users-amid-backdoor-demand/">Apple Pulls Advanced Data Protection for New UK Users Amid Backdoor Demand</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Details ‘Salt Typhoon’ Network Hopping, Credential Theft Tactics</title>
-		<link>https://www.securityweek.com/cisco-details-salt-typhoon-network-hopping-credential-theft-tactics/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 14:54:13 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Cisco Talos]]></category>
-		<category><![CDATA[CVE-2018-0171]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41331</guid>
-
-					<description><![CDATA[<p>Cisco Talos observed Chinese hackers pivoting from a compromised device operated by one telecom to target a device in another telecom.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-details-salt-typhoon-network-hopping-credential-theft-tactics/">Cisco Details ‘Salt Typhoon’ Network Hopping, Credential Theft Tactics</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Black Basta Chats Leaked, New SEC Cyber Unit, DOGE Site Hacked</title>
-		<link>https://www.securityweek.com/in-other-news-black-basta-chats-leaked-new-sec-cyber-unit-doge-site-hacked/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 13:35:32 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41330</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Black Basta ransomware chat logs leaked, SEC launches new cyber unit, DOGE website hacked.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-black-basta-chats-leaked-new-sec-cyber-unit-doge-site-hacked/">In Other News: Black Basta Chats Leaked, New SEC Cyber Unit, DOGE Site Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities in MongoDB Library Allow RCE on Node.js Servers</title>
-		<link>https://www.securityweek.com/vulnerabilities-in-mongodb-library-allow-rce-on-node-js-servers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 13:07:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41329</guid>
-
-					<description><![CDATA[<p>OPSWAT details two critical vulnerabilities in the Mongoose ODM library for MongoDB leading to remote code execution on the Node.js server.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-in-mongodb-library-allow-rce-on-node-js-servers/">Vulnerabilities in MongoDB Library Allow RCE on Node.js Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How China Pinned University Cyberattacks on NSA Hackers</title>
-		<link>https://www.securityweek.com/how-china-pinned-university-cyberattacks-on-nsa-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 12:26:17 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[Equation Group]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NSA]]></category>
-		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41327</guid>
-
-					<description><![CDATA[<p>A researcher dives into Chinese reports attributing cyberattacks on Northwestern Polytechnical University to the NSA’s TAO division.</p>
-<p>The post <a href="https://www.securityweek.com/how-china-pinned-university-cyberattacks-on-nsa-hackers/">How China Pinned University Cyberattacks on NSA Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Attacks Exploiting Craft CMS Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-craft-cms-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 11:44:27 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Craft]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41326</guid>
-
-					<description><![CDATA[<p>CISA has added a Craft CMS flaw tracked as CVE-2025-23209 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-craft-cms-vulnerability/">CISA Warns of Attacks Exploiting Craft CMS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
