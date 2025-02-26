@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 25 Feb 2025 11:22:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 11:04:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenSSF Releases Security Baseline for Open Source Projects</title>
+		<link>https://www.securityweek.com/openssf-releases-security-baseline-for-open-source-projects/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 11:45:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OpenSSF]]></category>
+		<category><![CDATA[OSPS Baseline]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41378</guid>
+
+					<description><![CDATA[<p>The Open Source Security Foundation (OpenSSF) has created a structured set of security requirements for open source projects.</p>
+<p>The post <a href="https://www.securityweek.com/openssf-releases-security-baseline-for-open-source-projects/">OpenSSF Releases Security Baseline for Open Source Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:45:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Qualcomm Extends Security Support for Android Devices to 8 Years</title>
+		<link>https://www.securityweek.com/qualcomm-extends-security-support-for-android-devices-to-8-years/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Qualcomm]]></category>
+		<category><![CDATA[security update]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41376</guid>
+
+					<description><![CDATA[<p>Qualcomm says it’s working with Google to ensure that Android device manufacturers will be able to provide security updates for 8 years.</p>
+<p>The post <a href="https://www.securityweek.com/qualcomm-extends-security-support-for-android-devices-to-8-years/">Qualcomm Extends Security Support for Android Devices to 8 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>3.3 Million People Impacted by DISA Data Breach</title>
+		<link>https://www.securityweek.com/3-3-million-people-impacted-by-disa-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41374</guid>
+
+					<description><![CDATA[<p>Background and drug screening giant DISA has revealed that a 2024 data breach impacts more than 3.3 million people.</p>
+<p>The post <a href="https://www.securityweek.com/3-3-million-people-impacted-by-disa-data-breach/">3.3 Million People Impacted by DISA Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Botnet Powered by 130,000 Devices Targets Microsoft 365 Accounts</title>
+		<link>https://www.securityweek.com/chinese-botnet-powered-by-130000-devices-targets-microsoft-365-accounts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 17:10:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[password spray]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41366</guid>
+
+					<description><![CDATA[<p>A China-linked botnet powered by 130,000 hacked devices has targeted Microsoft 365 accounts with password spraying attacks.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-botnet-powered-by-130000-devices-targets-microsoft-365-accounts/">Chinese Botnet Powered by 130,000 Devices Targets Microsoft 365 Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Offensive AI Startup Dreadnode Secures $14M to Stress-Test AI Systems</title>
+		<link>https://www.securityweek.com/offensive-ai-startup-dreadnode-secures-14m-to-stress-test-ai-systems/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 17:01:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[AI Automation]]></category>
+		<category><![CDATA[Decibel]]></category>
+		<category><![CDATA[Dreadnode]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<category><![CDATA[Red Team]]></category>
+		<category><![CDATA[Series A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41369</guid>
+
+					<description><![CDATA[<p>Dreadnode is building “offensive machine learning” tools to safely simulate how AI models might be exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/offensive-ai-startup-dreadnode-secures-14m-to-stress-test-ai-systems/">Offensive AI Startup Dreadnode Secures $14M to Stress-Test AI Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Skybox Security Shuts Down, Lays Off Entire Workforce </title>
+		<link>https://www.securityweek.com/skybox-security-shuts-down-lays-off-entire-workforce/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 16:01:40 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[liquidation]]></category>
+		<category><![CDATA[private equity]]></category>
+		<category><![CDATA[Skybox]]></category>
+		<category><![CDATA[Tufin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41367</guid>
+
+					<description><![CDATA[<p>The sudden shutdown follows the sale of Skybox Security’s business and technology assets to rival Israeli cybersecurity firm Tufin. </p>
+<p>The post <a href="https://www.securityweek.com/skybox-security-shuts-down-lays-off-entire-workforce/">Skybox Security Shuts Down, Lays Off Entire Workforce </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Edera Banks $15M for Kubernetes Workload Isolation Tech</title>
+		<link>https://www.securityweek.com/edera-banks-15m-for-kubernetes-workload-isolation-tech/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 14:32:52 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Chainguard]]></category>
+		<category><![CDATA[container]]></category>
+		<category><![CDATA[Edera]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[M12]]></category>
+		<category><![CDATA[Series A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41365</guid>
+
+					<description><![CDATA[<p>Seattle startup building technology to mitigate lateral movement and block “living off the land” techniques wins interest from investors.</p>
+<p>The post <a href="https://www.securityweek.com/edera-banks-15m-for-kubernetes-workload-isolation-tech/">Edera Banks $15M for Kubernetes Workload Isolation Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Leader of North Korean Hackers Sanctioned by EU</title>
+		<link>https://www.securityweek.com/leader-of-north-korean-hackers-sanctioned-by-eu/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 13:45:40 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Lazarus]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41363</guid>
+
+					<description><![CDATA[<p>The EU has announced new sanctions against entities aiding Russia’s war against Ukraine, including an individual who leads North Korean hackers.</p>
+<p>The post <a href="https://www.securityweek.com/leader-of-north-korean-hackers-sanctioned-by-eu/">Leader of North Korean Hackers Sanctioned by EU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nine Threat Groups Active in OT Operations in 2024: Dragos</title>
+		<link>https://www.securityweek.com/nine-threat-groups-active-in-ot-operations-in-2024-dragos/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 12:48:53 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Dragos]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41362</guid>
+
+					<description><![CDATA[<p>Dragos has published its 2025 OT/ICS Cybersecurity Report, which provides information on the threats and trends observed in 2024. </p>
+<p>The post <a href="https://www.securityweek.com/nine-threat-groups-active-in-ot-operations-in-2024-dragos/">Nine Threat Groups Active in OT Operations in 2024: Dragos</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</title>
 		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/</link>
 		
@@ -42,194 +230,6 @@
 
 					<description><![CDATA[<p>CISA has added CVE-2024-20953, an Oracle Agile PLM vulnerability patched in January 2024, to its KEV catalog. </p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/">CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:22:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>What Microsoft’s Majorana 1 Chip Means for Quantum Decryption</title>
-		<link>https://www.securityweek.com/what-microsofts-majorana-1-chip-means-for-quantum-decryption/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 19:05:15 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<category><![CDATA[Quantum cryptography]]></category>
-		<category><![CDATA[Quantum Decryption]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41353</guid>
-
-					<description><![CDATA[<p>The question is whether Majorana 1 advances progress toward quantum computing – or for security professionals, the arrival of computers powerful enough to break PKE.</p>
-<p>The post <a href="https://www.securityweek.com/what-microsofts-majorana-1-chip-means-for-quantum-decryption/">What Microsoft’s Majorana 1 Chip Means for Quantum Decryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rad Security Raises $14 Million for AI, Cloud Security Platform </title>
-		<link>https://www.securityweek.com/rad-security-raises-14-million-for-ai-cloud-security-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 17:40:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[RAD Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41351</guid>
-
-					<description><![CDATA[<p>Rad Security has raised $14 million in Series A funding for a defense platform for AI workloads and cloud infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/rad-security-raises-14-million-for-ai-cloud-security-platform/">Rad Security Raises $14 Million for AI, Cloud Security Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Bans ChatGPT Accounts Used by Chinese Group for Spy Tools</title>
-		<link>https://www.securityweek.com/openai-bans-chatgpt-accounts-used-by-chinese-group-for-spy-tools/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 17:10:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41349</guid>
-
-					<description><![CDATA[<p>OpenAI has banned ChatGPT accounts used by Chinese threat actors, including ones leveraged for the development of spying tools.</p>
-<p>The post <a href="https://www.securityweek.com/openai-bans-chatgpt-accounts-used-by-chinese-group-for-spy-tools/">OpenAI Bans ChatGPT Accounts Used by Chinese Group for Spy Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NinjaOne Scores $500M in Series C Extensions at $5 Billion Valuation</title>
-		<link>https://www.securityweek.com/ninjaone-scores-500m-in-series-c-extensions-at-5-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 15:30:26 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[CapitalG]]></category>
-		<category><![CDATA[Dropsuite]]></category>
-		<category><![CDATA[ICONIQ]]></category>
-		<category><![CDATA[NinjaOne]]></category>
-		<category><![CDATA[Series C]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41350</guid>
-
-					<description><![CDATA[<p>Texas automated endpoint management vendor banks $500 million infusion in Series C extensions that values the company at $5 billion. </p>
-<p>The post <a href="https://www.securityweek.com/ninjaone-scores-500m-in-series-c-extensions-at-5-billion-valuation/">NinjaOne Scores $500M in Series C Extensions at $5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kaspersky Banned on Australian Government Systems</title>
-		<link>https://www.securityweek.com/kaspersky-banned-on-australian-government-systems/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 12:55:17 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[ban]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Kaspersky]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41348</guid>
-
-					<description><![CDATA[<p>Australian government entities have been banned from using products and services of Russian cybersecurity company Kaspersky.</p>
-<p>The post <a href="https://www.securityweek.com/kaspersky-banned-on-australian-government-systems/">Kaspersky Banned on Australian Government Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Charges Genesis Market User</title>
-		<link>https://www.securityweek.com/us-charges-genesis-market-user/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 11:47:32 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Genesis Market]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41346</guid>
-
-					<description><![CDATA[<p>A Michigan man has been charged for buying compromised credentials on Genesis Market and using and selling them.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-genesis-market-user/">US Charges Genesis Market User</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$1.5 Billion Bybit Heist Linked to North Korean Hackers</title>
-		<link>https://www.securityweek.com/1-5-billion-bybit-heist-linked-to-north-korean-hackers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Feb 2025 09:52:34 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Bybit]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[heist]]></category>
-		<category><![CDATA[Lazarus]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41343</guid>
-
-					<description><![CDATA[<p>Companies and experts have found evidence linking the $1.5 billion Bybit cryptocurrency heist to North Korean Lazarus hackers.</p>
-<p>The post <a href="https://www.securityweek.com/1-5-billion-bybit-heist-linked-to-north-korean-hackers/">$1.5 Billion Bybit Heist Linked to North Korean Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bybit Hack Drains $1.5 Billion From Cryptocurrency Exchange</title>
-		<link>https://www.securityweek.com/bybit-hack-drains-1-5-billion-from-cryptocurrency-exchange/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Sat, 22 Feb 2025 15:32:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Bybit]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41338</guid>
-
-					<description><![CDATA[<p>Over 400,000 ETH and stETH worth more than $1.5 billion were stolen from the Bybit cryptocurrency exchange.</p>
-<p>The post <a href="https://www.securityweek.com/bybit-hack-drains-1-5-billion-from-cryptocurrency-exchange/">Bybit Hack Drains $1.5 Billion From Cryptocurrency Exchange</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Freelance Software Developers in North Korean Malware Crosshairs</title>
-		<link>https://www.securityweek.com/freelance-software-developers-in-north-korean-malware-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Feb 2025 15:58:20 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[AnyDesk]]></category>
-		<category><![CDATA[DeceptiveDevelopment]]></category>
-		<category><![CDATA[ESET]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[LinkedIn]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41333</guid>
-
-					<description><![CDATA[<p>ESET says hundreds of freelance software developers have fallen victim to North Korean hackers posing as recruiters.</p>
-<p>The post <a href="https://www.securityweek.com/freelance-software-developers-in-north-korean-malware-crosshairs/">Freelance Software Developers in North Korean Malware Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
