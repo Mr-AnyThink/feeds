@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 26 Feb 2025 11:04:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 11:57:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,117 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cisco Patches Vulnerabilities in Nexus Switches</title>
+		<link>https://www.securityweek.com/cisco-patches-vulnerabilities-in-nexus-switches/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 11:57:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41393</guid>
+
+					<description><![CDATA[<p>Cisco has patched command injection and DoS vulnerabilities affecting some of its Nexus switches, including a high-severity flaw.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-vulnerabilities-in-nexus-switches/">Cisco Patches Vulnerabilities in Nexus Switches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:57:42 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Failure, Rinse, Repeat: Why do Both History and Security Seem Doomed to Repeat Themselves?     </title>
+		<link>https://www.securityweek.com/failure-rinse-repeat-why-do-both-history-and-security-seem-doomed-to-repeat-themselves/</link>
+		
+		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41389</guid>
+
+					<description><![CDATA[<p>Let’s examine, through the lens of some historic breaches, the five most common mistakes that still serve as a catalyst to compromise.</p>
+<p>The post <a href="https://www.securityweek.com/failure-rinse-repeat-why-do-both-history-and-security-seem-doomed-to-repeat-themselves/">Failure, Rinse, Repeat: Why do Both History and Security Seem Doomed to Repeat Themselves?     </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI Says North Korea Hacked Bybit as Details of $1.5B Heist Emerge</title>
+		<link>https://www.securityweek.com/fbi-says-north-korea-hacked-bybit-as-details-of-1-5b-heist-emerge/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 10:50:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Bybit]]></category>
+		<category><![CDATA[Bybit hack]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Lazarus]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[TraderTraitor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41392</guid>
+
+					<description><![CDATA[<p>The FBI has attributed the Bybit hack to a North Korean group named TraderTraitor as more technical details of the attack have come to light.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-says-north-korea-hacked-bybit-as-details-of-1-5b-heist-emerge/">FBI Says North Korea Hacked Bybit as Details of $1.5B Heist Emerge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Now Live: Ransomware Resilience &#038; Recovery Summit &#8211; Join the Virtual Event In-Progress</title>
+		<link>https://www.securityweek.com/virtual-event-today-ransomware-resilience-recovery-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 17:42:13 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41380</guid>
+
+					<description><![CDATA[<p>SecurityWeek's 2025 Ransomware Resilience &#038; Recovery Summit takes place today, February 26th, as a fully immersive virtual event.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-ransomware-resilience-recovery-summit/">Now Live: Ransomware Resilience &amp; Recovery Summit &#8211; Join the Virtual Event In-Progress</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Anubis Ransomware Could Pose Major Threat to Organizations</title>
+		<link>https://www.securityweek.com/new-ransomware-anubis-could-pose-major-threat-to-organizations/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 16:04:03 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Anubis]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41386</guid>
+
+					<description><![CDATA[<p>Threat Intelligence firm Kela warns of a new ransomware group called Anubis operating as a RaaS service with an extensive array of options for affiliates.</p>
+<p>The post <a href="https://www.securityweek.com/new-ransomware-anubis-could-pose-major-threat-to-organizations/">New Anubis Ransomware Could Pose Major Threat to Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New &#8216;Auto-Color&#8217; Linux Malware Targets North America, Asia</title>
+		<link>https://www.securityweek.com/new-auto-color-linux-malware-targets-north-america-asia/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 12:59:16 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Auto-Color]]></category>
+		<category><![CDATA[Linux malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41384</guid>
+
+					<description><![CDATA[<p>New Linux malware named Auto-Color, which allows full remote access to compromised devices, targets North America and Asia.</p>
+<p>The post <a href="https://www.securityweek.com/new-auto-color-linux-malware-targets-north-america-asia/">New &#8216;Auto-Color&#8217; Linux Malware Targets North America, Asia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenSSF Releases Security Baseline for Open Source Projects</title>
 		<link>https://www.securityweek.com/openssf-releases-security-baseline-for-open-source-projects/</link>
 		
@@ -45,7 +156,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:45:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Qualcomm Extends Security Support for Android Devices to 8 Years</title>
 		<link>https://www.securityweek.com/qualcomm-extends-security-support-for-android-devices-to-8-years/</link>
@@ -101,135 +212,6 @@
 
 					<description><![CDATA[<p>A China-linked botnet powered by 130,000 hacked devices has targeted Microsoft 365 accounts with password spraying attacks.</p>
 <p>The post <a href="https://www.securityweek.com/chinese-botnet-powered-by-130000-devices-targets-microsoft-365-accounts/">Chinese Botnet Powered by 130,000 Devices Targets Microsoft 365 Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Offensive AI Startup Dreadnode Secures $14M to Stress-Test AI Systems</title>
-		<link>https://www.securityweek.com/offensive-ai-startup-dreadnode-secures-14m-to-stress-test-ai-systems/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 17:01:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[AI Automation]]></category>
-		<category><![CDATA[Decibel]]></category>
-		<category><![CDATA[Dreadnode]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<category><![CDATA[Red Team]]></category>
-		<category><![CDATA[Series A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41369</guid>
-
-					<description><![CDATA[<p>Dreadnode is building “offensive machine learning” tools to safely simulate how AI models might be exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/offensive-ai-startup-dreadnode-secures-14m-to-stress-test-ai-systems/">Offensive AI Startup Dreadnode Secures $14M to Stress-Test AI Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Skybox Security Shuts Down, Lays Off Entire Workforce </title>
-		<link>https://www.securityweek.com/skybox-security-shuts-down-lays-off-entire-workforce/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 16:01:40 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[liquidation]]></category>
-		<category><![CDATA[private equity]]></category>
-		<category><![CDATA[Skybox]]></category>
-		<category><![CDATA[Tufin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41367</guid>
-
-					<description><![CDATA[<p>The sudden shutdown follows the sale of Skybox Security’s business and technology assets to rival Israeli cybersecurity firm Tufin. </p>
-<p>The post <a href="https://www.securityweek.com/skybox-security-shuts-down-lays-off-entire-workforce/">Skybox Security Shuts Down, Lays Off Entire Workforce </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Edera Banks $15M for Kubernetes Workload Isolation Tech</title>
-		<link>https://www.securityweek.com/edera-banks-15m-for-kubernetes-workload-isolation-tech/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 14:32:52 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Chainguard]]></category>
-		<category><![CDATA[container]]></category>
-		<category><![CDATA[Edera]]></category>
-		<category><![CDATA[Kubernetes]]></category>
-		<category><![CDATA[M12]]></category>
-		<category><![CDATA[Series A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41365</guid>
-
-					<description><![CDATA[<p>Seattle startup building technology to mitigate lateral movement and block “living off the land” techniques wins interest from investors.</p>
-<p>The post <a href="https://www.securityweek.com/edera-banks-15m-for-kubernetes-workload-isolation-tech/">Edera Banks $15M for Kubernetes Workload Isolation Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Leader of North Korean Hackers Sanctioned by EU</title>
-		<link>https://www.securityweek.com/leader-of-north-korean-hackers-sanctioned-by-eu/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 13:45:40 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Lazarus]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41363</guid>
-
-					<description><![CDATA[<p>The EU has announced new sanctions against entities aiding Russia’s war against Ukraine, including an individual who leads North Korean hackers.</p>
-<p>The post <a href="https://www.securityweek.com/leader-of-north-korean-hackers-sanctioned-by-eu/">Leader of North Korean Hackers Sanctioned by EU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nine Threat Groups Active in OT Operations in 2024: Dragos</title>
-		<link>https://www.securityweek.com/nine-threat-groups-active-in-ot-operations-in-2024-dragos/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 12:48:53 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Dragos]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41362</guid>
-
-					<description><![CDATA[<p>Dragos has published its 2025 OT/ICS Cybersecurity Report, which provides information on the threats and trends observed in 2024. </p>
-<p>The post <a href="https://www.securityweek.com/nine-threat-groups-active-in-ot-operations-in-2024-dragos/">Nine Threat Groups Active in OT Operations in 2024: Dragos</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Feb 2025 11:22:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Agile PLM]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41361</guid>
-
-					<description><![CDATA[<p>CISA has added CVE-2024-20953, an Oracle Agile PLM vulnerability patched in January 2024, to its KEV catalog. </p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-oracle-agile-plm-vulnerability/">CISA Warns of Attacks Exploiting Oracle Agile PLM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
