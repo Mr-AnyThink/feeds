@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 28 Feb 2025 11:43:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 20:21:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Amnesty Reveals Cellebrite Zero-Day Android Exploit on Serbian Student Activist</title>
+		<link>https://www.securityweek.com/amnesty-reveals-cellebrite-zero-day-android-exploit-on-serbian-student-activist/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 20:20:54 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Amnesty International]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cellebrite]]></category>
+		<category><![CDATA[Serbia]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41419</guid>
+
+					<description><![CDATA[<p>Amnesty International publishes technical details on zero-day vulnerabilities exploited by Cellebrite’s mobile forensic tools to spy on a Serbian student activist.</p>
+<p>The post <a href="https://www.securityweek.com/amnesty-reveals-cellebrite-zero-day-android-exploit-on-serbian-student-activist/">Amnesty Reveals Cellebrite Zero-Day Android Exploit on Serbian Student Activist</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 06:56:29 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Gabbard Decries Britain’s Reported Demand for Apple to Provide Backdoor Access to Users’ Cloud Data</title>
+		<link>https://www.securityweek.com/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 14:48:16 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41416</guid>
+
+					<description><![CDATA[<p>The Director of National Intelligence said such a demand would violate Americans’ rights and raise concerns about a foreign government pressuring a U.S.-based technology company.</p>
+<p>The post <a href="https://www.securityweek.com/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/">Gabbard Decries Britain’s Reported Demand for Apple to Provide Backdoor Access to Users’ Cloud Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Krispy Kreme Breach Cost, Pwn2Own Berlin, Disney Hack Story</title>
+		<link>https://www.securityweek.com/in-other-news-krispy-kreme-breach-cost-pwn2own-berlin-disney-hack-story/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 13:22:27 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41415</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Krispy Kreme data breach costs $11M, Pwn2Own moves to Berlin, the story of the 2024 Disney hack.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-krispy-kreme-breach-cost-pwn2own-berlin-disney-hack-story/">In Other News: Krispy Kreme Breach Cost, Pwn2Own Berlin, Disney Hack Story</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ransomware Group Takes Credit for Lee Enterprises Attack</title>
 		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-lee-enterprises-attack/</link>
 		
@@ -47,7 +107,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of February 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/feb-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/feb-24-2025/</guid><pubDate>Mon, 24 Feb 2025 11:43:36 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of February 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Vo1d Botnet Evolves as It Ensnares 1.6 Million Android TV Boxes</title>
 		<link>https://www.securityweek.com/vo1d-botnet-evolves-as-it-ensnares-1-6-million-android-tv-boxes/</link>
@@ -164,60 +224,6 @@
 
 					<description><![CDATA[<p>The current state of regulation and the overwhelming burden it brings to most enterprises is a discussion worth having</p>
 <p>The post <a href="https://www.securityweek.com/the-hidden-cost-of-compliance-when-regulations-weaken-security/">The Hidden Cost of Compliance: When Regulations Weaken Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sites of Major Orgs Abused in Spam Campaign Exploiting Virtual Tour Software Flaw</title>
-		<link>https://www.securityweek.com/sites-of-major-orgs-abused-in-spam-campaign-exploiting-virtual-tour-software-flaw/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Feb 2025 13:21:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Krpano]]></category>
-		<category><![CDATA[VR]]></category>
-		<category><![CDATA[XSS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41395</guid>
-
-					<description><![CDATA[<p>XSS vulnerability allowed a threat actor to redirect users to arbitrary domains.</p>
-<p>The post <a href="https://www.securityweek.com/sites-of-major-orgs-abused-in-spam-campaign-exploiting-virtual-tour-software-flaw/">Sites of Major Orgs Abused in Spam Campaign Exploiting Virtual Tour Software Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Vulnerabilities in Nexus Switches</title>
-		<link>https://www.securityweek.com/cisco-patches-vulnerabilities-in-nexus-switches/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Feb 2025 11:57:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41393</guid>
-
-					<description><![CDATA[<p>Cisco has patched command injection and DoS vulnerabilities affecting some of its Nexus switches, including a high-severity flaw.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-vulnerabilities-in-nexus-switches/">Cisco Patches Vulnerabilities in Nexus Switches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Failure, Rinse, Repeat: Why do Both History and Security Seem Doomed to Repeat Themselves?     </title>
-		<link>https://www.securityweek.com/failure-rinse-repeat-why-do-both-history-and-security-seem-doomed-to-repeat-themselves/</link>
-		
-		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
-		<pubDate>Thu, 27 Feb 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41389</guid>
-
-					<description><![CDATA[<p>Let’s examine, through the lens of some historic breaches, the five most common mistakes that still serve as a catalyst to compromise.</p>
-<p>The post <a href="https://www.securityweek.com/failure-rinse-repeat-why-do-both-history-and-security-seem-doomed-to-repeat-themselves/">Failure, Rinse, Repeat: Why do Both History and Security Seem Doomed to Repeat Themselves?     </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
