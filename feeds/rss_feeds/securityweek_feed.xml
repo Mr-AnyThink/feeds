@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 03 Mar 2025 11:58:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Mar 2025 12:13:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,164 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Broadcom Patches 3 VMware Zero-Days Exploited in the Wild</title>
+		<link>https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 12:13:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41439</guid>
+
+					<description><![CDATA[<p>Broadcom patched VMware zero-days CVE-2025-22224, CVE-2025-22225 and CVE-2025-22226 after Microsoft warned it of exploitation. </p>
+<p>The post <a href="https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/">Broadcom Patches 3 VMware Zero-Days Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-03-2025/</guid><pubDate>Mon, 03 Mar 2025 12:13:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Google Patches Pair of Exploited Vulnerabilities in Android</title>
+		<link>https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 11:42:05 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41438</guid>
+
+					<description><![CDATA[<p>Android’s March 2025 security update addresses over 40 vulnerabilities, including two actively exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/">Google Patches Pair of Exploited Vulnerabilities in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation Long Known for Most of CISA&#8217;s Latest KEV Additions</title>
+		<link>https://www.securityweek.com/exploitation-long-known-for-most-of-cisas-latest-kev-additions/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41432</guid>
+
+					<description><![CDATA[<p>Exploitation has been known for months or years for most of the latest vulnerabilities added by CISA to its KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-long-known-for-most-of-cisas-latest-kev-additions/">Exploitation Long Known for Most of CISA&#8217;s Latest KEV Additions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA: No Change on Defending Against Russian Cyber Threats</title>
+		<link>https://www.securityweek.com/cisa-no-change-on-defending-against-russian-cyber-threats/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 17:28:16 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[FSB]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[SVR]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41431</guid>
+
+					<description><![CDATA[<p>The CISA public clarification follows news the Trump administration is temporarily pausing offensive cyber operations against Moscow.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-no-change-on-defending-against-russian-cyber-threats/">CISA: No Change on Defending Against Russian Cyber Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Quantum Wars: Google, Microsoft, and Amazon’s Competing Paths to Fault-Tolerant Qubits</title>
+		<link>https://www.securityweek.com/quantum-wars-google-microsoft-and-amazons-competing-paths-to-fault-tolerant-qubits/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 13:25:43 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41428</guid>
+
+					<description><![CDATA[<p>Amazon claims its researchers have combined cat qubit technology and additional quantum error correction components onto a microchip that can be manufactured in a scalable fashion.</p>
+<p>The post <a href="https://www.securityweek.com/quantum-wars-google-microsoft-and-amazons-competing-paths-to-fault-tolerant-qubits/">Quantum Wars: Google, Microsoft, and Amazon’s Competing Paths to Fault-Tolerant Qubits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mimic Raises $50 Million to Stop Ransomware Attacks</title>
+		<link>https://www.securityweek.com/mimic-raises-50-million-to-stop-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 13:14:30 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mimic]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41429</guid>
+
+					<description><![CDATA[<p>Ransomware defense startup Mimic has raised $50 million in a Series A funding round led by Google Ventures and Menlo Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/mimic-raises-50-million-to-stop-ransomware-attacks/">Mimic Raises $50 Million to Stop Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Seizes $31 Million Worth of Crypto Stolen in Uranium Finance Hack</title>
+		<link>https://www.securityweek.com/us-seizes-31-million-worth-of-crypto-stolen-in-uranium-finance-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 12:58:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[seized]]></category>
+		<category><![CDATA[Uranium Finance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41427</guid>
+
+					<description><![CDATA[<p>The US government has seized roughly $31 million in cryptocurrency stolen in 2021 from Uranium Finance.</p>
+<p>The post <a href="https://www.securityweek.com/us-seizes-31-million-worth-of-crypto-stolen-in-uranium-finance-hack/">US Seizes $31 Million Worth of Crypto Stolen in Uranium Finance Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 28 Deals Announced in February 2025</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-28-deals-announced-in-february-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2025 12:38:34 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[merger]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41426</guid>
+
+					<description><![CDATA[<p>Cybersecurity-related merger and acquisition (M&#038;A) deals announced in February 2025. </p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-28-deals-announced-in-february-2025/">Cybersecurity M&#038;A Roundup: 28 Deals Announced in February 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vulnerable Paragon Driver Exploited in Ransomware Attacks</title>
 		<link>https://www.securityweek.com/vulnerable-paragon-driver-exploited-in-ransomware-attacks/</link>
 		
@@ -46,7 +204,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-03-2025/</guid><pubDate>Mon, 03 Mar 2025 11:58:43 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Indian Stock Broker Angel One Discloses Data Breach</title>
 		<link>https://www.securityweek.com/indian-stock-broker-angel-one-discloses-data-breach/</link>
@@ -60,168 +218,6 @@
 
 					<description><![CDATA[<p>Angel One says client information was compromised in a data breach involving its AWS account.</p>
 <p>The post <a href="https://www.securityweek.com/indian-stock-broker-angel-one-discloses-data-breach/">Indian Stock Broker Angel One Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Basta Leak Offers Glimpse Into Group&#8217;s Inner Workings </title>
-		<link>https://www.securityweek.com/black-basta-leak-offers-glimpse-into-groups-inner-workings/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Black Basta]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41420</guid>
-
-					<description><![CDATA[<p>A massive hoard of internal chats has been leaked from Black Basta, rivalling the Conti leaks of late February 2022.</p>
-<p>The post <a href="https://www.securityweek.com/black-basta-leak-offers-glimpse-into-groups-inner-workings/">Black Basta Leak Offers Glimpse Into Group&#8217;s Inner Workings </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amnesty Reveals Cellebrite Zero-Day Android Exploit on Serbian Student Activist</title>
-		<link>https://www.securityweek.com/amnesty-reveals-cellebrite-zero-day-android-exploit-on-serbian-student-activist/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 20:20:54 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Amnesty International]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Cellebrite]]></category>
-		<category><![CDATA[Serbia]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41419</guid>
-
-					<description><![CDATA[<p>Amnesty International publishes technical details on zero-day vulnerabilities exploited by Cellebrite’s mobile forensic tools to spy on a Serbian student activist.</p>
-<p>The post <a href="https://www.securityweek.com/amnesty-reveals-cellebrite-zero-day-android-exploit-on-serbian-student-activist/">Amnesty Reveals Cellebrite Zero-Day Android Exploit on Serbian Student Activist</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gabbard Decries Britain’s Reported Demand for Apple to Provide Backdoor Access to Users’ Cloud Data</title>
-		<link>https://www.securityweek.com/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 14:48:16 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41416</guid>
-
-					<description><![CDATA[<p>The Director of National Intelligence said such a demand would violate Americans’ rights and raise concerns about a foreign government pressuring a U.S.-based technology company.</p>
-<p>The post <a href="https://www.securityweek.com/gabbard-decries-britains-reported-demand-for-apple-to-provide-backdoor-access-to-users-cloud-data/">Gabbard Decries Britain’s Reported Demand for Apple to Provide Backdoor Access to Users’ Cloud Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Krispy Kreme Breach Cost, Pwn2Own Berlin, Disney Hack Story</title>
-		<link>https://www.securityweek.com/in-other-news-krispy-kreme-breach-cost-pwn2own-berlin-disney-hack-story/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 13:22:27 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41415</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Krispy Kreme data breach costs $11M, Pwn2Own moves to Berlin, the story of the 2024 Disney hack.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-krispy-kreme-breach-cost-pwn2own-berlin-disney-hack-story/">In Other News: Krispy Kreme Breach Cost, Pwn2Own Berlin, Disney Hack Story</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Takes Credit for Lee Enterprises Attack</title>
-		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-lee-enterprises-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 11:43:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Lee Enterprises]]></category>
-		<category><![CDATA[Qilin]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41413</guid>
-
-					<description><![CDATA[<p>The Qilin ransomware gang claims to have stolen 350 Gb of files from Lee Enterprises in the attack that caused newspaper disruptions.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-lee-enterprises-attack/">Ransomware Group Takes Credit for Lee Enterprises Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vo1d Botnet Evolves as It Ensnares 1.6 Million Android TV Boxes</title>
-		<link>https://www.securityweek.com/vo1d-botnet-evolves-as-it-ensnares-1-6-million-android-tv-boxes/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 11:23:23 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Android TV]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Smart TV]]></category>
-		<category><![CDATA[TV]]></category>
-		<category><![CDATA[Vo1d]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41411</guid>
-
-					<description><![CDATA[<p>The Vo1d botnet is now powered by 1.6 million Android TV devices, up from 1.3 million half a year ago. </p>
-<p>The post <a href="https://www.securityweek.com/vo1d-botnet-evolves-as-it-ensnares-1-6-million-android-tv-boxes/">Vo1d Botnet Evolves as It Ensnares 1.6 Million Android TV Boxes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Names Suspects in Lawsuit Against AI Hackers</title>
-		<link>https://www.securityweek.com/microsoft-names-suspects-in-lawsuit-against-ai-hackers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 10:46:22 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Deepfake]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Storm-2139]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41409</guid>
-
-					<description><![CDATA[<p>In a lawsuit targeting cybercriminals who abuse AI services, Microsoft has named individuals from Iran, the UK, China and Vietnam.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-names-suspects-in-lawsuit-against-ai-hackers/">Microsoft Names Suspects in Lawsuit Against AI Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>26 New Threat Groups Spotted in 2024: CrowdStrike</title>
-		<link>https://www.securityweek.com/26-new-threat-groups-spotted-in-2024-crowdstrike/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Feb 2025 19:03:06 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41406</guid>
-
-					<description><![CDATA[<p>CrowdStrike has published its 2025 Global Threat Report, which warns of faster breakout time and an increase in Chinese activity. </p>
-<p>The post <a href="https://www.securityweek.com/26-new-threat-groups-spotted-in-2024-crowdstrike/">26 New Threat Groups Spotted in 2024: CrowdStrike</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
