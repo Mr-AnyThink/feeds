@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 04 Mar 2025 12:13:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Mar 2025 11:54:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Broadcom Patches 3 VMware Zero-Days Exploited in the Wild</title>
-		<link>https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 12:13:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41439</guid>
-
-					<description><![CDATA[<p>Broadcom patched VMware zero-days CVE-2025-22224, CVE-2025-22225 and CVE-2025-22226 after Microsoft warned it of exploitation. </p>
-<p>The post <a href="https://www.securityweek.com/broadcom-patches-3-vmware-zero-days-exploited-in-the-wild/">Broadcom Patches 3 VMware Zero-Days Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-03-2025/</guid><pubDate>Mon, 03 Mar 2025 12:13:21 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Google Patches Pair of Exploited Vulnerabilities in Android</title>
-		<link>https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/</link>
+		<title>Ransomware Group Claims Attack on Tata Technologies</title>
+		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-tata-technologies/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 11:42:05 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41438</guid>
+		<pubDate>Wed, 05 Mar 2025 11:53:29 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Tata]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41462</guid>
 
-					<description><![CDATA[<p>Android’s March 2025 security update addresses over 40 vulnerabilities, including two actively exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android/">Google Patches Pair of Exploited Vulnerabilities in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Notorious ransomware group Hunters International threatens to leak 1.4 TB of data allegedly stolen from Tata Technologies.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-tata-technologies/">Ransomware Group Claims Attack on Tata Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of March 3, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-03-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-03-2025/</guid><pubDate>Mon, 03 Mar 2025 11:54:12 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 3, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Exploitation Long Known for Most of CISA&#8217;s Latest KEV Additions</title>
-		<link>https://www.securityweek.com/exploitation-long-known-for-most-of-cisas-latest-kev-additions/</link>
+		<title>Chrome 134, Firefox 136 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-134-firefox-136-patch-high-severity-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Mar 2025 11:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 11:06:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41432</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41461</guid>
 
-					<description><![CDATA[<p>Exploitation has been known for months or years for most of the latest vulnerabilities added by CISA to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-long-known-for-most-of-cisas-latest-kev-additions/">Exploitation Long Known for Most of CISA&#8217;s Latest KEV Additions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Chrome 134 and Firefox 136 are rolling out across desktop and mobile with patches for multiple high-severity vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-134-firefox-136-patch-high-severity-vulnerabilities/">Chrome 134, Firefox 136 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA: No Change on Defending Against Russian Cyber Threats</title>
-		<link>https://www.securityweek.com/cisa-no-change-on-defending-against-russian-cyber-threats/</link>
+		<title>Knostic Secures $11 Million to Rein in Enterprise AI Data Leakage, Oversharing </title>
+		<link>https://www.securityweek.com/knostic-secures-11-million-to-rein-in-enterprise-ai-data-leakage-oversharing/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 17:28:16 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FSB]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[SVR]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41431</guid>
+		<pubDate>Wed, 05 Mar 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Co-Pilot]]></category>
+		<category><![CDATA[DLP]]></category>
+		<category><![CDATA[Knostic]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[seed-stage]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41454</guid>
 
-					<description><![CDATA[<p>The CISA public clarification follows news the Trump administration is temporarily pausing offensive cyber operations against Moscow.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-no-change-on-defending-against-russian-cyber-threats/">CISA: No Change on Defending Against Russian Cyber Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Knostic provides a “need-to-know” filter on the answers generated by enterprise large language models (LLM) tools.</p>
+<p>The post <a href="https://www.securityweek.com/knostic-secures-11-million-to-rein-in-enterprise-ai-data-leakage-oversharing/">Knostic Secures $11 Million to Rein in Enterprise AI Data Leakage, Oversharing </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Quantum Wars: Google, Microsoft, and Amazon’s Competing Paths to Fault-Tolerant Qubits</title>
-		<link>https://www.securityweek.com/quantum-wars-google-microsoft-and-amazons-competing-paths-to-fault-tolerant-qubits/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 13:25:43 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41428</guid>
-
-					<description><![CDATA[<p>Amazon claims its researchers have combined cat qubit technology and additional quantum error correction components onto a microchip that can be manufactured in a scalable fashion.</p>
-<p>The post <a href="https://www.securityweek.com/quantum-wars-google-microsoft-and-amazons-competing-paths-to-fault-tolerant-qubits/">Quantum Wars: Google, Microsoft, and Amazon’s Competing Paths to Fault-Tolerant Qubits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mimic Raises $50 Million to Stop Ransomware Attacks</title>
-		<link>https://www.securityweek.com/mimic-raises-50-million-to-stop-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 13:14:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mimic]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41429</guid>
-
-					<description><![CDATA[<p>Ransomware defense startup Mimic has raised $50 million in a Series A funding round led by Google Ventures and Menlo Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/mimic-raises-50-million-to-stop-ransomware-attacks/">Mimic Raises $50 Million to Stop Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Seizes $31 Million Worth of Crypto Stolen in Uranium Finance Hack</title>
-		<link>https://www.securityweek.com/us-seizes-31-million-worth-of-crypto-stolen-in-uranium-finance-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 12:58:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[heist]]></category>
-		<category><![CDATA[seized]]></category>
-		<category><![CDATA[Uranium Finance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41427</guid>
-
-					<description><![CDATA[<p>The US government has seized roughly $31 million in cryptocurrency stolen in 2021 from Uranium Finance.</p>
-<p>The post <a href="https://www.securityweek.com/us-seizes-31-million-worth-of-crypto-stolen-in-uranium-finance-hack/">US Seizes $31 Million Worth of Crypto Stolen in Uranium Finance Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 28 Deals Announced in February 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-28-deals-announced-in-february-2025/</link>
+		<title>US Sanctions Iranian Administrator of Nemesis Darknet Marketplace</title>
+		<link>https://www.securityweek.com/us-sanctions-iranian-administrator-of-nemesis-darknet-marketplace/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 12:38:34 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[merger]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41426</guid>
+		<pubDate>Wed, 05 Mar 2025 09:55:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Nemesis]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41459</guid>
 
-					<description><![CDATA[<p>Cybersecurity-related merger and acquisition (M&#038;A) deals announced in February 2025. </p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-28-deals-announced-in-february-2025/">Cybersecurity M&#038;A Roundup: 28 Deals Announced in February 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Iranian national Behrouz Parsarad sanctioned for running Nemesis, a marketplace used for narcotics trafficking and cybercrime. </p>
+<p>The post <a href="https://www.securityweek.com/us-sanctions-iranian-administrator-of-nemesis-darknet-marketplace/">US Sanctions Iranian Administrator of Nemesis Darknet Marketplace</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vulnerable Paragon Driver Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/vulnerable-paragon-driver-exploited-in-ransomware-attacks/</link>
+		<title>New Eleven11bot DDoS Botnet Powered by 80,000 Hacked Devices</title>
+		<link>https://www.securityweek.com/new-eleven11bot-ddos-botnet-powered-by-80000-hacked-devices/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 11:58:38 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BYOVD]]></category>
-		<category><![CDATA[driver]]></category>
-		<category><![CDATA[privilege escalation]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41425</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 05 Mar 2025 08:23:28 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Eleven11bot]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41457</guid>
 
-					<description><![CDATA[<p>Ransomware operators exploit a vulnerable Paragon driver in BYOVD attacks to elevate privileges to System.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerable-paragon-driver-exploited-in-ransomware-attacks/">Vulnerable Paragon Driver Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Eleven11bot botnet has been described as one of the largest known DDoS botnets observed in recent years. </p>
+<p>The post <a href="https://www.securityweek.com/new-eleven11bot-ddos-botnet-powered-by-80000-hacked-devices/">New Eleven11bot DDoS Botnet Powered by 80,000 Hacked Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Indian Stock Broker Angel One Discloses Data Breach</title>
-		<link>https://www.securityweek.com/indian-stock-broker-angel-one-discloses-data-breach/</link>
+		<title>ICS/OT Security Budgets Increasing, but Critical Areas Underfunded: Report</title>
+		<link>https://www.securityweek.com/ics-ot-security-budgets-increasing-but-critical-areas-underfunded-report/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 17:01:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[budget]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41447</guid>
+
+					<description><![CDATA[<p>The SANS Institute and OPSWAT have published their 2025 ICS/OT Cybersecurity Budget Report.</p>
+<p>The post <a href="https://www.securityweek.com/ics-ot-security-budgets-increasing-but-critical-areas-underfunded-report/">ICS/OT Security Budgets Increasing, but Critical Areas Underfunded: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Intel TDX Connect Bridges the CPU-GPU Security Gap</title>
+		<link>https://www.securityweek.com/intel-tdx-connect-bridges-the-cpu-gpu-security-gap/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 16:18:20 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41450</guid>
+
+					<description><![CDATA[<p>AI is all about data – and keeping AI’s data confidential both within devices and between devices is problematic. Intel offers a solution.</p>
+<p>The post <a href="https://www.securityweek.com/intel-tdx-connect-bridges-the-cpu-gpu-security-gap/">Intel TDX Connect Bridges the CPU-GPU Security Gap</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Asset Inventories: The Only Way to Stay on Top of a Lightning-fast Landscape</title>
+		<link>https://www.securityweek.com/ai-asset-inventories-the-only-way-to-stay-on-top-of-a-lightning-fast-landscape/</link>
+		
+		<dc:creator><![CDATA[Alastair Paterson]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 15:57:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41449</guid>
+
+					<description><![CDATA[<p>Unauthorized AI usage is a ticking time bomb. A tool that wasn’t considered a risk yesterday may introduce new AI-powered features overnight.</p>
+<p>The post <a href="https://www.securityweek.com/ai-asset-inventories-the-only-way-to-stay-on-top-of-a-lightning-fast-landscape/">AI Asset Inventories: The Only Way to Stay on Top of a Lightning-fast Landscape</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aryon Security Debuts With Platform to Prevent Cloud Misconfigurations</title>
+		<link>https://www.securityweek.com/aryon-security-debuts-with-platform-to-prevent-cloud-misconfigurations/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 04 Mar 2025 14:18:50 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41445</guid>
+
+					<description><![CDATA[<p>Misconfigurations are the cause of most cloud breaches. Aryon is on a mission to prevent them.</p>
+<p>The post <a href="https://www.securityweek.com/aryon-security-debuts-with-platform-to-prevent-cloud-misconfigurations/">Aryon Security Debuts With Platform to Prevent Cloud Misconfigurations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Polish Space Agency Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/polish-space-agency-hit-by-cyberattack/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Mar 2025 11:20:00 +0000</pubDate>
+		<pubDate>Tue, 04 Mar 2025 13:18:48 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Angel One]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41424</guid>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Polsa]]></category>
+		<category><![CDATA[space agency]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41443</guid>
 
-					<description><![CDATA[<p>Angel One says client information was compromised in a data breach involving its AWS account.</p>
-<p>The post <a href="https://www.securityweek.com/indian-stock-broker-angel-one-discloses-data-breach/">Indian Stock Broker Angel One Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Polish space agency POLSA says it has disconnected its network from the internet to contain a cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/polish-space-agency-hit-by-cyberattack/">Polish Space Agency Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
