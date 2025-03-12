@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 11 Mar 2025 11:59:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 12:05:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,188 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Sola Security Deposits Hefty $30M Seed Funding</title>
-		<link>https://www.securityweek.com/sola-security-deposits-hefty-30m-seed-funding/</link>
+		<title>Newly Patched Windows Zero-Day Exploited for Two Years</title>
+		<link>https://www.securityweek.com/newly-patched-windows-zero-day-exploited-for-two-years/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 12:05:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41542</guid>
+
+					<description><![CDATA[<p>Microsoft on Tuesday patched a zero-day vulnerability in the Windows Win32 kernel that has been exploited since March 2023.</p>
+<p>The post <a href="https://www.securityweek.com/newly-patched-windows-zero-day-exploited-for-two-years/">Newly Patched Windows Zero-Day Exploited for Two Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-10-2025/</guid><pubDate>Mon, 10 Mar 2025 12:05:40 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>PowerSchool Portal Compromised Months Before Massive Data Breach</title>
+		<link>https://www.securityweek.com/powerschool-portal-compromised-months-before-massive-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 11:48:08 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[PowerSchool]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41541</guid>
+
+					<description><![CDATA[<p>Hackers used compromised credentials to access PowerSchool’s PowerSource portal months before the December 2024 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/powerschool-portal-compromised-months-before-massive-data-breach/">PowerSchool Portal Compromised Months Before Massive Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Protecting Executives and Enterprises from Digital, Narrative and Physical Attacks</title>
+		<link>https://www.securityweek.com/webinar-today-protecting-executives-and-enterprises-from-digital-narrative-and-physical-attacks/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[DevSecOps]]></category>
-		<category><![CDATA[nocode]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[Sola Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41517</guid>
+		<pubDate>Wed, 12 Mar 2025 11:17:43 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41540</guid>
 
-					<description><![CDATA[<p>The financing was provided by S Capital and investor Mike Moritz, S32, Glilot Capital Partners, and several angel investors.</p>
-<p>The post <a href="https://www.securityweek.com/sola-security-deposits-hefty-30m-seed-funding/">Sola Security Deposits Hefty $30M Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-10-2025/</guid><pubDate>Mon, 10 Mar 2025 12:00:11 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>1,600 Victims Hit by South American APT&#8217;s Malware</title>
-		<link>https://www.securityweek.com/1600-victims-hit-by-south-american-apts-malware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 11:59:42 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Blind Eagle]]></category>
-		<category><![CDATA[Colombia]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[South America]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41522</guid>
-
-					<description><![CDATA[<p>South American cyberespionage group Blind Eagle has infected over 1,600 organizations in Colombia in a recent campaign.</p>
-<p>The post <a href="https://www.securityweek.com/1600-victims-hit-by-south-american-apts-malware/">1,600 Victims Hit by South American APT&#8217;s Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>How hyper agenda-driven threat actors, cybercriminals, and nation-states integrate digital, narrative, and physical attacks to target organizations through their executives.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-protecting-executives-and-enterprises-from-digital-narrative-and-physical-attacks/">Webinar Today: Protecting Executives and Enterprises from Digital, Narrative and Physical Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA Warns of Ivanti EPM Vulnerability Exploitation</title>
-		<link>https://www.securityweek.com/cisa-warns-of-ivanti-epm-vulnerability-exploitation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 11:40:32 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41521</guid>
-
-					<description><![CDATA[<p>CISA has added three critical-severity flaws in Ivanti EPM to its Known Exploited Vulnerabilities catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-ivanti-epm-vulnerability-exploitation/">CISA Warns of Ivanti EPM Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Take Credit for X Cyberattack</title>
-		<link>https://www.securityweek.com/hackers-take-credit-for-x-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 11 Mar 2025 11:25:29 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacktivists]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41519</guid>
-
-					<description><![CDATA[<p>Information is coming to light on the cyberattack that caused X outages, but it should be taken with a pinch of salt.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-take-credit-for-x-cyberattack/">Hackers Take Credit for X Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk Claims X Being Targeted in ‘Massive Cyberattack’ as Service Goes Down</title>
-		<link>https://www.securityweek.com/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down/</link>
+		<title>US Hasn&#8217;t Determined Who Was Behind Cyberattack That Caused Outage on Musk&#8217;s X</title>
+		<link>https://www.securityweek.com/us-hasnt-determined-who-was-behind-cyberattack-that-caused-outage-on-musks-x/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 23:39:06 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
+		<pubDate>Wed, 12 Mar 2025 11:00:18 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[outage]]></category>
 		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41515</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41538</guid>
 
-					<description><![CDATA[<p>Elon Musk claimed that the social media platform X was being targeted in a “massive cyberattack" that impacted availability.</p>
-<p>The post <a href="https://www.securityweek.com/elon-musk-claims-x-being-targeted-in-massive-cyberattack-as-service-goes-down/">Elon Musk Claims X Being Targeted in ‘Massive Cyberattack’ as Service Goes Down</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>US officials have not determined who was behind an apparent cyberattack on the social media site X that limited access to the platform for thousands of users.</p>
+<p>The post <a href="https://www.securityweek.com/us-hasnt-determined-who-was-behind-cyberattack-that-caused-outage-on-musks-x/">US Hasn&#8217;t Determined Who Was Behind Cyberattack That Caused Outage on Musk&#8217;s X</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trump Coins Used as Lure in Malware Campaign</title>
-		<link>https://www.securityweek.com/trump-coins-used-as-lure-in-malware-campaign/</link>
+		<title>ICS Patch Tuesday: Advisories Published by CISA, Schneider Electric, Siemens </title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-advisories-published-by-cisa-schneider-electric-siemens/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 09:50:06 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[Schneider Electric]]></category>
+		<category><![CDATA[Siemens]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41537</guid>
+
+					<description><![CDATA[<p>Industrial giants Siemens and Schneider Electric have released March 2025 Patch Tuesday ICS security advisories.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-advisories-published-by-cisa-schneider-electric-siemens/">ICS Patch Tuesday: Advisories Published by CISA, Schneider Electric, Siemens </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Are Threat Groups Belsen and ZeroSevenGroup Related?</title>
+		<link>https://www.securityweek.com/are-threat-groups-belsen-and-zerosevengroup-related/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 17:27:48 +0000</pubDate>
+		<pubDate>Wed, 12 Mar 2025 02:07:20 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41534</guid>
+
+					<description><![CDATA[<p>Kela admits that its evidence for a connection between Belsen and ZeroSevenGroup is largely circumstantial, primarily based on styles. </p>
+<p>The post <a href="https://www.securityweek.com/are-threat-groups-belsen-and-zerosevengroup-related/">Are Threat Groups Belsen and ZeroSevenGroup Related?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Ships iOS 18.3.2 to Fix Already-Exploited WebKit Flaw</title>
+		<link>https://www.securityweek.com/apple-ships-ios-18-3-2-to-fix-already-exploited-webkit-flaw/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 19:11:14 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[CVE-2025-24201]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 18.3.2]]></category>
+		<category><![CDATA[USB Restricted Mode]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41533</guid>
+
+					<description><![CDATA[<p>Apple warns that the WebKIt bug "may have been exploited in an extremely sophisticated attack against specific targeted individuals.”</p>
+<p>The post <a href="https://www.securityweek.com/apple-ships-ios-18-3-2-to-fix-already-exploited-webkit-flaw/">Apple Ships iOS 18.3.2 to Fix Already-Exploited WebKit Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Flags Six Active Zero-Days, Patches 57 Flaws: Patch Tuesday</title>
+		<link>https://www.securityweek.com/patch-tuesday-microsoft-patches-57-flaws-flags-six-active-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 18:50:08 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41514</guid>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41532</guid>
 
-					<description><![CDATA[<p>Binance is being spoofed in an email campaign using free TRUMP Coins as a lure leading to the installation of the ConnectWise RAT.</p>
-<p>The post <a href="https://www.securityweek.com/trump-coins-used-as-lure-in-malware-campaign/">Trump Coins Used as Lure in Malware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Redmond ships major security updates with warnings that a half-dozen Windows vulnerabilities have already been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/patch-tuesday-microsoft-patches-57-flaws-flags-six-active-zero-days/">Microsoft Flags Six Active Zero-Days, Patches 57 Flaws: Patch Tuesday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Details Disclosed for SCADA Flaws That Could Facilitate Industrial Attacks</title>
-		<link>https://www.securityweek.com/details-disclosed-for-scada-flaws-that-could-facilitate-industrial-attacks/</link>
+		<title>Patch Tuesday: Critical Code Execution Bugs in Adobe Acrobat and Reader</title>
+		<link>https://www.securityweek.com/patch-tuesday-critical-code-execution-bugs-in-acrobat-and-reader/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 17:01:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41513</guid>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 17:33:18 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Acrobat and Reader]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[InDesign]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41529</guid>
 
-					<description><![CDATA[<p>Palo Alto Networks has shared details on several high-severity Mitsubishi Electric and Iconics SCADA vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/details-disclosed-for-scada-flaws-that-could-facilitate-industrial-attacks/">Details Disclosed for SCADA Flaws That Could Facilitate Industrial Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Adobe documents 35 security flaws in a wide range of products, including code-execution issues in the Acrobat and Reader applications.</p>
+<p>The post <a href="https://www.securityweek.com/patch-tuesday-critical-code-execution-bugs-in-acrobat-and-reader/">Patch Tuesday: Critical Code Execution Bugs in Adobe Acrobat and Reader</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cobalt Strike Abuse Dropped 80% in Two Years</title>
-		<link>https://www.securityweek.com/cobalt-strike-abuse-dropped-80-in-two-years/</link>
+		<title>UK Government Report Calls for Stronger Open Source Supply Chain Security Practices</title>
+		<link>https://www.securityweek.com/uk-government-report-calls-for-stronger-open-source-supply-chain-security-practices/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 13:12:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[abuse]]></category>
-		<category><![CDATA[Cobalt Strike]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41511</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2025 17:03:10 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41528</guid>
 
-					<description><![CDATA[<p>Fortra has shared an update on the effects of actions taken to reduce the abuse of Cobalt Strike by threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/cobalt-strike-abuse-dropped-80-in-two-years/">Cobalt Strike Abuse Dropped 80% in Two Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Developer Convicted for Hacking Former Employer&#8217;s Systems</title>
-		<link>https://www.securityweek.com/developer-convicted-for-hacking-former-employers-systems/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 12:31:38 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[insider]]></category>
-		<category><![CDATA[Insider Threat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41510</guid>
-
-					<description><![CDATA[<p>Davis Lu was convicted of sabotaging his employer’s systems through malicious code, and deleting encrypted data.</p>
-<p>The post <a href="https://www.securityweek.com/developer-convicted-for-hacking-former-employers-systems/">Developer Convicted for Hacking Former Employer&#8217;s Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Paid Out $12 Million via Bug Bounty Programs in 2024</title>
-		<link>https://www.securityweek.com/google-paid-out-12-million-via-bug-bounty-programs-in-2024/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 10 Mar 2025 12:07:05 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41508</guid>
-
-					<description><![CDATA[<p>In 2024, Google paid out nearly $12 million in bug bounties through its revamped vulnerability reward programs.</p>
-<p>The post <a href="https://www.securityweek.com/google-paid-out-12-million-via-bug-bounty-programs-in-2024/">Google Paid Out $12 Million via Bug Bounty Programs in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Report from the Department for Science, Innovation &#038; Technology (DSIT) finds weaknesses in current practices.</p>
+<p>The post <a href="https://www.securityweek.com/uk-government-report-calls-for-stronger-open-source-supply-chain-security-practices/">UK Government Report Calls for Stronger Open Source Supply Chain Security Practices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
