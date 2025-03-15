@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 14 Mar 2025 12:12:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 12:29:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Swiss Breach Disclosure Rules, ESP32 Chip Backdoor Disputed, MassJacker</title>
+		<link>https://www.securityweek.com/in-other-news-swiss-breach-disclosure-rules-esp32-chip-backdoor-disputed-massjacker/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 12:41:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41579</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Switzerland requires disclosure of critical infrastructure attacks, ESP32 chips don’t contain a backdoor, MassJacker cryptojacking malware.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-swiss-breach-disclosure-rules-esp32-chip-backdoor-disputed-massjacker/">In Other News: Swiss Breach Disclosure Rules, ESP32 Chip Backdoor Disputed, MassJacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-10-2025/</guid><pubDate>Mon, 10 Mar 2025 12:41:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>ClickFix Widely Adopted by Cybercriminals, APT Groups</title>
+		<link>https://www.securityweek.com/clickfix-widely-adopted-by-cybercriminals-apt-groups/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 12:29:24 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41583</guid>
+
+					<description><![CDATA[<p>The ClickFix technique has been employed by cybercrime and APT groups for information stealer and other malware deployment.</p>
+<p>The post <a href="https://www.securityweek.com/clickfix-widely-adopted-by-cybercriminals-apt-groups/">ClickFix Widely Adopted by Cybercriminals, APT Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LockBit Ransomware Developer Extradited to US</title>
+		<link>https://www.securityweek.com/lockbit-ransomware-developer-extradited-to-us/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 12:18:16 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[LockBit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41582</guid>
+
+					<description><![CDATA[<p>Russian-Israeli LockBit ransomware developer Rostislav Panev has been extradited from Israel to the United States.</p>
+<p>The post <a href="https://www.securityweek.com/lockbit-ransomware-developer-extradited-to-us/">LockBit Ransomware Developer Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>New AI Security Tool Helps Organizations Set Trust Zones for Gen-AI Models</title>
 		<link>https://www.securityweek.com/new-ai-security-tool-helps-organizations-set-trust-zones-for-gen-ai-models/</link>
 		
@@ -44,7 +98,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-10-2025/</guid><pubDate>Mon, 10 Mar 2025 12:12:26 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>RSA Conference Playbook: Smart Strategies from Seasoned Attendees</title>
 		<link>https://www.securityweek.com/rsa-conference-playbook-smart-strategies-from-seasoned-attendees/</link>
@@ -156,65 +210,6 @@
 
 					<description><![CDATA[<p>Cisco has released patches for 10 vulnerabilities in IOS XR, including five denial-of-service (DoS) bugs.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-patches-10-vulnerabilities-in-ios-xr/">Cisco Patches 10 Vulnerabilities in IOS XR</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grafana Flaws Likely Targeted in Broad SSRF Exploitation Campaign</title>
-		<link>https://www.securityweek.com/grafana-flaws-likely-targeted-in-broad-ssrf-exploitation-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:03:29 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Grafana]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41568</guid>
-
-					<description><![CDATA[<p>Threat actors are likely targeting Grafana path traversal bugs for reconnaissance in a SSRF exploitation campaign targeting popular platforms.</p>
-<p>The post <a href="https://www.securityweek.com/grafana-flaws-likely-targeted-in-broad-ssrf-exploitation-campaign/">Grafana Flaws Likely Targeted in Broad SSRF Exploitation Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Warns of Hospitality Sector Attacks Involving ClickFix</title>
-		<link>https://www.securityweek.com/microsoft-warns-of-hospitality-sector-attacks-involving-clickfix/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41566</guid>
-
-					<description><![CDATA[<p>A cybercrime group named Storm-1865 has targeted hospitality organizations via fake Booking.com emails and the use of social engineering.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-hospitality-sector-attacks-involving-clickfix/">Microsoft Warns of Hospitality Sector Attacks Involving ClickFix</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeepSeek&#8217;s Malware-Generation Capabilities Put to Test</title>
-		<link>https://www.securityweek.com/deepseeks-malware-generation-capabilities-put-to-test/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[DeepSeek]]></category>
-		<category><![CDATA[keylogger]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41555</guid>
-
-					<description><![CDATA[<p>Researchers have analyzed the ability of the Chinese gen-AI DeepSeek to create malware such as ransomware and keyloggers.</p>
-<p>The post <a href="https://www.securityweek.com/deepseeks-malware-generation-capabilities-put-to-test/">DeepSeek&#8217;s Malware-Generation Capabilities Put to Test</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
