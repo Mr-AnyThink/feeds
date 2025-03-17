@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 14 Mar 2025 12:29:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Mar 2025 12:08:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>100 Car Dealerships Hit by Supply Chain Attack</title>
+		<link>https://www.securityweek.com/100-car-dealerships-hit-by-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 12:08:17 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41587</guid>
+
+					<description><![CDATA[<p>The websites of over 100 auto dealerships were found serving malicious ClickFix code in a supply chain compromise.</p>
+<p>The post <a href="https://www.securityweek.com/100-car-dealerships-hit-by-supply-chain-attack/">100 Car Dealerships Hit by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:08:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Nvidia Riva Vulnerabilities Allow Unauthorized Use of AI Services</title>
+		<link>https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 11:16:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Riva]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41585</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in Nvidia Riva could allow hackers to abuse speech and translation AI services that are typically expensive. </p>
+<p>The post <a href="https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/">Nvidia Riva Vulnerabilities Allow Unauthorized Use of AI Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Popular GitHub Action Targeted in Supply Chain Attack</title>
+		<link>https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[GitHub actions]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41584</guid>
+
+					<description><![CDATA[<p>The tj-actions/changed-files GitHub Action, which is used in 23,000 repositories, has been targeted in a supply chain attack.</p>
+<p>The post <a href="https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/">Popular GitHub Action Targeted in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Swiss Breach Disclosure Rules, ESP32 Chip Backdoor Disputed, MassJacker</title>
 		<link>https://www.securityweek.com/in-other-news-swiss-breach-disclosure-rules-esp32-chip-backdoor-disputed-massjacker/</link>
 		
@@ -43,7 +106,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 10, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-10-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-10-2025/</guid><pubDate>Mon, 10 Mar 2025 12:41:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 10, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>ClickFix Widely Adopted by Cybercriminals, APT Groups</title>
 		<link>https://www.securityweek.com/clickfix-widely-adopted-by-cybercriminals-apt-groups/</link>
@@ -151,65 +214,6 @@
 
 					<description><![CDATA[<p>The newly discovered SuperBlack ransomware has been exploiting two vulnerabilities in Fortinet firewalls.</p>
 <p>The post <a href="https://www.securityweek.com/recent-fortinet-vulnerabilities-exploited-in-superblack-ransomware-attacks/">Recent Fortinet Vulnerabilities Exploited in &#8216;SuperBlack&#8217; Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unpatched Edimax Camera Flaw Exploited Since at Least May 2024</title>
-		<link>https://www.securityweek.com/unpatched-edimax-camera-flaw-exploited-since-at-least-may-2024/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 19:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Edimax]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41561</guid>
-
-					<description><![CDATA[<p>A recently disclosed Edimax zero-day vulnerability has been exploited in the wild by Mirai botnets for nearly a year.</p>
-<p>The post <a href="https://www.securityweek.com/unpatched-edimax-camera-flaw-exploited-since-at-least-may-2024/">Unpatched Edimax Camera Flaw Exploited Since at Least May 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FreeType Zero-Day Being Exploited in the Wild</title>
-		<link>https://www.securityweek.com/freetype-zero-day-being-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 17:06:30 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-27363]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[FreeType]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41571</guid>
-
-					<description><![CDATA[<p>Meta’s Facebook security team warns of live exploitation of a zero-day vulnerability in the open-source FreeType library. </p>
-<p>The post <a href="https://www.securityweek.com/freetype-zero-day-being-exploited-in-the-wild/">FreeType Zero-Day Being Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches 10 Vulnerabilities in IOS XR</title>
-		<link>https://www.securityweek.com/cisco-patches-10-vulnerabilities-in-ios-xr/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41565</guid>
-
-					<description><![CDATA[<p>Cisco has released patches for 10 vulnerabilities in IOS XR, including five denial-of-service (DoS) bugs.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-10-vulnerabilities-in-ios-xr/">Cisco Patches 10 Vulnerabilities in IOS XR</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
