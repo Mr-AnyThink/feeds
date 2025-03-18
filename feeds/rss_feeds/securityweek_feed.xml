@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 17 Mar 2025 12:08:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Mar 2025 11:45:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,145 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Western Alliance Bank Discloses Data Breach Linked to Cleo Hack</title>
+		<link>https://www.securityweek.com/western-alliance-bank-discloses-data-breach-linked-to-cleo-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 11:45:18 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[Cleo]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Western Alliance Bank]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41598</guid>
+
+					<description><![CDATA[<p>The personal information of 22,000 Western Alliance Bank customers was stolen in a data breach linked to Cl0p’s hacking of the Cleo file transfer tool.</p>
+<p>The post <a href="https://www.securityweek.com/western-alliance-bank-discloses-data-breach-linked-to-cleo-hack/">Western Alliance Bank Discloses Data Breach Linked to Cleo Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 11:45:24 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>US Lawmakers Reintroduce Bill to Boost Rural Water Cybersecurity</title>
+		<link>https://www.securityweek.com/us-lawmakers-reintroduce-bill-to-boost-rural-water-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 11:33:45 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41597</guid>
+
+					<description><![CDATA[<p>US representatives and senators have reintroduced a bipartisan bill to support the cybersecurity of small water and wastewater utilities.</p>
+<p>The post <a href="https://www.securityweek.com/us-lawmakers-reintroduce-bill-to-boost-rural-water-cybersecurity/">US Lawmakers Reintroduce Bill to Boost Rural Water Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ChatGPT Vulnerability Exploited Against US Government Organizations</title>
+		<link>https://www.securityweek.com/chatgpt-vulnerability-exploited-against-us-government-organizations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 09:55:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[SSRF]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41596</guid>
+
+					<description><![CDATA[<p>A year-old vulnerability in ChatGPT is being exploited against financial entities and US government organizations.</p>
+<p>The post <a href="https://www.securityweek.com/chatgpt-vulnerability-exploited-against-us-government-organizations/">ChatGPT Vulnerability Exploited Against US Government Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploit Code for Apache Tomcat RCE Vulnerability Published on Chinese Forum</title>
+		<link>https://www.securityweek.com/exploit-code-for-apache-tomcat-rce-vulnerability-published-on-chinese-forum/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 18:13:31 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Apache]]></category>
+		<category><![CDATA[Apache Tomcat]]></category>
+		<category><![CDATA[CVE-2025-24813]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41592</guid>
+
+					<description><![CDATA[<p>Exploits swirling for remote code execution vulnerability (CVE-2025-24813) in open-source Apache Tomcat web server.</p>
+<p>The post <a href="https://www.securityweek.com/exploit-code-for-apache-tomcat-rce-vulnerability-published-on-chinese-forum/">Exploit Code for Apache Tomcat RCE Vulnerability Published on Chinese Forum</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NIST Announces HQC as Fifth Standardized Post Quantum Algorithm</title>
+		<link>https://www.securityweek.com/nist-announces-hqc-as-fifth-standardized-post-quantum-algorithm/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 17:39:00 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41591</guid>
+
+					<description><![CDATA[<p>First choices for both KEMs and DSAs are already standardized, and organizations should not wait for the backups to be available before migrating to PQC. </p>
+<p>The post <a href="https://www.securityweek.com/nist-announces-hqc-as-fifth-standardized-post-quantum-algorithm/">NIST Announces HQC as Fifth Standardized Post Quantum Algorithm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>8,000 New WordPress Vulnerabilities Reported in 2024</title>
+		<link>https://www.securityweek.com/8000-new-wordpress-vulnerabilities-reported-in-2024/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 16:01:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41590</guid>
+
+					<description><![CDATA[<p>Nearly 8,000 new vulnerabilities affecting the WordPress ecosystem were reported last year, nearly all in plugins and themes.</p>
+<p>The post <a href="https://www.securityweek.com/8000-new-wordpress-vulnerabilities-reported-in-2024/">8,000 New WordPress Vulnerabilities Reported in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft 365 Targeted in New Phishing, Account Takeover Attacks</title>
+		<link>https://www.securityweek.com/microsoft-365-targeted-in-new-phishing-account-takeover-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Mar 2025 12:48:57 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[account takeover]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41588</guid>
+
+					<description><![CDATA[<p>Threat actors are abusing Microsoft 365 infrastructure in a BEC campaign, and target its users in two brand impersonation campaigns.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-365-targeted-in-new-phishing-account-takeover-attacks/">Microsoft 365 Targeted in New Phishing, Account Takeover Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>100 Car Dealerships Hit by Supply Chain Attack</title>
 		<link>https://www.securityweek.com/100-car-dealerships-hit-by-supply-chain-attack/</link>
 		
@@ -46,9 +185,9 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:08:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
-		<title>Nvidia Riva Vulnerabilities Allow Unauthorized Use of AI Services</title>
+		<title>Nvidia Patches Vulnerabilities That Could Let Hackers Exploit AI Services</title>
 		<link>https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
@@ -63,7 +202,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=41585</guid>
 
 					<description><![CDATA[<p>Vulnerabilities in Nvidia Riva could allow hackers to abuse speech and translation AI services that are typically expensive. </p>
-<p>The post <a href="https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/">Nvidia Riva Vulnerabilities Allow Unauthorized Use of AI Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/">Nvidia Patches Vulnerabilities That Could Let Hackers Exploit AI Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -85,135 +224,6 @@
 
 					<description><![CDATA[<p>The tj-actions/changed-files GitHub Action, which is used in 23,000 repositories, has been targeted in a supply chain attack.</p>
 <p>The post <a href="https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/">Popular GitHub Action Targeted in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Swiss Breach Disclosure Rules, ESP32 Chip Backdoor Disputed, MassJacker</title>
-		<link>https://www.securityweek.com/in-other-news-swiss-breach-disclosure-rules-esp32-chip-backdoor-disputed-massjacker/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 12:41:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41579</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Switzerland requires disclosure of critical infrastructure attacks, ESP32 chips don’t contain a backdoor, MassJacker cryptojacking malware.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-swiss-breach-disclosure-rules-esp32-chip-backdoor-disputed-massjacker/">In Other News: Swiss Breach Disclosure Rules, ESP32 Chip Backdoor Disputed, MassJacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ClickFix Widely Adopted by Cybercriminals, APT Groups</title>
-		<link>https://www.securityweek.com/clickfix-widely-adopted-by-cybercriminals-apt-groups/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 12:29:24 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41583</guid>
-
-					<description><![CDATA[<p>The ClickFix technique has been employed by cybercrime and APT groups for information stealer and other malware deployment.</p>
-<p>The post <a href="https://www.securityweek.com/clickfix-widely-adopted-by-cybercriminals-apt-groups/">ClickFix Widely Adopted by Cybercriminals, APT Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LockBit Ransomware Developer Extradited to US</title>
-		<link>https://www.securityweek.com/lockbit-ransomware-developer-extradited-to-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 12:18:16 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[LockBit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41582</guid>
-
-					<description><![CDATA[<p>Russian-Israeli LockBit ransomware developer Rostislav Panev has been extradited from Israel to the United States.</p>
-<p>The post <a href="https://www.securityweek.com/lockbit-ransomware-developer-extradited-to-us/">LockBit Ransomware Developer Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New AI Security Tool Helps Organizations Set Trust Zones for Gen-AI Models</title>
-		<link>https://www.securityweek.com/new-ai-security-tool-helps-organizations-set-trust-zones-for-gen-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 12:12:22 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Gen-AI]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41581</guid>
-
-					<description><![CDATA[<p>Measure the different level of risk inherent to all gen-AI foundational models and use that to fine-tune the operation of in-house AI deployments.</p>
-<p>The post <a href="https://www.securityweek.com/new-ai-security-tool-helps-organizations-set-trust-zones-for-gen-ai-models/">New AI Security Tool Helps Organizations Set Trust Zones for Gen-AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RSA Conference Playbook: Smart Strategies from Seasoned Attendees</title>
-		<link>https://www.securityweek.com/rsa-conference-playbook-smart-strategies-from-seasoned-attendees/</link>
-		
-		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 11:43:17 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Conference]]></category>
-		<category><![CDATA[RSAC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41577</guid>
-
-					<description><![CDATA[<p>Your guide on how to get through the conference with your sanity, energy, and key performance indicators (KPIs) intact.</p>
-<p>The post <a href="https://www.securityweek.com/rsa-conference-playbook-smart-strategies-from-seasoned-attendees/">RSA Conference Playbook: Smart Strategies from Seasoned Attendees</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New CCA Jailbreak Method Works Against Most AI Models</title>
-		<link>https://www.securityweek.com/new-cca-jailbreak-method-works-against-most-ai-models/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 11:35:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41578</guid>
-
-					<description><![CDATA[<p>Two Microsoft researchers have devised a new jailbreak method that bypasses the safety mechanisms of most AI systems.</p>
-<p>The post <a href="https://www.securityweek.com/new-cca-jailbreak-method-works-against-most-ai-models/">New CCA Jailbreak Method Works Against Most AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent Fortinet Vulnerabilities Exploited in &#8216;SuperBlack&#8217; Ransomware Attacks</title>
-		<link>https://www.securityweek.com/recent-fortinet-vulnerabilities-exploited-in-superblack-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Mar 2025 10:05:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[SuperBlack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41576</guid>
-
-					<description><![CDATA[<p>The newly discovered SuperBlack ransomware has been exploiting two vulnerabilities in Fortinet firewalls.</p>
-<p>The post <a href="https://www.securityweek.com/recent-fortinet-vulnerabilities-exploited-in-superblack-ransomware-attacks/">Recent Fortinet Vulnerabilities Exploited in &#8216;SuperBlack&#8217; Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
