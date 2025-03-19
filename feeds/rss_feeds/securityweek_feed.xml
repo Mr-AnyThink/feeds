@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 18 Mar 2025 11:45:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Mar 2025 11:29:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,202 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Western Alliance Bank Discloses Data Breach Linked to Cleo Hack</title>
-		<link>https://www.securityweek.com/western-alliance-bank-discloses-data-breach-linked-to-cleo-hack/</link>
+		<title>Scareware Combined With Phishing in Attacks Targeting macOS Users</title>
+		<link>https://www.securityweek.com/scareware-combined-with-phishing-in-attacks-targeting-macos-users/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 11:45:18 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Western Alliance Bank]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41598</guid>
-
-					<description><![CDATA[<p>The personal information of 22,000 Western Alliance Bank customers was stolen in a data breach linked to Cl0p’s hacking of the Cleo file transfer tool.</p>
-<p>The post <a href="https://www.securityweek.com/western-alliance-bank-discloses-data-breach-linked-to-cleo-hack/">Western Alliance Bank Discloses Data Breach Linked to Cleo Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 11:45:24 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>US Lawmakers Reintroduce Bill to Boost Rural Water Cybersecurity</title>
-		<link>https://www.securityweek.com/us-lawmakers-reintroduce-bill-to-boost-rural-water-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 11:33:45 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[bill]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41597</guid>
-
-					<description><![CDATA[<p>US representatives and senators have reintroduced a bipartisan bill to support the cybersecurity of small water and wastewater utilities.</p>
-<p>The post <a href="https://www.securityweek.com/us-lawmakers-reintroduce-bill-to-boost-rural-water-cybersecurity/">US Lawmakers Reintroduce Bill to Boost Rural Water Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT Vulnerability Exploited Against US Government Organizations</title>
-		<link>https://www.securityweek.com/chatgpt-vulnerability-exploited-against-us-government-organizations/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 09:55:21 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[SSRF]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41596</guid>
+		<category><![CDATA[macOS 14.2]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[scareware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41613</guid>
 
-					<description><![CDATA[<p>A year-old vulnerability in ChatGPT is being exploited against financial entities and US government organizations.</p>
-<p>The post <a href="https://www.securityweek.com/chatgpt-vulnerability-exploited-against-us-government-organizations/">ChatGPT Vulnerability Exploited Against US Government Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A long-running campaign phishing for credentials through scareware recently switched to targeting macOS users.</p>
+<p>The post <a href="https://www.securityweek.com/scareware-combined-with-phishing-in-attacks-targeting-macos-users/">Scareware Combined With Phishing in Attacks Targeting macOS Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Exploit Code for Apache Tomcat RCE Vulnerability Published on Chinese Forum</title>
-		<link>https://www.securityweek.com/exploit-code-for-apache-tomcat-rce-vulnerability-published-on-chinese-forum/</link>
+		<title>Microsoft Warns of New StilachiRAT Malware</title>
+		<link>https://www.securityweek.com/microsoft-warns-of-new-stilachirat-malware/</link>
 		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 18:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 09:59:07 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Apache]]></category>
-		<category><![CDATA[Apache Tomcat]]></category>
-		<category><![CDATA[CVE-2025-24813]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41592</guid>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<category><![CDATA[StilachiRAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41612</guid>
 
-					<description><![CDATA[<p>Exploits swirling for remote code execution vulnerability (CVE-2025-24813) in open-source Apache Tomcat web server.</p>
-<p>The post <a href="https://www.securityweek.com/exploit-code-for-apache-tomcat-rce-vulnerability-published-on-chinese-forum/">Exploit Code for Apache Tomcat RCE Vulnerability Published on Chinese Forum</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft has shared details on StilachiRAT, an evasive and persistent piece of malware that facilitates sensitive data theft.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-new-stilachirat-malware/">Microsoft Warns of New StilachiRAT Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>NIST Announces HQC as Fifth Standardized Post Quantum Algorithm</title>
-		<link>https://www.securityweek.com/nist-announces-hqc-as-fifth-standardized-post-quantum-algorithm/</link>
+		<title>HP Launches Printers With Quantum Resilient Cryptography </title>
+		<link>https://www.securityweek.com/hp-launches-printers-with-quantum-resilient-cryptography/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 17:39:00 +0000</pubDate>
+		<pubDate>Tue, 18 Mar 2025 20:03:33 +0000</pubDate>
 				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[encryption]]></category>
 		<category><![CDATA[Post quantum cryptography]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41591</guid>
+		<category><![CDATA[Quantum cryptography]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41609</guid>
 
-					<description><![CDATA[<p>First choices for both KEMs and DSAs are already standardized, and organizations should not wait for the backups to be available before migrating to PQC. </p>
-<p>The post <a href="https://www.securityweek.com/nist-announces-hqc-as-fifth-standardized-post-quantum-algorithm/">NIST Announces HQC as Fifth Standardized Post Quantum Algorithm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Printers can sit in the corner for ten years or more, while quantum decryption is thought by many to be less than 10 years away.</p>
+<p>The post <a href="https://www.securityweek.com/hp-launches-printers-with-quantum-resilient-cryptography/">HP Launches Printers With Quantum Resilient Cryptography </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>8,000 New WordPress Vulnerabilities Reported in 2024</title>
-		<link>https://www.securityweek.com/8000-new-wordpress-vulnerabilities-reported-in-2024/</link>
+		<title>AI Is Turbocharging Organized Crime, EU Police Agency Warns</title>
+		<link>https://www.securityweek.com/ai-is-turbocharging-organized-crime-eu-police-agency-warns/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41590</guid>
-
-					<description><![CDATA[<p>Nearly 8,000 new vulnerabilities affecting the WordPress ecosystem were reported last year, nearly all in plugins and themes.</p>
-<p>The post <a href="https://www.securityweek.com/8000-new-wordpress-vulnerabilities-reported-in-2024/">8,000 New WordPress Vulnerabilities Reported in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft 365 Targeted in New Phishing, Account Takeover Attacks</title>
-		<link>https://www.securityweek.com/microsoft-365-targeted-in-new-phishing-account-takeover-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 12:48:57 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[account takeover]]></category>
-		<category><![CDATA[Microsoft 365]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41588</guid>
-
-					<description><![CDATA[<p>Threat actors are abusing Microsoft 365 infrastructure in a BEC campaign, and target its users in two brand impersonation campaigns.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-365-targeted-in-new-phishing-account-takeover-attacks/">Microsoft 365 Targeted in New Phishing, Account Takeover Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>100 Car Dealerships Hit by Supply Chain Attack</title>
-		<link>https://www.securityweek.com/100-car-dealerships-hit-by-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 12:08:17 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41587</guid>
-
-					<description><![CDATA[<p>The websites of over 100 auto dealerships were found serving malicious ClickFix code in a supply chain compromise.</p>
-<p>The post <a href="https://www.securityweek.com/100-car-dealerships-hit-by-supply-chain-attack/">100 Car Dealerships Hit by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Patches Vulnerabilities That Could Let Hackers Exploit AI Services</title>
-		<link>https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 11:16:01 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 19:46:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Riva]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41585</guid>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Europe]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41608</guid>
 
-					<description><![CDATA[<p>Vulnerabilities in Nvidia Riva could allow hackers to abuse speech and translation AI services that are typically expensive. </p>
-<p>The post <a href="https://www.securityweek.com/nvidia-riva-vulnerabilities-allow-unauthorized-use-of-ai-services/">Nvidia Patches Vulnerabilities That Could Let Hackers Exploit AI Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AI and other technologies “are a catalyst for crime, and drive criminal operations’ efficiency by amplifying their speed, reach, and sophistication,” the report said.</p>
+<p>The post <a href="https://www.securityweek.com/ai-is-turbocharging-organized-crime-eu-police-agency-warns/">AI Is Turbocharging Organized Crime, EU Police Agency Warns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Popular GitHub Action Targeted in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/</link>
+		<title>Critical AMI BMC Vulnerability Exposes Servers to Disruption, Takeover </title>
+		<link>https://www.securityweek.com/critical-ami-bmc-vulnerability-exposes-servers-to-disruption-takeover/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 17 Mar 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[GitHub actions]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41584</guid>
+		<pubDate>Tue, 18 Mar 2025 16:30:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[AMI]]></category>
+		<category><![CDATA[BMC]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41604</guid>
 
-					<description><![CDATA[<p>The tj-actions/changed-files GitHub Action, which is used in 23,000 repositories, has been targeted in a supply chain attack.</p>
-<p>The post <a href="https://www.securityweek.com/popular-github-action-targeted-in-supply-chain-attack/">Popular GitHub Action Targeted in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A critical vulnerability affecting baseboard management controller (BMC) firmware made by AMI could expose many devices to remote attacks.</p>
+<p>The post <a href="https://www.securityweek.com/critical-ami-bmc-vulnerability-exposes-servers-to-disruption-takeover/">Critical AMI BMC Vulnerability Exposes Servers to Disruption, Takeover </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Releases Major Update for Open Source Vulnerability Scanner</title>
+		<link>https://www.securityweek.com/google-releases-major-update-for-open-source-vulnerability-scanner/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 16:01:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSV-Scanner]]></category>
+		<category><![CDATA[scanner]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41603</guid>
+
+					<description><![CDATA[<p>Google has integrated OSV-SCALIBR features into OSV-Scanner, its free vulnerability scanner for open source developers.</p>
+<p>The post <a href="https://www.securityweek.com/google-releases-major-update-for-open-source-vulnerability-scanner/">Google Releases Major Update for Open Source Vulnerability Scanner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>11 State-Sponsored APTs Exploiting LNK Files for Espionage, Data Theft</title>
+		<link>https://www.securityweek.com/11-state-sponsored-apts-exploiting-lnk-files-for-espionage-data-theft/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[LNK]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[ZDI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41594</guid>
+
+					<description><![CDATA[<p>ZDI has uncovered 1,000 malicious .lnk files used by state-sponsored and cybercrime threat actors to execute malicious commands.</p>
+<p>The post <a href="https://www.securityweek.com/11-state-sponsored-apts-exploiting-lnk-files-for-espionage-data-theft/">11 State-Sponsored APTs Exploiting LNK Files for Espionage, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google to Acquire Cloud Security Giant Wiz for $32 Billion in Cash</title>
+		<link>https://www.securityweek.com/google-to-acquire-cloud-security-giant-wiz-for-32-billion-in-cash/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 13:12:55 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[acquires]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Wiz]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41600</guid>
+
+					<description><![CDATA[<p>Google has confirmed reports that it’s buying cloud security giant Wiz and says it’s prepared to pay $32 billion in cash.</p>
+<p>The post <a href="https://www.securityweek.com/google-to-acquire-cloud-security-giant-wiz-for-32-billion-in-cash/">Google to Acquire Cloud Security Giant Wiz for $32 Billion in Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Cloudflare Service Provides Real-Time Threat Intelligence</title>
+		<link>https://www.securityweek.com/new-cloudflare-service-provides-real-time-threat-intelligence/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41589</guid>
+
+					<description><![CDATA[<p>Cloudflare launches Cloudforce Threat Events Feed, a service designed to provide security teams with real-time threat intelligence.</p>
+<p>The post <a href="https://www.securityweek.com/new-cloudflare-service-provides-real-time-threat-intelligence/">New Cloudflare Service Provides Real-Time Threat Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VulnCheck Raises $12 Million for Vulnerability Intelligence Platform</title>
+		<link>https://www.securityweek.com/vulncheck-raises-12-million-for-vulnerability-intelligence-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<category><![CDATA[VulnCheck]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41599</guid>
+
+					<description><![CDATA[<p>Exploit and vulnerability intelligence provider VulnCheck has raised $12 million in a Series A funding round.</p>
+<p>The post <a href="https://www.securityweek.com/vulncheck-raises-12-million-for-vulnerability-intelligence-platform/">VulnCheck Raises $12 Million for Vulnerability Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
