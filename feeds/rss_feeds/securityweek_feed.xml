@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 19 Mar 2025 11:29:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Mar 2025 11:41:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,201 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Scareware Combined With Phishing in Attacks Targeting macOS Users</title>
-		<link>https://www.securityweek.com/scareware-combined-with-phishing-in-attacks-targeting-macos-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[macOS 14.2]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[scareware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41613</guid>
-
-					<description><![CDATA[<p>A long-running campaign phishing for credentials through scareware recently switched to targeting macOS users.</p>
-<p>The post <a href="https://www.securityweek.com/scareware-combined-with-phishing-in-attacks-targeting-macos-users/">Scareware Combined With Phishing in Attacks Targeting macOS Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Microsoft Warns of New StilachiRAT Malware</title>
-		<link>https://www.securityweek.com/microsoft-warns-of-new-stilachirat-malware/</link>
+		<title>Hackers Target Cisco Smart Licensing Utility Vulnerabilities</title>
+		<link>https://www.securityweek.com/hackers-target-cisco-smart-licensing-utility-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 09:59:07 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[RAT]]></category>
-		<category><![CDATA[StilachiRAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41612</guid>
+		<pubDate>Thu, 20 Mar 2025 11:41:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Smart Licensing Utility]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41639</guid>
 
-					<description><![CDATA[<p>Microsoft has shared details on StilachiRAT, an evasive and persistent piece of malware that facilitates sensitive data theft.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-new-stilachirat-malware/">Microsoft Warns of New StilachiRAT Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SANS is seeing attempts to exploit two critical Cisco Smart Licensing Utility vulnerabilities tracked as CVE-2024-20439 and CVE-2024-20440.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-target-cisco-smart-licensing-utility-vulnerabilities/">Hackers Target Cisco Smart Licensing Utility Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 11:41:07 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>HP Launches Printers With Quantum Resilient Cryptography </title>
-		<link>https://www.securityweek.com/hp-launches-printers-with-quantum-resilient-cryptography/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 20:03:33 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Post quantum cryptography]]></category>
-		<category><![CDATA[Quantum cryptography]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41609</guid>
-
-					<description><![CDATA[<p>Printers can sit in the corner for ten years or more, while quantum decryption is thought by many to be less than 10 years away.</p>
-<p>The post <a href="https://www.securityweek.com/hp-launches-printers-with-quantum-resilient-cryptography/">HP Launches Printers With Quantum Resilient Cryptography </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Is Turbocharging Organized Crime, EU Police Agency Warns</title>
-		<link>https://www.securityweek.com/ai-is-turbocharging-organized-crime-eu-police-agency-warns/</link>
+		<title>Amazon Ends Little-Used Privacy Feature That Let Echo Users Opt Out of Sending Recordings to Company</title>
+		<link>https://www.securityweek.com/amazon-ends-little-used-privacy-feature-that-let-echo-users-opt-out-of-sending-recordings-to-company/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 19:46:08 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Europe]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41608</guid>
+		<pubDate>Thu, 20 Mar 2025 11:09:08 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Echo]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41638</guid>
 
-					<description><![CDATA[<p>AI and other technologies “are a catalyst for crime, and drive criminal operations’ efficiency by amplifying their speed, reach, and sophistication,” the report said.</p>
-<p>The post <a href="https://www.securityweek.com/ai-is-turbocharging-organized-crime-eu-police-agency-warns/">AI Is Turbocharging Organized Crime, EU Police Agency Warns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Amazon is ending a little-used privacy feature that let some users of its Echo smart speaker prevent their voice commands from going to the company’s cloud.</p>
+<p>The post <a href="https://www.securityweek.com/amazon-ends-little-used-privacy-feature-that-let-echo-users-opt-out-of-sending-recordings-to-company/">Amazon Ends Little-Used Privacy Feature That Let Echo Users Opt Out of Sending Recordings to Company</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Critical AMI BMC Vulnerability Exposes Servers to Disruption, Takeover </title>
-		<link>https://www.securityweek.com/critical-ami-bmc-vulnerability-exposes-servers-to-disruption-takeover/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 16:30:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[AMI]]></category>
-		<category><![CDATA[BMC]]></category>
-		<category><![CDATA[server]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41604</guid>
-
-					<description><![CDATA[<p>A critical vulnerability affecting baseboard management controller (BMC) firmware made by AMI could expose many devices to remote attacks.</p>
-<p>The post <a href="https://www.securityweek.com/critical-ami-bmc-vulnerability-exposes-servers-to-disruption-takeover/">Critical AMI BMC Vulnerability Exposes Servers to Disruption, Takeover </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Releases Major Update for Open Source Vulnerability Scanner</title>
-		<link>https://www.securityweek.com/google-releases-major-update-for-open-source-vulnerability-scanner/</link>
+		<title>300 Malicious &#8216;Vapor&#8217; Apps Hosted on Google Play Had 60 Million Downloads</title>
+		<link>https://www.securityweek.com/300-malicious-vapor-apps-hosted-on-google-play-had-60-million-downloads/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OSV-Scanner]]></category>
-		<category><![CDATA[scanner]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41603</guid>
-
-					<description><![CDATA[<p>Google has integrated OSV-SCALIBR features into OSV-Scanner, its free vulnerability scanner for open source developers.</p>
-<p>The post <a href="https://www.securityweek.com/google-releases-major-update-for-open-source-vulnerability-scanner/">Google Releases Major Update for Open Source Vulnerability Scanner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>11 State-Sponsored APTs Exploiting LNK Files for Espionage, Data Theft</title>
-		<link>https://www.securityweek.com/11-state-sponsored-apts-exploiting-lnk-files-for-espionage-data-theft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 14:00:00 +0000</pubDate>
+		<pubDate>Thu, 20 Mar 2025 10:30:00 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[LNK]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[ZDI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41594</guid>
+		<category><![CDATA[adware]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[Google Play]]></category>
+		<category><![CDATA[Vapor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41636</guid>
 
-					<description><![CDATA[<p>ZDI has uncovered 1,000 malicious .lnk files used by state-sponsored and cybercrime threat actors to execute malicious commands.</p>
-<p>The post <a href="https://www.securityweek.com/11-state-sponsored-apts-exploiting-lnk-files-for-espionage-data-theft/">11 State-Sponsored APTs Exploiting LNK Files for Espionage, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Over 300 malicious applications displaying intrusive full-screen interstitial video ads amassed more than 60 million downloads on Google Play.</p>
+<p>The post <a href="https://www.securityweek.com/300-malicious-vapor-apps-hosted-on-google-play-had-60-million-downloads/">300 Malicious &#8216;Vapor&#8217; Apps Hosted on Google Play Had 60 Million Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google to Acquire Cloud Security Giant Wiz for $32 Billion in Cash</title>
-		<link>https://www.securityweek.com/google-to-acquire-cloud-security-giant-wiz-for-32-billion-in-cash/</link>
+		<title>Paragon Spyware Attacks Exploited WhatsApp Zero-Day </title>
+		<link>https://www.securityweek.com/paragon-spyware-attacks-exploited-whatsapp-zero-day/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 13:12:55 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
+		<pubDate>Thu, 20 Mar 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Citizen Lab]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Graphite]]></category>
+		<category><![CDATA[Paragon]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41634</guid>
+
+					<description><![CDATA[<p>Attacks involving Paragon’s Graphite spyware involved a WhatsApp zero-day that could be exploited without any user interaction.</p>
+<p>The post <a href="https://www.securityweek.com/paragon-spyware-attacks-exploited-whatsapp-zero-day/">Paragon Spyware Attacks Exploited WhatsApp Zero-Day </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Orion Security Raises $6 Million to Tackle Insider Threats and Data Leaks with AI-Driven DLP</title>
+		<link>https://www.securityweek.com/orion-security-raises-6-million-to-tackle-insider-threats-and-data-leaks-with-ai-driven-dlp/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 16:25:42 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[DLP]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41628</guid>
+
+					<description><![CDATA[<p>Orion protects against data exfiltration by using AI to compare actual data flows against permitted and expected data flows.</p>
+<p>The post <a href="https://www.securityweek.com/orion-security-raises-6-million-to-tackle-insider-threats-and-data-leaks-with-ai-driven-dlp/">Orion Security Raises $6 Million to Tackle Insider Threats and Data Leaks with AI-Driven DLP</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>March Madness Requires Vigilance on Both an Individual and Corporate Level</title>
+		<link>https://www.securityweek.com/march-madness-requires-vigilance-on-both-an-individual-and-corporate-level/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 15:15:33 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41627</guid>
+
+					<description><![CDATA[<p>Defending high profile sporting events from adversarial attacks requires a mix of experienced capabilities and a solid threat intelligence program.</p>
+<p>The post <a href="https://www.securityweek.com/march-madness-requires-vigilance-on-both-an-individual-and-corporate-level/">March Madness Requires Vigilance on Both an Individual and Corporate Level</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Infosys to Pay $17.5 Million in Settlement Over 2023 Data Breach</title>
+		<link>https://www.securityweek.com/infosys-to-pay-17-5-million-in-settlement-over-2023-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Infosys]]></category>
+		<category><![CDATA[settlement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41618</guid>
+
+					<description><![CDATA[<p>Infosys McCamish System has agreed to pay $17.5 million to settle six class action lawsuits filed over a 2023 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/infosys-to-pay-17-5-million-in-settlement-over-2023-data-breach/">Infosys to Pay $17.5 Million in Settlement Over 2023 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What’s Behind Google’s $32 Billion Wiz Acquisition?</title>
+		<link>https://www.securityweek.com/whats-behind-googles-32-billion-wiz-acquisition/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
 		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[acquires]]></category>
-		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Azure]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[threat-intel]]></category>
 		<category><![CDATA[Wiz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41600</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41623</guid>
 
-					<description><![CDATA[<p>Google has confirmed reports that it’s buying cloud security giant Wiz and says it’s prepared to pay $32 billion in cash.</p>
-<p>The post <a href="https://www.securityweek.com/google-to-acquire-cloud-security-giant-wiz-for-32-billion-in-cash/">Google to Acquire Cloud Security Giant Wiz for $32 Billion in Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>News analysis: Google positions itself to compete with Microsoft for enterprise security dollars. How does this deal affect startup ecosystem?</p>
+<p>The post <a href="https://www.securityweek.com/whats-behind-googles-32-billion-wiz-acquisition/">What’s Behind Google’s $32 Billion Wiz Acquisition?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New Cloudflare Service Provides Real-Time Threat Intelligence</title>
-		<link>https://www.securityweek.com/new-cloudflare-service-provides-real-time-threat-intelligence/</link>
+		<title>Virtual Event Today: Supply Chain &#038; Third-Party Risk Security Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41589</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 14:04:31 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41617</guid>
 
-					<description><![CDATA[<p>Cloudflare launches Cloudforce Threat Events Feed, a service designed to provide security teams with real-time threat intelligence.</p>
-<p>The post <a href="https://www.securityweek.com/new-cloudflare-service-provides-real-time-threat-intelligence/">New Cloudflare Service Provides Real-Time Threat Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Join the virtual event as we explore of the critical nature of software and vendor supply chain security issues.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/">Virtual Event Today: Supply Chain &amp; Third-Party Risk Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>VulnCheck Raises $12 Million for Vulnerability Intelligence Platform</title>
-		<link>https://www.securityweek.com/vulncheck-raises-12-million-for-vulnerability-intelligence-platform/</link>
+		<title>Chinese Hacking Group MirrorFace Targeting Europe</title>
+		<link>https://www.securityweek.com/chinese-hacking-group-mirrorface-targeting-europe/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Mar 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<category><![CDATA[VulnCheck]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41599</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 12:59:13 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[MirrorFace]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41615</guid>
 
-					<description><![CDATA[<p>Exploit and vulnerability intelligence provider VulnCheck has raised $12 million in a Series A funding round.</p>
-<p>The post <a href="https://www.securityweek.com/vulncheck-raises-12-million-for-vulnerability-intelligence-platform/">VulnCheck Raises $12 Million for Vulnerability Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Chinese hacking group MirrorFace has targeted a Central European diplomatic institute with the Anel backdoor and AsyncRAT.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-mirrorface-targeting-europe/">Chinese Hacking Group MirrorFace Targeting Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
