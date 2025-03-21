@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 20 Mar 2025 11:41:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Mar 2025 12:14:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hackers Target Cisco Smart Licensing Utility Vulnerabilities</title>
-		<link>https://www.securityweek.com/hackers-target-cisco-smart-licensing-utility-vulnerabilities/</link>
+		<title>New Jailbreak Technique Uses Fictional World to Manipulate AI</title>
+		<link>https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 11:41:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Smart Licensing Utility]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41639</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 12:14:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI jailbreak]]></category>
+		<category><![CDATA[Immersive World]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41663</guid>
 
-					<description><![CDATA[<p>SANS is seeing attempts to exploit two critical Cisco Smart Licensing Utility vulnerabilities tracked as CVE-2024-20439 and CVE-2024-20440.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-cisco-smart-licensing-utility-vulnerabilities/">Hackers Target Cisco Smart Licensing Utility Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cato Networks discovers a new LLM jailbreak technique that relies on creating a fictional world to bypass a model’s security controls.</p>
+<p>The post <a href="https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/">New Jailbreak Technique Uses Fictional World to Manipulate AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 11:41:07 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:14:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Amazon Ends Little-Used Privacy Feature That Let Echo Users Opt Out of Sending Recordings to Company</title>
-		<link>https://www.securityweek.com/amazon-ends-little-used-privacy-feature-that-let-echo-users-opt-out-of-sending-recordings-to-company/</link>
+		<title>Chinese I-Soon Hackers Hit 7 Organizations in Operation FishMedley</title>
+		<link>https://www.securityweek.com/chinese-i-soon-hackers-hit-7-organizations-in-operation-fishmedley/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 12:05:14 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[FishMedley]]></category>
+		<category><![CDATA[i-Soon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41662</guid>
+
+					<description><![CDATA[<p>The FishMonger APT group, a subdivision of Chinese cybersecurity firm I-Soon, compromised seven organizations in a 2022 campaign.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-i-soon-hackers-hit-7-organizations-in-operation-fishmedley/">Chinese I-Soon Hackers Hit 7 Organizations in Operation FishMedley</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Industry Reactions to Google Buying Wiz: Feedback Friday</title>
+		<link>https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 11:29:58 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Feedback Friday]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Wiz]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41651</guid>
+
+					<description><![CDATA[<p>Industry professionals comment on Google acquiring cloud security giant Wiz for $32 billion in cash.</p>
+<p>The post <a href="https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/">Industry Reactions to Google Buying Wiz: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Group Claims Attacks on Ascom, Jaguar Land Rover</title>
+		<link>https://www.securityweek.com/ransomware-group-claims-attacks-on-ascom-jaguar-land-rover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 10:45:02 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Ascom]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Hellcat]]></category>
+		<category><![CDATA[Jaguar Land Rover]]></category>
+		<category><![CDATA[JLR]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41650</guid>
+
+					<description><![CDATA[<p>The Hellcat ransomware group claims to have stolen tens of gigabytes of data from Ascom and Jaguar Land Rover.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attacks-on-ascom-jaguar-land-rover/">Ransomware Group Claims Attacks on Ascom, Jaguar Land Rover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former NFL, Michigan Assistant Coach Matt Weiss Charged With Hacking for Athletes&#8217; Intimate Photos</title>
+		<link>https://www.securityweek.com/former-nfl-michigan-assistant-coach-matt-weiss-charged-with-hacking-for-athletes-intimate-photos/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 11:09:08 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Echo]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41638</guid>
+		<pubDate>Fri, 21 Mar 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Matt Weiss]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41649</guid>
 
-					<description><![CDATA[<p>Amazon is ending a little-used privacy feature that let some users of its Echo smart speaker prevent their voice commands from going to the company’s cloud.</p>
-<p>The post <a href="https://www.securityweek.com/amazon-ends-little-used-privacy-feature-that-let-echo-users-opt-out-of-sending-recordings-to-company/">Amazon Ends Little-Used Privacy Feature That Let Echo Users Opt Out of Sending Recordings to Company</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Former NFL and University of Michigan assistant football coach Matt Weiss hacked into the computer accounts of thousands of college athletes seeking intimate photos and videos.</p>
+<p>The post <a href="https://www.securityweek.com/former-nfl-michigan-assistant-coach-matt-weiss-charged-with-hacking-for-athletes-intimate-photos/">Former NFL, Michigan Assistant Coach Matt Weiss Charged With Hacking for Athletes&#8217; Intimate Photos</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>300 Malicious &#8216;Vapor&#8217; Apps Hosted on Google Play Had 60 Million Downloads</title>
-		<link>https://www.securityweek.com/300-malicious-vapor-apps-hosted-on-google-play-had-60-million-downloads/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[adware]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[Google Play]]></category>
-		<category><![CDATA[Vapor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41636</guid>
-
-					<description><![CDATA[<p>Over 300 malicious applications displaying intrusive full-screen interstitial video ads amassed more than 60 million downloads on Google Play.</p>
-<p>The post <a href="https://www.securityweek.com/300-malicious-vapor-apps-hosted-on-google-play-had-60-million-downloads/">300 Malicious &#8216;Vapor&#8217; Apps Hosted on Google Play Had 60 Million Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Paragon Spyware Attacks Exploited WhatsApp Zero-Day </title>
-		<link>https://www.securityweek.com/paragon-spyware-attacks-exploited-whatsapp-zero-day/</link>
+		<title>Impact, Root Cause of GitHub Actions Supply Chain Hack Revealed</title>
+		<link>https://www.securityweek.com/impact-root-cause-of-github-actions-supply-chain-hack-revealed/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Citizen Lab]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Fri, 21 Mar 2025 10:08:00 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Graphite]]></category>
-		<category><![CDATA[Paragon]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41634</guid>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[GitHub actions]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41647</guid>
 
-					<description><![CDATA[<p>Attacks involving Paragon’s Graphite spyware involved a WhatsApp zero-day that could be exploited without any user interaction.</p>
-<p>The post <a href="https://www.securityweek.com/paragon-spyware-attacks-exploited-whatsapp-zero-day/">Paragon Spyware Attacks Exploited WhatsApp Zero-Day </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>More details have come to light on the recent supply chain attack targeting GitHub Actions, including its root cause.</p>
+<p>The post <a href="https://www.securityweek.com/impact-root-cause-of-github-actions-supply-chain-hack-revealed/">Impact, Root Cause of GitHub Actions Supply Chain Hack Revealed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Orion Security Raises $6 Million to Tackle Insider Threats and Data Leaks with AI-Driven DLP</title>
-		<link>https://www.securityweek.com/orion-security-raises-6-million-to-tackle-insider-threats-and-data-leaks-with-ai-driven-dlp/</link>
+		<title>Browser Security Under Siege: The Alarming Rise of AI-Powered Phishing</title>
+		<link>https://www.securityweek.com/browser-security-under-siege-the-alarming-rise-of-ai-powered-phishing/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 16:25:42 +0000</pubDate>
+		<pubDate>Thu, 20 Mar 2025 17:05:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41646</guid>
+
+					<description><![CDATA[<p>Analysis reveals a 140% increase in browser phishing, including a 130% increase in zero-hour phishing attacks.</p>
+<p>The post <a href="https://www.securityweek.com/browser-security-under-siege-the-alarming-rise-of-ai-powered-phishing/">Browser Security Under Siege: The Alarming Rise of AI-Powered Phishing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dataminr Raises $85 Million for AI-Powered Information Platform</title>
+		<link>https://www.securityweek.com/dataminr-raises-85-million-for-ai-powered-information-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 16:01:00 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[DLP]]></category>
+		<category><![CDATA[Dataminr]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41628</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41645</guid>
 
-					<description><![CDATA[<p>Orion protects against data exfiltration by using AI to compare actual data flows against permitted and expected data flows.</p>
-<p>The post <a href="https://www.securityweek.com/orion-security-raises-6-million-to-tackle-insider-threats-and-data-leaks-with-ai-driven-dlp/">Orion Security Raises $6 Million to Tackle Insider Threats and Data Leaks with AI-Driven DLP</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Real-time event and risk detection firm Dataminr has raised $85 million from NightDragon and HSBC to accelerate AI development.</p>
+<p>The post <a href="https://www.securityweek.com/dataminr-raises-85-million-for-ai-powered-information-platform/">Dataminr Raises $85 Million for AI-Powered Information Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>March Madness Requires Vigilance on Both an Individual and Corporate Level</title>
-		<link>https://www.securityweek.com/march-madness-requires-vigilance-on-both-an-individual-and-corporate-level/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:15:33 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41627</guid>
-
-					<description><![CDATA[<p>Defending high profile sporting events from adversarial attacks requires a mix of experienced capabilities and a solid threat intelligence program.</p>
-<p>The post <a href="https://www.securityweek.com/march-madness-requires-vigilance-on-both-an-individual-and-corporate-level/">March Madness Requires Vigilance on Both an Individual and Corporate Level</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Infosys to Pay $17.5 Million in Settlement Over 2023 Data Breach</title>
-		<link>https://www.securityweek.com/infosys-to-pay-17-5-million-in-settlement-over-2023-data-breach/</link>
+		<title>CISA Warns of Exploited Nakivo Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-exploited-nakivo-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Infosys]]></category>
-		<category><![CDATA[settlement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41618</guid>
+		<pubDate>Thu, 20 Mar 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Nakivo]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41644</guid>
 
-					<description><![CDATA[<p>Infosys McCamish System has agreed to pay $17.5 million to settle six class action lawsuits filed over a 2023 data breach.</p>
-<p>The post <a href="https://www.securityweek.com/infosys-to-pay-17-5-million-in-settlement-over-2023-data-breach/">Infosys to Pay $17.5 Million in Settlement Over 2023 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA has added an absolute path traversal bug in Nakivo Backup and Replication to its Known Exploited Vulnerabilities list.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-nakivo-vulnerability/">CISA Warns of Exploited Nakivo Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>What’s Behind Google’s $32 Billion Wiz Acquisition?</title>
-		<link>https://www.securityweek.com/whats-behind-googles-32-billion-wiz-acquisition/</link>
+		<title>Through the Lens of Music: What Cybersecurity Can Learn From Joni Mitchell</title>
+		<link>https://www.securityweek.com/through-the-lens-of-music-what-cybersecurity-can-learn-from-joni-mitchell/</link>
 		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2025 14:42:15 +0000</pubDate>
 				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Azure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Google Cloud]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[threat-intel]]></category>
-		<category><![CDATA[Wiz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41623</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41637</guid>
 
-					<description><![CDATA[<p>News analysis: Google positions itself to compete with Microsoft for enterprise security dollars. How does this deal affect startup ecosystem?</p>
-<p>The post <a href="https://www.securityweek.com/whats-behind-googles-32-billion-wiz-acquisition/">What’s Behind Google’s $32 Billion Wiz Acquisition?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Supply Chain &#038; Third-Party Risk Security Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 14:04:31 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Event]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41617</guid>
-
-					<description><![CDATA[<p>Join the virtual event as we explore of the critical nature of software and vendor supply chain security issues.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/">Virtual Event Today: Supply Chain &amp; Third-Party Risk Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hacking Group MirrorFace Targeting Europe</title>
-		<link>https://www.securityweek.com/chinese-hacking-group-mirrorface-targeting-europe/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Mar 2025 12:59:13 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[MirrorFace]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41615</guid>
-
-					<description><![CDATA[<p>Chinese hacking group MirrorFace has targeted a Central European diplomatic institute with the Anel backdoor and AsyncRAT.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-mirrorface-targeting-europe/">Chinese Hacking Group MirrorFace Targeting Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A Joni Mitchell song from the 1960s can teach us a lot about securing hybrid and multi-cloud environments.</p>
+<p>The post <a href="https://www.securityweek.com/through-the-lens-of-music-what-cybersecurity-can-learn-from-joni-mitchell/">Through the Lens of Music: What Cybersecurity Can Learn From Joni Mitchell</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
