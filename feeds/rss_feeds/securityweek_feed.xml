@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 21 Mar 2025 12:14:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Mar 2025 15:45:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Critical Chrome Bug, Capital One Hacker Resententencing, Story of Expat Flaw</title>
+		<link>https://www.securityweek.com/in-other-news-critical-chrome-bug-capital-one-hacker-resententencing-story-of-expat-flaw/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 15:43:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41668</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Capital One hacker’s sentence reversed, Google patches critical Chrome vulnerability, the story of an Expat flaw. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-critical-chrome-bug-capital-one-hacker-resententencing-story-of-expat-flaw/">In Other News: Critical Chrome Bug, Capital One Hacker Resententencing, Story of Expat Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 05:08:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Ransomware Group Claims Attack on Virginia Attorney General’s Office</title>
+		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-virginia-attorney-generals-office/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 14:45:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Virginia Attorney General]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41665</guid>
+
+					<description><![CDATA[<p>The Cloak ransomware group has claimed responsibility for a February cyberattack on Virginia Attorney General’s Office.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-virginia-attorney-generals-office/">Ransomware Group Claims Attack on Virginia Attorney General’s Office</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch on Demand: Supply Chain &#038; Third-Party Risk Security Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 21 Mar 2025 12:23:20 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41617</guid>
+
+					<description><![CDATA[<p>Join the virtual event as we explore of the critical nature of software and vendor supply chain security issues.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/">Watch on Demand: Supply Chain &amp; Third-Party Risk Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>New Jailbreak Technique Uses Fictional World to Manipulate AI</title>
 		<link>https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/</link>
 		
@@ -46,7 +100,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 12:14:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Chinese I-Soon Hackers Hit 7 Organizations in Operation FishMedley</title>
 		<link>https://www.securityweek.com/chinese-i-soon-hackers-hit-7-organizations-in-operation-fishmedley/</link>
@@ -164,59 +218,6 @@
 
 					<description><![CDATA[<p>Analysis reveals a 140% increase in browser phishing, including a 130% increase in zero-hour phishing attacks.</p>
 <p>The post <a href="https://www.securityweek.com/browser-security-under-siege-the-alarming-rise-of-ai-powered-phishing/">Browser Security Under Siege: The Alarming Rise of AI-Powered Phishing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dataminr Raises $85 Million for AI-Powered Information Platform</title>
-		<link>https://www.securityweek.com/dataminr-raises-85-million-for-ai-powered-information-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Dataminr]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41645</guid>
-
-					<description><![CDATA[<p>Real-time event and risk detection firm Dataminr has raised $85 million from NightDragon and HSBC to accelerate AI development.</p>
-<p>The post <a href="https://www.securityweek.com/dataminr-raises-85-million-for-ai-powered-information-platform/">Dataminr Raises $85 Million for AI-Powered Information Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited Nakivo Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-nakivo-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Nakivo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41644</guid>
-
-					<description><![CDATA[<p>CISA has added an absolute path traversal bug in Nakivo Backup and Replication to its Known Exploited Vulnerabilities list.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-nakivo-vulnerability/">CISA Warns of Exploited Nakivo Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Through the Lens of Music: What Cybersecurity Can Learn From Joni Mitchell</title>
-		<link>https://www.securityweek.com/through-the-lens-of-music-what-cybersecurity-can-learn-from-joni-mitchell/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 14:42:15 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41637</guid>
-
-					<description><![CDATA[<p>A Joni Mitchell song from the 1960s can teach us a lot about securing hybrid and multi-cloud environments.</p>
-<p>The post <a href="https://www.securityweek.com/through-the-lens-of-music-what-cybersecurity-can-learn-from-joni-mitchell/">Through the Lens of Music: What Cybersecurity Can Learn From Joni Mitchell</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
