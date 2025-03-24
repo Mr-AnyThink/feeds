@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 23 Mar 2025 07:30:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Mar 2025 11:42:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Medusa Ransomware Uses Malicious Driver to Disable Security Tools</title>
+		<link>https://www.securityweek.com/medusa-ransomware-uses-malicious-driver-to-disable-security-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 11:42:19 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[AbyssWorker]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Medusa]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41678</guid>
+
+					<description><![CDATA[<p>The Medusa ransomware relies on a malicious Windows driver to disable the security tools running on the infected systems.</p>
+<p>The post <a href="https://www.securityweek.com/medusa-ransomware-uses-malicious-driver-to-disable-security-tools/">Medusa Ransomware Uses Malicious Driver to Disable Security Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 11:42:24 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>NetSfere Launches Quantum-Resilient Messaging Platform for Enterprise and Government Use</title>
+		<link>https://www.securityweek.com/netsfere-launches-quantum-resilient-messaging-platform-for-enterprise-and-government-use/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 10:37:12 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum cryptography]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41675</guid>
+
+					<description><![CDATA[<p>NetSfere Integrates ML-KEM and AES into its text, voice and video messaging platform to meet 2027 NSA Quantum Security mandates.</p>
+<p>The post <a href="https://www.securityweek.com/netsfere-launches-quantum-resilient-messaging-platform-for-enterprise-and-government-use/">NetSfere Launches Quantum-Resilient Messaging Platform for Enterprise and Government Use</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Albabat Ransomware Expands Targets, Abuses GitHub</title>
+		<link>https://www.securityweek.com/albabat-ransomware-expands-targets-abuses-github/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Albabat]]></category>
+		<category><![CDATA[Linux malware]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41672</guid>
+
+					<description><![CDATA[<p>New versions of the Albabat ransomware target Windows, Linux, and macOS, and retrieve configuration files from GitHub.</p>
+<p>The post <a href="https://www.securityweek.com/albabat-ransomware-expands-targets-abuses-github/">Albabat Ransomware Expands Targets, Abuses GitHub</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Encrypted Messaging Apps Promise Privacy. Government Transparency Is Often the Price</title>
+		<link>https://www.securityweek.com/encrypted-messaging-apps-promise-privacy-government-transparency-is-often-the-price/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 09:02:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[compliance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41674</guid>
+
+					<description><![CDATA[<p>Public officials and private citizens are consistently warned about hacking and data leaks, but technologies designed to increase privacy often decrease government transparency.</p>
+<p>The post <a href="https://www.securityweek.com/encrypted-messaging-apps-promise-privacy-government-transparency-is-often-the-price/">Encrypted Messaging Apps Promise Privacy. Government Transparency Is Often the Price</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Critical Chrome Bug, Capital One Hacker Resententencing, Story of Expat Flaw</title>
 		<link>https://www.securityweek.com/in-other-news-critical-chrome-bug-capital-one-hacker-resententencing-story-of-expat-flaw/</link>
 		
@@ -43,7 +123,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 17, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-17-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-17-2025/</guid><pubDate>Mon, 17 Mar 2025 07:30:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 17, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Ransomware Group Claims Attack on Virginia Attorney General’s Office</title>
 		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-virginia-attorney-generals-office/</link>
@@ -138,86 +218,6 @@
 
 					<description><![CDATA[<p>Industry professionals comment on Google acquiring cloud security giant Wiz for $32 billion in cash.</p>
 <p>The post <a href="https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/">Industry Reactions to Google Buying Wiz: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Attacks on Ascom, Jaguar Land Rover</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-attacks-on-ascom-jaguar-land-rover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 10:45:02 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Ascom]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Hellcat]]></category>
-		<category><![CDATA[Jaguar Land Rover]]></category>
-		<category><![CDATA[JLR]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41650</guid>
-
-					<description><![CDATA[<p>The Hellcat ransomware group claims to have stolen tens of gigabytes of data from Ascom and Jaguar Land Rover.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attacks-on-ascom-jaguar-land-rover/">Ransomware Group Claims Attacks on Ascom, Jaguar Land Rover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former NFL, Michigan Assistant Coach Matt Weiss Charged With Hacking for Athletes&#8217; Intimate Photos</title>
-		<link>https://www.securityweek.com/former-nfl-michigan-assistant-coach-matt-weiss-charged-with-hacking-for-athletes-intimate-photos/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Matt Weiss]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41649</guid>
-
-					<description><![CDATA[<p>Former NFL and University of Michigan assistant football coach Matt Weiss hacked into the computer accounts of thousands of college athletes seeking intimate photos and videos.</p>
-<p>The post <a href="https://www.securityweek.com/former-nfl-michigan-assistant-coach-matt-weiss-charged-with-hacking-for-athletes-intimate-photos/">Former NFL, Michigan Assistant Coach Matt Weiss Charged With Hacking for Athletes&#8217; Intimate Photos</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Impact, Root Cause of GitHub Actions Supply Chain Hack Revealed</title>
-		<link>https://www.securityweek.com/impact-root-cause-of-github-actions-supply-chain-hack-revealed/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 10:08:00 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[GitHub actions]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41647</guid>
-
-					<description><![CDATA[<p>More details have come to light on the recent supply chain attack targeting GitHub Actions, including its root cause.</p>
-<p>The post <a href="https://www.securityweek.com/impact-root-cause-of-github-actions-supply-chain-hack-revealed/">Impact, Root Cause of GitHub Actions Supply Chain Hack Revealed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Browser Security Under Siege: The Alarming Rise of AI-Powered Phishing</title>
-		<link>https://www.securityweek.com/browser-security-under-siege-the-alarming-rise-of-ai-powered-phishing/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 20 Mar 2025 17:05:14 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41646</guid>
-
-					<description><![CDATA[<p>Analysis reveals a 140% increase in browser phishing, including a 130% increase in zero-hour phishing attacks.</p>
-<p>The post <a href="https://www.securityweek.com/browser-security-under-siege-the-alarming-rise-of-ai-powered-phishing/">Browser Security Under Siege: The Alarming Rise of AI-Powered Phishing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
