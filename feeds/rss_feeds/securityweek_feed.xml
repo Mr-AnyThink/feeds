@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 24 Mar 2025 11:42:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Mar 2025 12:08:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Medusa Ransomware Uses Malicious Driver to Disable Security Tools</title>
-		<link>https://www.securityweek.com/medusa-ransomware-uses-malicious-driver-to-disable-security-tools/</link>
+		<title>Webinar Today: Which Security Testing Approach is Right for You?</title>
+		<link>https://www.securityweek.com/webinar-tomorrow-which-security-testing-approach-is-right-for-you/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 11:42:19 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[AbyssWorker]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Medusa]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41678</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2025 12:08:12 +0000</pubDate>
+				<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[pentesting]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41685</guid>
 
-					<description><![CDATA[<p>The Medusa ransomware relies on a malicious Windows driver to disable the security tools running on the infected systems.</p>
-<p>The post <a href="https://www.securityweek.com/medusa-ransomware-uses-malicious-driver-to-disable-security-tools/">Medusa Ransomware Uses Malicious Driver to Disable Security Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Which Security Testing Approach is Right for You: BAS, Automated Penetration Testing, or Both?</p>
+<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-which-security-testing-approach-is-right-for-you/">Webinar Today: Which Security Testing Approach is Right for You?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 11:42:24 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 12:08:16 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>NetSfere Launches Quantum-Resilient Messaging Platform for Enterprise and Government Use</title>
-		<link>https://www.securityweek.com/netsfere-launches-quantum-resilient-messaging-platform-for-enterprise-and-government-use/</link>
+		<title>Chinese APT Weaver Ant Targeting Telecom Providers in Asia</title>
+		<link>https://www.securityweek.com/chinese-apt-weaver-ant-targeting-telecom-providers-in-asia/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2025 11:54:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<category><![CDATA[Weaver Ant]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41699</guid>
+
+					<description><![CDATA[<p>Weaver Ant, a cyberespionage-focused APT operating out of China, is targeting telecom providers for persistent access.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-weaver-ant-targeting-telecom-providers-in-asia/">Chinese APT Weaver Ant Targeting Telecom Providers in Asia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Shifts Tactics as Payouts Drop: Critical Infrastructure in the Crosshairs</title>
+		<link>https://www.securityweek.com/ransomware-shifts-tactics-as-payouts-drop-critical-infrastructure-in-the-crosshairs/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 10:37:12 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum cryptography]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41675</guid>
-
-					<description><![CDATA[<p>NetSfere Integrates ML-KEM and AES into its text, voice and video messaging platform to meet 2027 NSA Quantum Security mandates.</p>
-<p>The post <a href="https://www.securityweek.com/netsfere-launches-quantum-resilient-messaging-platform-for-enterprise-and-government-use/">NetSfere Launches Quantum-Resilient Messaging Platform for Enterprise and Government Use</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Albabat Ransomware Expands Targets, Abuses GitHub</title>
-		<link>https://www.securityweek.com/albabat-ransomware-expands-targets-abuses-github/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Albabat]]></category>
-		<category><![CDATA[Linux malware]]></category>
-		<category><![CDATA[macOS malware]]></category>
+		<pubDate>Tue, 25 Mar 2025 11:43:07 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
 		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41672</guid>
+		<category><![CDATA[Threat Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41698</guid>
 
-					<description><![CDATA[<p>New versions of the Albabat ransomware target Windows, Linux, and macOS, and retrieve configuration files from GitHub.</p>
-<p>The post <a href="https://www.securityweek.com/albabat-ransomware-expands-targets-abuses-github/">Albabat Ransomware Expands Targets, Abuses GitHub</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Threats themselves change very little, but the tactics used are continually revised to maximize the criminals’ return on investment and effort.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-shifts-tactics-as-payouts-drop-critical-infrastructure-in-the-crosshairs/">Ransomware Shifts Tactics as Payouts Drop: Critical Infrastructure in the Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Encrypted Messaging Apps Promise Privacy. Government Transparency Is Often the Price</title>
-		<link>https://www.securityweek.com/encrypted-messaging-apps-promise-privacy-government-transparency-is-often-the-price/</link>
+		<title>Hacker Conversations: Frank Trezza &#8211; From Phreaker to Pentester</title>
+		<link>https://www.securityweek.com/hacker-conversations-frank-trezza-from-phreaker-to-pentester/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 24 Mar 2025 09:02:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[compliance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41674</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2025 11:00:39 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41696</guid>
 
-					<description><![CDATA[<p>Public officials and private citizens are consistently warned about hacking and data leaks, but technologies designed to increase privacy often decrease government transparency.</p>
-<p>The post <a href="https://www.securityweek.com/encrypted-messaging-apps-promise-privacy-government-transparency-is-often-the-price/">Encrypted Messaging Apps Promise Privacy. Government Transparency Is Often the Price</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Frank Trezza is fairly typical of most hackers. Early pranks sometimes leading to something more serious.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-frank-trezza-from-phreaker-to-pentester/">Hacker Conversations: Frank Trezza &#8211; From Phreaker to Pentester</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>In Other News: Critical Chrome Bug, Capital One Hacker Resententencing, Story of Expat Flaw</title>
-		<link>https://www.securityweek.com/in-other-news-critical-chrome-bug-capital-one-hacker-resententencing-story-of-expat-flaw/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 15:43:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41668</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Capital One hacker’s sentence reversed, Google patches critical Chrome vulnerability, the story of an Expat flaw. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-critical-chrome-bug-capital-one-hacker-resententencing-story-of-expat-flaw/">In Other News: Critical Chrome Bug, Capital One Hacker Resententencing, Story of Expat Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Attack on Virginia Attorney General’s Office</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-virginia-attorney-generals-office/</link>
+		<title>300 Arrested in Crackdown on Cybercrime Rings in Africa</title>
+		<link>https://www.securityweek.com/300-arrested-in-crackdown-on-cybercrime-rings-in-africa/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 14:45:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Virginia Attorney General]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41665</guid>
+		<pubDate>Tue, 25 Mar 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[Interpol]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41695</guid>
 
-					<description><![CDATA[<p>The Cloak ransomware group has claimed responsibility for a February cyberattack on Virginia Attorney General’s Office.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-virginia-attorney-generals-office/">Ransomware Group Claims Attack on Virginia Attorney General’s Office</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Authorities in seven African countries arrested 300 suspects in an international crackdown on cybercriminal networks targeting businesses.</p>
+<p>The post <a href="https://www.securityweek.com/300-arrested-in-crackdown-on-cybercrime-rings-in-africa/">300 Arrested in Crackdown on Cybercrime Rings in Africa</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Watch on Demand: Supply Chain &#038; Third-Party Risk Security Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 12:23:20 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Event]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41617</guid>
-
-					<description><![CDATA[<p>Join the virtual event as we explore of the critical nature of software and vendor supply chain security issues.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-supply-chain-third-party-risk-security-summit/">Watch on Demand: Supply Chain &amp; Third-Party Risk Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Jailbreak Technique Uses Fictional World to Manipulate AI</title>
-		<link>https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 12:14:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[Immersive World]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41663</guid>
-
-					<description><![CDATA[<p>Cato Networks discovers a new LLM jailbreak technique that relies on creating a fictional world to bypass a model’s security controls.</p>
-<p>The post <a href="https://www.securityweek.com/new-jailbreak-technique-uses-fictional-world-to-manipulate-ai/">New Jailbreak Technique Uses Fictional World to Manipulate AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese I-Soon Hackers Hit 7 Organizations in Operation FishMedley</title>
-		<link>https://www.securityweek.com/chinese-i-soon-hackers-hit-7-organizations-in-operation-fishmedley/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 12:05:14 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[FishMedley]]></category>
-		<category><![CDATA[i-Soon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41662</guid>
-
-					<description><![CDATA[<p>The FishMonger APT group, a subdivision of Chinese cybersecurity firm I-Soon, compromised seven organizations in a 2022 campaign.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-i-soon-hackers-hit-7-organizations-in-operation-fishmedley/">Chinese I-Soon Hackers Hit 7 Organizations in Operation FishMedley</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to Google Buying Wiz: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/</link>
+		<title>IngressNightmare Flaws Expose Many Kubernetes Clusters to Remote Hacking</title>
+		<link>https://www.securityweek.com/ingressnightmare-flaws-expose-many-kubernetes-clusters-to-remote-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Mar 2025 11:29:58 +0000</pubDate>
+		<pubDate>Tue, 25 Mar 2025 10:10:00 +0000</pubDate>
 				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
 		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Wiz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41651</guid>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[IngressNightmare]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41693</guid>
 
-					<description><![CDATA[<p>Industry professionals comment on Google acquiring cloud security giant Wiz for $32 billion in cash.</p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-google-buying-wiz-feedback-friday/">Industry Reactions to Google Buying Wiz: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Critical remote code execution vulnerabilities found by Wiz researchers in Ingress NGINX Controller for Kubernetes.</p>
+<p>The post <a href="https://www.securityweek.com/ingressnightmare-flaws-expose-many-kubernetes-clusters-to-remote-hacking/">IngressNightmare Flaws Expose Many Kubernetes Clusters to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NIST Still Struggling to Clear Vulnerability Submissions Backlog in NVD</title>
+		<link>https://www.securityweek.com/nist-still-struggling-to-clear-vulnerability-submissions-backlog-in-nvd/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 16:15:29 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[NIST]]></category>
+		<category><![CDATA[NVD]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41690</guid>
+
+					<description><![CDATA[<p>The effects of the backlog are already being felt in vulnerability management circles where NVD data promises an enriched source of truth.</p>
+<p>The post <a href="https://www.securityweek.com/nist-still-struggling-to-clear-vulnerability-submissions-backlog-in-nvd/">NIST Still Struggling to Clear Vulnerability Submissions Backlog in NVD</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Denies Cloud Breach After Hacker Offers to Sell Data </title>
+		<link>https://www.securityweek.com/oracle-denies-cloud-breach-after-hacker-offers-to-sell-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 15:51:02 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle Cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41687</guid>
+
+					<description><![CDATA[<p>Oracle has denied that Cloud systems have been breached after a hacker claimed to have stolen millions of records.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-denies-cloud-breach-after-hacker-offers-to-sell-data/">Oracle Denies Cloud Breach After Hacker Offers to Sell Data </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Firm Offers $4 Million for Telegram Exploits</title>
+		<link>https://www.securityweek.com/russian-firm-offers-4-million-for-telegram-exploits/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Operation Zero]]></category>
+		<category><![CDATA[Telegram]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41682</guid>
+
+					<description><![CDATA[<p>A Russian exploit acquisition firm is offering up to $4 million for a full-chain exploit targeting messaging service Telegram.</p>
+<p>The post <a href="https://www.securityweek.com/russian-firm-offers-4-million-for-telegram-exploits/">Russian Firm Offers $4 Million for Telegram Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Lifts Sanctions Against Crypto Mixer Tornado Cash</title>
+		<link>https://www.securityweek.com/us-lifts-sanctions-against-crypto-mixer-tornado-cash/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2025 12:40:01 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[Tornado Cash]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41681</guid>
+
+					<description><![CDATA[<p>The US Department of the Treasury has removed sanctions against the fully decentralized cryptocurrency mixer service Tornado Cash.</p>
+<p>The post <a href="https://www.securityweek.com/us-lifts-sanctions-against-crypto-mixer-tornado-cash/">US Lifts Sanctions Against Crypto Mixer Tornado Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
