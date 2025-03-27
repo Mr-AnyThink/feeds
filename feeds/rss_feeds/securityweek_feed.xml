@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 26 Mar 2025 11:39:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Mar 2025 11:07:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,209 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>macOS Users Warned of New Versions of ReaderUpdate Malware</title>
-		<link>https://www.securityweek.com/macos-users-warned-of-new-versions-of-readerupdate-malware/</link>
+		<title>T-Mobile Coughed Up $33 Million in SIM Swap Lawsuit</title>
+		<link>https://www.securityweek.com/t-mobile-coughed-up-33-million-in-sim-swap-lawsuit/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 11:39:07 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[adware]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[ReaderUpdate]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41717</guid>
+		<pubDate>Thu, 27 Mar 2025 11:07:52 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[SIM swapping]]></category>
+		<category><![CDATA[T-Mobile]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41735</guid>
 
-					<description><![CDATA[<p>macOS users are targeted with multiple versions of the ReaderUpdate malware written in Crystal, Nim, Rust, and Go programming languages.</p>
-<p>The post <a href="https://www.securityweek.com/macos-users-warned-of-new-versions-of-readerupdate-malware/">macOS Users Warned of New Versions of ReaderUpdate Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>T-Mobile paid $33 million in a private arbitration process over a SIM swap attack leading to cryptocurrency theft.</p>
+<p>The post <a href="https://www.securityweek.com/t-mobile-coughed-up-33-million-in-sim-swap-lawsuit/">T-Mobile Coughed Up $33 Million in SIM Swap Lawsuit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 11:39:12 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 11:07:58 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Critical Next.js Vulnerability in Hacker Crosshairs</title>
-		<link>https://www.securityweek.com/critical-next-js-vulnerability-in-hacker-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 10:42:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Next.js]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41716</guid>
-
-					<description><![CDATA[<p>Threat actors have started probing servers impacted by a critical-severity vulnerability in the web application development framework Next.js.</p>
-<p>The post <a href="https://www.securityweek.com/critical-next-js-vulnerability-in-hacker-crosshairs/">Critical Next.js Vulnerability in Hacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Firms Say Evidence Seems to Confirm Oracle Cloud Hack</title>
-		<link>https://www.securityweek.com/security-firms-say-evidence-seems-to-confirm-oracle-cloud-hack/</link>
+		<title>More Solar System Vulnerabilities Expose Power Grids to Hacking </title>
+		<link>https://www.securityweek.com/more-solar-system-vulnerabilities-expose-power-grids-to-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle Cloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41714</guid>
+		<pubDate>Thu, 27 Mar 2025 10:27:35 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[solar]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41734</guid>
 
-					<description><![CDATA[<p>Despite Oracle categorically denying that its Cloud systems have been breached, sample data released by the hacker seems to prove otherwise.</p>
-<p>The post <a href="https://www.securityweek.com/security-firms-say-evidence-seems-to-confirm-oracle-cloud-hack/">Security Firms Say Evidence Seems to Confirm Oracle Cloud Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Forescout has found dozens of vulnerabilities in solar power systems from Sungrow, Growatt and SMA.</p>
+<p>The post <a href="https://www.securityweek.com/more-solar-system-vulnerabilities-expose-power-grids-to-hacking/">More Solar System Vulnerabilities Expose Power Grids to Hacking </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Patches Chrome Sandbox Escape Zero-Day Caught by Kaspersky</title>
-		<link>https://www.securityweek.com/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky/</link>
+		<title>AI Security Firm Straiker Emerges From Stealth With $21M in Funding</title>
+		<link>https://www.securityweek.com/ai-security-firm-straiker-emerges-from-stealth-with-21m-in-funding/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 10:17:46 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Straiker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41733</guid>
+
+					<description><![CDATA[<p>Straiker has emerged from stealth mode with a solution designed to help enterprises secure AI agents and applications.</p>
+<p>The post <a href="https://www.securityweek.com/ai-security-firm-straiker-emerges-from-stealth-with-21m-in-funding/">AI Security Firm Straiker Emerges From Stealth With $21M in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Offering $100K Bounties for Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/openai-offering-100k-bounties-for-critical-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 22:37:11 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-2783]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Google Chrome]]></category>
-		<category><![CDATA[Kaspersky]]></category>
-		<category><![CDATA[Operation ForumTroll]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41709</guid>
-
-					<description><![CDATA[<p>The vulnerability, tracked as CVE-2025-2783, was chained with a second exploit for remote code execution in attacks targeting organizations in Russia.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-chrome-sandbox-escape-zero-day-caught-by-kaspersky/">Google Patches Chrome Sandbox Escape Zero-Day Caught by Kaspersky</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability Exploitation Possibly Behind Widespread DrayTek Router Reboots</title>
-		<link>https://www.securityweek.com/vulnerability-exploitation-possibly-behind-widespread-draytek-router-reboots/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 15:21:51 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[DrayTek]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[router]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41706</guid>
-
-					<description><![CDATA[<p>DrayTek routers around the world are rebooting and the vendor’s statement suggests that it may involve the exploitation of a vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-exploitation-possibly-behind-widespread-draytek-router-reboots/">Vulnerability Exploitation Possibly Behind Widespread DrayTek Router Reboots</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Patches Authentication Bypass Flaw in Windows Tools Suite</title>
-		<link>https://www.securityweek.com/vmware-patches-authentication-bypass-flaw-in-windows-tools-suite/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 15:01:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-22230]]></category>
-		<category><![CDATA[virtualization]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[VMware Tools for Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41705</guid>
-
-					<description><![CDATA[<p>The authentication bypass vulnerability, tagged as CVE-2025-22230, carries a CVSS severity score of 7.8/10.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-patches-authentication-bypass-flaw-in-windows-tools-suite/">VMware Patches Authentication Bypass Flaw in Windows Tools Suite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Adds AI Agents to Security Copilot</title>
-		<link>https://www.securityweek.com/microsoft-adds-ai-agents-to-security-copilot/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 14:14:38 +0000</pubDate>
+		<pubDate>Wed, 26 Mar 2025 19:38:04 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[SpecterOps]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41731</guid>
+
+					<description><![CDATA[<p>OpenAI has raised its maximum bug bounty payout to $100,000 (up from $20,000) for high-impact flaws in its infrastructure and products.</p>
+<p>The post <a href="https://www.securityweek.com/openai-offering-100k-bounties-for-critical-vulnerabilities/">OpenAI Offering $100K Bounties for Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Ransomware Gang Exploited Windows Zero-Day Before Patch</title>
+		<link>https://www.securityweek.com/russian-ransomware-gang-exploited-windows-zero-day-before-patch/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 16:09:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-26633]]></category>
+		<category><![CDATA[EncryptHub]]></category>
 		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Purview]]></category>
-		<category><![CDATA[Windows Defender]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41703</guid>
+		<category><![CDATA[MMC]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41730</guid>
 
-					<description><![CDATA[<p>Microsoft has expanded the capabilities of Security Copilot with AI agents tackling data security, phishing, and identity management.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-adds-ai-agents-to-security-copilot/">Microsoft Adds AI Agents to Security Copilot</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Exploitation of Windows MMC zero-day is being pinned on a ransomware gang known as EncryptHub (an affiliate of RansomHub)</p>
+<p>The post <a href="https://www.securityweek.com/russian-ransomware-gang-exploited-windows-zero-day-before-patch/">Russian Ransomware Gang Exploited Windows Zero-Day Before Patch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Charm Security Emerges From Stealth With $8 Million in Funding</title>
-		<link>https://www.securityweek.com/charm-security-emerges-from-stealth-with-8-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 13:07:44 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Charm Security]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[scams]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41701</guid>
-
-					<description><![CDATA[<p>Charm Security has emerged from stealth mode with $8 million in funding for AI-powered scams and social engineering prevention.</p>
-<p>The post <a href="https://www.securityweek.com/charm-security-emerges-from-stealth-with-8-million-in-funding/">Charm Security Emerges From Stealth With $8 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Numotion Data Breach Impacts Nearly 500,000 People</title>
-		<link>https://www.securityweek.com/numotion-data-breach-impacts-nearly-500000-people/</link>
+		<title>AMTSO Releases Sandbox Evaluation Framework</title>
+		<link>https://www.securityweek.com/amtso-releases-sandbox-evaluation-framework/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 12:30:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Numotion]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41700</guid>
+		<pubDate>Wed, 26 Mar 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AMTSO]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[sandbox]]></category>
+		<category><![CDATA[testing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41728</guid>
 
-					<description><![CDATA[<p>Email-related data breach suffered by wheelchair and other mobility equipment provider Numotion affects almost 500,000 individuals. </p>
-<p>The post <a href="https://www.securityweek.com/numotion-data-breach-impacts-nearly-500000-people/">Numotion Data Breach Impacts Nearly 500,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AMTSO has developed a Sandbox Evaluation Framework to standardize the testing of malware analysis solutions. </p>
+<p>The post <a href="https://www.securityweek.com/amtso-releases-sandbox-evaluation-framework/">AMTSO Releases Sandbox Evaluation Framework</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Webinar Today: Which Security Testing Approach is Right for You?</title>
-		<link>https://www.securityweek.com/webinar-tomorrow-which-security-testing-approach-is-right-for-you/</link>
+		<title>Island Banks $250M in Series E Funding for Enterprise Browser</title>
+		<link>https://www.securityweek.com/island-banks-250m-series-e-for-enterprise-browser/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 25 Mar 2025 12:08:12 +0000</pubDate>
-				<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[pentesting]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41685</guid>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 14:52:57 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Coatue Management]]></category>
+		<category><![CDATA[Enterprise Browser]]></category>
+		<category><![CDATA[Island]]></category>
+		<category><![CDATA[Series E]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41727</guid>
 
-					<description><![CDATA[<p>Which Security Testing Approach is Right for You: BAS, Automated Penetration Testing, or Both?</p>
-<p>The post <a href="https://www.securityweek.com/webinar-tomorrow-which-security-testing-approach-is-right-for-you/">Webinar Today: Which Security Testing Approach is Right for You?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The late-stage startup said the round was led Coatue Management and brings Island’s total external funding to approximately $730 million.</p>
+<p>The post <a href="https://www.securityweek.com/island-banks-250m-series-e-for-enterprise-browser/">Island Banks $250M in Series E Funding for Enterprise Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Ransomware Group Claims Attack on US Telecom Firm WideOpenWest</title>
+		<link>https://www.securityweek.com/new-ransomware-group-claims-attack-on-us-telecom-firm-wideopenwest/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 12:46:55 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Arkana]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[WideOpenWest]]></category>
+		<category><![CDATA[WOW]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41722</guid>
+
+					<description><![CDATA[<p>A new ransomware group called Arkana claims to have compromised the US telecommunications provider WideOpenWest.</p>
+<p>The post <a href="https://www.securityweek.com/new-ransomware-group-claims-attack-on-us-telecom-firm-wideopenwest/">New Ransomware Group Claims Attack on US Telecom Firm WideOpenWest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SplxAI Raises $7 Million for AI Security Platform</title>
+		<link>https://www.securityweek.com/splxai-raises-7-million-for-ai-security-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 12:36:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41721</guid>
+
+					<description><![CDATA[<p>SplxAI has raised $7 million in a seed funding round led by LAUNCHub Ventures to secure agentic AI systems.</p>
+<p>The post <a href="https://www.securityweek.com/splxai-raises-7-million-for-ai-security-platform/">SplxAI Raises $7 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities Allow Remote Hacking of Inaba Plant Monitoring Cameras</title>
+		<link>https://www.securityweek.com/vulnerabilities-allow-remote-hacking-of-inaba-plant-monitoring-cameras/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 12:27:21 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Inaba]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41719</guid>
+
+					<description><![CDATA[<p>Production line monitoring cameras made by Inaba can be hacked for surveillance and sabotage, but they remain unpatched.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-allow-remote-hacking-of-inaba-plant-monitoring-cameras/">Vulnerabilities Allow Remote Hacking of Inaba Plant Monitoring Cameras</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
