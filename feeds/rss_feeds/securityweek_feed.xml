@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 27 Mar 2025 11:07:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Mar 2025 11:45:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,209 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>T-Mobile Coughed Up $33 Million in SIM Swap Lawsuit</title>
-		<link>https://www.securityweek.com/t-mobile-coughed-up-33-million-in-sim-swap-lawsuit/</link>
+		<title>In Other News: Hellcat Hackers Unmasked, CrushFTP Bug Controversy, NYU Hacked</title>
+		<link>https://www.securityweek.com/in-other-news-hellcat-hackers-unmasked-crushftp-bug-controversy-nyu-hacked/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 11:07:52 +0000</pubDate>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[SIM swapping]]></category>
-		<category><![CDATA[T-Mobile]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41735</guid>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41752</guid>
 
-					<description><![CDATA[<p>T-Mobile paid $33 million in a private arbitration process over a SIM swap attack leading to cryptocurrency theft.</p>
-<p>The post <a href="https://www.securityweek.com/t-mobile-coughed-up-33-million-in-sim-swap-lawsuit/">T-Mobile Coughed Up $33 Million in SIM Swap Lawsuit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Key members of Hellcat ransomware group identified, controversy around CrushFTP flaw CVE, NYU website hacked and defaced.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-hellcat-hackers-unmasked-crushftp-bug-controversy-nyu-hacked/">In Other News: Hellcat Hackers Unmasked, CrushFTP Bug Controversy, NYU Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 11:07:58 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>More Solar System Vulnerabilities Expose Power Grids to Hacking </title>
-		<link>https://www.securityweek.com/more-solar-system-vulnerabilities-expose-power-grids-to-hacking/</link>
+		<title>New Issuance Requirements Improve HTTPS Certificate Validation</title>
+		<link>https://www.securityweek.com/new-issuance-requirements-improve-https-certificate-validation/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 10:27:35 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[solar]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41734</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 11:27:11 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41751</guid>
 
-					<description><![CDATA[<p>Forescout has found dozens of vulnerabilities in solar power systems from Sungrow, Growatt and SMA.</p>
-<p>The post <a href="https://www.securityweek.com/more-solar-system-vulnerabilities-expose-power-grids-to-hacking/">More Solar System Vulnerabilities Expose Power Grids to Hacking </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>HTTPS certificate issuance now requires Multi-Perspective Issuance Corroboration and linting to improve validation.</p>
+<p>The post <a href="https://www.securityweek.com/new-issuance-requirements-improve-https-certificate-validation/">New Issuance Requirements Improve HTTPS Certificate Validation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>AI Security Firm Straiker Emerges From Stealth With $21M in Funding</title>
-		<link>https://www.securityweek.com/ai-security-firm-straiker-emerges-from-stealth-with-21m-in-funding/</link>
+		<title>Morphing Meerkat Phishing Kits Target Over 100 Brands</title>
+		<link>https://www.securityweek.com/morphing-meerkat-phishing-kits-target-over-100-brands/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 10:50:00 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Morphing Meerkat]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41748</guid>
+
+					<description><![CDATA[<p>A threat actor tracked as Morphing Meerkat abuses DNS mail exchange (MX) records to deliver spoofed login pages.</p>
+<p>The post <a href="https://www.securityweek.com/morphing-meerkat-phishing-kits-target-over-100-brands/">Morphing Meerkat Phishing Kits Target Over 100 Brands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fresh Grandoreiro Banking Trojan Campaigns Target Latin America, Europe</title>
+		<link>https://www.securityweek.com/fresh-grandoreiro-banking-trojan-campaigns-target-latin-america-europe/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[Grandoreiro]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[trojan]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41746</guid>
+
+					<description><![CDATA[<p>The Grandoreiro banking trojan has reemerged in new campaigns targeting users in Latin America and Europe.</p>
+<p>The post <a href="https://www.securityweek.com/fresh-grandoreiro-banking-trojan-campaigns-target-latin-america-europe/">Fresh Grandoreiro Banking Trojan Campaigns Target Latin America, Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firefox Affected by Flaw Similar to Chrome Zero-Day Exploited in Russia</title>
+		<link>https://www.securityweek.com/firefox-affected-by-flaw-similar-to-chrome-zero-day-exploited-in-russia/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 10:17:46 +0000</pubDate>
+		<pubDate>Fri, 28 Mar 2025 10:05:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[sandbox escape]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41747</guid>
+
+					<description><![CDATA[<p>Firefox developers have determined that their browser is affected by a vulnerability similar to the recent Chrome sandbox escape zero-day.</p>
+<p>The post <a href="https://www.securityweek.com/firefox-affected-by-flaw-similar-to-chrome-zero-day-exploited-in-russia/">Firefox Affected by Flaw Similar to Chrome Zero-Day Exploited in Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Splunk Patches Dozens of Vulnerabilities</title>
+		<link>https://www.securityweek.com/splunk-patches-dozens-of-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 17:55:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41743</guid>
+
+					<description><![CDATA[<p>Splunk patches high-severity remote code execution and information disclosure flaws in Splunk Enterprise and Secure Gateway App.</p>
+<p>The post <a href="https://www.securityweek.com/splunk-patches-dozens-of-vulnerabilities/">Splunk Patches Dozens of Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Espionage Group Using Ransomware in Attacks</title>
+		<link>https://www.securityweek.com/russian-espionage-group-using-ransomware-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 16:10:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[QWCrypt]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[RedCurl]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41742</guid>
+
+					<description><![CDATA[<p>Russian-speaking espionage group RedCurl has been deploying ransomware on victims’ networks in a recent campaign.</p>
+<p>The post <a href="https://www.securityweek.com/russian-espionage-group-using-ransomware-in-attacks/">Russian Espionage Group Using Ransomware in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Software Firm Fined £3 Million Over Ransomware-Caused Data Breach </title>
+		<link>https://www.securityweek.com/uk-software-firm-fined-3-million-over-ransomware-caused-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[ICO]]></category>
+		<category><![CDATA[MFA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41740</guid>
+
+					<description><![CDATA[<p>The UK ICO has fined Advanced Computer Software Group £3 million ($3.8 million) over a 2022 data breach resulting from a ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/uk-software-firm-fined-3-million-over-ransomware-caused-data-breach/">UK Software Firm Fined £3 Million Over Ransomware-Caused Data Breach </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Importance of Allyship for Women in Cyber</title>
+		<link>https://www.securityweek.com/the-importance-of-ally-ship-for-women-in-cyber/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 14:01:04 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41739</guid>
+
+					<description><![CDATA[<p>Interview with Taylor Pyle, a Cybersecurity Engineer at Viasat on her experience with both cyber and mentorship.</p>
+<p>The post <a href="https://www.securityweek.com/the-importance-of-ally-ship-for-women-in-cyber/">The Importance of Allyship for Women in Cyber</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GetReal Security Raises $17.5 Million to Tackle Gen-AI Threats</title>
+		<link>https://www.securityweek.com/getreal-security-raises-17-5-million-to-tackle-gen-ai-threats/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 13:09:25 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Straiker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41733</guid>
+		<category><![CDATA[GetReal]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41738</guid>
 
-					<description><![CDATA[<p>Straiker has emerged from stealth mode with a solution designed to help enterprises secure AI agents and applications.</p>
-<p>The post <a href="https://www.securityweek.com/ai-security-firm-straiker-emerges-from-stealth-with-21m-in-funding/">AI Security Firm Straiker Emerges From Stealth With $21M in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Offering $100K Bounties for Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/openai-offering-100k-bounties-for-critical-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 19:38:04 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[SpecterOps]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41731</guid>
-
-					<description><![CDATA[<p>OpenAI has raised its maximum bug bounty payout to $100,000 (up from $20,000) for high-impact flaws in its infrastructure and products.</p>
-<p>The post <a href="https://www.securityweek.com/openai-offering-100k-bounties-for-critical-vulnerabilities/">OpenAI Offering $100K Bounties for Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Ransomware Gang Exploited Windows Zero-Day Before Patch</title>
-		<link>https://www.securityweek.com/russian-ransomware-gang-exploited-windows-zero-day-before-patch/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 16:09:57 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-26633]]></category>
-		<category><![CDATA[EncryptHub]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[MMC]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Trend Micro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41730</guid>
-
-					<description><![CDATA[<p>Exploitation of Windows MMC zero-day is being pinned on a ransomware gang known as EncryptHub (an affiliate of RansomHub)</p>
-<p>The post <a href="https://www.securityweek.com/russian-ransomware-gang-exploited-windows-zero-day-before-patch/">Russian Ransomware Gang Exploited Windows Zero-Day Before Patch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AMTSO Releases Sandbox Evaluation Framework</title>
-		<link>https://www.securityweek.com/amtso-releases-sandbox-evaluation-framework/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AMTSO]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[sandbox]]></category>
-		<category><![CDATA[testing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41728</guid>
-
-					<description><![CDATA[<p>AMTSO has developed a Sandbox Evaluation Framework to standardize the testing of malware analysis solutions. </p>
-<p>The post <a href="https://www.securityweek.com/amtso-releases-sandbox-evaluation-framework/">AMTSO Releases Sandbox Evaluation Framework</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Island Banks $250M in Series E Funding for Enterprise Browser</title>
-		<link>https://www.securityweek.com/island-banks-250m-series-e-for-enterprise-browser/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 14:52:57 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Coatue Management]]></category>
-		<category><![CDATA[Enterprise Browser]]></category>
-		<category><![CDATA[Island]]></category>
-		<category><![CDATA[Series E]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41727</guid>
-
-					<description><![CDATA[<p>The late-stage startup said the round was led Coatue Management and brings Island’s total external funding to approximately $730 million.</p>
-<p>The post <a href="https://www.securityweek.com/island-banks-250m-series-e-for-enterprise-browser/">Island Banks $250M in Series E Funding for Enterprise Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Ransomware Group Claims Attack on US Telecom Firm WideOpenWest</title>
-		<link>https://www.securityweek.com/new-ransomware-group-claims-attack-on-us-telecom-firm-wideopenwest/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 12:46:55 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Arkana]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[WideOpenWest]]></category>
-		<category><![CDATA[WOW]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41722</guid>
-
-					<description><![CDATA[<p>A new ransomware group called Arkana claims to have compromised the US telecommunications provider WideOpenWest.</p>
-<p>The post <a href="https://www.securityweek.com/new-ransomware-group-claims-attack-on-us-telecom-firm-wideopenwest/">New Ransomware Group Claims Attack on US Telecom Firm WideOpenWest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SplxAI Raises $7 Million for AI Security Platform</title>
-		<link>https://www.securityweek.com/splxai-raises-7-million-for-ai-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 12:36:50 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41721</guid>
-
-					<description><![CDATA[<p>SplxAI has raised $7 million in a seed funding round led by LAUNCHub Ventures to secure agentic AI systems.</p>
-<p>The post <a href="https://www.securityweek.com/splxai-raises-7-million-for-ai-security-platform/">SplxAI Raises $7 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Allow Remote Hacking of Inaba Plant Monitoring Cameras</title>
-		<link>https://www.securityweek.com/vulnerabilities-allow-remote-hacking-of-inaba-plant-monitoring-cameras/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Mar 2025 12:27:21 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[camera]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Inaba]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41719</guid>
-
-					<description><![CDATA[<p>Production line monitoring cameras made by Inaba can be hacked for surveillance and sabotage, but they remain unpatched.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-allow-remote-hacking-of-inaba-plant-monitoring-cameras/">Vulnerabilities Allow Remote Hacking of Inaba Plant Monitoring Cameras</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>GetReal Security has raised $17.5 million in series A funding to combat deepfakes, impersonation, and other AI-generated threats.</p>
+<p>The post <a href="https://www.securityweek.com/getreal-security-raises-17-5-million-to-tackle-gen-ai-threats/">GetReal Security Raises $17.5 Million to Tackle Gen-AI Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
