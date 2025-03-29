@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 28 Mar 2025 11:45:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Mar 2025 12:36:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical Condition: Legacy Medical Devices Remain Easy Targets for Ransomware</title>
+		<link>https://www.securityweek.com/critical-condition-legacy-medical-devices-remain-easy-targets-for-ransomware/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 12:36:51 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[medical]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41750</guid>
+
+					<description><![CDATA[<p>Analysis found that 99% of healthcare organizations are vulnerable to publicly available exploits.</p>
+<p>The post <a href="https://www.securityweek.com/critical-condition-legacy-medical-devices-remain-easy-targets-for-ransomware/">Critical Condition: Legacy Medical Devices Remain Easy Targets for Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 04:33:53 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>9-Year-Old NPM Crypto Package Hijacked for Information Theft</title>
+		<link>https://www.securityweek.com/9-year-old-npm-crypto-package-hijacked-to-steal-information/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[hijacking]]></category>
+		<category><![CDATA[NPM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41753</guid>
+
+					<description><![CDATA[<p>Nearly a dozen crypto packages on NPM, including one published 9 years ago, have been hijacked to deliver infostealers.</p>
+<p>The post <a href="https://www.securityweek.com/9-year-old-npm-crypto-package-hijacked-to-steal-information/">9-Year-Old NPM Crypto Package Hijacked for Information Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Hellcat Hackers Unmasked, CrushFTP Bug Controversy, NYU Hacked</title>
 		<link>https://www.securityweek.com/in-other-news-hellcat-hackers-unmasked-crushftp-bug-controversy-nyu-hacked/</link>
 		
@@ -43,7 +82,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 24, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-24-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-24-2025/</guid><pubDate>Mon, 24 Mar 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 24, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>New Issuance Requirements Improve HTTPS Certificate Validation</title>
 		<link>https://www.securityweek.com/new-issuance-requirements-improve-https-certificate-validation/</link>
@@ -180,42 +219,6 @@
 
 					<description><![CDATA[<p>The UK ICO has fined Advanced Computer Software Group £3 million ($3.8 million) over a 2022 data breach resulting from a ransomware attack.</p>
 <p>The post <a href="https://www.securityweek.com/uk-software-firm-fined-3-million-over-ransomware-caused-data-breach/">UK Software Firm Fined £3 Million Over Ransomware-Caused Data Breach </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Importance of Allyship for Women in Cyber</title>
-		<link>https://www.securityweek.com/the-importance-of-ally-ship-for-women-in-cyber/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 14:01:04 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41739</guid>
-
-					<description><![CDATA[<p>Interview with Taylor Pyle, a Cybersecurity Engineer at Viasat on her experience with both cyber and mentorship.</p>
-<p>The post <a href="https://www.securityweek.com/the-importance-of-ally-ship-for-women-in-cyber/">The Importance of Allyship for Women in Cyber</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GetReal Security Raises $17.5 Million to Tackle Gen-AI Threats</title>
-		<link>https://www.securityweek.com/getreal-security-raises-17-5-million-to-tackle-gen-ai-threats/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 13:09:25 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[GetReal]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41738</guid>
-
-					<description><![CDATA[<p>GetReal Security has raised $17.5 million in series A funding to combat deepfakes, impersonation, and other AI-generated threats.</p>
-<p>The post <a href="https://www.securityweek.com/getreal-security-raises-17-5-million-to-tackle-gen-ai-threats/">GetReal Security Raises $17.5 Million to Tackle Gen-AI Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
