@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 31 Mar 2025 11:43:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Apr 2025 12:10:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ransomware Group Takes Credit for National Presto Industries Attack</title>
+		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 12:10:30 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[InterLock]]></category>
+		<category><![CDATA[National Presto Industries]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41774</guid>
+
+					<description><![CDATA[<p>A ransomware group has claimed responsibility for a March cyberattack on National Presto Industries subsidiary National Defense Corporation.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/">Ransomware Group Takes Credit for National Presto Industries Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:10:35 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Critical Vulnerability Found in Canon Printer Drivers</title>
+		<link>https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 11:50:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Canon]]></category>
+		<category><![CDATA[printer]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41773</guid>
+
+					<description><![CDATA[<p>Microsoft’s offensive security team warned Canon about a critical code execution vulnerability in printer drivers. </p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/">Critical Vulnerability Found in Canon Printer Drivers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CrushFTP Blames Security Firms for Fast Exploitation of Vulnerability</title>
+		<link>https://www.securityweek.com/hackers-attempting-to-exploit-crushftp-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 11:15:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CrushFTP]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41768</guid>
+
+					<description><![CDATA[<p>Shadowserver has started seeing exploitation attempts aimed at a CrushFTP vulnerability tracked as CVE-2025-2825 and CVE-2025-31161.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-attempting-to-exploit-crushftp-vulnerability/">CrushFTP Blames Security Firms for Fast Exploitation of Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Check Point Responds to Hacking Claims</title>
+		<link>https://www.securityweek.com/check-point-responds-to-hacking-claims/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 10:50:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[security company hacked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41767</guid>
+
+					<description><![CDATA[<p>Check Point has responded to a hacker’s claims of sensitive data theft, confirming an incident but saying that it had limited impact.</p>
+<p>The post <a href="https://www.securityweek.com/check-point-responds-to-hacking-claims/">Check Point Responds to Hacking Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Patches Recent Zero-Days in Older iPhones</title>
+		<link>https://www.securityweek.com/apple-patches-recent-zero-days-in-older-iphones/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41766</guid>
+
+					<description><![CDATA[<p>Apple has released a hefty round of security updates for its desktop and mobile products, patching two recent zero-days in older iPhone models.</p>
+<p>The post <a href="https://www.securityweek.com/apple-patches-recent-zero-days-in-older-iphones/">Apple Patches Recent Zero-Days in Older iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>France&#8217;s Antitrust Watchdog Fines Apple for Problems With App Tracking Transparency</title>
+		<link>https://www.securityweek.com/frances-antitrust-watchdog-fines-apple-for-problems-with-app-tracking-transparency/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 10:05:00 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[App Tracking Transparency]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ATT]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41765</guid>
+
+					<description><![CDATA[<p>France’s antitrust watchdog fined Apple 150 million euros ($162 million) over a privacy feature protecting users from apps snooping on them.</p>
+<p>The post <a href="https://www.securityweek.com/frances-antitrust-watchdog-fines-apple-for-problems-with-app-tracking-transparency/">France&#8217;s Antitrust Watchdog Fines Apple for Problems With App Tracking Transparency</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threat Actors Deploy WordPress Malware in ‘mu-plugins’ Directory</title>
+		<link>https://www.securityweek.com/threat-actors-deploy-wordpress-malware-in-mu-plugins-directory/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 15:05:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[mu-plugins]]></category>
+		<category><![CDATA[Sucuri]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress plugin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41763</guid>
+
+					<description><![CDATA[<p>Sucuri has discovered multiple malware families deployed in the WordPress mu-plugins directory to evade routine security checks.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actors-deploy-wordpress-malware-in-mu-plugins-directory/">Threat Actors Deploy WordPress Malware in ‘mu-plugins’ Directory</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zero to Hero &#8211; A “Measured” Approach to Building a World-Class Offensive Security Program</title>
+		<link>https://www.securityweek.com/zero-to-hero-a-measured-approach-to-building-a-world-class-offensive-security-program/</link>
+		
+		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 14:19:14 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41761</guid>
+
+					<description><![CDATA[<p>A strong security program will sometimes require substantial organizational and cultural changes around security practices, and inevitably, a higher cost. </p>
+<p>The post <a href="https://www.securityweek.com/zero-to-hero-a-measured-approach-to-building-a-world-class-offensive-security-program/">Zero to Hero &#8211; A “Measured” Approach to Building a World-Class Offensive Security Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Leaks Samsung Customer Data</title>
+		<link>https://www.securityweek.com/hacker-leaks-samsung-customer-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 31 Mar 2025 12:33:56 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41758</guid>
+
+					<description><![CDATA[<p>Hacker leaks 270,000 customer tickets allegedly stolen from Samsung Germany using long-compromised credentials.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-leaks-samsung-customer-data/">Hacker Leaks Samsung Customer Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Part of EU&#8217;s New €1.3 Billion Investment Going to Cybersecurity</title>
 		<link>https://www.securityweek.com/part-of-eus-new-e1-3-billion-investment-going-to-cybersecurity/</link>
 		
@@ -40,181 +224,6 @@
 
 					<description><![CDATA[<p>The European Commission plans on investing €1.3 billion ($1.4 billion) in cybersecurity, artificial intelligence and digital skills. </p>
 <p>The post <a href="https://www.securityweek.com/part-of-eus-new-e1-3-billion-investment-going-to-cybersecurity/">Part of EU&#8217;s New €1.3 Billion Investment Going to Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 11:43:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>&#8216;Crocodilus&#8217; Android Banking Trojan Allows Device Takeover, Data Theft</title>
-		<link>https://www.securityweek.com/crocodilus-android-banking-trojan-allows-device-takeover-data-theft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 10:53:42 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[Crocodilus]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41756</guid>
-
-					<description><![CDATA[<p>The newly identified Android banking trojan Crocodilus takes over devices, enabling overlay attacks, remote control, and keylogging.</p>
-<p>The post <a href="https://www.securityweek.com/crocodilus-android-banking-trojan-allows-device-takeover-data-theft/">&#8216;Crocodilus&#8217; Android Banking Trojan Allows Device Takeover, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Analyzes Malware Used in Ivanti Zero-Day Attacks</title>
-		<link>https://www.securityweek.com/cisa-analyzes-malware-used-in-ivanti-connect-secure-zero-day-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 10:29:38 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Resurge]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41755</guid>
-
-					<description><![CDATA[<p>CISA has published its analysis of Resurge, a SpawnChimera malware variant used in attacks targeting a recent Ivanti Connect Secure zero-day.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-analyzes-malware-used-in-ivanti-connect-secure-zero-day-attacks/">CISA Analyzes Malware Used in Ivanti Zero-Day Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>170,000 Impacted by Data Breach at Chord Specialty Dental Partners</title>
-		<link>https://www.securityweek.com/170000-impacted-by-data-breach-at-chord-specialty-dental-partners/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Chord Dental]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[email]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41754</guid>
-
-					<description><![CDATA[<p>An email security incident at Chord Specialty Dental Partners, a US dental service organization, has impacted more than 170,000 people. </p>
-<p>The post <a href="https://www.securityweek.com/170000-impacted-by-data-breach-at-chord-specialty-dental-partners/">170,000 Impacted by Data Breach at Chord Specialty Dental Partners</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Condition: Legacy Medical Devices Remain Easy Targets for Ransomware</title>
-		<link>https://www.securityweek.com/critical-condition-legacy-medical-devices-remain-easy-targets-for-ransomware/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 12:36:51 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[medical]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41750</guid>
-
-					<description><![CDATA[<p>Analysis found that 99% of healthcare organizations are vulnerable to publicly available exploits.</p>
-<p>The post <a href="https://www.securityweek.com/critical-condition-legacy-medical-devices-remain-easy-targets-for-ransomware/">Critical Condition: Legacy Medical Devices Remain Easy Targets for Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>9-Year-Old NPM Crypto Package Hijacked for Information Theft</title>
-		<link>https://www.securityweek.com/9-year-old-npm-crypto-package-hijacked-to-steal-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[hijacking]]></category>
-		<category><![CDATA[NPM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41753</guid>
-
-					<description><![CDATA[<p>Nearly a dozen crypto packages on NPM, including one published 9 years ago, have been hijacked to deliver infostealers.</p>
-<p>The post <a href="https://www.securityweek.com/9-year-old-npm-crypto-package-hijacked-to-steal-information/">9-Year-Old NPM Crypto Package Hijacked for Information Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Hellcat Hackers Unmasked, CrushFTP Bug Controversy, NYU Hacked</title>
-		<link>https://www.securityweek.com/in-other-news-hellcat-hackers-unmasked-crushftp-bug-controversy-nyu-hacked/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41752</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Key members of Hellcat ransomware group identified, controversy around CrushFTP flaw CVE, NYU website hacked and defaced.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-hellcat-hackers-unmasked-crushftp-bug-controversy-nyu-hacked/">In Other News: Hellcat Hackers Unmasked, CrushFTP Bug Controversy, NYU Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Issuance Requirements Improve HTTPS Certificate Validation</title>
-		<link>https://www.securityweek.com/new-issuance-requirements-improve-https-certificate-validation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 11:27:11 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[HTTPS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41751</guid>
-
-					<description><![CDATA[<p>HTTPS certificate issuance now requires Multi-Perspective Issuance Corroboration and linting to improve validation.</p>
-<p>The post <a href="https://www.securityweek.com/new-issuance-requirements-improve-https-certificate-validation/">New Issuance Requirements Improve HTTPS Certificate Validation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Morphing Meerkat Phishing Kits Target Over 100 Brands</title>
-		<link>https://www.securityweek.com/morphing-meerkat-phishing-kits-target-over-100-brands/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 10:50:00 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Morphing Meerkat]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41748</guid>
-
-					<description><![CDATA[<p>A threat actor tracked as Morphing Meerkat abuses DNS mail exchange (MX) records to deliver spoofed login pages.</p>
-<p>The post <a href="https://www.securityweek.com/morphing-meerkat-phishing-kits-target-over-100-brands/">Morphing Meerkat Phishing Kits Target Over 100 Brands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fresh Grandoreiro Banking Trojan Campaigns Target Latin America, Europe</title>
-		<link>https://www.securityweek.com/fresh-grandoreiro-banking-trojan-campaigns-target-latin-america-europe/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 28 Mar 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[Grandoreiro]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[trojan]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41746</guid>
-
-					<description><![CDATA[<p>The Grandoreiro banking trojan has reemerged in new campaigns targeting users in Latin America and Europe.</p>
-<p>The post <a href="https://www.securityweek.com/fresh-grandoreiro-banking-trojan-campaigns-target-latin-america-europe/">Fresh Grandoreiro Banking Trojan Campaigns Target Latin America, Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
