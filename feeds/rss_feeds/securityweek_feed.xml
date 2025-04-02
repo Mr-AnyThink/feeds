@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 01 Apr 2025 12:10:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Apr 2025 12:11:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,189 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ImageRunner Flaw Exposed Sensitive Information in Google Cloud</title>
+		<link>https://www.securityweek.com/imagerunner-flaw-exposed-sensitive-information-in-google-cloud/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 12:10:05 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[ImageRunner]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41792</guid>
+
+					<description><![CDATA[<p>Google has patched a Cloud Run vulnerability dubbed ImageRunner that could have been exploited to gain access to sensitive data.</p>
+<p>The post <a href="https://www.securityweek.com/imagerunner-flaw-exposed-sensitive-information-in-google-cloud/">ImageRunner Flaw Exposed Sensitive Information in Google Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:11:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Lazarus Uses ClickFix Tactics in Fake Cryptocurrency Job Attacks</title>
+		<link>https://www.securityweek.com/lazarus-uses-clickfix-tactics-in-fake-cryptocurrency-job-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 10:45:54 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41790</guid>
+
+					<description><![CDATA[<p>North Korea’s Lazarus hackers are using the ClickFix technique for malware deployment in fresh attacks targeting the cryptocurrency ecosystem.</p>
+<p>The post <a href="https://www.securityweek.com/lazarus-uses-clickfix-tactics-in-fake-cryptocurrency-job-attacks/">Lazarus Uses ClickFix Tactics in Fake Cryptocurrency Job Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Questions Remain Over Attacks Causing DrayTek Router Reboots</title>
+		<link>https://www.securityweek.com/questions-remain-over-attacks-causing-draytek-router-reboots/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[DrayTek]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[router]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41789</guid>
+
+					<description><![CDATA[<p>DrayTek has shared some clarifications regarding the recent attacks causing router reboots, but some questions remain unanswered. </p>
+<p>The post <a href="https://www.securityweek.com/questions-remain-over-attacks-causing-draytek-router-reboots/">Questions Remain Over Attacks Causing DrayTek Router Reboots</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Brings End-to-End Encrypted Emails to All Enterprise Gmail Users</title>
+		<link>https://www.securityweek.com/gmail-brings-end-to-end-encrypted-emails-to-all-enterprise-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 10:05:00 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[E2EE]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41788</guid>
+
+					<description><![CDATA[<p>Gmail now allows enterprise users to send end-to-end encrypted emails to colleagues, and will soon allow sending to any inbox.</p>
+<p>The post <a href="https://www.securityweek.com/gmail-brings-end-to-end-encrypted-emails-to-all-enterprise-users/">Google Brings End-to-End Encrypted Emails to All Enterprise Gmail Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 135, Firefox 137 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-135-firefox-137-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 08:54:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41787</guid>
+
+					<description><![CDATA[<p>Chrome 135 and Firefox 137 were released on Tuesday with fixes for several high-severity memory safety vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-135-firefox-137-patch-high-severity-vulnerabilities/">Chrome 135, Firefox 137 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Using AI to Uncover Critical Bootloader Vulnerabilities</title>
+		<link>https://www.securityweek.com/microsoft-using-ai-to-uncover-critical-bootloader-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 21:38:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Barebox]]></category>
+		<category><![CDATA[bootloader]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Grub2]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[secure boot]]></category>
+		<category><![CDATA[U-boot]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41783</guid>
+
+					<description><![CDATA[<p>Using the Security Copilot tool, Microsoft discovered 20 critical vulnerabilities in widely deployed open-source bootloaders.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-using-ai-to-uncover-critical-bootloader-vulnerabilities/">Microsoft Using AI to Uncover Critical Bootloader Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Could Unleash Chaos Through Backdoor in China-Made Robot Dogs</title>
+		<link>https://www.securityweek.com/undocumented-remote-access-backdoor-found-in-unitree-go1-robot-dog/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 19:15:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[CloudSail]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[tunnel network]]></category>
+		<category><![CDATA[Unitree Go1]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41780</guid>
+
+					<description><![CDATA[<p>An undocumented remote access backdoor in the Unitree Go1 Robot Dog allows remote control over the tunnel network and use of the vision cameras to see through their eyes.</p>
+<p>The post <a href="https://www.securityweek.com/undocumented-remote-access-backdoor-found-in-unitree-go1-robot-dog/">Hackers Could Unleash Chaos Through Backdoor in China-Made Robot Dogs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Looking for Vulnerable Palo Alto Networks GlobalProtect Portals</title>
+		<link>https://www.securityweek.com/hackers-looking-for-vulnerable-palo-alto-networks-globalprotect-portals/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 15:33:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[scanning]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41778</guid>
+
+					<description><![CDATA[<p>GreyNoise warns of a coordinated effort probing the internet for potentially vulnerable Palo Alto Networks GlobalProtect instances.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-looking-for-vulnerable-palo-alto-networks-globalprotect-portals/">Hackers Looking for Vulnerable Palo Alto Networks GlobalProtect Portals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Operations Firm ReliaQuest Raises $500M at $3.4B Valuation</title>
+		<link>https://www.securityweek.com/security-operations-firm-reliaquest-raises-500m-at-3-4b-valuation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2025 12:44:35 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[ReliaQuest]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41776</guid>
+
+					<description><![CDATA[<p>ReliaQuest has announced a new growth funding round that brings the total raised by the firm to over $830 million.</p>
+<p>The post <a href="https://www.securityweek.com/security-operations-firm-reliaquest-raises-500m-at-3-4b-valuation/">Security Operations Firm ReliaQuest Raises $500M at $3.4B Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ransomware Group Takes Credit for National Presto Industries Attack</title>
 		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/</link>
 		
@@ -42,188 +225,6 @@
 
 					<description><![CDATA[<p>A ransomware group has claimed responsibility for a March cyberattack on National Presto Industries subsidiary National Defense Corporation.</p>
 <p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/">Ransomware Group Takes Credit for National Presto Industries Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:10:35 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Critical Vulnerability Found in Canon Printer Drivers</title>
-		<link>https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 11:50:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Canon]]></category>
-		<category><![CDATA[printer]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41773</guid>
-
-					<description><![CDATA[<p>Microsoft’s offensive security team warned Canon about a critical code execution vulnerability in printer drivers. </p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-found-in-canon-printer-drivers/">Critical Vulnerability Found in Canon Printer Drivers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CrushFTP Blames Security Firms for Fast Exploitation of Vulnerability</title>
-		<link>https://www.securityweek.com/hackers-attempting-to-exploit-crushftp-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 11:15:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CrushFTP]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41768</guid>
-
-					<description><![CDATA[<p>Shadowserver has started seeing exploitation attempts aimed at a CrushFTP vulnerability tracked as CVE-2025-2825 and CVE-2025-31161.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-attempting-to-exploit-crushftp-vulnerability/">CrushFTP Blames Security Firms for Fast Exploitation of Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Check Point Responds to Hacking Claims</title>
-		<link>https://www.securityweek.com/check-point-responds-to-hacking-claims/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 10:50:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Check Point]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[security company hacked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41767</guid>
-
-					<description><![CDATA[<p>Check Point has responded to a hacker’s claims of sensitive data theft, confirming an incident but saying that it had limited impact.</p>
-<p>The post <a href="https://www.securityweek.com/check-point-responds-to-hacking-claims/">Check Point Responds to Hacking Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Patches Recent Zero-Days in Older iPhones</title>
-		<link>https://www.securityweek.com/apple-patches-recent-zero-days-in-older-iphones/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41766</guid>
-
-					<description><![CDATA[<p>Apple has released a hefty round of security updates for its desktop and mobile products, patching two recent zero-days in older iPhone models.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-recent-zero-days-in-older-iphones/">Apple Patches Recent Zero-Days in Older iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>France&#8217;s Antitrust Watchdog Fines Apple for Problems With App Tracking Transparency</title>
-		<link>https://www.securityweek.com/frances-antitrust-watchdog-fines-apple-for-problems-with-app-tracking-transparency/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 10:05:00 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[App Tracking Transparency]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[ATT]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41765</guid>
-
-					<description><![CDATA[<p>France’s antitrust watchdog fined Apple 150 million euros ($162 million) over a privacy feature protecting users from apps snooping on them.</p>
-<p>The post <a href="https://www.securityweek.com/frances-antitrust-watchdog-fines-apple-for-problems-with-app-tracking-transparency/">France&#8217;s Antitrust Watchdog Fines Apple for Problems With App Tracking Transparency</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threat Actors Deploy WordPress Malware in ‘mu-plugins’ Directory</title>
-		<link>https://www.securityweek.com/threat-actors-deploy-wordpress-malware-in-mu-plugins-directory/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 15:05:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[mu-plugins]]></category>
-		<category><![CDATA[Sucuri]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41763</guid>
-
-					<description><![CDATA[<p>Sucuri has discovered multiple malware families deployed in the WordPress mu-plugins directory to evade routine security checks.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actors-deploy-wordpress-malware-in-mu-plugins-directory/">Threat Actors Deploy WordPress Malware in ‘mu-plugins’ Directory</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zero to Hero &#8211; A “Measured” Approach to Building a World-Class Offensive Security Program</title>
-		<link>https://www.securityweek.com/zero-to-hero-a-measured-approach-to-building-a-world-class-offensive-security-program/</link>
-		
-		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 14:19:14 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41761</guid>
-
-					<description><![CDATA[<p>A strong security program will sometimes require substantial organizational and cultural changes around security practices, and inevitably, a higher cost. </p>
-<p>The post <a href="https://www.securityweek.com/zero-to-hero-a-measured-approach-to-building-a-world-class-offensive-security-program/">Zero to Hero &#8211; A “Measured” Approach to Building a World-Class Offensive Security Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Leaks Samsung Customer Data</title>
-		<link>https://www.securityweek.com/hacker-leaks-samsung-customer-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 12:33:56 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Samsung]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41758</guid>
-
-					<description><![CDATA[<p>Hacker leaks 270,000 customer tickets allegedly stolen from Samsung Germany using long-compromised credentials.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-leaks-samsung-customer-data/">Hacker Leaks Samsung Customer Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Part of EU&#8217;s New €1.3 Billion Investment Going to Cybersecurity</title>
-		<link>https://www.securityweek.com/part-of-eus-new-e1-3-billion-investment-going-to-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 31 Mar 2025 11:42:13 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41757</guid>
-
-					<description><![CDATA[<p>The European Commission plans on investing €1.3 billion ($1.4 billion) in cybersecurity, artificial intelligence and digital skills. </p>
-<p>The post <a href="https://www.securityweek.com/part-of-eus-new-e1-3-billion-investment-going-to-cybersecurity/">Part of EU&#8217;s New €1.3 Billion Investment Going to Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
