@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 02 Apr 2025 12:11:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Apr 2025 12:00:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,203 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>ImageRunner Flaw Exposed Sensitive Information in Google Cloud</title>
-		<link>https://www.securityweek.com/imagerunner-flaw-exposed-sensitive-information-in-google-cloud/</link>
+		<title>Cybersecurity M&#038;A Roundup: 23 Deals Announced in March 2025</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-23-deals-announced-in-march-2025/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 12:10:05 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[Google Cloud]]></category>
-		<category><![CDATA[ImageRunner]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41792</guid>
+		<pubDate>Thu, 03 Apr 2025 12:00:39 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41808</guid>
 
-					<description><![CDATA[<p>Google has patched a Cloud Run vulnerability dubbed ImageRunner that could have been exploited to gain access to sensitive data.</p>
-<p>The post <a href="https://www.securityweek.com/imagerunner-flaw-exposed-sensitive-information-in-google-cloud/">ImageRunner Flaw Exposed Sensitive Information in Google Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Less than two dozen cybersecurity merger and acquisition (M&#038;A) deals were announced in March 2025.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-23-deals-announced-in-march-2025/">Cybersecurity M&#038;A Roundup: 23 Deals Announced in March 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:11:48 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:00:44 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Lazarus Uses ClickFix Tactics in Fake Cryptocurrency Job Attacks</title>
-		<link>https://www.securityweek.com/lazarus-uses-clickfix-tactics-in-fake-cryptocurrency-job-attacks/</link>
+		<title>39 Million Secrets Leaked on GitHub in 2024</title>
+		<link>https://www.securityweek.com/39-million-secrets-leaked-on-github-in-2024/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 10:45:54 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41790</guid>
+		<pubDate>Thu, 03 Apr 2025 10:56:53 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[secrets scanning]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41807</guid>
 
-					<description><![CDATA[<p>North Korea’s Lazarus hackers are using the ClickFix technique for malware deployment in fresh attacks targeting the cryptocurrency ecosystem.</p>
-<p>The post <a href="https://www.securityweek.com/lazarus-uses-clickfix-tactics-in-fake-cryptocurrency-job-attacks/">Lazarus Uses ClickFix Tactics in Fake Cryptocurrency Job Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>GitHub has announced new capabilities to help organizations and developers keep secrets in their code protected.</p>
+<p>The post <a href="https://www.securityweek.com/39-million-secrets-leaked-on-github-in-2024/">39 Million Secrets Leaked on GitHub in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Questions Remain Over Attacks Causing DrayTek Router Reboots</title>
-		<link>https://www.securityweek.com/questions-remain-over-attacks-causing-draytek-router-reboots/</link>
+		<title>Details Emerge on CVE Controversy Around Exploited CrushFTP Vulnerability </title>
+		<link>https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[DrayTek]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[router]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41789</guid>
-
-					<description><![CDATA[<p>DrayTek has shared some clarifications regarding the recent attacks causing router reboots, but some questions remain unanswered. </p>
-<p>The post <a href="https://www.securityweek.com/questions-remain-over-attacks-causing-draytek-router-reboots/">Questions Remain Over Attacks Causing DrayTek Router Reboots</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Brings End-to-End Encrypted Emails to All Enterprise Gmail Users</title>
-		<link>https://www.securityweek.com/gmail-brings-end-to-end-encrypted-emails-to-all-enterprise-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 10:05:00 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[E2EE]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gmail]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41788</guid>
-
-					<description><![CDATA[<p>Gmail now allows enterprise users to send end-to-end encrypted emails to colleagues, and will soon allow sending to any inbox.</p>
-<p>The post <a href="https://www.securityweek.com/gmail-brings-end-to-end-encrypted-emails-to-all-enterprise-users/">Google Brings End-to-End Encrypted Emails to All Enterprise Gmail Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 135, Firefox 137 Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-135-firefox-137-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 08:54:52 +0000</pubDate>
+		<pubDate>Thu, 03 Apr 2025 10:30:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41787</guid>
+		<category><![CDATA[CrushFTP]]></category>
+		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41804</guid>
 
-					<description><![CDATA[<p>Chrome 135 and Firefox 137 were released on Tuesday with fixes for several high-severity memory safety vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-135-firefox-137-patch-high-severity-vulnerabilities/">Chrome 135, Firefox 137 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Two CVEs now exist for an actively exploited CrushFTP vulnerability and much of the security industry is using the ‘wrong one’.</p>
+<p>The post <a href="https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/">Details Emerge on CVE Controversy Around Exploited CrushFTP Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Using AI to Uncover Critical Bootloader Vulnerabilities</title>
-		<link>https://www.securityweek.com/microsoft-using-ai-to-uncover-critical-bootloader-vulnerabilities/</link>
+		<title>Vulnerabilities Expose Cisco Meraki and ECE Products to DoS Attacks</title>
+		<link>https://www.securityweek.com/vulnerabilities-expose-cisco-meraki-and-ece-products-to-dos-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41806</guid>
+
+					<description><![CDATA[<p>Cisco fixes two high-severity denial-of-service vulnerabilities in Meraki devices and Enterprise Chat and Email.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-cisco-meraki-and-ece-products-to-dos-attacks/">Vulnerabilities Expose Cisco Meraki and ECE Products to DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Released Second Fix for Quick Share Flaws After Patch Bypass</title>
+		<link>https://www.securityweek.com/google-released-second-fix-for-quick-share-flaws-after-patch-bypass/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 09:02:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bypass]]></category>
+		<category><![CDATA[incomplete patch]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Quick Share]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41805</guid>
+
+					<description><![CDATA[<p>Google’s patches for Quick Share for Windows vulnerabilities leading to remote code execution were incomplete and could be easily bypassed.</p>
+<p>The post <a href="https://www.securityweek.com/google-released-second-fix-for-quick-share-flaws-after-patch-bypass/">Google Released Second Fix for Quick Share Flaws After Patch Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Serial Entrepreneurs Raise $43M to Counter AI Deepfakes, Social Engineering</title>
+		<link>https://www.securityweek.com/serial-entrepreneurs-raise-43m-to-counter-ai-deepfakes-social-engineering/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 21:38:50 +0000</pubDate>
+		<pubDate>Wed, 02 Apr 2025 16:48:20 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[a16z]]></category>
+		<category><![CDATA[Adaptive Security]]></category>
+		<category><![CDATA[Andreesen Horowitz]]></category>
+		<category><![CDATA[deepfakes]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41803</guid>
+
+					<description><![CDATA[<p>Adaptive is pitching a security platform designed to replicate real-world attack scenarios through AI-generated deepfake simulations.  </p>
+<p>The post <a href="https://www.securityweek.com/serial-entrepreneurs-raise-43m-to-counter-ai-deepfakes-social-engineering/">Serial Entrepreneurs Raise $43M to Counter AI Deepfakes, Social Engineering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities Expose Jan AI Systems to Remote Manipulation</title>
+		<link>https://www.securityweek.com/vulnerabilities-expose-jan-ai-systems-to-remote-manipulation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 16:10:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gen-AI]]></category>
+		<category><![CDATA[Jan AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41795</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in open source ChatGPT alternative Jan AI expose systems to remote, unauthenticated manipulation.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-jan-ai-systems-to-remote-manipulation/">Vulnerabilities Expose Jan AI Systems to Remote Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberhaven Banks $100 Million in Series D, Valuation Hits $1 Billion</title>
+		<link>https://www.securityweek.com/cyberhaven-banks-100-million-in-series-d-valuation-hits-1-billion/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 15:28:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Cyberhaven]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[Series D]]></category>
+		<category><![CDATA[StepStone]]></category>
+		<category><![CDATA[Unicorn]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41802</guid>
+
+					<description><![CDATA[<p>Cyberhaven bags $100 million in funding at a billion-dollar valuation, a sign that investors remain bullish on data security startups.</p>
+<p>The post <a href="https://www.securityweek.com/cyberhaven-banks-100-million-in-series-d-valuation-hits-1-billion/">Cyberhaven Banks $100 Million in Series D, Valuation Hits $1 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Giving Rise of the ‘Zero-Knowledge’ Threat Actor</title>
+		<link>https://www.securityweek.com/ai-giving-rise-of-the-zero-knowledge-threat-actor/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 14:06:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41799</guid>
+
+					<description><![CDATA[<p>The rise of zero-knowledge threat actors powered by AI marks a turning point in the business of cybercrime where sophisticated attacks are no longer confined to skilled attackers.</p>
+<p>The post <a href="https://www.securityweek.com/ai-giving-rise-of-the-zero-knowledge-threat-actor/">AI Giving Rise of the ‘Zero-Knowledge’ Threat Actor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google DeepMind Unveils Framework to Exploit AI&#8217;s Cyber Weaknesses</title>
+		<link>https://www.securityweek.com/google-deepmind-unveils-framework-to-exploit-ais-cyber-weaknesses/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2025 13:43:02 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Barebox]]></category>
-		<category><![CDATA[bootloader]]></category>
-		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[DeepMind]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Grub2]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[secure boot]]></category>
-		<category><![CDATA[U-boot]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41783</guid>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41797</guid>
 
-					<description><![CDATA[<p>Using the Security Copilot tool, Microsoft discovered 20 critical vulnerabilities in widely deployed open-source bootloaders.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-using-ai-to-uncover-critical-bootloader-vulnerabilities/">Microsoft Using AI to Uncover Critical Bootloader Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Could Unleash Chaos Through Backdoor in China-Made Robot Dogs</title>
-		<link>https://www.securityweek.com/undocumented-remote-access-backdoor-found-in-unitree-go1-robot-dog/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 19:15:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CloudSail]]></category>
-		<category><![CDATA[robotics]]></category>
-		<category><![CDATA[tunnel network]]></category>
-		<category><![CDATA[Unitree Go1]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41780</guid>
-
-					<description><![CDATA[<p>An undocumented remote access backdoor in the Unitree Go1 Robot Dog allows remote control over the tunnel network and use of the vision cameras to see through their eyes.</p>
-<p>The post <a href="https://www.securityweek.com/undocumented-remote-access-backdoor-found-in-unitree-go1-robot-dog/">Hackers Could Unleash Chaos Through Backdoor in China-Made Robot Dogs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Looking for Vulnerable Palo Alto Networks GlobalProtect Portals</title>
-		<link>https://www.securityweek.com/hackers-looking-for-vulnerable-palo-alto-networks-globalprotect-portals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 15:33:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[scanning]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41778</guid>
-
-					<description><![CDATA[<p>GreyNoise warns of a coordinated effort probing the internet for potentially vulnerable Palo Alto Networks GlobalProtect instances.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-looking-for-vulnerable-palo-alto-networks-globalprotect-portals/">Hackers Looking for Vulnerable Palo Alto Networks GlobalProtect Portals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Operations Firm ReliaQuest Raises $500M at $3.4B Valuation</title>
-		<link>https://www.securityweek.com/security-operations-firm-reliaquest-raises-500m-at-3-4b-valuation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 12:44:35 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[ReliaQuest]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41776</guid>
-
-					<description><![CDATA[<p>ReliaQuest has announced a new growth funding round that brings the total raised by the firm to over $830 million.</p>
-<p>The post <a href="https://www.securityweek.com/security-operations-firm-reliaquest-raises-500m-at-3-4b-valuation/">Security Operations Firm ReliaQuest Raises $500M at $3.4B Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Takes Credit for National Presto Industries Attack</title>
-		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 12:10:30 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[InterLock]]></category>
-		<category><![CDATA[National Presto Industries]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41774</guid>
-
-					<description><![CDATA[<p>A ransomware group has claimed responsibility for a March cyberattack on National Presto Industries subsidiary National Defense Corporation.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-national-presto-industries-attack/">Ransomware Group Takes Credit for National Presto Industries Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>DeepMind found that current AI frameworks are ad hoc, not systematic, and fail to provide defenders with useful insights.</p>
+<p>The post <a href="https://www.securityweek.com/google-deepmind-unveils-framework-to-exploit-ais-cyber-weaknesses/">Google DeepMind Unveils Framework to Exploit AI&#8217;s Cyber Weaknesses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
