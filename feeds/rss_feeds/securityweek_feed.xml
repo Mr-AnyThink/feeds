@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 03 Apr 2025 12:00:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Apr 2025 12:09:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,145 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US, Allies Warn of Threat Actors Using &#8216;Fast Flux&#8217; to Hide Server Locations</title>
+		<link>https://www.securityweek.com/us-allies-warn-of-threat-actors-using-fast-flux-to-hide-server-locations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 12:09:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[fast flux]]></category>
+		<category><![CDATA[guidance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41820</guid>
+
+					<description><![CDATA[<p>US and allied countries warn of threat actors using the “fast flux” technique to change DNS records and hide malicious servers’ locations.</p>
+<p>The post <a href="https://www.securityweek.com/us-allies-warn-of-threat-actors-using-fast-flux-to-hide-server-locations/">US, Allies Warn of Threat Actors Using &#8216;Fast Flux&#8217; to Hide Server Locations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:09:17 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Oracle Confirms Cloud Hack</title>
+		<link>https://www.securityweek.com/oracle-confirms-cloud-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle Cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41817</guid>
+
+					<description><![CDATA[<p>Oracle has confirmed suffering a data breach but the tech giant is apparently trying to downplay the impact of the incident.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-confirms-cloud-hack/">Oracle Confirms Cloud Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Apache Parquet Vulnerability Leads to Remote Code Execution</title>
+		<link>https://www.securityweek.com/critical-apache-parquet-vulnerability-leads-to-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apache Parquet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41819</guid>
+
+					<description><![CDATA[<p>A critical vulnerability in Apache Parquet can be exploited to execute arbitrary code remotely, leading to complete system compromise.</p>
+<p>The post <a href="https://www.securityweek.com/critical-apache-parquet-vulnerability-leads-to-remote-code-execution/">Critical Apache Parquet Vulnerability Leads to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Compromised SpotBugs Token Led to GitHub Actions Supply Chain Hack</title>
+		<link>https://www.securityweek.com/compromised-spotbugs-token-led-to-github-actions-supply-chain-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 09:48:32 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[GitHub actions]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41818</guid>
+
+					<description><![CDATA[<p>Evidence shows a SpotBugs token compromised in December 2024 was used in the March 2025 GitHub Actions supply chain attack.</p>
+<p>The post <a href="https://www.securityweek.com/compromised-spotbugs-token-led-to-github-actions-supply-chain-hack/">Compromised SpotBugs Token Led to GitHub Actions Supply Chain Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese APT Pounces on Misdiagnosed RCE in Ivanti VPN Appliances </title>
+		<link>https://www.securityweek.com/chinese-apt-pounces-on-misdiagnosed-rce-in-ivanti-vpn-appliances/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 17:07:33 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Connect Secure]]></category>
+		<category><![CDATA[CVE-2025-22457]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Pulse Connect]]></category>
+		<category><![CDATA[UNC5221]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41813</guid>
+
+					<description><![CDATA[<p>Ivanti misdiagnoses a remote code execution vulnerability and Mandiant reports that Chinese hackers are launching in-the-wild exploits.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-pounces-on-misdiagnosed-rce-in-ivanti-vpn-appliances/">Chinese APT Pounces on Misdiagnosed RCE in Ivanti VPN Appliances </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Halo ITSM Vulnerability Exposed Organizations to Remote Hacking</title>
+		<link>https://www.securityweek.com/halo-itsm-vulnerability-exposed-organizations-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 15:45:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Halo]]></category>
+		<category><![CDATA[HaloITSM]]></category>
+		<category><![CDATA[SQL injection]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41811</guid>
+
+					<description><![CDATA[<p>An unauthenticated SQL injection vulnerability in Halo ITSM could have been exploited to read, modify, or insert data.</p>
+<p>The post <a href="https://www.securityweek.com/halo-itsm-vulnerability-exposed-organizations-to-remote-hacking/">Halo ITSM Vulnerability Exposed Organizations to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hunters International Ransomware Gang Rebranding, Shifting Focus</title>
+		<link>https://www.securityweek.com/hunters-international-ransomware-gang-rebranding-shifting-focus/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Apr 2025 13:02:54 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Hunters International]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41809</guid>
+
+					<description><![CDATA[<p>The notorious cybercrime group Hunters International is dropping ransomware to focus on data theft and extortion.</p>
+<p>The post <a href="https://www.securityweek.com/hunters-international-ransomware-gang-rebranding-shifting-focus/">Hunters International Ransomware Gang Rebranding, Shifting Focus</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cybersecurity M&#038;A Roundup: 23 Deals Announced in March 2025</title>
 		<link>https://www.securityweek.com/cybersecurity-ma-roundup-23-deals-announced-in-march-2025/</link>
 		
@@ -45,7 +184,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:00:44 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>39 Million Secrets Leaked on GitHub in 2024</title>
 		<link>https://www.securityweek.com/39-million-secrets-leaked-on-github-in-2024/</link>
@@ -67,7 +206,7 @@
 		
 			</item>
 		<item>
-		<title>Details Emerge on CVE Controversy Around Exploited CrushFTP Vulnerability </title>
+		<title>Two CVEs, One Critical Flaw: Inside the CrushFTP Vulnerability Controversy</title>
 		<link>https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
@@ -80,150 +219,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=41804</guid>
 
 					<description><![CDATA[<p>Two CVEs now exist for an actively exploited CrushFTP vulnerability and much of the security industry is using the ‘wrong one’.</p>
-<p>The post <a href="https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/">Details Emerge on CVE Controversy Around Exploited CrushFTP Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Expose Cisco Meraki and ECE Products to DoS Attacks</title>
-		<link>https://www.securityweek.com/vulnerabilities-expose-cisco-meraki-and-ece-products-to-dos-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41806</guid>
-
-					<description><![CDATA[<p>Cisco fixes two high-severity denial-of-service vulnerabilities in Meraki devices and Enterprise Chat and Email.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-cisco-meraki-and-ece-products-to-dos-attacks/">Vulnerabilities Expose Cisco Meraki and ECE Products to DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Released Second Fix for Quick Share Flaws After Patch Bypass</title>
-		<link>https://www.securityweek.com/google-released-second-fix-for-quick-share-flaws-after-patch-bypass/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 09:02:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bypass]]></category>
-		<category><![CDATA[incomplete patch]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Quick Share]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41805</guid>
-
-					<description><![CDATA[<p>Google’s patches for Quick Share for Windows vulnerabilities leading to remote code execution were incomplete and could be easily bypassed.</p>
-<p>The post <a href="https://www.securityweek.com/google-released-second-fix-for-quick-share-flaws-after-patch-bypass/">Google Released Second Fix for Quick Share Flaws After Patch Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Serial Entrepreneurs Raise $43M to Counter AI Deepfakes, Social Engineering</title>
-		<link>https://www.securityweek.com/serial-entrepreneurs-raise-43m-to-counter-ai-deepfakes-social-engineering/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 16:48:20 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[a16z]]></category>
-		<category><![CDATA[Adaptive Security]]></category>
-		<category><![CDATA[Andreesen Horowitz]]></category>
-		<category><![CDATA[deepfakes]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41803</guid>
-
-					<description><![CDATA[<p>Adaptive is pitching a security platform designed to replicate real-world attack scenarios through AI-generated deepfake simulations.  </p>
-<p>The post <a href="https://www.securityweek.com/serial-entrepreneurs-raise-43m-to-counter-ai-deepfakes-social-engineering/">Serial Entrepreneurs Raise $43M to Counter AI Deepfakes, Social Engineering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Expose Jan AI Systems to Remote Manipulation</title>
-		<link>https://www.securityweek.com/vulnerabilities-expose-jan-ai-systems-to-remote-manipulation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 16:10:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gen-AI]]></category>
-		<category><![CDATA[Jan AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41795</guid>
-
-					<description><![CDATA[<p>Vulnerabilities in open source ChatGPT alternative Jan AI expose systems to remote, unauthenticated manipulation.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-expose-jan-ai-systems-to-remote-manipulation/">Vulnerabilities Expose Jan AI Systems to Remote Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberhaven Banks $100 Million in Series D, Valuation Hits $1 Billion</title>
-		<link>https://www.securityweek.com/cyberhaven-banks-100-million-in-series-d-valuation-hits-1-billion/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 15:28:50 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Cyberhaven]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[Series D]]></category>
-		<category><![CDATA[StepStone]]></category>
-		<category><![CDATA[Unicorn]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41802</guid>
-
-					<description><![CDATA[<p>Cyberhaven bags $100 million in funding at a billion-dollar valuation, a sign that investors remain bullish on data security startups.</p>
-<p>The post <a href="https://www.securityweek.com/cyberhaven-banks-100-million-in-series-d-valuation-hits-1-billion/">Cyberhaven Banks $100 Million in Series D, Valuation Hits $1 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Giving Rise of the ‘Zero-Knowledge’ Threat Actor</title>
-		<link>https://www.securityweek.com/ai-giving-rise-of-the-zero-knowledge-threat-actor/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 14:06:54 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41799</guid>
-
-					<description><![CDATA[<p>The rise of zero-knowledge threat actors powered by AI marks a turning point in the business of cybercrime where sophisticated attacks are no longer confined to skilled attackers.</p>
-<p>The post <a href="https://www.securityweek.com/ai-giving-rise-of-the-zero-knowledge-threat-actor/">AI Giving Rise of the ‘Zero-Knowledge’ Threat Actor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google DeepMind Unveils Framework to Exploit AI&#8217;s Cyber Weaknesses</title>
-		<link>https://www.securityweek.com/google-deepmind-unveils-framework-to-exploit-ais-cyber-weaknesses/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 13:43:02 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41797</guid>
-
-					<description><![CDATA[<p>DeepMind found that current AI frameworks are ad hoc, not systematic, and fail to provide defenders with useful insights.</p>
-<p>The post <a href="https://www.securityweek.com/google-deepmind-unveils-framework-to-exploit-ais-cyber-weaknesses/">Google DeepMind Unveils Framework to Exploit AI&#8217;s Cyber Weaknesses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/">Two CVEs, One Critical Flaw: Inside the CrushFTP Vulnerability Controversy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
