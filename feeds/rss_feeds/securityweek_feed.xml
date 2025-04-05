@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 04 Apr 2025 12:09:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Apr 2025 15:54:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,64 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Call Records of Millions Exposed by Verizon App Vulnerability</title>
+		<link>https://www.securityweek.com/call-records-of-millions-exposed-by-verizon-app-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 15:53:45 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[call records]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41824</guid>
+
+					<description><![CDATA[<p>A patch has been released for a serious information disclosure vulnerability affecting a Verizon call filtering application.</p>
+<p>The post <a href="https://www.securityweek.com/call-records-of-millions-exposed-by-verizon-app-vulnerability/">Call Records of Millions Exposed by Verizon App Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 05:09:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>In Other News: Apple Improving Malware Detection, Cybersecurity Funding, Cyber Command Chief Fired</title>
+		<link>https://www.securityweek.com/in-other-news-apple-improving-malware-detection-cybersecurity-funding-cyber-command-chief-fired/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41822</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Apple adding TCC events to Endpoint Security, cybersecurity funding report for Q1 2025, Trump fires the head of NSA and Cyber Command.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-apple-improving-malware-detection-cybersecurity-funding-cyber-command-chief-fired/">In Other News: Apple Improving Malware Detection, Cybersecurity Funding, Cyber Command Chief Fired</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>State Bar of Texas Says Personal Information Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/state-bar-of-texas-says-personal-information-stolen-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Apr 2025 12:44:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Texas State Bar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41821</guid>
+
+					<description><![CDATA[<p>The State Bar of Texas is notifying thousands of individuals that their personal information was stolen in a February ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/state-bar-of-texas-says-personal-information-stolen-in-ransomware-attack/">State Bar of Texas Says Personal Information Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US, Allies Warn of Threat Actors Using &#8216;Fast Flux&#8217; to Hide Server Locations</title>
 		<link>https://www.securityweek.com/us-allies-warn-of-threat-actors-using-fast-flux-to-hide-server-locations/</link>
 		
@@ -46,7 +104,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 12:09:17 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Oracle Confirms Cloud Hack</title>
 		<link>https://www.securityweek.com/oracle-confirms-cloud-hack/</link>
@@ -161,65 +219,6 @@
 
 					<description><![CDATA[<p>The notorious cybercrime group Hunters International is dropping ransomware to focus on data theft and extortion.</p>
 <p>The post <a href="https://www.securityweek.com/hunters-international-ransomware-gang-rebranding-shifting-focus/">Hunters International Ransomware Gang Rebranding, Shifting Focus</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 23 Deals Announced in March 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-23-deals-announced-in-march-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 12:00:39 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41808</guid>
-
-					<description><![CDATA[<p>Less than two dozen cybersecurity merger and acquisition (M&#038;A) deals were announced in March 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-23-deals-announced-in-march-2025/">Cybersecurity M&#038;A Roundup: 23 Deals Announced in March 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>39 Million Secrets Leaked on GitHub in 2024</title>
-		<link>https://www.securityweek.com/39-million-secrets-leaked-on-github-in-2024/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 10:56:53 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[secrets scanning]]></category>
-		<category><![CDATA[secrets sprawl]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41807</guid>
-
-					<description><![CDATA[<p>GitHub has announced new capabilities to help organizations and developers keep secrets in their code protected.</p>
-<p>The post <a href="https://www.securityweek.com/39-million-secrets-leaked-on-github-in-2024/">39 Million Secrets Leaked on GitHub in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two CVEs, One Critical Flaw: Inside the CrushFTP Vulnerability Controversy</title>
-		<link>https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CrushFTP]]></category>
-		<category><![CDATA[CVE]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41804</guid>
-
-					<description><![CDATA[<p>Two CVEs now exist for an actively exploited CrushFTP vulnerability and much of the security industry is using the ‘wrong one’.</p>
-<p>The post <a href="https://www.securityweek.com/details-emerge-on-cve-controversy-around-exploited-crushftp-vulnerability/">Two CVEs, One Critical Flaw: Inside the CrushFTP Vulnerability Controversy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
