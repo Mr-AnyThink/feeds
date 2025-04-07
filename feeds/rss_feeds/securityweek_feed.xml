@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 04 Apr 2025 15:54:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Apr 2025 11:57:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CRM, Bulk Email Providers Targeted in Crypto Phishing Campaign</title>
+		<link>https://www.securityweek.com/crm-bulk-email-providers-targeted-in-crypto-phishing-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 11:52:45 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[email]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41833</guid>
+
+					<description><![CDATA[<p>‘PoisonSeed’ phishing campaign targets CRM and bulk email providers to distribute “crypto seed phrase” messages.</p>
+<p>The post <a href="https://www.securityweek.com/crm-bulk-email-providers-targeted-in-crypto-phishing-campaign/">CRM, Bulk Email Providers Targeted in Crypto Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 11:57:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>NIST Puts Pre-2018 CVEs on Back Burner as It Works to Clear Backlog</title>
+		<link>https://www.securityweek.com/nist-puts-pre-2018-cves-on-back-burner-as-it-works-to-clear-backlog/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 11:01:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[backlog]]></category>
+		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[NIST]]></category>
+		<category><![CDATA[NVD]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41832</guid>
+
+					<description><![CDATA[<p>NIST has marked pre-2018 CVEs in NVD as ‘Deferred’ and will no longer spend resources on enriching them.</p>
+<p>The post <a href="https://www.securityweek.com/nist-puts-pre-2018-cves-on-back-burner-as-it-works-to-clear-backlog/">NIST Puts Pre-2018 CVEs on Back Burner as It Works to Clear Backlog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Port of Seattle Says 90,000 People Impacted by Ransomware Attack</title>
+		<link>https://www.securityweek.com/port-of-seattle-says-90000-people-impacted-by-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Port of Seattle]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41829</guid>
+
+					<description><![CDATA[<p>The Port of Seattle says the personal information of 90,000 individuals was stolen in an August 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/port-of-seattle-says-90000-people-impacted-by-ransomware-attack/">Port of Seattle Says 90,000 People Impacted by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Suspected Scattered Spider Hacker Pleads Guilty</title>
+		<link>https://www.securityweek.com/suspected-scattered-spider-hacker-pleads-guilty/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 10:05:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[guilty]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Noah Urban]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41828</guid>
+
+					<description><![CDATA[<p>A 20-year-old arrested last year and charged alongside others believed to be members of Scattered Spider has pleaded guilty.</p>
+<p>The post <a href="https://www.securityweek.com/suspected-scattered-spider-hacker-pleads-guilty/">Suspected Scattered Spider Hacker Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Call Records of Millions Exposed by Verizon App Vulnerability</title>
 		<link>https://www.securityweek.com/call-records-of-millions-exposed-by-verizon-app-vulnerability/</link>
 		
@@ -47,7 +127,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of March 31, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/mar-31-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/mar-31-2025/</guid><pubDate>Mon, 31 Mar 2025 05:09:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of March 31, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: Apple Improving Malware Detection, Cybersecurity Funding, Cyber Command Chief Fired</title>
 		<link>https://www.securityweek.com/in-other-news-apple-improving-malware-detection-cybersecurity-funding-cyber-command-chief-fired/</link>
@@ -139,86 +219,6 @@
 
 					<description><![CDATA[<p>A critical vulnerability in Apache Parquet can be exploited to execute arbitrary code remotely, leading to complete system compromise.</p>
 <p>The post <a href="https://www.securityweek.com/critical-apache-parquet-vulnerability-leads-to-remote-code-execution/">Critical Apache Parquet Vulnerability Leads to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Compromised SpotBugs Token Led to GitHub Actions Supply Chain Hack</title>
-		<link>https://www.securityweek.com/compromised-spotbugs-token-led-to-github-actions-supply-chain-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 09:48:32 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[GitHub actions]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41818</guid>
-
-					<description><![CDATA[<p>Evidence shows a SpotBugs token compromised in December 2024 was used in the March 2025 GitHub Actions supply chain attack.</p>
-<p>The post <a href="https://www.securityweek.com/compromised-spotbugs-token-led-to-github-actions-supply-chain-hack/">Compromised SpotBugs Token Led to GitHub Actions Supply Chain Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APT Pounces on Misdiagnosed RCE in Ivanti VPN Appliances </title>
-		<link>https://www.securityweek.com/chinese-apt-pounces-on-misdiagnosed-rce-in-ivanti-vpn-appliances/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 17:07:33 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Connect Secure]]></category>
-		<category><![CDATA[CVE-2025-22457]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Pulse Connect]]></category>
-		<category><![CDATA[UNC5221]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41813</guid>
-
-					<description><![CDATA[<p>Ivanti misdiagnoses a remote code execution vulnerability and Mandiant reports that Chinese hackers are launching in-the-wild exploits.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apt-pounces-on-misdiagnosed-rce-in-ivanti-vpn-appliances/">Chinese APT Pounces on Misdiagnosed RCE in Ivanti VPN Appliances </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Halo ITSM Vulnerability Exposed Organizations to Remote Hacking</title>
-		<link>https://www.securityweek.com/halo-itsm-vulnerability-exposed-organizations-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 15:45:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Halo]]></category>
-		<category><![CDATA[HaloITSM]]></category>
-		<category><![CDATA[SQL injection]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41811</guid>
-
-					<description><![CDATA[<p>An unauthenticated SQL injection vulnerability in Halo ITSM could have been exploited to read, modify, or insert data.</p>
-<p>The post <a href="https://www.securityweek.com/halo-itsm-vulnerability-exposed-organizations-to-remote-hacking/">Halo ITSM Vulnerability Exposed Organizations to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hunters International Ransomware Gang Rebranding, Shifting Focus</title>
-		<link>https://www.securityweek.com/hunters-international-ransomware-gang-rebranding-shifting-focus/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 13:02:54 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Hunters International]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41809</guid>
-
-					<description><![CDATA[<p>The notorious cybercrime group Hunters International is dropping ransomware to focus on data theft and extortion.</p>
-<p>The post <a href="https://www.securityweek.com/hunters-international-ransomware-gang-rebranding-shifting-focus/">Hunters International Ransomware Gang Rebranding, Shifting Focus</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
