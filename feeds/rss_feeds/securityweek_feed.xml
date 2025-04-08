@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 07 Apr 2025 11:57:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Apr 2025 12:16:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Corsha Raises $18 Million to Enhance and Extend Machine-to-Machine Security</title>
+		<link>https://www.securityweek.com/corsha-raises-18-million-to-enhance-and-extend-machine-to-machine-security/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[MFA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41845</guid>
+
+					<description><![CDATA[<p>The new funds will be used to extend Corsha’s reach into critical infrastructure and further improve its own use of AI.</p>
+<p>The post <a href="https://www.securityweek.com/corsha-raises-18-million-to-enhance-and-extend-machine-to-machine-security/">Corsha Raises $18 Million to Enhance and Extend Machine-to-Machine Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 12:16:17 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Tailscale Raises $160 Million for Secure Networking Platform </title>
+		<link>https://www.securityweek.com/tailscale-raises-160-million-for-secure-networking-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 11:53:03 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Tailscale]]></category>
+		<category><![CDATA[Zero Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41847</guid>
+
+					<description><![CDATA[<p>Tailscale’s new Series C funding round brings the total raised by the company for its secure networking platform to $275 million.</p>
+<p>The post <a href="https://www.securityweek.com/tailscale-raises-160-million-for-secure-networking-platform/">Tailscale Raises $160 Million for Secure Networking Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploited Vulnerability Puts 5,000 Ivanti VPN Appliances at Risk</title>
+		<link>https://www.securityweek.com/exploited-vulnerability-puts-5000-ivanti-vpn-appliances-at-risk/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 10:43:53 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41844</guid>
+
+					<description><![CDATA[<p>More than 5,000 Ivanti Connect Secure appliances are vulnerable to attacks exploiting CVE-2025-22457, which has been used by Chinese hackers.</p>
+<p>The post <a href="https://www.securityweek.com/exploited-vulnerability-puts-5000-ivanti-vpn-appliances-at-risk/">Exploited Vulnerability Puts 5,000 Ivanti VPN Appliances at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Android Update Patches Two Exploited Vulnerabilities</title>
+		<link>https://www.securityweek.com/android-update-patches-two-exploited-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cellebrite]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41841</guid>
+
+					<description><![CDATA[<p>Android’s latest security update resolves two exploited Kernel vulnerabilities, as well as critical-severity bugs.</p>
+<p>The post <a href="https://www.securityweek.com/android-update-patches-two-exploited-vulnerabilities/">Android Update Patches Two Exploited Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threat Actors Setting Up Persistent Access to Hosts Hacked in CrushFTP Attacks</title>
+		<link>https://www.securityweek.com/threat-actors-set-up-persistent-access-to-hosts-hacked-in-crushftp-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 08:46:55 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CrushFTP]]></category>
+		<category><![CDATA[CVE-2025-31161]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41840</guid>
+
+					<description><![CDATA[<p>Huntress has shared details on the post-exploitation activities of threat actors targeting the recent CrushFTP vulnerability.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actors-set-up-persistent-access-to-hosts-hacked-in-crushftp-attacks/">Threat Actors Setting Up Persistent Access to Hosts Hacked in CrushFTP Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PCI DSS 4.0.1: A Cybersecurity Blueprint by the Industry, for the Industry</title>
+		<link>https://www.securityweek.com/pci-dss-4-0-1-a-cybersecurity-blueprint-by-the-industry-for-the-industry/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 19:16:57 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[PCI]]></category>
+		<category><![CDATA[PCI DSS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41836</guid>
+
+					<description><![CDATA[<p>As PCI DSS 4.0.1 comes into force, it shows the power of industry collaboration in cybersecurity.</p>
+<p>The post <a href="https://www.securityweek.com/pci-dss-4-0-1-a-cybersecurity-blueprint-by-the-industry-for-the-industry/">PCI DSS 4.0.1: A Cybersecurity Blueprint by the Industry, for the Industry</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Pushing &#8216;Sec-Gemini&#8217; AI Model for Threat-Intel Workflows</title>
+		<link>https://www.securityweek.com/google-pushing-sec-gemini-ai-model-for-threat-intel-workflows/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2025 15:00:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Sec-Gemini]]></category>
+		<category><![CDATA[threat-intel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41834</guid>
+
+					<description><![CDATA[<p>Experimental Sec-Gemini v1 touts a combination of Google’s Gemini LLM capabilities with real-time security data and tooling from Mandiant.</p>
+<p>The post <a href="https://www.securityweek.com/google-pushing-sec-gemini-ai-model-for-threat-intel-workflows/">Google Pushing &#8216;Sec-Gemini&#8217; AI Model for Threat-Intel Workflows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CRM, Bulk Email Providers Targeted in Crypto Phishing Campaign</title>
 		<link>https://www.securityweek.com/crm-bulk-email-providers-targeted-in-crypto-phishing-campaign/</link>
 		
@@ -45,7 +186,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 11:57:06 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>NIST Puts Pre-2018 CVEs on Back Burner as It Works to Clear Backlog</title>
 		<link>https://www.securityweek.com/nist-puts-pre-2018-cves-on-back-burner-as-it-works-to-clear-backlog/</link>
@@ -55,6 +196,7 @@
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[backlog]]></category>
 		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[NIST]]></category>
 		<category><![CDATA[NVD]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=41832</guid>
@@ -80,145 +222,6 @@
 
 					<description><![CDATA[<p>The Port of Seattle says the personal information of 90,000 individuals was stolen in an August 2024 ransomware attack.</p>
 <p>The post <a href="https://www.securityweek.com/port-of-seattle-says-90000-people-impacted-by-ransomware-attack/">Port of Seattle Says 90,000 People Impacted by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Suspected Scattered Spider Hacker Pleads Guilty</title>
-		<link>https://www.securityweek.com/suspected-scattered-spider-hacker-pleads-guilty/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 10:05:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[guilty]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Noah Urban]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41828</guid>
-
-					<description><![CDATA[<p>A 20-year-old arrested last year and charged alongside others believed to be members of Scattered Spider has pleaded guilty.</p>
-<p>The post <a href="https://www.securityweek.com/suspected-scattered-spider-hacker-pleads-guilty/">Suspected Scattered Spider Hacker Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Call Records of Millions Exposed by Verizon App Vulnerability</title>
-		<link>https://www.securityweek.com/call-records-of-millions-exposed-by-verizon-app-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 15:53:45 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[call records]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Verizon]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41824</guid>
-
-					<description><![CDATA[<p>A patch has been released for a serious information disclosure vulnerability affecting a Verizon call filtering application.</p>
-<p>The post <a href="https://www.securityweek.com/call-records-of-millions-exposed-by-verizon-app-vulnerability/">Call Records of Millions Exposed by Verizon App Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Apple Improving Malware Detection, Cybersecurity Funding, Cyber Command Chief Fired</title>
-		<link>https://www.securityweek.com/in-other-news-apple-improving-malware-detection-cybersecurity-funding-cyber-command-chief-fired/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41822</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Apple adding TCC events to Endpoint Security, cybersecurity funding report for Q1 2025, Trump fires the head of NSA and Cyber Command.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-apple-improving-malware-detection-cybersecurity-funding-cyber-command-chief-fired/">In Other News: Apple Improving Malware Detection, Cybersecurity Funding, Cyber Command Chief Fired</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>State Bar of Texas Says Personal Information Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/state-bar-of-texas-says-personal-information-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 12:44:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Texas State Bar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41821</guid>
-
-					<description><![CDATA[<p>The State Bar of Texas is notifying thousands of individuals that their personal information was stolen in a February ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/state-bar-of-texas-says-personal-information-stolen-in-ransomware-attack/">State Bar of Texas Says Personal Information Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US, Allies Warn of Threat Actors Using &#8216;Fast Flux&#8217; to Hide Server Locations</title>
-		<link>https://www.securityweek.com/us-allies-warn-of-threat-actors-using-fast-flux-to-hide-server-locations/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 12:09:12 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[fast flux]]></category>
-		<category><![CDATA[guidance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41820</guid>
-
-					<description><![CDATA[<p>US and allied countries warn of threat actors using the “fast flux” technique to change DNS records and hide malicious servers’ locations.</p>
-<p>The post <a href="https://www.securityweek.com/us-allies-warn-of-threat-actors-using-fast-flux-to-hide-server-locations/">US, Allies Warn of Threat Actors Using &#8216;Fast Flux&#8217; to Hide Server Locations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Confirms Cloud Hack</title>
-		<link>https://www.securityweek.com/oracle-confirms-cloud-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle Cloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41817</guid>
-
-					<description><![CDATA[<p>Oracle has confirmed suffering a data breach but the tech giant is apparently trying to downplay the impact of the incident.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-confirms-cloud-hack/">Oracle Confirms Cloud Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Apache Parquet Vulnerability Leads to Remote Code Execution</title>
-		<link>https://www.securityweek.com/critical-apache-parquet-vulnerability-leads-to-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Apr 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache Parquet]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41819</guid>
-
-					<description><![CDATA[<p>A critical vulnerability in Apache Parquet can be exploited to execute arbitrary code remotely, leading to complete system compromise.</p>
-<p>The post <a href="https://www.securityweek.com/critical-apache-parquet-vulnerability-leads-to-remote-code-execution/">Critical Apache Parquet Vulnerability Leads to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
