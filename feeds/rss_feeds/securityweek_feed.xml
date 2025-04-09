@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 08 Apr 2025 12:16:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Apr 2025 11:38:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,208 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Corsha Raises $18 Million to Enhance and Extend Machine-to-Machine Security</title>
-		<link>https://www.securityweek.com/corsha-raises-18-million-to-enhance-and-extend-machine-to-machine-security/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[MFA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41845</guid>
-
-					<description><![CDATA[<p>The new funds will be used to extend Corsha’s reach into critical infrastructure and further improve its own use of AI.</p>
-<p>The post <a href="https://www.securityweek.com/corsha-raises-18-million-to-enhance-and-extend-machine-to-machine-security/">Corsha Raises $18 Million to Enhance and Extend Machine-to-Machine Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 12:16:17 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Tailscale Raises $160 Million for Secure Networking Platform </title>
-		<link>https://www.securityweek.com/tailscale-raises-160-million-for-secure-networking-platform/</link>
+		<title>Treasury&#8217;s OCC Says Hackers Had Access to 150,000 Emails</title>
+		<link>https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 11:53:03 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Tailscale]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41847</guid>
-
-					<description><![CDATA[<p>Tailscale’s new Series C funding round brings the total raised by the company for its secure networking platform to $275 million.</p>
-<p>The post <a href="https://www.securityweek.com/tailscale-raises-160-million-for-secure-networking-platform/">Tailscale Raises $160 Million for Secure Networking Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploited Vulnerability Puts 5,000 Ivanti VPN Appliances at Risk</title>
-		<link>https://www.securityweek.com/exploited-vulnerability-puts-5000-ivanti-vpn-appliances-at-risk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 10:43:53 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41844</guid>
-
-					<description><![CDATA[<p>More than 5,000 Ivanti Connect Secure appliances are vulnerable to attacks exploiting CVE-2025-22457, which has been used by Chinese hackers.</p>
-<p>The post <a href="https://www.securityweek.com/exploited-vulnerability-puts-5000-ivanti-vpn-appliances-at-risk/">Exploited Vulnerability Puts 5,000 Ivanti VPN Appliances at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android Update Patches Two Exploited Vulnerabilities</title>
-		<link>https://www.securityweek.com/android-update-patches-two-exploited-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Cellebrite]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Wed, 09 Apr 2025 11:38:25 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[email security]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[USB]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41841</guid>
+		<category><![CDATA[OCC]]></category>
+		<category><![CDATA[Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41868</guid>
 
-					<description><![CDATA[<p>Android’s latest security update resolves two exploited Kernel vulnerabilities, as well as critical-severity bugs.</p>
-<p>The post <a href="https://www.securityweek.com/android-update-patches-two-exploited-vulnerabilities/">Android Update Patches Two Exploited Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Office of the Comptroller of the Currency (OCC) has disclosed an email security incident in which 100 accounts were compromised for over a year. </p>
+<p>The post <a href="https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/">Treasury&#8217;s OCC Says Hackers Had Access to 150,000 Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 11:38:31 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>CISA Urges Urgent Patching for Exploited CentreStack, Windows Zero-Days</title>
+		<link>https://www.securityweek.com/cisa-urges-urgent-patching-for-exploited-centrestack-windows-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 11:20:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CentreStack]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Gladinet CentreStack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41867</guid>
+
+					<description><![CDATA[<p>CISA has added fresh CentreStack and Windows CLFS vulnerabilities to the Known Exploited Vulnerabilities catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-urges-urgent-patching-for-exploited-centrestack-windows-zero-days/">CISA Urges Urgent Patching for Exploited CentreStack, Windows Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Threat Actors Setting Up Persistent Access to Hosts Hacked in CrushFTP Attacks</title>
-		<link>https://www.securityweek.com/threat-actors-set-up-persistent-access-to-hosts-hacked-in-crushftp-attacks/</link>
+		<title>Vulnerabilities Patched by Ivanti, VMware, Zoom </title>
+		<link>https://www.securityweek.com/vulnerabilities-patched-by-ivanti-vmware-zoom/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 10:50:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41864</guid>
+
+					<description><![CDATA[<p>Ivanti, VMware, and Zoom released fixes for dozens of vulnerabilities in their products on April 2025 Patch Tuesday.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-patched-by-ivanti-vmware-zoom/">Vulnerabilities Patched by Ivanti, VMware, Zoom </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches Critical FortiSwitch Vulnerability</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-fortiswitch-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41862</guid>
+
+					<description><![CDATA[<p>Fortinet fixes a critical-severity bug in FortiSwitch that could allow an attacker to modify administrative passwords.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-fortiswitch-vulnerability/">Fortinet Patches Critical FortiSwitch Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Faces Mounting Criticism as It Notifies Customers of Hack</title>
+		<link>https://www.securityweek.com/oracle-faces-mounting-criticism-as-it-notifies-customers-of-hack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 08:46:55 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CrushFTP]]></category>
-		<category><![CDATA[CVE-2025-31161]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41840</guid>
+		<pubDate>Wed, 09 Apr 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle Cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41861</guid>
 
-					<description><![CDATA[<p>Huntress has shared details on the post-exploitation activities of threat actors targeting the recent CrushFTP vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actors-set-up-persistent-access-to-hosts-hacked-in-crushftp-attacks/">Threat Actors Setting Up Persistent Access to Hosts Hacked in CrushFTP Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Oracle is sending out written notifications to customers over the recent hack after it initially appeared to completely deny a data breach.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-faces-mounting-criticism-as-it-notifies-customers-of-hack/">Oracle Faces Mounting Criticism as It Notifies Customers of Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>PCI DSS 4.0.1: A Cybersecurity Blueprint by the Industry, for the Industry</title>
-		<link>https://www.securityweek.com/pci-dss-4-0-1-a-cybersecurity-blueprint-by-the-industry-for-the-industry/</link>
+		<title>ICS Patch Tuesday: Vulnerabilities Addressed by Rockwell, ABB, Siemens, Schneider</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-rockwell-abb-siemens-schneider/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 19:16:57 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[PCI]]></category>
-		<category><![CDATA[PCI DSS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41836</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2025 08:54:43 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41863</guid>
 
-					<description><![CDATA[<p>As PCI DSS 4.0.1 comes into force, it shows the power of industry collaboration in cybersecurity.</p>
-<p>The post <a href="https://www.securityweek.com/pci-dss-4-0-1-a-cybersecurity-blueprint-by-the-industry-for-the-industry/">PCI DSS 4.0.1: A Cybersecurity Blueprint by the Industry, for the Industry</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Industrial giants Siemens, Rockwell, Schneider and ABB have released their March 2025 Patch Tuesday ICS security advisories.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-rockwell-abb-siemens-schneider/">ICS Patch Tuesday: Vulnerabilities Addressed by Rockwell, ABB, Siemens, Schneider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Pushing &#8216;Sec-Gemini&#8217; AI Model for Threat-Intel Workflows</title>
-		<link>https://www.securityweek.com/google-pushing-sec-gemini-ai-model-for-threat-intel-workflows/</link>
+		<title>Microsoft Patches 125 Windows Vulns, Including Exploited CLFS Zero-Day</title>
+		<link>https://www.securityweek.com/microsoft-patches-125-windows-vulns-including-exploited-clfs-zero-day/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 15:00:34 +0000</pubDate>
+		<pubDate>Tue, 08 Apr 2025 18:41:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-29824]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Windows CLFS]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41858</guid>
+
+					<description><![CDATA[<p>Patch Tuesday: Microsoft ships urgent cover for another WIndows CLFS vulnerability already exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-125-windows-vulns-including-exploited-clfs-zero-day/">Microsoft Patches 125 Windows Vulns, Including Exploited CLFS Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Calls Urgent Attention to Critical ColdFusion Flaws</title>
+		<link>https://www.securityweek.com/adobe-calls-urgent-attention-to-critical-coldfusion-flaws/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 17:46:58 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Commerce]]></category>
+		<category><![CDATA[ColdFusion]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41857</guid>
+
+					<description><![CDATA[<p>The Adobe Patch Tuesday rollout covers 54 vulnerabilities, including code execution issues in the oft-targeted Adobe ColdFusion software.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-calls-urgent-attention-to-critical-coldfusion-flaws/">Adobe Calls Urgent Attention to Critical ColdFusion Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Network Access Vendor Portnox Secures $37.5 Million Investment</title>
+		<link>https://www.securityweek.com/network-access-vendor-portnox-secures-37-5-million-investment/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 16:13:49 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[NAC]]></category>
+		<category><![CDATA[Portknox]]></category>
+		<category><![CDATA[Series B]]></category>
+		<category><![CDATA[Updata Partners]]></category>
+		<category><![CDATA[Zero Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41856</guid>
+
+					<description><![CDATA[<p>Texas network access control startup closes a Series B round led by Updata Partners and brings the total raised to $60 million.</p>
+<p>The post <a href="https://www.securityweek.com/network-access-vendor-portnox-secures-37-5-million-investment/">Network Access Vendor Portnox Secures $37.5 Million Investment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Octane Raises $6.75M for Smart Contract Security Tech</title>
+		<link>https://www.securityweek.com/octane-raises-6-75m-for-smart-contract-security-tech/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2025 15:36:35 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Sec-Gemini]]></category>
-		<category><![CDATA[threat-intel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41834</guid>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Octane]]></category>
+		<category><![CDATA[seed-stage]]></category>
+		<category><![CDATA[smart contracts]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41855</guid>
 
-					<description><![CDATA[<p>Experimental Sec-Gemini v1 touts a combination of Google’s Gemini LLM capabilities with real-time security data and tooling from Mandiant.</p>
-<p>The post <a href="https://www.securityweek.com/google-pushing-sec-gemini-ai-model-for-threat-intel-workflows/">Google Pushing &#8216;Sec-Gemini&#8217; AI Model for Threat-Intel Workflows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CRM, Bulk Email Providers Targeted in Crypto Phishing Campaign</title>
-		<link>https://www.securityweek.com/crm-bulk-email-providers-targeted-in-crypto-phishing-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 11:52:45 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[email]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41833</guid>
-
-					<description><![CDATA[<p>‘PoisonSeed’ phishing campaign targets CRM and bulk email providers to distribute “crypto seed phrase” messages.</p>
-<p>The post <a href="https://www.securityweek.com/crm-bulk-email-providers-targeted-in-crypto-phishing-campaign/">CRM, Bulk Email Providers Targeted in Crypto Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NIST Puts Pre-2018 CVEs on Back Burner as It Works to Clear Backlog</title>
-		<link>https://www.securityweek.com/nist-puts-pre-2018-cves-on-back-burner-as-it-works-to-clear-backlog/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 11:01:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[backlog]]></category>
-		<category><![CDATA[CVE]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NIST]]></category>
-		<category><![CDATA[NVD]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41832</guid>
-
-					<description><![CDATA[<p>NIST has marked pre-2018 CVEs in NVD as ‘Deferred’ and will no longer spend resources on enriching them.</p>
-<p>The post <a href="https://www.securityweek.com/nist-puts-pre-2018-cves-on-back-burner-as-it-works-to-clear-backlog/">NIST Puts Pre-2018 CVEs on Back Burner as It Works to Clear Backlog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Port of Seattle Says 90,000 People Impacted by Ransomware Attack</title>
-		<link>https://www.securityweek.com/port-of-seattle-says-90000-people-impacted-by-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Port of Seattle]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41829</guid>
-
-					<description><![CDATA[<p>The Port of Seattle says the personal information of 90,000 individuals was stolen in an August 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/port-of-seattle-says-90000-people-impacted-by-ransomware-attack/">Port of Seattle Says 90,000 People Impacted by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>San Francisco smart contract security startup closes a $6.75 million seed funding round led by Archetype and Winklevoss Capital.</p>
+<p>The post <a href="https://www.securityweek.com/octane-raises-6-75m-for-smart-contract-security-tech/">Octane Raises $6.75M for Smart Contract Security Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
