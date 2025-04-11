@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 10 Apr 2025 12:01:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Apr 2025 12:15:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vulnerability in OttoKit WordPress Plugin Exploited in the Wild</title>
+		<link>https://www.securityweek.com/vulnerability-in-ottokit-wordpress-plugin-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 12:15:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress plugin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41901</guid>
+
+					<description><![CDATA[<p>A vulnerability in the OttoKit WordPress plugin with over 100,000 active installations has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-in-ottokit-wordpress-plugin-exploited-in-the-wild/">Vulnerability in OttoKit WordPress Plugin Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 12:15:35 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>In Other News: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions</title>
+		<link>https://www.securityweek.com/in-other-news-scattered-spider-still-active-encrypthub-unmasked-rydox-extraditions/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41890</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Scattered Spider still active despite arrests, hacker known as EncryptHub unmasked, Rydox admins extradited to US. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-scattered-spider-still-active-encrypthub-unmasked-rydox-extraditions/">In Other News: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Patches High-Severity Vulnerability in NetExtender</title>
+		<link>https://www.securityweek.com/sonicwall-patches-high-severity-vulnerability-in-netextender/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41894</guid>
+
+					<description><![CDATA[<p>SonicWall has released fixes for three vulnerabilities in NetExtender for Windows, including a high-severity bug.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-patches-high-severity-vulnerability-in-netextender/">SonicWall Patches High-Severity Vulnerability in NetExtender</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>1.6 Million People Impacted by Data Breach at Laboratory Services Cooperative</title>
+		<link>https://www.securityweek.com/1-6-million-people-impacted-by-data-breach-at-laboratory-services-cooperative/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 10:35:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[LSC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41893</guid>
+
+					<description><![CDATA[<p>Laboratory Services Cooperative says the personal and medical information of 1.6 million was stolen in an October 2024 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/1-6-million-people-impacted-by-data-breach-at-laboratory-services-cooperative/">1.6 Million People Impacted by Data Breach at Laboratory Services Cooperative</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China Admitted to Volt Typhoon Cyberattacks on US Critical Infrastructure: Report</title>
+		<link>https://www.securityweek.com/china-admitted-to-us-that-it-conducted-volt-typhoon-attacks-report/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[US]]></category>
+		<category><![CDATA[Volt Typhoon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41891</guid>
+
+					<description><![CDATA[<p>In a secret meeting between Chinese and US officials, the former confirmed conducting cyberattacks on US infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/china-admitted-to-us-that-it-conducted-volt-typhoon-attacks-report/">China Admitted to Volt Typhoon Cyberattacks on US Critical Infrastructure: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rising Tides: Bryson Bort on Cyber Entrepreneurship and the Needed Focus on Critical Infrastructure</title>
+		<link>https://www.securityweek.com/rising-tides-bryson-bort-on-cyber-entrepreneurship-and-the-needed-focus-on-critical-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 10:03:13 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41895</guid>
+
+					<description><![CDATA[<p>Very few people in the cybersecurity industry do not know, or know of, Bryson Bort. Yes, he’s the CEO/Founder of SCYTHE, but he’s also the co-founder of ICS Village (the next one at RSA Conference from April 28 to May 1, 2025). This event, and all of our industry’s attention on critical infrastructure, is pivotal [&#8230;]</p>
+<p>The post <a href="https://www.securityweek.com/rising-tides-bryson-bort-on-cyber-entrepreneurship-and-the-needed-focus-on-critical-infrastructure/">Rising Tides: Bryson Bort on Cyber Entrepreneurship and the Needed Focus on Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Europol Targets Customers of Smokeloader Pay-Per-Install Botnet</title>
+		<link>https://www.securityweek.com/europol-targets-customers-of-smokeloader-pay-per-install-botnet/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 15:15:37 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[Operation Endgame]]></category>
+		<category><![CDATA[Smokeloader]]></category>
+		<category><![CDATA[Trickbot]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41889</guid>
+
+					<description><![CDATA[<p>Law enforcement agencies in multiple countries have announced the arrests of users of the malicious Smokeloader botnet.</p>
+<p>The post <a href="https://www.securityweek.com/europol-targets-customers-of-smokeloader-pay-per-install-botnet/">Europol Targets Customers of Smokeloader Pay-Per-Install Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Revokes Security Clearance for Ex-CISA Director Chris Krebs</title>
+		<link>https://www.securityweek.com/trump-revokes-security-clearance-for-ex-cisa-director-chris-krebs/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 14:45:15 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CC Krebs]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Election]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Krebs Stamos Group]]></category>
+		<category><![CDATA[SentinelOne]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41885</guid>
+
+					<description><![CDATA[<p>Trump orders a termination of any active security clearances held by Krebs and a suspension of clearances held by individuals at SentinelOne.</p>
+<p>The post <a href="https://www.securityweek.com/trump-revokes-security-clearance-for-ex-cisa-director-chris-krebs/">Trump Revokes Security Clearance for Ex-CISA Director Chris Krebs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Juniper Networks Patches Dozens of Junos Vulnerabilities</title>
+		<link>https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 13:34:30 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Juniper]]></category>
+		<category><![CDATA[Junos]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41884</guid>
+
+					<description><![CDATA[<p>Juniper Networks has patched two dozen vulnerabilities in Junos OS and Junos OS Evolved, and dozens of flaws in Junos Space third-party dependencies.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-vulnerabilities/">Juniper Networks Patches Dozens of Junos Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Study Identifies 20 Most Vulnerable Connected Devices of 2025</title>
 		<link>https://www.securityweek.com/study-identifies-20-most-vulnerable-connected-devices-of-2025/</link>
 		
@@ -43,187 +223,6 @@
 
 					<description><![CDATA[<p>Routers are the riskiest devices in enterprise networks as they contain the most critical vulnerabilities, a new Forescout report shows.</p>
 <p>The post <a href="https://www.securityweek.com/study-identifies-20-most-vulnerable-connected-devices-of-2025/">Study Identifies 20 Most Vulnerable Connected Devices of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 12:01:58 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>GitHub Announces General Availability of Security Campaigns</title>
-		<link>https://www.securityweek.com/github-announces-general-availability-of-security-campaigns/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 11:10:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[security campaigns]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41881</guid>
-
-					<description><![CDATA[<p>GitHub security campaigns make it easier for developers and security teams to collaborate on fixing vulnerabilities in their applications.</p>
-<p>The post <a href="https://www.securityweek.com/github-announces-general-availability-of-security-campaigns/">GitHub Announces General Availability of Security Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nissan Leaf Hacked for Remote Spying, Physical Takeover</title>
-		<link>https://www.securityweek.com/nissan-leaf-hacked-for-remote-spying-physical-takeover/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 10:40:00 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Nissan]]></category>
-		<category><![CDATA[Nissan Leaf]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41879</guid>
-
-					<description><![CDATA[<p>Researchers find vulnerabilities that can be exploited to remotely take control of a Nissan Leaf’s functions, including physical controls.</p>
-<p>The post <a href="https://www.securityweek.com/nissan-leaf-hacked-for-remote-spying-physical-takeover/">Nissan Leaf Hacked for Remote Spying, Physical Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Operations of Sensor Giant Sensata Disrupted by Ransomware Attack</title>
-		<link>https://www.securityweek.com/operations-of-sensor-giant-sensata-disrupted-by-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 10:10:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Sensata]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41877</guid>
-
-					<description><![CDATA[<p>Sensata has informed the SEC that shipping, manufacturing and other operations have been impacted by a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/operations-of-sensor-giant-sensata-disrupted-by-ransomware-attack/">Operations of Sensor Giant Sensata Disrupted by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;AkiraBot&#8217; Spammed 80,000 Websites With AI-Generated Messages</title>
-		<link>https://www.securityweek.com/akirabot-spammed-80000-websites-with-ai-generated-messages/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 08:50:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AkiraBot]]></category>
-		<category><![CDATA[SEO]]></category>
-		<category><![CDATA[spam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41878</guid>
-
-					<description><![CDATA[<p>CAPTCHA-evading Python framework AkiraBot has spammed over 80,000 websites with AI-generated spam messages.</p>
-<p>The post <a href="https://www.securityweek.com/akirabot-spammed-80000-websites-with-ai-generated-messages/">&#8216;AkiraBot&#8217; Spammed 80,000 Websites With AI-Generated Messages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Targets SOC Overload With Automated AI Alert and Malware Analysis Tools</title>
-		<link>https://www.securityweek.com/google-targets-soc-overload-with-automated-ai-alert-and-malware-analysis-tools/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 17:49:35 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41874</guid>
-
-					<description><![CDATA[<p>Google plans to unleash automated AI agents into overtaxed SOCs to reduce the manual workload for cybersecurity investigators.</p>
-<p>The post <a href="https://www.securityweek.com/google-targets-soc-overload-with-automated-ai-alert-and-malware-analysis-tools/">Google Targets SOC Overload With Automated AI Alert and Malware Analysis Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Groucho’s Wit, Cloud Complexity, and the Case for Consistent Security Policy</title>
-		<link>https://www.securityweek.com/grouchos-wit-cloud-complexity-and-the-case-for-consistent-security-policy/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 17:30:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41871</guid>
-
-					<description><![CDATA[<p>The greatest security policies in the world are useless if enterprises don’t have a reasonable, consistent, and reliable way to implement them.</p>
-<p>The post <a href="https://www.securityweek.com/grouchos-wit-cloud-complexity-and-the-case-for-consistent-security-policy/">Groucho’s Wit, Cloud Complexity, and the Case for Consistent Security Policy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Now Outsmarts Humans in Spear Phishing, Analysis Shows</title>
-		<link>https://www.securityweek.com/ai-now-outsmarts-humans-in-spear-phishing-analysis-shows/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 17:01:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41872</guid>
-
-					<description><![CDATA[<p>Agentic AI has improved spear phishing effectiveness by 55% since 2023, research shows.</p>
-<p>The post <a href="https://www.securityweek.com/ai-now-outsmarts-humans-in-spear-phishing-analysis-shows/">AI Now Outsmarts Humans in Spear Phishing, Analysis Shows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Qevlar AI Raises $10 Million for Autonomous Investigation Platform</title>
-		<link>https://www.securityweek.com/qevlar-ai-raises-10-million-for-autonomous-investigation-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 12:21:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Qevlar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41869</guid>
-
-					<description><![CDATA[<p>French cybersecurity startup Qevlar AI has raised $10 million in a funding round led by EQT Ventures and Forgepoint Capital International.</p>
-<p>The post <a href="https://www.securityweek.com/qevlar-ai-raises-10-million-for-autonomous-investigation-platform/">Qevlar AI Raises $10 Million for Autonomous Investigation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Treasury&#8217;s OCC Says Hackers Had Access to 150,000 Emails</title>
-		<link>https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 09 Apr 2025 11:38:25 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OCC]]></category>
-		<category><![CDATA[Treasury]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41868</guid>
-
-					<description><![CDATA[<p>The Office of the Comptroller of the Currency (OCC) has disclosed an email security incident in which 100 accounts were compromised for over a year. </p>
-<p>The post <a href="https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/">Treasury&#8217;s OCC Says Hackers Had Access to 150,000 Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
