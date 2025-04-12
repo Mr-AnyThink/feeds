@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 11 Apr 2025 12:15:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Apr 2025 17:48:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,48 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rapid7 Reveals RCE Path in Ivanti VPN Appliance After Silent Patch Debacle</title>
+		<link>https://www.securityweek.com/rapid7-reveals-rce-path-in-ivanti-vpn-appliance-after-silent-patch-debacle/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 17:48:48 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Connect Secure]]></category>
+		<category><![CDATA[CVE-2025-22457]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Rapid7]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41904</guid>
+
+					<description><![CDATA[<p>The CVE-2025-22457 has already been exploited by a China-nexus hacking gang notorious for breaking into edge network devices.</p>
+<p>The post <a href="https://www.securityweek.com/rapid7-reveals-rce-path-in-ivanti-vpn-appliance-after-silent-patch-debacle/">Rapid7 Reveals RCE Path in Ivanti VPN Appliance After Silent Patch Debacle</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 05:14:53 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Hackers Breach Morocco’s Social Security Database</title>
+		<link>https://www.securityweek.com/hackers-breach-moroccos-social-security-database/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2025 14:02:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Morocco]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41902</guid>
+
+					<description><![CDATA[<p>The hackers who posted the documents on Telegram said the attack was in response to alleged Moroccan “harassment” of Algeria on social media platforms.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-breach-moroccos-social-security-database/">Hackers Breach Morocco’s Social Security Database</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vulnerability in OttoKit WordPress Plugin Exploited in the Wild</title>
 		<link>https://www.securityweek.com/vulnerability-in-ottokit-wordpress-plugin-exploited-in-the-wild/</link>
 		
@@ -45,7 +87,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 12:15:35 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions</title>
 		<link>https://www.securityweek.com/in-other-news-scattered-spider-still-active-encrypthub-unmasked-rydox-extraditions/</link>
@@ -136,7 +178,7 @@
 		<category><![CDATA[OT]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=41895</guid>
 
-					<description><![CDATA[<p>Very few people in the cybersecurity industry do not know, or know of, Bryson Bort. Yes, he’s the CEO/Founder of SCYTHE, but he’s also the co-founder of ICS Village (the next one at RSA Conference from April 28 to May 1, 2025). This event, and all of our industry’s attention on critical infrastructure, is pivotal [&#8230;]</p>
+					<description><![CDATA[<p>Very few people in the cybersecurity industry do not know, or know of, Bryson Bort, CEO/Founder of SCYTHE and the co-founder of ICS Village.</p>
 <p>The post <a href="https://www.securityweek.com/rising-tides-bryson-bort-on-cyber-entrepreneurship-and-the-needed-focus-on-critical-infrastructure/">Rising Tides: Bryson Bort on Cyber Entrepreneurship and the Needed Focus on Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
@@ -183,46 +225,6 @@
 
 					<description><![CDATA[<p>Trump orders a termination of any active security clearances held by Krebs and a suspension of clearances held by individuals at SentinelOne.</p>
 <p>The post <a href="https://www.securityweek.com/trump-revokes-security-clearance-for-ex-cisa-director-chris-krebs/">Trump Revokes Security Clearance for Ex-CISA Director Chris Krebs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Juniper Networks Patches Dozens of Junos Vulnerabilities</title>
-		<link>https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 13:34:30 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper]]></category>
-		<category><![CDATA[Junos]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41884</guid>
-
-					<description><![CDATA[<p>Juniper Networks has patched two dozen vulnerabilities in Junos OS and Junos OS Evolved, and dozens of flaws in Junos Space third-party dependencies.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-vulnerabilities/">Juniper Networks Patches Dozens of Junos Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Study Identifies 20 Most Vulnerable Connected Devices of 2025</title>
-		<link>https://www.securityweek.com/study-identifies-20-most-vulnerable-connected-devices-of-2025/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 12:01:52 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Forescout]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41883</guid>
-
-					<description><![CDATA[<p>Routers are the riskiest devices in enterprise networks as they contain the most critical vulnerabilities, a new Forescout report shows.</p>
-<p>The post <a href="https://www.securityweek.com/study-identifies-20-most-vulnerable-connected-devices-of-2025/">Study Identifies 20 Most Vulnerable Connected Devices of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
