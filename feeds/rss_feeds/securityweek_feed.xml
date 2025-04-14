@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 11 Apr 2025 17:48:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Apr 2025 10:41:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Malicious NPM Packages Target Cryptocurrency, PayPal Users</title>
+		<link>https://www.securityweek.com/malicious-npm-packages-target-cryptocurrency-paypal-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 10:41:09 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41906</guid>
+
+					<description><![CDATA[<p>Threat actors are publishing malicious NPM packages to steal PayPal credentials and hijack cryptocurrency transfers.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-npm-packages-target-cryptocurrency-paypal-users/">Malicious NPM Packages Target Cryptocurrency, PayPal Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 14, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-14-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-14-2025/</guid><pubDate>Mon, 14 Apr 2025 10:41:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 14, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
 		<title>Rapid7 Reveals RCE Path in Ivanti VPN Appliance After Silent Patch Debacle</title>
 		<link>https://www.securityweek.com/rapid7-reveals-rce-path-in-ivanti-vpn-appliance-after-silent-patch-debacle/</link>
 		
@@ -50,7 +67,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 7, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-07-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-07-2025/</guid><pubDate>Mon, 07 Apr 2025 05:14:53 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 7, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Hackers Breach Morocco’s Social Security Database</title>
 		<link>https://www.securityweek.com/hackers-breach-moroccos-social-security-database/</link>
@@ -202,29 +219,6 @@
 
 					<description><![CDATA[<p>Law enforcement agencies in multiple countries have announced the arrests of users of the malicious Smokeloader botnet.</p>
 <p>The post <a href="https://www.securityweek.com/europol-targets-customers-of-smokeloader-pay-per-install-botnet/">Europol Targets Customers of Smokeloader Pay-Per-Install Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Revokes Security Clearance for Ex-CISA Director Chris Krebs</title>
-		<link>https://www.securityweek.com/trump-revokes-security-clearance-for-ex-cisa-director-chris-krebs/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 14:45:15 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CC Krebs]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Election]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Krebs Stamos Group]]></category>
-		<category><![CDATA[SentinelOne]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41885</guid>
-
-					<description><![CDATA[<p>Trump orders a termination of any active security clearances held by Krebs and a suspension of clearances held by individuals at SentinelOne.</p>
-<p>The post <a href="https://www.securityweek.com/trump-revokes-security-clearance-for-ex-cisa-director-chris-krebs/">Trump Revokes Security Clearance for Ex-CISA Director Chris Krebs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
