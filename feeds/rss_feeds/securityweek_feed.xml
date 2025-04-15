@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 14 Apr 2025 10:41:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Apr 2025 10:59:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Malicious NPM Packages Target Cryptocurrency, PayPal Users</title>
-		<link>https://www.securityweek.com/malicious-npm-packages-target-cryptocurrency-paypal-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 10:41:09 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41906</guid>
-
-					<description><![CDATA[<p>Threat actors are publishing malicious NPM packages to steal PayPal credentials and hijack cryptocurrency transfers.</p>
-<p>The post <a href="https://www.securityweek.com/malicious-npm-packages-target-cryptocurrency-paypal-users/">Malicious NPM Packages Target Cryptocurrency, PayPal Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 14, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-14-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-14-2025/</guid><pubDate>Mon, 14 Apr 2025 10:41:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 14, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Rapid7 Reveals RCE Path in Ivanti VPN Appliance After Silent Patch Debacle</title>
-		<link>https://www.securityweek.com/rapid7-reveals-rce-path-in-ivanti-vpn-appliance-after-silent-patch-debacle/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 17:48:48 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Connect Secure]]></category>
-		<category><![CDATA[CVE-2025-22457]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Rapid7]]></category>
-		<category><![CDATA[VPN]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41904</guid>
-
-					<description><![CDATA[<p>The CVE-2025-22457 has already been exploited by a China-nexus hacking gang notorious for breaking into edge network devices.</p>
-<p>The post <a href="https://www.securityweek.com/rapid7-reveals-rce-path-in-ivanti-vpn-appliance-after-silent-patch-debacle/">Rapid7 Reveals RCE Path in Ivanti VPN Appliance After Silent Patch Debacle</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Breach Morocco’s Social Security Database</title>
-		<link>https://www.securityweek.com/hackers-breach-moroccos-social-security-database/</link>
+		<title>China Pursuing 3 Alleged US Operatives Over Cyberattacks During Asian Games</title>
+		<link>https://www.securityweek.com/china-pursuing-3-alleged-us-operatives-over-cyberattacks-during-asian-games/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 14:02:49 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Morocco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41902</guid>
-
-					<description><![CDATA[<p>The hackers who posted the documents on Telegram said the attack was in response to alleged Moroccan “harassment” of Algeria on social media platforms.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-breach-moroccos-social-security-database/">Hackers Breach Morocco’s Social Security Database</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability in OttoKit WordPress Plugin Exploited in the Wild</title>
-		<link>https://www.securityweek.com/vulnerability-in-ottokit-wordpress-plugin-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 12:15:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41901</guid>
-
-					<description><![CDATA[<p>A vulnerability in the OttoKit WordPress plugin with over 100,000 active installations has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-ottokit-wordpress-plugin-exploited-in-the-wild/">Vulnerability in OttoKit WordPress Plugin Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions</title>
-		<link>https://www.securityweek.com/in-other-news-scattered-spider-still-active-encrypthub-unmasked-rydox-extraditions/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41890</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Scattered Spider still active despite arrests, hacker known as EncryptHub unmasked, Rydox admins extradited to US. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-scattered-spider-still-active-encrypthub-unmasked-rydox-extraditions/">In Other News: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches High-Severity Vulnerability in NetExtender</title>
-		<link>https://www.securityweek.com/sonicwall-patches-high-severity-vulnerability-in-netextender/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41894</guid>
-
-					<description><![CDATA[<p>SonicWall has released fixes for three vulnerabilities in NetExtender for Windows, including a high-severity bug.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-high-severity-vulnerability-in-netextender/">SonicWall Patches High-Severity Vulnerability in NetExtender</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1.6 Million People Impacted by Data Breach at Laboratory Services Cooperative</title>
-		<link>https://www.securityweek.com/1-6-million-people-impacted-by-data-breach-at-laboratory-services-cooperative/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 10:35:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[LSC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41893</guid>
-
-					<description><![CDATA[<p>Laboratory Services Cooperative says the personal and medical information of 1.6 million was stolen in an October 2024 data breach.</p>
-<p>The post <a href="https://www.securityweek.com/1-6-million-people-impacted-by-data-breach-at-laboratory-services-cooperative/">1.6 Million People Impacted by Data Breach at Laboratory Services Cooperative</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China Admitted to Volt Typhoon Cyberattacks on US Critical Infrastructure: Report</title>
-		<link>https://www.securityweek.com/china-admitted-to-us-that-it-conducted-volt-typhoon-attacks-report/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 10:10:00 +0000</pubDate>
+		<pubDate>Tue, 15 Apr 2025 10:59:01 +0000</pubDate>
 				<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[China]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[US]]></category>
-		<category><![CDATA[Volt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41891</guid>
+		<category><![CDATA[NSA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41928</guid>
 
-					<description><![CDATA[<p>In a secret meeting between Chinese and US officials, the former confirmed conducting cyberattacks on US infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/china-admitted-to-us-that-it-conducted-volt-typhoon-attacks-report/">China Admitted to Volt Typhoon Cyberattacks on US Critical Infrastructure: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>China accuses three alleged U.S. NSA operatives of cyberattacks targeting critical infrastructure and the Asian Games in Harbin. </p>
+<p>The post <a href="https://www.securityweek.com/china-pursuing-3-alleged-us-operatives-over-cyberattacks-during-asian-games/">China Pursuing 3 Alleged US Operatives Over Cyberattacks During Asian Games</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 14, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-14-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-14-2025/</guid><pubDate>Mon, 14 Apr 2025 10:59:07 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 14, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Blockchain, Quantum, and IoT Firms Unite to Secure Satellite Communications Against Quantum Threats</title>
+		<link>https://www.securityweek.com/blockchain-quantum-and-iot-firms-unite-to-secure-satellite-communications-against-quantum-threats/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 10:48:48 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41927</guid>
+
+					<description><![CDATA[<p>Partisia, Squareroot8, and NuSpace join forces in a global partnership to advance quantum-safe communications. </p>
+<p>The post <a href="https://www.securityweek.com/blockchain-quantum-and-iot-firms-unite-to-secure-satellite-communications-against-quantum-threats/">Blockchain, Quantum, and IoT Firms Unite to Secure Satellite Communications Against Quantum Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Rising Tides: Bryson Bort on Cyber Entrepreneurship and the Needed Focus on Critical Infrastructure</title>
-		<link>https://www.securityweek.com/rising-tides-bryson-bort-on-cyber-entrepreneurship-and-the-needed-focus-on-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 10:03:13 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41895</guid>
-
-					<description><![CDATA[<p>Very few people in the cybersecurity industry do not know, or know of, Bryson Bort, CEO/Founder of SCYTHE and the co-founder of ICS Village.</p>
-<p>The post <a href="https://www.securityweek.com/rising-tides-bryson-bort-on-cyber-entrepreneurship-and-the-needed-focus-on-critical-infrastructure/">Rising Tides: Bryson Bort on Cyber Entrepreneurship and the Needed Focus on Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Europol Targets Customers of Smokeloader Pay-Per-Install Botnet</title>
-		<link>https://www.securityweek.com/europol-targets-customers-of-smokeloader-pay-per-install-botnet/</link>
+		<title>NetRise Raises $10 Million to Grow Software Supply Chain Security Platform</title>
+		<link>https://www.securityweek.com/netrise-raises-10-million-to-grow-software-supply-chain-security-platform/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 10 Apr 2025 15:15:37 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Europol]]></category>
-		<category><![CDATA[Operation Endgame]]></category>
-		<category><![CDATA[Smokeloader]]></category>
-		<category><![CDATA[Trickbot]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41889</guid>
+		<pubDate>Tue, 15 Apr 2025 10:31:07 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[NetRise]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41922</guid>
 
-					<description><![CDATA[<p>Law enforcement agencies in multiple countries have announced the arrests of users of the malicious Smokeloader botnet.</p>
-<p>The post <a href="https://www.securityweek.com/europol-targets-customers-of-smokeloader-pay-per-install-botnet/">Europol Targets Customers of Smokeloader Pay-Per-Install Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The funding round brings the total amount raised by the NetRise to roughly $25 million.</p>
+<p>The post <a href="https://www.securityweek.com/netrise-raises-10-million-to-grow-software-supply-chain-security-platform/">NetRise Raises $10 Million to Grow Software Supply Chain Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hertz Discloses Data Breach Linked to Cleo Hack</title>
+		<link>https://www.securityweek.com/hertz-discloses-data-breach-linked-to-cleo-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 10:05:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hertz]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41920</guid>
+
+					<description><![CDATA[<p>Customers of the Hertz, Thrifty, and Dollar brands had their personal information stolen as a result of the Cleo hack last year.</p>
+<p>The post <a href="https://www.securityweek.com/hertz-discloses-data-breach-linked-to-cleo-hack/">Hertz Discloses Data Breach Linked to Cleo Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Maarten Van Horenbeeck, SVP &#038; Chief Security officer at Adobe</title>
+		<link>https://www.securityweek.com/ciso-conversations-maarten-van-horenbeeck-svp-chief-security-officer-at-adobe/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41916</guid>
+
+					<description><![CDATA[<p>Van Horenbeeck's career spans some of the biggest companies in tech: Verizon, Microsoft, Google, Amazon, Zendesk, and now SVP and CSO at Adobe.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-maarten-van-horenbeeck-svp-chief-security-officer-at-adobe/">CISO Conversations: Maarten Van Horenbeeck, SVP &amp; Chief Security officer at Adobe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Huntress Documents In-The-Wild Exploitation of Critical Gladinet Vulnerabilities</title>
+		<link>https://www.securityweek.com/huntress-documents-in-the-wild-exploitation-of-critical-gladinet-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 17:27:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[CrushFTP]]></category>
+		<category><![CDATA[CVE-2025-30406]]></category>
+		<category><![CDATA[Gladinet]]></category>
+		<category><![CDATA[Triofox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41915</guid>
+
+					<description><![CDATA[<p>The flaw, tagged as CVE-2025-30406, was added to CISA’s Known Exploited Vulnerabilities (KEV) catalog in early April.</p>
+<p>The post <a href="https://www.securityweek.com/huntress-documents-in-the-wild-exploitation-of-critical-gladinet-vulnerabilities/">Huntress Documents In-The-Wild Exploitation of Critical Gladinet Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trend Micro Flags Incomplete Nvidia Patch That Leaves AI Containers Exposed</title>
+		<link>https://www.securityweek.com/trend-micro-flags-incomplete-nvidia-patch-that-leaves-ai-containers-exposed/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 16:47:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[container escape]]></category>
+		<category><![CDATA[CVE-2024-0132]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41914</guid>
+
+					<description><![CDATA[<p>Trend Micro researchers flagging problems with Nvidia’s patch for a critical, code execution vulnerability in the Nvidia Container Toolkit.</p>
+<p>The post <a href="https://www.securityweek.com/trend-micro-flags-incomplete-nvidia-patch-that-leaves-ai-containers-exposed/">Trend Micro Flags Incomplete Nvidia Patch That Leaves AI Containers Exposed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threat Actor Allegedly Selling Fortinet Firewall Zero-Day Exploit</title>
+		<link>https://www.securityweek.com/threat-actor-allegedly-selling-fortinet-firewall-zero-day-exploit/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 13:48:54 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2022-42475]]></category>
+		<category><![CDATA[CVE-2023-27997]]></category>
+		<category><![CDATA[CVE-2024-21762]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[FortiOS]]></category>
+		<category><![CDATA[ThreatMon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41911</guid>
+
+					<description><![CDATA[<p>A threat actor claims to offer a zero-day exploit for an unauthenticated remote code execution vulnerability in Fortinet firewalls.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actor-allegedly-selling-fortinet-firewall-zero-day-exploit/">Threat Actor Allegedly Selling Fortinet Firewall Zero-Day Exploit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New &#8216;ResolverRAT&#8217; Targeting Healthcare, Pharmaceutical Organizations</title>
+		<link>https://www.securityweek.com/new-resolverrat-targeting-healthcare-pharmaceutical-organizations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 13:40:36 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[MorphiSec]]></category>
+		<category><![CDATA[ResolverRat]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41909</guid>
+
+					<description><![CDATA[<p>Organizations in the healthcare and pharmaceutical sectors have been targeted with ResolverRAT, a new malware family with advanced capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/new-resolverrat-targeting-healthcare-pharmaceutical-organizations/">New &#8216;ResolverRAT&#8217; Targeting Healthcare, Pharmaceutical Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Hallucinations Create a New Software Supply Chain Threat</title>
+		<link>https://www.securityweek.com/ai-hallucinations-create-a-new-software-supply-chain-threat/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2025 12:54:09 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gen-AI]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41907</guid>
+
+					<description><![CDATA[<p>Researchers uncover new software supply chain threat from LLM-generated package hallucinations.</p>
+<p>The post <a href="https://www.securityweek.com/ai-hallucinations-create-a-new-software-supply-chain-threat/">AI Hallucinations Create a New Software Supply Chain Threat</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
