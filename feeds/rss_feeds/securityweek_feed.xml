@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 18 Apr 2025 16:24:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Apr 2025 11:14:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare</title>
+		<link>https://www.securityweek.com/countries-shore-up-their-digital-defenses-as-global-tensions-raise-the-threat-of-cyberwarfare/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 11:12:55 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[Government]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42001</guid>
+
+					<description><![CDATA[<p>Countries around the world are preparing for greater digital conflict as increasing global tensions and a looming trade war have raised the stakes.</p>
+<p>The post <a href="https://www.securityweek.com/countries-shore-up-their-digital-defenses-as-global-tensions-raise-the-threat-of-cyberwarfare/">Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 11:14:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking</title>
+		<link>https://www.securityweek.com/lantronix-device-used-in-critical-infrastructure-exposes-systems-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 09:44:25 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Lantronix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42000</guid>
+
+					<description><![CDATA[<p>Lantronix’s XPort device is affected by a critical vulnerability that can be used for takeover and disruption, including in the energy sector.</p>
+<p>The post <a href="https://www.securityweek.com/lantronix-device-used-in-critical-infrastructure-exposes-systems-to-remote-hacking/">Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Shadow AI Surge: Study Finds 50% of Workers Use Unapproved AI Tools</title>
 		<link>https://www.securityweek.com/the-shadow-ai-surge-study-finds-50-of-workers-use-unapproved-ai-tools/</link>
 		
@@ -47,7 +84,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 14, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-14-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-14-2025/</guid><pubDate>Mon, 14 Apr 2025 21:41:37 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 14, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>In Other News: 4chan Hacked, Android Auto-Reboot, Nemesis Admin Charged</title>
 		<link>https://www.securityweek.com/in-other-news-4chan-hacked-android-auto-reboot-nemesis-admin-charged/</link>
@@ -175,45 +212,6 @@
 
 					<description><![CDATA[<p>While the Security Posture Management buzz is real, its long-term viability depends on whether it can deliver measurable outcomes without adding more complexity.</p>
 <p>The post <a href="https://www.securityweek.com/demystifying-security-posture-management/">Demystifying Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Patched in Atlassian, Cisco Products</title>
-		<link>https://www.securityweek.com/vulnerabilities-patched-in-atlassian-cisco-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 12:28:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41976</guid>
-
-					<description><![CDATA[<p>Atlassian and Cisco have released patches for multiple high-severity vulnerabilities, including remote code execution bugs.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-patched-in-atlassian-cisco-products/">Vulnerabilities Patched in Atlassian, Cisco Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Erlang/OTP SSH Flaw Exposes Many Devices to Remote Hacking</title>
-		<link>https://www.securityweek.com/critical-erlang-otp-ssh-flaw-exposes-many-servers-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 12:14:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Erlang OTP]]></category>
-		<category><![CDATA[SSH]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41975</guid>
-
-					<description><![CDATA[<p>Servers exposed to complete takeover due to CVE-2025-32433, an unauthenticated remote code execution flaw in Erlang/OTP SSH.</p>
-<p>The post <a href="https://www.securityweek.com/critical-erlang-otp-ssh-flaw-exposes-many-servers-to-remote-hacking/">Critical Erlang/OTP SSH Flaw Exposes Many Devices to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
