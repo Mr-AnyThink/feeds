@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 21 Apr 2025 11:14:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Apr 2025 12:13:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,190 +28,210 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare</title>
-		<link>https://www.securityweek.com/countries-shore-up-their-digital-defenses-as-global-tensions-raise-the-threat-of-cyberwarfare/</link>
+		<title>SSL.com Scrambles to Patch Certificate Issuance Vulnerability </title>
+		<link>https://www.securityweek.com/ssl-com-scrambles-to-patch-certificate-issuance-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 12:13:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[SSL.com]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42016</guid>
+
+					<description><![CDATA[<p>A vulnerability in SSL.com has resulted in nearly a dozen certificates for legitimate domains being wrongly issued.</p>
+<p>The post <a href="https://www.securityweek.com/ssl-com-scrambles-to-patch-certificate-issuance-vulnerability/">SSL.com Scrambles to Patch Certificate Issuance Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:13:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Open Source Security Firm Hopper Emerges From Stealth With $7.6M in Funding</title>
+		<link>https://www.securityweek.com/open-source-security-firm-hopper-emerges-from-stealth-with-7-6m-in-funding/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Hopper]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42011</guid>
+
+					<description><![CDATA[<p>Hopper has emerged from stealth mode with a solution designed to help organizations manage open source software risk.</p>
+<p>The post <a href="https://www.securityweek.com/open-source-security-firm-hopper-emerges-from-stealth-with-7-6m-in-funding/">Open Source Security Firm Hopper Emerges From Stealth With $7.6M in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Many Malware Campaigns Linked to Proton66 Network</title>
+		<link>https://www.securityweek.com/many-malware-campaigns-linked-to-proton66-network/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 11:31:51 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ASN]]></category>
+		<category><![CDATA[bulletproof hosting]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Proton66]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42015</guid>
+
+					<description><![CDATA[<p>Security researchers detail various malware campaigns that use bulletproof services linked to Proton66 ASN.</p>
+<p>The post <a href="https://www.securityweek.com/many-malware-campaigns-linked-to-proton66-network/">Many Malware Campaigns Linked to Proton66 Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Legacy Google Service Abused in Phishing Attacks</title>
+		<link>https://www.securityweek.com/legacy-google-service-abused-in-phishing-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 11:14:36 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[Google phishing]]></category>
+		<category><![CDATA[OAuth]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42013</guid>
+
+					<description><![CDATA[<p>A sophisticated phishing campaign abuses weakness in Google Sites to spoof Google no-reply addresses and bypass protections.</p>
+<p>The post <a href="https://www.securityweek.com/legacy-google-service-abused-in-phishing-attacks/">Legacy Google Service Abused in Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UN Researchers Warn That Asian Scam Operations Are Spreading Across the Rest of the World</title>
+		<link>https://www.securityweek.com/un-researchers-warn-that-asian-scam-operations-are-spreading-across-the-rest-of-the-world/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 11:12:55 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[Government]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42001</guid>
+		<pubDate>Tue, 22 Apr 2025 10:40:00 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[scam]]></category>
+		<category><![CDATA[scam centers]]></category>
+		<category><![CDATA[United Nations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42012</guid>
 
-					<description><![CDATA[<p>Countries around the world are preparing for greater digital conflict as increasing global tensions and a looming trade war have raised the stakes.</p>
-<p>The post <a href="https://www.securityweek.com/countries-shore-up-their-digital-defenses-as-global-tensions-raise-the-threat-of-cyberwarfare/">Countries Shore Up Their Digital Defenses as Global Tensions Raise the Threat of Cyberwarfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Transnational organized crime groups in East and Southeast Asia are spreading their lucrative scam operations across the globe, according to a UN report.</p>
+<p>The post <a href="https://www.securityweek.com/un-researchers-warn-that-asian-scam-operations-are-spreading-across-the-rest-of-the-world/">UN Researchers Warn That Asian Scam Operations Are Spreading Across the Rest of the World</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 11:14:23 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
-		<title>Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking</title>
-		<link>https://www.securityweek.com/lantronix-device-used-in-critical-infrastructure-exposes-systems-to-remote-hacking/</link>
+		<title>Two Healthcare Orgs Hit by Ransomware Confirm Data Breaches Impacting Over 100,000</title>
+		<link>https://www.securityweek.com/two-healthcare-orgs-hit-by-ransomware-confirm-data-breaches-impacting-over-100000/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 09:44:25 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Lantronix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42000</guid>
-
-					<description><![CDATA[<p>Lantronix’s XPort device is affected by a critical vulnerability that can be used for takeover and disruption, including in the energy sector.</p>
-<p>The post <a href="https://www.securityweek.com/lantronix-device-used-in-critical-infrastructure-exposes-systems-to-remote-hacking/">Lantronix Device Used in Critical Infrastructure Exposes Systems to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Shadow AI Surge: Study Finds 50% of Workers Use Unapproved AI Tools</title>
-		<link>https://www.securityweek.com/the-shadow-ai-surge-study-finds-50-of-workers-use-unapproved-ai-tools/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 16:24:49 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Shadow AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41990</guid>
-
-					<description><![CDATA[<p>With unapproved AI tools entrenched in daily workflows, experts say it’s time to shift from monitoring to managing Shadow AI use across the enterprise.</p>
-<p>The post <a href="https://www.securityweek.com/the-shadow-ai-surge-study-finds-50-of-workers-use-unapproved-ai-tools/">The Shadow AI Surge: Study Finds 50% of Workers Use Unapproved AI Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: 4chan Hacked, Android Auto-Reboot, Nemesis Admin Charged</title>
-		<link>https://www.securityweek.com/in-other-news-4chan-hacked-android-auto-reboot-nemesis-admin-charged/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41989</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: 4chan hacked, auto-reboot security feature coming to Android, Iranian administrator of Nemesis charged in US.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-4chan-hacked-android-auto-reboot-nemesis-admin-charged/">In Other News: 4chan Hacked, Android Auto-Reboot, Nemesis Admin Charged</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cy4Data Labs Raises $10 Million to Secure Data in Use</title>
-		<link>https://www.securityweek.com/cy4data-labs-raises-10-million-to-secure-data-in-use/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Cy4Data]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41988</guid>
-
-					<description><![CDATA[<p>Data protection firm Cy4Data Labs has raised $10 million in a Series A funding round led by Pelion Venture Partners.</p>
-<p>The post <a href="https://www.securityweek.com/cy4data-labs-raises-10-million-to-secure-data-in-use/">Cy4Data Labs Raises $10 Million to Secure Data in Use</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Events Giant Legends International Hacked</title>
-		<link>https://www.securityweek.com/live-events-giant-legends-international-hacked/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 10:40:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Legends International]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41987</guid>
-
-					<description><![CDATA[<p>Legends International says the personal information of employees and customers was compromised as a result of a cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/live-events-giant-legends-international-hacked/">Events Giant Legends International Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ahold Delhaize Confirms Data Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/ahold-delhaize-confirms-data-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 10:10:00 +0000</pubDate>
+		<pubDate>Tue, 22 Apr 2025 10:10:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Ahold Delhaize]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
 		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41986</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42010</guid>
 
-					<description><![CDATA[<p>Ahold Delhaize has confirmed that data was stolen from its systems in November 2024 after a ransomware group claimed the attack.</p>
-<p>The post <a href="https://www.securityweek.com/ahold-delhaize-confirms-data-stolen-in-ransomware-attack/">Ahold Delhaize Confirms Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Bell Ambulance and Alabama Ophthalmology Associates have suffered data breaches affecting over 100,000 people after being targeted in ransomware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/two-healthcare-orgs-hit-by-ransomware-confirm-data-breaches-impacting-over-100000/">Two Healthcare Orgs Hit by Ransomware Confirm Data Breaches Impacting Over 100,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Fresh Windows NTLM Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/fresh-windows-ntlm-vulnerability-exploited-in-attacks/</link>
+		<title>Microsoft Purges Dormant Azure Tenants, Rotates Keys to Prevent Repeat Nation-State Hack </title>
+		<link>https://www.securityweek.com/microsoft-purges-dormant-azure-tenants-rotates-keys-to-prevent-repeat-nation-state-hack/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 18 Apr 2025 08:26:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NTLM]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41985</guid>
-
-					<description><![CDATA[<p>A Windows NTLM vulnerability patched in March has been exploited in attacks targeting government and private institutions.</p>
-<p>The post <a href="https://www.securityweek.com/fresh-windows-ntlm-vulnerability-exploited-in-attacks/">Fresh Windows NTLM Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Man Helped Individuals in China Get Jobs Involving Sensitive US Government Projects</title>
-		<link>https://www.securityweek.com/man-helped-chinese-nationals-get-jobs-involving-sensitive-us-government-projects/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 15:55:42 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41978</guid>
-
-					<description><![CDATA[<p>Minh Phuong Ngoc Vong pleaded guilty to defrauding US companies of roughly $1 million in a fake IT worker scheme.</p>
-<p>The post <a href="https://www.securityweek.com/man-helped-chinese-nationals-get-jobs-involving-sensitive-us-government-projects/">Man Helped Individuals in China Get Jobs Involving Sensitive US Government Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Demystifying Security Posture Management</title>
-		<link>https://www.securityweek.com/demystifying-security-posture-management/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 12:57:47 +0000</pubDate>
-				<category><![CDATA[Security Architecture]]></category>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 19:12:44 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[Demystifying Security Posture Management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41960</guid>
+		<category><![CDATA[Azure]]></category>
+		<category><![CDATA[Charlie Bell]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[SFI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42008</guid>
 
-					<description><![CDATA[<p>While the Security Posture Management buzz is real, its long-term viability depends on whether it can deliver measurable outcomes without adding more complexity.</p>
-<p>The post <a href="https://www.securityweek.com/demystifying-security-posture-management/">Demystifying Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft security chief Charlie Bell says the SFI's 28 objectives are “near completion” and that 11 others have made “significant progress.”</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-purges-dormant-azure-tenants-rotates-keys-to-prevent-repeat-nation-state-hack/">Microsoft Purges Dormant Azure Tenants, Rotates Keys to Prevent Repeat Nation-State Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Cryptocurrency Thieves Caught Hijacking Zoom ‘Remote Control’ Feature</title>
+		<link>https://www.securityweek.com/north-korean-cryptocurrency-thieves-caught-hijacking-zoom-remote-control-feature/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 15:33:42 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Bybit]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Lazarus]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42007</guid>
+
+					<description><![CDATA[<p>North Korean cryptocurrency thieves abusing Zoom Remote collaboration feature to target cryptocurrency traders with malware.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-cryptocurrency-thieves-caught-hijacking-zoom-remote-control-feature/">North Korean Cryptocurrency Thieves Caught Hijacking Zoom ‘Remote Control’ Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exaforce Banks Hefty $75 Million for AI-Powered SOC Remake</title>
+		<link>https://www.securityweek.com/exaforce-banks-hefty-75-million-for-ai-powered-soc-remake/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 13:53:29 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Exaforce]]></category>
+		<category><![CDATA[Khosla Ventures]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42006</guid>
+
+					<description><![CDATA[<p>San Francisco startup closes a hefty $75 million Series A funding round led by Khosla Ventures and Mayfield.</p>
+<p>The post <a href="https://www.securityweek.com/exaforce-banks-hefty-75-million-for-ai-powered-soc-remake/">Exaforce Banks Hefty $75 Million for AI-Powered SOC Remake</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform</title>
+		<link>https://www.securityweek.com/kenzo-security-raises-4-5-million-for-agentic-ai-security-operations-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Kenzo Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=41999</guid>
+
+					<description><![CDATA[<p>Kenzo Security has emerged from stealth mode after 18 months of developing its agentic AI security platform.</p>
+<p>The post <a href="https://www.securityweek.com/kenzo-security-raises-4-5-million-for-agentic-ai-security-operations-platform/">Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
