@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 22 Apr 2025 12:13:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Apr 2025 10:20:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,210 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>SSL.com Scrambles to Patch Certificate Issuance Vulnerability </title>
-		<link>https://www.securityweek.com/ssl-com-scrambles-to-patch-certificate-issuance-vulnerability/</link>
+		<title>Miggo Security Banks $17M Series A for ADR Technology</title>
+		<link>https://www.securityweek.com/miggo-security-banks-17m-series-a-for-adr-technology/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 12:13:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[SSL.com]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42016</guid>
-
-					<description><![CDATA[<p>A vulnerability in SSL.com has resulted in nearly a dozen certificates for legitimate domains being wrongly issued.</p>
-<p>The post <a href="https://www.securityweek.com/ssl-com-scrambles-to-patch-certificate-issuance-vulnerability/">SSL.com Scrambles to Patch Certificate Issuance Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:13:51 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Open Source Security Firm Hopper Emerges From Stealth With $7.6M in Funding</title>
-		<link>https://www.securityweek.com/open-source-security-firm-hopper-emerges-from-stealth-with-7-6m-in-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
 				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Hopper]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OSS]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42011</guid>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Miggo Security]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[SYN Ventures]]></category>
+		<category><![CDATA[YL Ventures]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42022</guid>
 
-					<description><![CDATA[<p>Hopper has emerged from stealth mode with a solution designed to help organizations manage open source software risk.</p>
-<p>The post <a href="https://www.securityweek.com/open-source-security-firm-hopper-emerges-from-stealth-with-7-6m-in-funding/">Open Source Security Firm Hopper Emerges From Stealth With $7.6M in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Israeli runtime application security startups closes a $17 million Series A round led by Florida‑based SYN Ventures and YL Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/miggo-security-banks-17m-series-a-for-adr-technology/">Miggo Security Banks $17M Series A for ADR Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-			</item>
+		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
 		<item>
-		<title>Many Malware Campaigns Linked to Proton66 Network</title>
-		<link>https://www.securityweek.com/many-malware-campaigns-linked-to-proton66-network/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 11:31:51 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ASN]]></category>
-		<category><![CDATA[bulletproof hosting]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Proton66]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42015</guid>
-
-					<description><![CDATA[<p>Security researchers detail various malware campaigns that use bulletproof services linked to Proton66 ASN.</p>
-<p>The post <a href="https://www.securityweek.com/many-malware-campaigns-linked-to-proton66-network/">Many Malware Campaigns Linked to Proton66 Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Legacy Google Service Abused in Phishing Attacks</title>
-		<link>https://www.securityweek.com/legacy-google-service-abused-in-phishing-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 11:14:36 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[Google phishing]]></category>
-		<category><![CDATA[OAuth]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42013</guid>
-
-					<description><![CDATA[<p>A sophisticated phishing campaign abuses weakness in Google Sites to spoof Google no-reply addresses and bypass protections.</p>
-<p>The post <a href="https://www.securityweek.com/legacy-google-service-abused-in-phishing-attacks/">Legacy Google Service Abused in Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UN Researchers Warn That Asian Scam Operations Are Spreading Across the Rest of the World</title>
-		<link>https://www.securityweek.com/un-researchers-warn-that-asian-scam-operations-are-spreading-across-the-rest-of-the-world/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 10:40:00 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[scam centers]]></category>
-		<category><![CDATA[United Nations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42012</guid>
-
-					<description><![CDATA[<p>Transnational organized crime groups in East and Southeast Asia are spreading their lucrative scam operations across the globe, according to a UN report.</p>
-<p>The post <a href="https://www.securityweek.com/un-researchers-warn-that-asian-scam-operations-are-spreading-across-the-rest-of-the-world/">UN Researchers Warn That Asian Scam Operations Are Spreading Across the Rest of the World</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two Healthcare Orgs Hit by Ransomware Confirm Data Breaches Impacting Over 100,000</title>
-		<link>https://www.securityweek.com/two-healthcare-orgs-hit-by-ransomware-confirm-data-breaches-impacting-over-100000/</link>
+		<title>Picnic Corporation Rebrands to VanishID, Raises $10 Million</title>
+		<link>https://www.securityweek.com/picnic-corporation-rebrands-to-vanishid-raises-10-million/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 10:10:00 +0000</pubDate>
+		<pubDate>Wed, 23 Apr 2025 11:10:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[VanishID]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42028</guid>
+
+					<description><![CDATA[<p>Picnic Corporation has rebranded to VanishID and announced the launch of a CEO privacy and security offering. </p>
+<p>The post <a href="https://www.securityweek.com/picnic-corporation-rebrands-to-vanishid-raises-10-million/">Picnic Corporation Rebrands to VanishID, Raises $10 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kelly Benefits Data Breach Impacts 260,000 People</title>
+		<link>https://www.securityweek.com/kelly-benefits-data-breach-impacts-260000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 10:30:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Kelly Benefits]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42027</guid>
+
+					<description><![CDATA[<p>Benefits and payroll solutions provider Kelly Benefits has disclosed a data breach impacting more than 260,000 individuals.</p>
+<p>The post <a href="https://www.securityweek.com/kelly-benefits-data-breach-impacts-260000-people/">Kelly Benefits Data Breach Impacts 260,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattack Hits British Retailer Marks &#038; Spencer</title>
+		<link>https://www.securityweek.com/cyberattack-hits-british-retailer-marks-spencer/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 10:20:02 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[M&S]]></category>
+		<category><![CDATA[Marks&Spencer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42030</guid>
+
+					<description><![CDATA[<p>British retailer Marks &#038; Spencer has been experiencing certain service disruptions after falling victim to a cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-hits-british-retailer-marks-spencer/">Cyberattack Hits British Retailer Marks &#038; Spencer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data Breach at Onsite Mammography Impacts 350,000</title>
+		<link>https://www.securityweek.com/data-breach-at-onsite-mammography-impacts-350000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42010</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42026</guid>
 
-					<description><![CDATA[<p>Bell Ambulance and Alabama Ophthalmology Associates have suffered data breaches affecting over 100,000 people after being targeted in ransomware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/two-healthcare-orgs-hit-by-ransomware-confirm-data-breaches-impacting-over-100000/">Two Healthcare Orgs Hit by Ransomware Confirm Data Breaches Impacting Over 100,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Massachusetts medical firm Onsite Mammography discloses data breach impacting the personal information of 350,000 patients.</p>
+<p>The post <a href="https://www.securityweek.com/data-breach-at-onsite-mammography-impacts-350000/">Data Breach at Onsite Mammography Impacts 350,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Purges Dormant Azure Tenants, Rotates Keys to Prevent Repeat Nation-State Hack </title>
-		<link>https://www.securityweek.com/microsoft-purges-dormant-azure-tenants-rotates-keys-to-prevent-repeat-nation-state-hack/</link>
+		<title>Terra Security Raises $8M for Agentic AI Penetration Testing Platform</title>
+		<link>https://www.securityweek.com/terra-security-raises-8m-for-agentic-ai-penetration-testing-platform/</link>
 		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 19:12:44 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[Azure]]></category>
-		<category><![CDATA[Charlie Bell]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[SFI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42008</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 08:55:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[penetration testing]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[Terra Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42024</guid>
 
-					<description><![CDATA[<p>Microsoft security chief Charlie Bell says the SFI's 28 objectives are “near completion” and that 11 others have made “significant progress.”</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-purges-dormant-azure-tenants-rotates-keys-to-prevent-repeat-nation-state-hack/">Microsoft Purges Dormant Azure Tenants, Rotates Keys to Prevent Repeat Nation-State Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cybersecurity startup Terra Security has raised $8 million in seed funding from SYN Ventures, FXP Ventures, and Underscore VC.</p>
+<p>The post <a href="https://www.securityweek.com/terra-security-raises-8m-for-agentic-ai-penetration-testing-platform/">Terra Security Raises $8M for Agentic AI Penetration Testing Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>North Korean Cryptocurrency Thieves Caught Hijacking Zoom ‘Remote Control’ Feature</title>
-		<link>https://www.securityweek.com/north-korean-cryptocurrency-thieves-caught-hijacking-zoom-remote-control-feature/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 15:33:42 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Bybit]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Lazarus]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[social engineering]]></category>
-		<category><![CDATA[Zoom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42007</guid>
-
-					<description><![CDATA[<p>North Korean cryptocurrency thieves abusing Zoom Remote collaboration feature to target cryptocurrency traders with malware.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-cryptocurrency-thieves-caught-hijacking-zoom-remote-control-feature/">North Korean Cryptocurrency Thieves Caught Hijacking Zoom ‘Remote Control’ Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exaforce Banks Hefty $75 Million for AI-Powered SOC Remake</title>
-		<link>https://www.securityweek.com/exaforce-banks-hefty-75-million-for-ai-powered-soc-remake/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 13:53:29 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Exaforce]]></category>
-		<category><![CDATA[Khosla Ventures]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42006</guid>
-
-					<description><![CDATA[<p>San Francisco startup closes a hefty $75 million Series A funding round led by Khosla Ventures and Mayfield.</p>
-<p>The post <a href="https://www.securityweek.com/exaforce-banks-hefty-75-million-for-ai-powered-soc-remake/">Exaforce Banks Hefty $75 Million for AI-Powered SOC Remake</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform</title>
-		<link>https://www.securityweek.com/kenzo-security-raises-4-5-million-for-agentic-ai-security-operations-platform/</link>
+		<title>Korean Telco Giant SK Telecom Hacked</title>
+		<link>https://www.securityweek.com/korean-telco-giant-sk-telecom-hacked/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Kenzo Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=41999</guid>
+		<pubDate>Wed, 23 Apr 2025 07:28:59 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SK Telecom]]></category>
+		<category><![CDATA[South Korea]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42023</guid>
 
-					<description><![CDATA[<p>Kenzo Security has emerged from stealth mode after 18 months of developing its agentic AI security platform.</p>
-<p>The post <a href="https://www.securityweek.com/kenzo-security-raises-4-5-million-for-agentic-ai-security-operations-platform/">Kenzo Security Raises $4.5 Million for Agentic AI Security Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SK Telecom, South Korea’s largest telecom company, disclosed a data leak involving a malware infection.</p>
+<p>The post <a href="https://www.securityweek.com/korean-telco-giant-sk-telecom-hacked/">Korean Telco Giant SK Telecom Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloud Data Security Play Sentra Raises $50 Million Series B </title>
+		<link>https://www.securityweek.com/cloud-data-security-play-sentra-raises-50-million-series-b/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 15:17:29 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Bessemer]]></category>
+		<category><![CDATA[DSPM]]></category>
+		<category><![CDATA[Key1 Capital]]></category>
+		<category><![CDATA[Munich Re]]></category>
+		<category><![CDATA[Sentra]]></category>
+		<category><![CDATA[Series B]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42021</guid>
+
+					<description><![CDATA[<p>Sentra has now raised north of $100 million for controls technology to keep sensitive data out of misconfigured AI workflows.</p>
+<p>The post <a href="https://www.securityweek.com/cloud-data-security-play-sentra-raises-50-million-series-b/">Cloud Data Security Play Sentra Raises $50 Million Series B </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DataKrypto Launches Homomorphic Encryption Framework to Secure Enterprise AI Models</title>
+		<link>https://www.securityweek.com/datakrypto-launches-homomorphic-encryption-framework-to-secure-enterprise-ai-models/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 15:13:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42019</guid>
+
+					<description><![CDATA[<p>DataKrypto’s FHEnom for AI combines real-time homomorphic encryption with trusted execution environments to protect enterprise data and models from leakage, exposure, and tampering.</p>
+<p>The post <a href="https://www.securityweek.com/datakrypto-launches-homomorphic-encryption-framework-to-secure-enterprise-ai-models/">DataKrypto Launches Homomorphic Encryption Framework to Secure Enterprise AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattack Knocks Texas City’s Systems Offline</title>
+		<link>https://www.securityweek.com/cyberattack-knocks-texas-citys-systems-offline/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 14:26:11 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[city]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Texas]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42018</guid>
+
+					<description><![CDATA[<p>The city of Abilene, Texas, is scrambling to restore systems that have been taken offline in response to a cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-knocks-texas-citys-systems-offline/">Cyberattack Knocks Texas City’s Systems Offline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
