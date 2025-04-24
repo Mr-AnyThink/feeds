@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 23 Apr 2025 10:20:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 10:42:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,206 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Miggo Security Banks $17M Series A for ADR Technology</title>
-		<link>https://www.securityweek.com/miggo-security-banks-17m-series-a-for-adr-technology/</link>
+		<title>SecLytics Rebrands as Augur Security, Raises $7M in Seed Funding</title>
+		<link>https://www.securityweek.com/seclytics-rebrands-as-augur-security-raises-7m-in-seed-funding/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Miggo Security]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[SYN Ventures]]></category>
-		<category><![CDATA[YL Ventures]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42022</guid>
-
-					<description><![CDATA[<p>Israeli runtime application security startups closes a $17 million Series A round led by Florida‑based SYN Ventures and YL Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/miggo-security-banks-17m-series-a-for-adr-technology/">Miggo Security Banks $17M Series A for ADR Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:00:09 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Picnic Corporation Rebrands to VanishID, Raises $10 Million</title>
-		<link>https://www.securityweek.com/picnic-corporation-rebrands-to-vanishid-raises-10-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 11:10:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 12:00:00 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Augur Security]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[VanishID]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42028</guid>
+		<category><![CDATA[rebrand]]></category>
+		<category><![CDATA[SecLytics]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42050</guid>
 
-					<description><![CDATA[<p>Picnic Corporation has rebranded to VanishID and announced the launch of a CEO privacy and security offering. </p>
-<p>The post <a href="https://www.securityweek.com/picnic-corporation-rebrands-to-vanishid-raises-10-million/">Picnic Corporation Rebrands to VanishID, Raises $10 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AI-powered threat prevention company Augur (rebranded from SecLytics) has raised $7 million in seed funding.</p>
+<p>The post <a href="https://www.securityweek.com/seclytics-rebrands-as-augur-security-raises-7m-in-seed-funding/">SecLytics Rebrands as Augur Security, Raises $7M in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:00:10 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>AI-Powered Polymorphic Phishing Is Changing the Threat Landscape</title>
+		<link>https://www.securityweek.com/ai-powered-polymorphic-phishing-is-changing-the-threat-landscape/</link>
+		
+		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42041</guid>
+
+					<description><![CDATA[<p>Combined with AI, polymorphic phishing emails have become highly sophisticated, creating more personalized and evasive messages that result in higher attack success rates. </p>
+<p>The post <a href="https://www.securityweek.com/ai-powered-polymorphic-phishing-is-changing-the-threat-landscape/">AI-Powered Polymorphic Phishing Is Changing the Threat Landscape</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Kelly Benefits Data Breach Impacts 260,000 People</title>
-		<link>https://www.securityweek.com/kelly-benefits-data-breach-impacts-260000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Kelly Benefits]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42027</guid>
-
-					<description><![CDATA[<p>Benefits and payroll solutions provider Kelly Benefits has disclosed a data breach impacting more than 260,000 individuals.</p>
-<p>The post <a href="https://www.securityweek.com/kelly-benefits-data-breach-impacts-260000-people/">Kelly Benefits Data Breach Impacts 260,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Hits British Retailer Marks &#038; Spencer</title>
-		<link>https://www.securityweek.com/cyberattack-hits-british-retailer-marks-spencer/</link>
+		<title>FBI: Cybercrime Losses Surpassed $16.6 Billion in 2024</title>
+		<link>https://www.securityweek.com/fbi-cybercrime-losses-surpassed-16-6-billion-in-2024/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 10:20:02 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[M&S]]></category>
-		<category><![CDATA[Marks&Spencer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42030</guid>
+		<pubDate>Thu, 24 Apr 2025 10:14:03 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[IC3]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42049</guid>
 
-					<description><![CDATA[<p>British retailer Marks &#038; Spencer has been experiencing certain service disruptions after falling victim to a cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-hits-british-retailer-marks-spencer/">Cyberattack Hits British Retailer Marks &#038; Spencer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The FBI received roughly 860,000 complaints of malicious activity in 2024, with reported losses exceeding $16.6 billion.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-cybercrime-losses-surpassed-16-6-billion-in-2024/">FBI: Cybercrime Losses Surpassed $16.6 Billion in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Data Breach at Onsite Mammography Impacts 350,000</title>
-		<link>https://www.securityweek.com/data-breach-at-onsite-mammography-impacts-350000/</link>
+		<title>Blue Shield of California Data Breach Impacts 4.7 Million People</title>
+		<link>https://www.securityweek.com/blue-shield-of-california-data-breach-impacts-4-7-million-people/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
+		<pubDate>Thu, 24 Apr 2025 08:55:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Blue Shield of California]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42026</guid>
+		<category><![CDATA[insurance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42048</guid>
 
-					<description><![CDATA[<p>Massachusetts medical firm Onsite Mammography discloses data breach impacting the personal information of 350,000 patients.</p>
-<p>The post <a href="https://www.securityweek.com/data-breach-at-onsite-mammography-impacts-350000/">Data Breach at Onsite Mammography Impacts 350,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Blue Shield of California says a website misconfiguration exposed the health information of its members to Google.</p>
+<p>The post <a href="https://www.securityweek.com/blue-shield-of-california-data-breach-impacts-4-7-million-people/">Blue Shield of California Data Breach Impacts 4.7 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Terra Security Raises $8M for Agentic AI Penetration Testing Platform</title>
-		<link>https://www.securityweek.com/terra-security-raises-8m-for-agentic-ai-penetration-testing-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 08:55:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[penetration testing]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[Terra Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42024</guid>
-
-					<description><![CDATA[<p>Cybersecurity startup Terra Security has raised $8 million in seed funding from SYN Ventures, FXP Ventures, and Underscore VC.</p>
-<p>The post <a href="https://www.securityweek.com/terra-security-raises-8m-for-agentic-ai-penetration-testing-platform/">Terra Security Raises $8M for Agentic AI Penetration Testing Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Korean Telco Giant SK Telecom Hacked</title>
-		<link>https://www.securityweek.com/korean-telco-giant-sk-telecom-hacked/</link>
+		<title>Cisco Confirms Some Products Impacted by Critical Erlang/OTP Flaw</title>
+		<link>https://www.securityweek.com/cisco-confirms-some-products-impacted-by-critical-erlang-otp-flaw/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 07:28:59 +0000</pubDate>
+		<pubDate>Thu, 24 Apr 2025 08:05:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Erlang OTP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42047</guid>
+
+					<description><![CDATA[<p>Cisco is investigating the impact of the Erlang/OTP remote code execution vulnerability CVE-2025-32433 on its products.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-confirms-some-products-impacted-by-critical-erlang-otp-flaw/">Cisco Confirms Some Products Impacted by Critical Erlang/OTP Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5.5 Million Patients Affected by Data Breach at Yale New Haven Health </title>
+		<link>https://www.securityweek.com/5-5-million-patients-affected-by-data-breach-at-yale-new-haven-health/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Apr 2025 07:07:35 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SK Telecom]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42023</guid>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Yale New Haven Health]]></category>
+		<category><![CDATA[YNHHS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42046</guid>
 
-					<description><![CDATA[<p>SK Telecom, South Korea’s largest telecom company, disclosed a data leak involving a malware infection.</p>
-<p>The post <a href="https://www.securityweek.com/korean-telco-giant-sk-telecom-hacked/">Korean Telco Giant SK Telecom Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Yale New Haven Health System recently discovered that the personal information of millions of patients was stolen from its systems.</p>
+<p>The post <a href="https://www.securityweek.com/5-5-million-patients-affected-by-data-breach-at-yale-new-haven-health/">5.5 Million Patients Affected by Data Breach at Yale New Haven Health </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cloud Data Security Play Sentra Raises $50 Million Series B </title>
-		<link>https://www.securityweek.com/cloud-data-security-play-sentra-raises-50-million-series-b/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 15:17:29 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Bessemer]]></category>
-		<category><![CDATA[DSPM]]></category>
-		<category><![CDATA[Key1 Capital]]></category>
-		<category><![CDATA[Munich Re]]></category>
-		<category><![CDATA[Sentra]]></category>
-		<category><![CDATA[Series B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42021</guid>
-
-					<description><![CDATA[<p>Sentra has now raised north of $100 million for controls technology to keep sensitive data out of misconfigured AI workflows.</p>
-<p>The post <a href="https://www.securityweek.com/cloud-data-security-play-sentra-raises-50-million-series-b/">Cloud Data Security Play Sentra Raises $50 Million Series B </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DataKrypto Launches Homomorphic Encryption Framework to Secure Enterprise AI Models</title>
-		<link>https://www.securityweek.com/datakrypto-launches-homomorphic-encryption-framework-to-secure-enterprise-ai-models/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 15:13:03 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42019</guid>
-
-					<description><![CDATA[<p>DataKrypto’s FHEnom for AI combines real-time homomorphic encryption with trusted execution environments to protect enterprise data and models from leakage, exposure, and tampering.</p>
-<p>The post <a href="https://www.securityweek.com/datakrypto-launches-homomorphic-encryption-framework-to-secure-enterprise-ai-models/">DataKrypto Launches Homomorphic Encryption Framework to Secure Enterprise AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Knocks Texas City’s Systems Offline</title>
-		<link>https://www.securityweek.com/cyberattack-knocks-texas-citys-systems-offline/</link>
+		<title>AuthMind Raises $19.3 Million in Seed Funding</title>
+		<link>https://www.securityweek.com/authmind-raises-19-3-million-in-seed-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 14:26:11 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[city]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Texas]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42018</guid>
+		<pubDate>Wed, 23 Apr 2025 17:04:30 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[AuthMind]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42040</guid>
 
-					<description><![CDATA[<p>The city of Abilene, Texas, is scrambling to restore systems that have been taken offline in response to a cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-knocks-texas-citys-systems-offline/">Cyberattack Knocks Texas City’s Systems Offline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Identity protection startup AuthMind has announced raising $19.3 million in a seed funding round led by Cheyenne Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/authmind-raises-19-3-million-in-seed-funding/">AuthMind Raises $19.3 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ethical Zero Day Marketplace Desired Effect Emerges From Stealth</title>
+		<link>https://www.securityweek.com/ethical-zero-day-marketplace-desired-effect-emerges-from-stealth/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 14:37:52 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42017</guid>
+
+					<description><![CDATA[<p>Desired Effect provides an ethical vulnerability exchange marketplace to help defenders get ahead of attackers.</p>
+<p>The post <a href="https://www.securityweek.com/ethical-zero-day-marketplace-desired-effect-emerges-from-stealth/">Ethical Zero Day Marketplace Desired Effect Emerges From Stealth</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Endor Labs Raises $93 Million for AppSec Platform</title>
+		<link>https://www.securityweek.com/endor-labs-raises-93-million-for-appsec-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[appsec]]></category>
+		<category><![CDATA[Endor Labs]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42033</guid>
+
+					<description><![CDATA[<p>Endor Labs has raised $93 million in a Series B funding round and announced a major expansion of its AppSec platform.</p>
+<p>The post <a href="https://www.securityweek.com/endor-labs-raises-93-million-for-appsec-platform/">Endor Labs Raises $93 Million for AppSec Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chainguard Raises Hefty $356M Series D at $3.5 Billion Valuation</title>
+		<link>https://www.securityweek.com/chainguard-raises-hefty-356m-series-d-at-3-5-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2025 13:49:11 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Chainguard]]></category>
+		<category><![CDATA[containers]]></category>
+		<category><![CDATA[Kleiner Perkins]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<category><![CDATA[open-source]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42037</guid>
+
+					<description><![CDATA[<p>The cash infusion brings Chainguard’s total funding to about $612 million since launching in 2021 and prices the company at $3.5 billion.</p>
+<p>The post <a href="https://www.securityweek.com/chainguard-raises-hefty-356m-series-d-at-3-5-billion-valuation/">Chainguard Raises Hefty $356M Series D at $3.5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
