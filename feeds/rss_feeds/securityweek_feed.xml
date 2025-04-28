@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 26 Apr 2025 11:28:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Apr 2025 11:09:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical Vulnerabilities Found in Planet Technology Industrial Networking Products</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-found-in-planet-technology-industrial-networking-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 11:09:30 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Planet Technology]]></category>
+		<category><![CDATA[switch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42089</guid>
+
+					<description><![CDATA[<p>Planet Technology industrial switches and network management products are affected by several critical vulnerabilities. </p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-found-in-planet-technology-industrial-networking-products/">Critical Vulnerabilities Found in Planet Technology Industrial Networking Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 11:09:36 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>RSA Conference 2025 – Pre-Event Announcements Summary (Part 3) </title>
+		<link>https://www.securityweek.com/rsa-conference-2025-pre-event-announcements-summary-part-3/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSA Conference 2025]]></category>
+		<category><![CDATA[security product]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42086</guid>
+
+					<description><![CDATA[<p>Hundreds of companies are showcasing their products and services this week at the 2025 edition of the RSA Conference in San Francisco.</p>
+<p>The post <a href="https://www.securityweek.com/rsa-conference-2025-pre-event-announcements-summary-part-3/">RSA Conference 2025 – Pre-Event Announcements Summary (Part 3) </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>African Telecom Giant MTN Group Discloses Data Breach</title>
+		<link>https://www.securityweek.com/african-telecom-giant-mtn-group-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 09:43:12 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[MNT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42087</guid>
+
+					<description><![CDATA[<p>MTN Group says the personal information of certain customers was compromised in a cybersecurity incident.</p>
+<p>The post <a href="https://www.securityweek.com/african-telecom-giant-mtn-group-discloses-data-breach/">African Telecom Giant MTN Group Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oregon Agency Won&#8217;t Say If Hackers Stole Data in Cyberattack</title>
+		<link>https://www.securityweek.com/oregon-agency-wont-say-if-hackers-stole-data-in-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 28 Apr 2025 08:52:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[DEQ]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Oregon]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42085</guid>
+
+					<description><![CDATA[<p>Oregon’s environmental agency won’t say if a group of hackers stole data in a cyberattack that was first announced earlier this month.</p>
+<p>The post <a href="https://www.securityweek.com/oregon-agency-wont-say-if-hackers-stole-data-in-cyberattack/">Oregon Agency Won&#8217;t Say If Hackers Stole Data in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cynomi Raises $37 Million Series B to Expand Its vCISO Platform</title>
 		<link>https://www.securityweek.com/cynomi-raises-37-million-series-b-to-expand-its-vciso-platform/</link>
 		
@@ -46,7 +124,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 21, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-21-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-21-2025/</guid><pubDate>Mon, 21 Apr 2025 12:49:14 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 21, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Browser Security Firm SquareX Raises $20 Million</title>
 		<link>https://www.securityweek.com/browser-security-firm-squarex-raises-20-million/</link>
@@ -135,86 +213,6 @@
 
 					<description><![CDATA[<p>With over 12,000 breaches analyzed, this year’s DBIR reveals a landscape shaped by not just individual threats, but by entire economies of compromise.</p>
 <p>The post <a href="https://www.securityweek.com/inside-the-verizon-2025-dbir-five-trends-that-signal-a-shift-in-the-cyber-threat-economy/">Inside the Verizon 2025 DBIR: Five Trends That Signal a Shift in the Cyber Threat Economy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Scamnetic Raises $13 Million to Prevent Scams in Real Time</title>
-		<link>https://www.securityweek.com/scamnetic-raises-13-million-to-prevent-scams-in-real-time/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[Scamnetic]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42070</guid>
-
-					<description><![CDATA[<p>AI-powered threat protection startup Scamnetic has raised $13 million in a Series A funding round led by Roo Capital.</p>
-<p>The post <a href="https://www.securityweek.com/scamnetic-raises-13-million-to-prevent-scams-in-real-time/">Scamnetic Raises $13 Million to Prevent Scams in Real Time</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Manifest Raises $15 Million for SBOM Management Platform</title>
-		<link>https://www.securityweek.com/manifest-raises-15-million-for-sbom-management-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 12:06:57 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Manifest]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42069</guid>
-
-					<description><![CDATA[<p>Software and AI supply chain transparency firm Manifest has raised $15 million in a Series A funding round led by Ensemble VC.</p>
-<p>The post <a href="https://www.securityweek.com/manifest-raises-15-million-for-sbom-management-platform/">Manifest Raises $15 Million for SBOM Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Prison for Disney Hacker, MITRE ATT&#038;CK v17, Massive DDoS Botnet</title>
-		<link>https://www.securityweek.com/in-other-news-prison-for-disney-hacker-mitre-attck-v17-massive-ddos-botnet/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 11:59:57 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42068</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: former Disney employee sent to prison for hacking, MITRE releases ATT&#038;CK v17, DDoS botnet powered by 1.3 million devices.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-prison-for-disney-hacker-mitre-attck-v17-massive-ddos-botnet/">In Other News: Prison for Disney Hacker, MITRE ATT&#038;CK v17, Massive DDoS Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days</title>
-		<link>https://www.securityweek.com/south-korean-companies-targeted-by-lazarus-via-watering-hole-attacks-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 11:24:14 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Lazarus]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<category><![CDATA[watering hole]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42067</guid>
-
-					<description><![CDATA[<p>Multiple South Korean organizations across industries have been targeted in a recent Lazarus campaign dubbed Operation SyncHole.</p>
-<p>The post <a href="https://www.securityweek.com/south-korean-companies-targeted-by-lazarus-via-watering-hole-attacks-zero-days/">South Korean Companies Targeted by Lazarus via Watering Hole Attacks, Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
