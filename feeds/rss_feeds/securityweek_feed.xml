@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 29 Apr 2025 12:03:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Apr 2025 11:54:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,187 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RSA Conference 2025 Announcement Summary (Day 2) </title>
+		<link>https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-2/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 11:51:38 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSA Conference 2025]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42137</guid>
+
+					<description><![CDATA[<p>Hundreds of companies are showcasing their products and services this week at the 2025 edition of the RSA Conference in San Francisco.</p>
+<p>The post <a href="https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-2/">RSA Conference 2025 Announcement Summary (Day 2) </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 11:54:39 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Meta Releases Llama AI Open Source Protection Tools</title>
+		<link>https://www.securityweek.com/meta-releases-llama-ai-open-source-protection-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 11:03:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Llama]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42135</guid>
+
+					<description><![CDATA[<p>Meta has released new Llama protection tools to help the open source AI community build more secure applications.</p>
+<p>The post <a href="https://www.securityweek.com/meta-releases-llama-ai-open-source-protection-tools/">Meta Releases Llama AI Open Source Protection Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>France Blames Russia for Cyberattacks on Dozen Entities</title>
+		<link>https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 10:06:44 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42134</guid>
+
+					<description><![CDATA[<p>France says the Russian state-sponsored group APT28 is responsible for targeting or compromising a dozen French entities.</p>
+<p>The post <a href="https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/">France Blames Russia for Cyberattacks on Dozen Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AirPlay Vulnerabilities Expose Apple Devices to Zero-Click Takeover</title>
+		<link>https://www.securityweek.com/airplay-vulnerabilities-expose-apple-devices-to-zero-click-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 08:15:41 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[AirBorne]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42133</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in Apple’s AirPlay protocol could have allowed attackers to execute code remotely without user interaction.</p>
+<p>The post <a href="https://www.securityweek.com/airplay-vulnerabilities-expose-apple-devices-to-zero-click-takeover/">AirPlay Vulnerabilities Expose Apple Devices to Zero-Click Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 136, Firefox 138 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-136-firefox-138-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 07:53:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42132</guid>
+
+					<description><![CDATA[<p>Chrome 136 and Firefox 138 were released in the stable channel with patches for multiple high-severity vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-136-firefox-138-patch-high-severity-vulnerabilities/">Chrome 136, Firefox 138 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How Do You Know If You’re Ready for a Red Team Partnership?</title>
+		<link>https://www.securityweek.com/how-do-you-know-if-youre-ready-for-a-red-team-partnership/</link>
+		
+		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 16:13:50 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Red Team]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42128</guid>
+
+					<description><![CDATA[<p>Before engaging in a full-scope exercise, it’s important to assess whether your program, people and processes are truly ready. </p>
+<p>The post <a href="https://www.securityweek.com/how-do-you-know-if-youre-ready-for-a-red-team-partnership/">How Do You Know If You’re Ready for a Red Team Partnership?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SentinelOne&#8217;s Purple AI Athena Brings Autonomous Decision-Making to the SOC</title>
+		<link>https://www.securityweek.com/sentinelones-purple-ai-athena-brings-autonomous-decision-making-to-the-soc/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 15:59:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[SentinelOne]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42126</guid>
+
+					<description><![CDATA[<p>Athena marks a major leap in SOC automation, enabling real-time detection, triage, and remediation with minimal human oversight.</p>
+<p>The post <a href="https://www.securityweek.com/sentinelones-purple-ai-athena-brings-autonomous-decision-making-to-the-soc/">SentinelOne&#8217;s Purple AI Athena Brings Autonomous Decision-Making to the SOC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China&#8217;s Secret Weapon? How EV Batteries Could Be  Weaponized to Disrupt America</title>
+		<link>https://www.securityweek.com/chinas-secret-weapon-how-ev-batteries-could-be-weaponized-to-disrupt-america/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 15:00:43 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42118</guid>
+
+					<description><![CDATA[<p>As Xi Jinping advances his vision for China’s dominance by 2049, cybersecurity experts warn that connected technologies—like EV batteries—may quietly serve as tools of influence, espionage, and disruption.</p>
+<p>The post <a href="https://www.securityweek.com/chinas-secret-weapon-how-ev-batteries-could-be-weaponized-to-disrupt-america/">China&#8217;s Secret Weapon? How EV Batteries Could Be  Weaponized to Disrupt America</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pistachio Raises $7 Million for Cybersecurity Training Platform</title>
+		<link>https://www.securityweek.com/pistachio-raises-7-million-for-cybersecurity-training-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 12:35:37 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[awareness training]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Pistachio]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42117</guid>
+
+					<description><![CDATA[<p>Cybersecurity awareness training platform Pistachio has raised $7 million in a Series A funding round led by Walter Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/pistachio-raises-7-million-for-cybersecurity-training-platform/">Pistachio Raises $7 Million for Cybersecurity Training Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>LayerX Raises $11 Million for Browser Security Solution</title>
 		<link>https://www.securityweek.com/layerx-raises-11-million-for-its-browser-security-solution/</link>
 		
@@ -41,181 +222,6 @@
 
 					<description><![CDATA[<p>Browser security firm LayerX has raised $11 million in a Series A funding round extension led by Jump Capital.</p>
 <p>The post <a href="https://www.securityweek.com/layerx-raises-11-million-for-its-browser-security-solution/">LayerX Raises $11 Million for Browser Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 12:03:37 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
-		<item>
-		<title>Cybersecurity Firms Raise Over $1.7 Billion Ahead of RSA Conference 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-firms-raise-over-1-7-billion-ahead-of-rsa-conference-2025/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[RSA Conference 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42107</guid>
-
-					<description><![CDATA[<p>More than 30 companies announced a total of $1.7 billion in funding in weeks leading up to the industry’s largest gathering.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-firms-raise-over-1-7-billion-ahead-of-rsa-conference-2025/">Cybersecurity Firms Raise Over $1.7 Billion Ahead of RSA Conference 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Tracked 75 Zero-Days in 2024</title>
-		<link>https://www.securityweek.com/google-tracked-75-zero-days-in-2024/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 11:20:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42111</guid>
-
-					<description><![CDATA[<p>The number of exploited zero-days seen by Google in 2024 dropped to 75, from 98 observed in the previous year.</p>
-<p>The post <a href="https://www.securityweek.com/google-tracked-75-zero-days-in-2024/">Google Tracked 75 Zero-Days in 2024</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RSA Conference 2025 Announcements Summary (Day 1) </title>
-		<link>https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-1/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[RSA Conference]]></category>
-		<category><![CDATA[RSA Conference 2025]]></category>
-		<category><![CDATA[RSAC]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42102</guid>
-
-					<description><![CDATA[<p>Hundreds of companies are showcasing their products and services this week at the 2025 edition of the RSA Conference in San Francisco.</p>
-<p>The post <a href="https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-1/">RSA Conference 2025 Announcements Summary (Day 1) </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploited Vulnerability Exposes Over 400 SAP NetWeaver Servers to Attacks</title>
-		<link>https://www.securityweek.com/exploited-vulnerability-exposes-over-400-sap-netweaver-servers-to-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 10:24:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42108</guid>
-
-					<description><![CDATA[<p>More than 400 SAP NetWeaver servers are impacted by CVE-2025-31324, an exploited remote code execution vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/exploited-vulnerability-exposes-over-400-sap-netweaver-servers-to-attacks/">Exploited Vulnerability Exposes Over 400 SAP NetWeaver Servers to Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited Broadcom, Commvault Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-broadcom-commvault-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 08:49:41 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Broadcom]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Commvault]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42105</guid>
-
-					<description><![CDATA[<p>CISA urges immediate patching for recently disclosed Broadcom, Commvault, and Qualitia vulnerabilities exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-broadcom-commvault-vulnerabilities/">CISA Warns of Exploited Broadcom, Commvault Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IBM&#8217;s $150 Billion US Investment to Boost Quantum Innovation and National Security</title>
-		<link>https://www.securityweek.com/ibms-150-billion-us-investment-to-boost-quantum-innovation-and-national-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 02:08:53 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[IBM]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42099</guid>
-
-					<description><![CDATA[<p>IBM will invest more than $30 billion in research and development to advance and continue its American manufacturing of mainframe and quantum computers.</p>
-<p>The post <a href="https://www.securityweek.com/ibms-150-billion-us-investment-to-boost-quantum-innovation-and-national-security/">IBM&#8217;s $150 Billion US Investment to Boost Quantum Innovation and National Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks to Acquire AI Security Firm Protect AI</title>
-		<link>https://www.securityweek.com/palo-alto-networks-to-acquire-ai-security-firm-protect-ai/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 28 Apr 2025 16:36:49 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Protect AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42096</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks is acquiring AI security company Protect AI in a deal previously estimated at $650-700 million.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-acquire-ai-security-firm-protect-ai/">Palo Alto Networks to Acquire AI Security Firm Protect AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NetFoundry Raises $12 Million for Network Security Solutions</title>
-		<link>https://www.securityweek.com/netfoundry-raises-12-million-for-network-security-solutions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Apr 2025 16:20:28 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[NetFoundry]]></category>
-		<category><![CDATA[network security]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42095</guid>
-
-					<description><![CDATA[<p>Zero-trust network security solutions provider NetFoundry has raised $12 million in funding from SYN Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/netfoundry-raises-12-million-for-network-security-solutions/">NetFoundry Raises $12 Million for Network Security Solutions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>JPMorgan Chase CISO Fires Warning Shot Ahead of RSA Conference</title>
-		<link>https://www.securityweek.com/jpmorgan-chase-ciso-fires-warning-shot-ahead-of-rsa-conference/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 28 Apr 2025 16:02:31 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[RSA Conference 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42093</guid>
-
-					<description><![CDATA[<p>This tension between hard-edged risk realism and breathless AI evangelism sets an unmistakable tone for a bellwether conference where 40,000-plus gather to do business. </p>
-<p>The post <a href="https://www.securityweek.com/jpmorgan-chase-ciso-fires-warning-shot-ahead-of-rsa-conference/">JPMorgan Chase CISO Fires Warning Shot Ahead of RSA Conference</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
