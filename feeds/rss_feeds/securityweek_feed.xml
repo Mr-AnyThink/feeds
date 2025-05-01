@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 30 Apr 2025 11:54:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 May 2025 11:49:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,148 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>More Details Come to Light on Commvault Vulnerability Exploitation</title>
+		<link>https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 11:49:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Commvault]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42148</guid>
+
+					<description><![CDATA[<p>Commvault has shared indicators of compromise associated with the exploitation of a vulnerability by state-sponsored hackers.</p>
+<p>The post <a href="https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/">More Details Come to Light on Commvault Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 11:53:19 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+		<item>
+		<title>Chinese APT&#8217;s Adversary-in-the-Middle Tool Dissected</title>
+		<link>https://www.securityweek.com/chinese-apts-adversary-in-the-middle-tool-dissected/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 11:11:40 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AitM]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[TheWizards]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42147</guid>
+
+					<description><![CDATA[<p>ESET has analyzed Spellbinder, the IPv6 SLAAC spoofing tool Chinese APT TheWizards uses to deploy its WizardNet backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apts-adversary-in-the-middle-tool-dissected/">Chinese APT&#8217;s Adversary-in-the-Middle Tool Dissected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Actions Over Words: Career Lessons for the Security Professional</title>
+		<link>https://www.securityweek.com/actions-over-words-career-lessons-for-the-security-professional/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 10:26:02 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Career]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42146</guid>
+
+					<description><![CDATA[<p>In a world full of noise and promises, it’s those who consistently deliver behind the scenes who build the most respected and rewarding careers.</p>
+<p>The post <a href="https://www.securityweek.com/actions-over-words-career-lessons-for-the-security-professional/">Actions Over Words: Career Lessons for the Security Professional</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Flags Two More Vulnerabilities as Exploited</title>
+		<link>https://www.securityweek.com/sonicwall-flags-two-vulnerabilities-as-exploited/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42145</guid>
+
+					<description><![CDATA[<p>SonicWall has updated the advisories for two vulnerabilities to warn that they are being exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-flags-two-vulnerabilities-as-exploited/">SonicWall Flags Two More Vulnerabilities as Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ascension Discloses Data Breach Potentially Linked to Cleo Hack</title>
+		<link>https://www.securityweek.com/ascension-discloses-data-breach-potentially-linked-to-cleo-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 08:55:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ascnesion]]></category>
+		<category><![CDATA[Cleo]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42144</guid>
+
+					<description><![CDATA[<p>Ascension is notifying over 100,000 people that their personal information was stolen in a data breach potentially linked to the Cleo hack.</p>
+<p>The post <a href="https://www.securityweek.com/ascension-discloses-data-breach-potentially-linked-to-cleo-hack/">Ascension Discloses Data Breach Potentially Linked to Cleo Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SentinelOne Targeted by North Korean IT Workers, Ransomware Groups, Chinese Hackers</title>
+		<link>https://www.securityweek.com/sentinelone-targeted-by-north-korean-it-workers-ransomware-groups-chinese-hackers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 08:26:37 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[SentinelOne]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42143</guid>
+
+					<description><![CDATA[<p>SentinelOne has shared some information on the types of threat actors that have targeted the security firm recently.</p>
+<p>The post <a href="https://www.securityweek.com/sentinelone-targeted-by-north-korean-it-workers-ransomware-groups-chinese-hackers/">SentinelOne Targeted by North Korean IT Workers, Ransomware Groups, Chinese Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tech Giants Propose Standard For End-of-Life Security Disclosures</title>
+		<link>https://www.securityweek.com/tech-giants-propose-standard-for-end-of-life-security-disclosures/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2025 15:44:14 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[end-of-life]]></category>
+		<category><![CDATA[EOL]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OASIS]]></category>
+		<category><![CDATA[OpenEoX]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42139</guid>
+
+					<description><![CDATA[<p>The OpenEoX model proposes a shared data format that can be integrated into SBOMs, security advisories, and other ecosystem tools. </p>
+<p>The post <a href="https://www.securityweek.com/tech-giants-propose-standard-for-end-of-life-security-disclosures/">Tech Giants Propose Standard For End-of-Life Security Disclosures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>RSA Conference 2025 Announcement Summary (Day 2) </title>
 		<link>https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-2/</link>
 		
@@ -46,7 +188,7 @@
 		
 		
 		
-		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 11:54:39 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Meta Releases Llama AI Open Source Protection Tools</title>
 		<link>https://www.securityweek.com/meta-releases-llama-ai-open-source-protection-tools/</link>
@@ -82,146 +224,6 @@
 
 					<description><![CDATA[<p>France says the Russian state-sponsored group APT28 is responsible for targeting or compromising a dozen French entities.</p>
 <p>The post <a href="https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/">France Blames Russia for Cyberattacks on Dozen Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AirPlay Vulnerabilities Expose Apple Devices to Zero-Click Takeover</title>
-		<link>https://www.securityweek.com/airplay-vulnerabilities-expose-apple-devices-to-zero-click-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 08:15:41 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[AirBorne]]></category>
-		<category><![CDATA[AirPlay]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42133</guid>
-
-					<description><![CDATA[<p>Vulnerabilities in Apple’s AirPlay protocol could have allowed attackers to execute code remotely without user interaction.</p>
-<p>The post <a href="https://www.securityweek.com/airplay-vulnerabilities-expose-apple-devices-to-zero-click-takeover/">AirPlay Vulnerabilities Expose Apple Devices to Zero-Click Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 136, Firefox 138 Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-136-firefox-138-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 07:53:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42132</guid>
-
-					<description><![CDATA[<p>Chrome 136 and Firefox 138 were released in the stable channel with patches for multiple high-severity vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-136-firefox-138-patch-high-severity-vulnerabilities/">Chrome 136, Firefox 138 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Do You Know If You’re Ready for a Red Team Partnership?</title>
-		<link>https://www.securityweek.com/how-do-you-know-if-youre-ready-for-a-red-team-partnership/</link>
-		
-		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 16:13:50 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Red Team]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42128</guid>
-
-					<description><![CDATA[<p>Before engaging in a full-scope exercise, it’s important to assess whether your program, people and processes are truly ready. </p>
-<p>The post <a href="https://www.securityweek.com/how-do-you-know-if-youre-ready-for-a-red-team-partnership/">How Do You Know If You’re Ready for a Red Team Partnership?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SentinelOne&#8217;s Purple AI Athena Brings Autonomous Decision-Making to the SOC</title>
-		<link>https://www.securityweek.com/sentinelones-purple-ai-athena-brings-autonomous-decision-making-to-the-soc/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 15:59:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[SentinelOne]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42126</guid>
-
-					<description><![CDATA[<p>Athena marks a major leap in SOC automation, enabling real-time detection, triage, and remediation with minimal human oversight.</p>
-<p>The post <a href="https://www.securityweek.com/sentinelones-purple-ai-athena-brings-autonomous-decision-making-to-the-soc/">SentinelOne&#8217;s Purple AI Athena Brings Autonomous Decision-Making to the SOC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China&#8217;s Secret Weapon? How EV Batteries Could Be  Weaponized to Disrupt America</title>
-		<link>https://www.securityweek.com/chinas-secret-weapon-how-ev-batteries-could-be-weaponized-to-disrupt-america/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 15:00:43 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42118</guid>
-
-					<description><![CDATA[<p>As Xi Jinping advances his vision for China’s dominance by 2049, cybersecurity experts warn that connected technologies—like EV batteries—may quietly serve as tools of influence, espionage, and disruption.</p>
-<p>The post <a href="https://www.securityweek.com/chinas-secret-weapon-how-ev-batteries-could-be-weaponized-to-disrupt-america/">China&#8217;s Secret Weapon? How EV Batteries Could Be  Weaponized to Disrupt America</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pistachio Raises $7 Million for Cybersecurity Training Platform</title>
-		<link>https://www.securityweek.com/pistachio-raises-7-million-for-cybersecurity-training-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 12:35:37 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[awareness training]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Pistachio]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42117</guid>
-
-					<description><![CDATA[<p>Cybersecurity awareness training platform Pistachio has raised $7 million in a Series A funding round led by Walter Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/pistachio-raises-7-million-for-cybersecurity-training-platform/">Pistachio Raises $7 Million for Cybersecurity Training Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LayerX Raises $11 Million for Browser Security Solution</title>
-		<link>https://www.securityweek.com/layerx-raises-11-million-for-its-browser-security-solution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Apr 2025 12:03:05 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Enterprise Browser]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[LayerX]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42116</guid>
-
-					<description><![CDATA[<p>Browser security firm LayerX has raised $11 million in a Series A funding round extension led by Jump Capital.</p>
-<p>The post <a href="https://www.securityweek.com/layerx-raises-11-million-for-its-browser-security-solution/">LayerX Raises $11 Million for Browser Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
