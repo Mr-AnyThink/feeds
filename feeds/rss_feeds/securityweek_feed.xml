@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 01 May 2025 11:49:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 10:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.2</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,7 +28,156 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>More Details Come to Light on Commvault Vulnerability Exploitation</title>
+		<title>UK Retailers Co-op, Harrods and M&#038;S Struggle With Cyberattacks</title>
+		<link>https://www.securityweek.com/uk-retailers-co-op-harrods-and-ms-struggle-with-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 10:51:40 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Co-op]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Harrods]]></category>
+		<category><![CDATA[M&S]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42158</guid>
+
+					<description><![CDATA[<p>Major UK retailers Co-op, Harrods, and M&#038;S are scrambling to restore services that were affected by cyberattacks.</p>
+<p>The post <a href="https://www.securityweek.com/uk-retailers-co-op-harrods-and-ms-struggle-with-cyberattacks/">UK Retailers Co-op, Harrods and M&#038;S Struggle With Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nova Scotia Power Says Hackers Stole Customer Information</title>
+		<link>https://www.securityweek.com/nova-scotia-power-says-hackers-stole-customer-information/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 10:30:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[Nova Scotia Power]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42157</guid>
+
+					<description><![CDATA[<p>Nova Scotia Power’s investigation has shown that the recent cyberattack resulted in the theft of some customer information.</p>
+<p>The post <a href="https://www.securityweek.com/nova-scotia-power-says-hackers-stole-customer-information/">Nova Scotia Power Says Hackers Stole Customer Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RSA Conference 2025 Announcement Summary (Day 3) </title>
+		<link>https://www.securityweek.com/rsa-conference-2025-announcements-summary-part-3/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSA Conference 2025]]></category>
+		<category><![CDATA[RSAC]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42153</guid>
+
+					<description><![CDATA[<p>Hundreds of companies showcased their products and services this week at the 2025 edition of the RSA Conference in San Francisco.</p>
+<p>The post <a href="https://www.securityweek.com/rsa-conference-2025-announcements-summary-part-3/">RSA Conference 2025 Announcement Summary (Day 3) </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Accounts Go Passwordless by Default</title>
+		<link>https://www.securityweek.com/microsoft-accounts-go-passwordless-by-default/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 09:25:02 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[passkey]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[Passwordless]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42156</guid>
+
+					<description><![CDATA[<p>Microsoft is prioritizing passwordless sign-in and sign-up methods, and is making new accounts passwordless by default.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-accounts-go-passwordless-by-default/">Microsoft Accounts Go Passwordless by Default</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian Nefilim Ransomware Affiliate Extradited to US</title>
+		<link>https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-extradited-to-us/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 08:25:14 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[Nefilim]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42155</guid>
+
+					<description><![CDATA[<p>Ukrainian national Artem Stryzhak was extradited to the US and charged with using Nefilim ransomware in attacks on large businesses.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-extradited-to-us/">Ukrainian Nefilim Ransomware Affiliate Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canadian Electric Utility Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/canadian-electric-utility-hit-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 14:11:24 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[Emera]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nova Scotia Power]]></category>
+		<category><![CDATA[utility]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42152</guid>
+
+					<description><![CDATA[<p>Nova Scotia Power and Emera are responding to a cybersecurity incident that impacted IT systems and networks. </p>
+<p>The post <a href="https://www.securityweek.com/canadian-electric-utility-hit-by-cyberattack/">Canadian Electric Utility Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Year of the Twin Dragons: Developers Must Slay the Complexity and Security Issues of AI Coding Tools</title>
+		<link>https://www.securityweek.com/year-of-the-twin-dragons-developers-must-slay-the-complexity-and-security-issues-of-ai-coding-tools/</link>
+		
+		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
+		<pubDate>Thu, 01 May 2025 13:01:29 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42151</guid>
+
+					<description><![CDATA[<p>The advantages AI tools deliver in speed and efficiency are impossible for developers to resist. But the complexity and risk created by AI-generated code can’t be ignored.</p>
+<p>The post <a href="https://www.securityweek.com/year-of-the-twin-dragons-developers-must-slay-the-complexity-and-security-issues-of-ai-coding-tools/">Year of the Twin Dragons: Developers Must Slay the Complexity and Security Issues of AI Coding Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Commvault Shares IoCs After Zero-Day Attack Hits Azure Environment</title>
 		<link>https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -39,13 +188,13 @@
 		<category><![CDATA[Zero-Day]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42148</guid>
 
-					<description><![CDATA[<p>Commvault has shared indicators of compromise associated with the exploitation of a vulnerability by state-sponsored hackers.</p>
-<p>The post <a href="https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/">More Details Come to Light on Commvault Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Commvault provides indicators of compromise and mitigation guidance after a zero-day exploit targeting its Azure environment lands in CISA’s KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/">Commvault Shares IoCs After Zero-Day Attack Hits Azure Environment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
-		<item><title>Industry Moves for the week of April 28, 2025 - SecurityWeek</title><link>https://www.securityweek.com/industry-moves/apr-28-2025/</link><guid isPermaLink="true">https://www.securityweek.com/industry-moves/apr-28-2025/</guid><pubDate>Mon, 28 Apr 2025 11:53:19 +0000</pubDate><description><![CDATA[Explore industry moves and significant changes in the industry for the week of April 28, 2025. Stay updated with the latest industry trends and shifts.]]></description></item>	</item>
+			</item>
 		<item>
 		<title>Chinese APT&#8217;s Adversary-in-the-Middle Tool Dissected</title>
 		<link>https://www.securityweek.com/chinese-apts-adversary-in-the-middle-tool-dissected/</link>
@@ -78,152 +227,6 @@
 
 					<description><![CDATA[<p>In a world full of noise and promises, it’s those who consistently deliver behind the scenes who build the most respected and rewarding careers.</p>
 <p>The post <a href="https://www.securityweek.com/actions-over-words-career-lessons-for-the-security-professional/">Actions Over Words: Career Lessons for the Security Professional</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Flags Two More Vulnerabilities as Exploited</title>
-		<link>https://www.securityweek.com/sonicwall-flags-two-vulnerabilities-as-exploited/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42145</guid>
-
-					<description><![CDATA[<p>SonicWall has updated the advisories for two vulnerabilities to warn that they are being exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-flags-two-vulnerabilities-as-exploited/">SonicWall Flags Two More Vulnerabilities as Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ascension Discloses Data Breach Potentially Linked to Cleo Hack</title>
-		<link>https://www.securityweek.com/ascension-discloses-data-breach-potentially-linked-to-cleo-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 08:55:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ascnesion]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42144</guid>
-
-					<description><![CDATA[<p>Ascension is notifying over 100,000 people that their personal information was stolen in a data breach potentially linked to the Cleo hack.</p>
-<p>The post <a href="https://www.securityweek.com/ascension-discloses-data-breach-potentially-linked-to-cleo-hack/">Ascension Discloses Data Breach Potentially Linked to Cleo Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SentinelOne Targeted by North Korean IT Workers, Ransomware Groups, Chinese Hackers</title>
-		<link>https://www.securityweek.com/sentinelone-targeted-by-north-korean-it-workers-ransomware-groups-chinese-hackers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 08:26:37 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[SentinelOne]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42143</guid>
-
-					<description><![CDATA[<p>SentinelOne has shared some information on the types of threat actors that have targeted the security firm recently.</p>
-<p>The post <a href="https://www.securityweek.com/sentinelone-targeted-by-north-korean-it-workers-ransomware-groups-chinese-hackers/">SentinelOne Targeted by North Korean IT Workers, Ransomware Groups, Chinese Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tech Giants Propose Standard For End-of-Life Security Disclosures</title>
-		<link>https://www.securityweek.com/tech-giants-propose-standard-for-end-of-life-security-disclosures/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 15:44:14 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[end-of-life]]></category>
-		<category><![CDATA[EOL]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[OASIS]]></category>
-		<category><![CDATA[OpenEoX]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42139</guid>
-
-					<description><![CDATA[<p>The OpenEoX model proposes a shared data format that can be integrated into SBOMs, security advisories, and other ecosystem tools. </p>
-<p>The post <a href="https://www.securityweek.com/tech-giants-propose-standard-for-end-of-life-security-disclosures/">Tech Giants Propose Standard For End-of-Life Security Disclosures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RSA Conference 2025 Announcement Summary (Day 2) </title>
-		<link>https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 11:51:38 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[RSA Conference]]></category>
-		<category><![CDATA[RSA Conference 2025]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42137</guid>
-
-					<description><![CDATA[<p>Hundreds of companies are showcasing their products and services this week at the 2025 edition of the RSA Conference in San Francisco.</p>
-<p>The post <a href="https://www.securityweek.com/rsa-conference-2025-announcements-summary-day-2/">RSA Conference 2025 Announcement Summary (Day 2) </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta Releases Llama AI Open Source Protection Tools</title>
-		<link>https://www.securityweek.com/meta-releases-llama-ai-open-source-protection-tools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 11:03:01 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI security]]></category>
-		<category><![CDATA[Llama]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42135</guid>
-
-					<description><![CDATA[<p>Meta has released new Llama protection tools to help the open source AI community build more secure applications.</p>
-<p>The post <a href="https://www.securityweek.com/meta-releases-llama-ai-open-source-protection-tools/">Meta Releases Llama AI Open Source Protection Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>France Blames Russia for Cyberattacks on Dozen Entities</title>
-		<link>https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 10:06:44 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42134</guid>
-
-					<description><![CDATA[<p>France says the Russian state-sponsored group APT28 is responsible for targeting or compromising a dozen French entities.</p>
-<p>The post <a href="https://www.securityweek.com/france-blames-russia-for-cyberattacks-on-dozen-entities/">France Blames Russia for Cyberattacks on Dozen Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
