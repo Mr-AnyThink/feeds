@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 02 May 2025 10:51:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 12:37:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Raytheon, Nightwing to Pay $8.4 Million in Settlement Over Cybersecurity Failures</title>
+		<link>https://www.securityweek.com/raytheon-to-pay-8-4-million-in-settlement-over-cybersecurity-failures/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 12:32:44 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[defense contractor]]></category>
+		<category><![CDATA[Raytheon]]></category>
+		<category><![CDATA[settlement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42161</guid>
+
+					<description><![CDATA[<p>The US government says defense contractor Raytheon and Nightwing agreed to pay $8.4 million to settle False Claims Act allegations.</p>
+<p>The post <a href="https://www.securityweek.com/raytheon-to-pay-8-4-million-in-settlement-over-cybersecurity-failures/">Raytheon, Nightwing to Pay $8.4 Million in Settlement Over Cybersecurity Failures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: NullPoint Source Code Leak, $17,500 for iPhone Flaw, BreachForums Down</title>
+		<link>https://www.securityweek.com/in-other-news-nullpoint-source-code-leak-17500-for-iphone-flaw-breachforums-down/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 12:19:16 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42160</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: NullPoint Stealer source code leaked, researcher earns $17,500 from Apple for vulnerability, BreachForums down after zero-day exploitation by police.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-nullpoint-source-code-leak-17500-for-iphone-flaw-breachforums-down/">In Other News: NullPoint Source Code Leak, $17,500 for iPhone Flaw, BreachForums Down</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>UK Retailers Co-op, Harrods and M&#038;S Struggle With Cyberattacks</title>
 		<link>https://www.securityweek.com/uk-retailers-co-op-harrods-and-ms-struggle-with-cyberattacks/</link>
 		
@@ -190,43 +227,6 @@
 
 					<description><![CDATA[<p>Commvault provides indicators of compromise and mitigation guidance after a zero-day exploit targeting its Azure environment lands in CISA’s KEV catalog.</p>
 <p>The post <a href="https://www.securityweek.com/more-details-come-to-light-on-commvault-vulnerability-exploitation/">Commvault Shares IoCs After Zero-Day Attack Hits Azure Environment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APT&#8217;s Adversary-in-the-Middle Tool Dissected</title>
-		<link>https://www.securityweek.com/chinese-apts-adversary-in-the-middle-tool-dissected/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 11:11:40 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AitM]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[TheWizards]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42147</guid>
-
-					<description><![CDATA[<p>ESET has analyzed Spellbinder, the IPv6 SLAAC spoofing tool Chinese APT TheWizards uses to deploy its WizardNet backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apts-adversary-in-the-middle-tool-dissected/">Chinese APT&#8217;s Adversary-in-the-Middle Tool Dissected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Actions Over Words: Career Lessons for the Security Professional</title>
-		<link>https://www.securityweek.com/actions-over-words-career-lessons-for-the-security-professional/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Thu, 01 May 2025 10:26:02 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Career]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42146</guid>
-
-					<description><![CDATA[<p>In a world full of noise and promises, it’s those who consistently deliver behind the scenes who build the most respected and rewarding careers.</p>
-<p>The post <a href="https://www.securityweek.com/actions-over-words-career-lessons-for-the-security-professional/">Actions Over Words: Career Lessons for the Security Professional</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
