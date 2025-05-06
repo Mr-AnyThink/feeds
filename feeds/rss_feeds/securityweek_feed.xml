@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 05 May 2025 12:17:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 May 2025 12:19:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,174 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US Charges Yemeni Man for Black Kingdom Ransomware Attacks</title>
+		<link>https://www.securityweek.com/us-charges-yemeni-man-for-black-kingdom-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 12:19:01 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Black Kingdom]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Yemen]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42182</guid>
+
+					<description><![CDATA[<p>Rami Khaled Ahmed, a 36-year-old from Yemen, has been charged for launching ransomware attacks between 2021 and 2023.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-yemeni-man-for-black-kingdom-ransomware-attacks/">US Charges Yemeni Man for Black Kingdom Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Samsung MagicINFO Vulnerability Exploited Days After PoC Publication</title>
+		<link>https://www.securityweek.com/samsung-magicinfo-vulnerability-exploited-days-after-poc-publication/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 11:27:17 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[MagicINFO]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42181</guid>
+
+					<description><![CDATA[<p>Threat actors started exploiting a vulnerability in Samsung MagicINFO only days after a PoC exploit was published.</p>
+<p>The post <a href="https://www.securityweek.com/samsung-magicinfo-vulnerability-exploited-days-after-poc-publication/">Samsung MagicINFO Vulnerability Exploited Days After PoC Publication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability in AI Builder Langflow Under Attack</title>
+		<link>https://www.securityweek.com/critical-vulnerability-in-ai-builder-langflow-under-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 11:21:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Langflow]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42180</guid>
+
+					<description><![CDATA[<p>CISA warns organizations that threat actors are exploiting a critical-severity vulnerability in low-code AI builder Langflow.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-in-ai-builder-langflow-under-attack/">Critical Vulnerability in AI Builder Langflow Under Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Warns of Attackers Exploiting Misconfigured Apache Pinot Installations</title>
+		<link>https://www.securityweek.com/microsoft-warns-of-attackers-exploiting-misconfigured-apache-pinot-installations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 11:13:36 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Apache Pinot]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Kubernetes]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42179</guid>
+
+					<description><![CDATA[<p>Misconfigured Apache Pinot instances can and have enabled threat actors to gain access to sensitive information. </p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-attackers-exploiting-misconfigured-apache-pinot-installations/">Microsoft Warns of Attackers Exploiting Misconfigured Apache Pinot Installations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Android Update Patches FreeType Vulnerability Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/android-update-patches-freetype-vulnerability-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 08:54:44 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[FreeType]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42178</guid>
+
+					<description><![CDATA[<p>Android’s May 2025 security update includes patches for an exploited vulnerability in the FreeType open source rendering engine.</p>
+<p>The post <a href="https://www.securityweek.com/android-update-patches-freetype-vulnerability-exploited-as-zero-day/">Android Update Patches FreeType Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>White House Proposal Slashes Half-Billion From CISA Budget</title>
+		<link>https://www.securityweek.com/white-house-proposal-slashes-half-billion-from-cisa-budget/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 15:22:41 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[budget]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CVE]]></category>
+		<category><![CDATA[DHS]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42174</guid>
+
+					<description><![CDATA[<p>The proposed $491 million cut is being positioned as a “refocusing”of CISA on its core mission “while eliminating weaponization and waste.”</p>
+<p>The post <a href="https://www.securityweek.com/white-house-proposal-slashes-half-billion-from-cisa-budget/">White House Proposal Slashes Half-Billion From CISA Budget</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Doppel Banks $35M for AI-Based Digital Risk Protection</title>
+		<link>https://www.securityweek.com/doppel-banks-35m-for-ai-based-digital-risk-protection/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 13:30:39 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Bessemer]]></category>
+		<category><![CDATA[Doppel]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Series B]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42172</guid>
+
+					<description><![CDATA[<p>The new investment values Doppel at $205 million and provides runway to meet enterprise demand for AI-powered threat detection tools.</p>
+<p>The post <a href="https://www.securityweek.com/doppel-banks-35m-for-ai-based-digital-risk-protection/">Doppel Banks $35M for AI-Based Digital Risk Protection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kelly Benefits Data Breach Impact Grows to 400,000 Individuals</title>
+		<link>https://www.securityweek.com/kelly-benefits-data-breach-impact-grows-to-400000-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 12:59:25 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Kelly Benefits]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42168</guid>
+
+					<description><![CDATA[<p>Kelly Benefits has determined that the impact of the recently disclosed data breach is much bigger than initially believed.</p>
+<p>The post <a href="https://www.securityweek.com/kelly-benefits-data-breach-impact-grows-to-400000-individuals/">Kelly Benefits Data Breach Impact Grows to 400,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical Commvault Vulnerability in Attacker Crosshairs</title>
 		<link>https://www.securityweek.com/critical-commvault-vulnerability-in-attacker-crosshairs/</link>
 		
@@ -62,171 +230,6 @@
 
 					<description><![CDATA[<p>A 25-year-old has admitted hacking Disney systems and leaking data under the guise of a hacktivist collective named NullBulge.</p>
 <p>The post <a href="https://www.securityweek.com/man-admits-hacking-disney-and-leaking-data-disguised-as-hacktivist/">Man Admits Hacking Disney and Leaking Data Disguised as Hacktivist </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Attacks on UK Retailers</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-attacks-on-uk-retailers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 11:00:25 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[DragonForce]]></category>
-		<category><![CDATA[Harrods]]></category>
-		<category><![CDATA[M&S]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[retail]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42165</guid>
-
-					<description><![CDATA[<p>The DragonForce ransomware group has claimed responsibility for the recent cyberattacks on UK retailers Co-op, Harrods, and M&#038;S.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attacks-on-uk-retailers/">Ransomware Group Claims Attacks on UK Retailers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PoC Published for Exploited SonicWall Vulnerabilities</title>
-		<link>https://www.securityweek.com/poc-published-for-exploited-sonicwall-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 09:55:38 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42164</guid>
-
-					<description><![CDATA[<p>PoC code targeting two exploited SonicWall flaws was published just CISA added them to the KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/poc-published-for-exploited-sonicwall-vulnerabilities/">PoC Published for Exploited SonicWall Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 31 Deals Announced in April 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-31-deals-announced-in-april-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 08:28:22 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[merger]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42163</guid>
-
-					<description><![CDATA[<p>Thirty-one cybersecurity merger and acquisition (M&#038;A) deals were announced in April 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-31-deals-announced-in-april-2025/">Cybersecurity M&#038;A Roundup: 31 Deals Announced in April 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok Fined $600 Million for China Data Transfers That Broke EU Privacy Rules</title>
-		<link>https://www.securityweek.com/tiktok-fined-600-million-for-china-data-transfers-that-broke-eu-privacy-rules/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 07:51:00 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42162</guid>
-
-					<description><![CDATA[<p>EU privacy watchdog fined TikTok $600 million after a four-year investigation found that data transfers to China put users at risk of spying, in breach of strict EU data privacy rules.</p>
-<p>The post <a href="https://www.securityweek.com/tiktok-fined-600-million-for-china-data-transfers-that-broke-eu-privacy-rules/">TikTok Fined $600 Million for China Data Transfers That Broke EU Privacy Rules</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Raytheon, Nightwing to Pay $8.4 Million in Settlement Over Cybersecurity Failures</title>
-		<link>https://www.securityweek.com/raytheon-to-pay-8-4-million-in-settlement-over-cybersecurity-failures/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 12:32:44 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[defense contractor]]></category>
-		<category><![CDATA[Raytheon]]></category>
-		<category><![CDATA[settlement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42161</guid>
-
-					<description><![CDATA[<p>The US government says defense contractor Raytheon and Nightwing agreed to pay $8.4 million to settle False Claims Act allegations.</p>
-<p>The post <a href="https://www.securityweek.com/raytheon-to-pay-8-4-million-in-settlement-over-cybersecurity-failures/">Raytheon, Nightwing to Pay $8.4 Million in Settlement Over Cybersecurity Failures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: NullPoint Source Code Leak, $17,500 for iPhone Flaw, BreachForums Down</title>
-		<link>https://www.securityweek.com/in-other-news-nullpoint-source-code-leak-17500-for-iphone-flaw-breachforums-down/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 12:19:16 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42160</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: NullPoint Stealer source code leaked, researcher earns $17,500 from Apple for vulnerability, BreachForums down after zero-day exploitation by police.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-nullpoint-source-code-leak-17500-for-iphone-flaw-breachforums-down/">In Other News: NullPoint Source Code Leak, $17,500 for iPhone Flaw, BreachForums Down</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Retailers Co-op, Harrods and M&#038;S Struggle With Cyberattacks</title>
-		<link>https://www.securityweek.com/uk-retailers-co-op-harrods-and-ms-struggle-with-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 10:51:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Co-op]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Harrods]]></category>
-		<category><![CDATA[M&S]]></category>
-		<category><![CDATA[retail]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42158</guid>
-
-					<description><![CDATA[<p>Major UK retailers Co-op, Harrods, and M&#038;S are scrambling to restore services that were affected by cyberattacks.</p>
-<p>The post <a href="https://www.securityweek.com/uk-retailers-co-op-harrods-and-ms-struggle-with-cyberattacks/">UK Retailers Co-op, Harrods and M&#038;S Struggle With Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nova Scotia Power Says Hackers Stole Customer Information</title>
-		<link>https://www.securityweek.com/nova-scotia-power-says-hackers-stole-customer-information/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 02 May 2025 10:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[electric]]></category>
-		<category><![CDATA[Nova Scotia Power]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42157</guid>
-
-					<description><![CDATA[<p>Nova Scotia Power’s investigation has shown that the recent cyberattack resulted in the theft of some customer information.</p>
-<p>The post <a href="https://www.securityweek.com/nova-scotia-power-says-hackers-stole-customer-information/">Nova Scotia Power Says Hackers Stole Customer Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
