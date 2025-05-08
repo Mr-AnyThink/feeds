@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 07 May 2025 12:14:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 11:55:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>US Sanctions Myanmar Militia Involved in Cyber Scams </title>
-		<link>https://www.securityweek.com/us-sanctions-myanmar-militia-involved-in-cyber-scams/</link>
+		<title>Google Finds Data Theft Malware Used by Russian APT in Select Cases</title>
+		<link>https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 12:14:08 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Myanmar]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[scam centers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42198</guid>
-
-					<description><![CDATA[<p>The US has sanctioned Myanmar warlord Saw Chit Thu and his militia for their roles in cyber scams causing billions in losses to American victims.</p>
-<p>The post <a href="https://www.securityweek.com/us-sanctions-myanmar-militia-involved-in-cyber-scams/">US Sanctions Myanmar Militia Involved in Cyber Scams </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spyware Maker NSO Ordered to Pay $167 Million Over WhatsApp Hack</title>
-		<link>https://www.securityweek.com/spyware-maker-nso-ordered-to-pay-167-million-over-whatsapp-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 11:30:37 +0000</pubDate>
+		<pubDate>Thu, 08 May 2025 11:55:35 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[nso group]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42197</guid>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[LostKeys]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Star Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42211</guid>
 
-					<description><![CDATA[<p>Meta has won its WhatsApp hacking lawsuit against Israeli spyware company NSO Group in an “important step forward for privacy and security”.</p>
-<p>The post <a href="https://www.securityweek.com/spyware-maker-nso-ordered-to-pay-167-million-over-whatsapp-hack/">Spyware Maker NSO Ordered to Pay $167 Million Over WhatsApp Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Russia-linked APT Star Blizzard is using the ClickFix technique in recent attacks distributing the LostKeys malware.</p>
+<p>The post <a href="https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/">Google Finds Data Theft Malware Used by Russian APT in Select Cases</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>AppSignal Raises $22 Million for Application Monitoring Solution</title>
-		<link>https://www.securityweek.com/appsignal-raises-22-million-for-application-monitoring-solution/</link>
+		<title>Improperly Patched Samsung MagicINFO Vulnerability Exploited by Botnet</title>
+		<link>https://www.securityweek.com/improperly-patched-samsung-magicinfo-vulnerability-exploited-by-botnet/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 10:33:29 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[AppSignal]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42196</guid>
-
-					<description><![CDATA[<p>Application performance monitoring provider AppSignal has raised $22 million in a Series A funding round led by Elsewhere Partners.</p>
-<p>The post <a href="https://www.securityweek.com/appsignal-raises-22-million-for-application-monitoring-solution/">AppSignal Raises $22 Million for Application Monitoring Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Second Ransomware Group Caught Exploiting Windows Flaw as Zero-Day</title>
-		<link>https://www.securityweek.com/second-ransomware-group-caught-exploiting-windows-flaw-as-zero-day/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42187</guid>
-
-					<description><![CDATA[<p>At least two ransomware groups exploited the Windows zero-day CVE-2025-29824 before it was patched by Microsoft.</p>
-<p>The post <a href="https://www.securityweek.com/second-ransomware-group-caught-exploiting-windows-flaw-as-zero-day/">Second Ransomware Group Caught Exploiting Windows Flaw as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Second OttoKit Vulnerability Exploited to Hack WordPress Sites</title>
-		<link>https://www.securityweek.com/second-ottokit-vulnerability-exploited-to-hack-wordpress-sites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 09:01:00 +0000</pubDate>
+		<pubDate>Thu, 08 May 2025 10:44:23 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[botnet]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42194</guid>
+		<category><![CDATA[MagicINFO]]></category>
+		<category><![CDATA[Mirai]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42210</guid>
 
-					<description><![CDATA[<p>Threat actors are targeting a critical-severity vulnerability in the OttoKit WordPress plugin to gain administrative privileges.</p>
-<p>The post <a href="https://www.securityweek.com/second-ottokit-vulnerability-exploited-to-hack-wordpress-sites/">Second OttoKit Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The patches for an exploited Samsung MagicINFO vulnerability are ineffective and a Mirai botnet has started targeting it.</p>
+<p>The post <a href="https://www.securityweek.com/improperly-patched-samsung-magicinfo-vulnerability-exploited-by-botnet/">Improperly Patched Samsung MagicINFO Vulnerability Exploited by Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations</title>
-		<link>https://www.securityweek.com/us-warns-of-hackers-targeting-ics-scada-at-oil-and-gas-organizations/</link>
+		<title>Cisco Patches 35 Vulnerabilities Across Several Products</title>
+		<link>https://www.securityweek.com/cisco-patches-35-vulnerabilities-across-several-products/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 08:10:01 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42193</guid>
+		<pubDate>Thu, 08 May 2025 09:52:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42209</guid>
 
-					<description><![CDATA[<p>The US government warns of threat actors targeting ICS/SCADA systems at oil and natural gas organizations.</p>
-<p>The post <a href="https://www.securityweek.com/us-warns-of-hackers-targeting-ics-scada-at-oil-and-gas-organizations/">US Warns of Hackers Targeting ICS/SCADA at Oil and Gas Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco releases patches for 26 vulnerabilities in IOS and IOS XE software, including 17 critical- and high-severity bugs.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-35-vulnerabilities-across-several-products/">Cisco Patches 35 Vulnerabilities Across Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>41 Countries Taking Part in NATO&#8217;s Locked Shields 2025 Cyber Defense Exercise</title>
-		<link>https://www.securityweek.com/41-countries-taking-part-in-natos-locked-shields-2025-cyber-defense-exercise/</link>
+		<title>Dozens of SysAid Instances Vulnerable to Remote Hacking</title>
+		<link>https://www.securityweek.com/dozens-of-sysaid-instances-vulnerable-to-remote-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 07:14:28 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[cyber exercise]]></category>
-		<category><![CDATA[cyber range]]></category>
-		<category><![CDATA[Locked Shields]]></category>
-		<category><![CDATA[NATO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42191</guid>
+		<pubDate>Thu, 08 May 2025 09:24:49 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[SysAid]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42208</guid>
 
-					<description><![CDATA[<p>The NATO Cooperative Cyber Defence Centre of Excellence in Estonia is hosting the Locked Shields 2025 cyber defense exercise.</p>
-<p>The post <a href="https://www.securityweek.com/41-countries-taking-part-in-natos-locked-shields-2025-cyber-defense-exercise/">41 Countries Taking Part in NATO&#8217;s Locked Shields 2025 Cyber Defense Exercise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SysAid patches IT service management software vulnerabilities that can be chained for unauthenticated remote command execution. </p>
+<p>The post <a href="https://www.securityweek.com/dozens-of-sysaid-instances-vulnerable-to-remote-hacking/">Dozens of SysAid Instances Vulnerable to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Applying the OODA Loop to Solve the Shadow AI Problem</title>
-		<link>https://www.securityweek.com/applying-the-ooda-loop-to-solve-the-shadow-ai-problem/</link>
+		<title>Masimo Manufacturing Facilities Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/masimo-manufacturing-facilities-hit-by-cyberattack/</link>
 		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 16:00:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[Shadow AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42188</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 07:32:17 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Masimo]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42207</guid>
 
-					<description><![CDATA[<p>By taking immediate actions, organizations can ensure that shadow AI is prevented and used constructively where possible.</p>
-<p>The post <a href="https://www.securityweek.com/applying-the-ooda-loop-to-solve-the-shadow-ai-problem/">Applying the OODA Loop to Solve the Shadow AI Problem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Health technology and consumer electronics firm Masimo detected unauthorized activity on its network in late April.</p>
+<p>The post <a href="https://www.securityweek.com/masimo-manufacturing-facilities-hit-by-cyberattack/">Masimo Manufacturing Facilities Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hacker Conversations: John Kindervag, a Making not Breaking Hacker</title>
-		<link>https://www.securityweek.com/hacker-conversations-john-kindervag-a-making-not-breaking-hacker/</link>
+		<title>Cisco’s Quantum Bet: Linking Small Machines Into One Giant Quantum Computer</title>
+		<link>https://www.securityweek.com/ciscos-quantum-bet-linking-small-machines-into-one-giant-quantum-computer/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 13:00:10 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42185</guid>
+		<pubDate>Wed, 07 May 2025 16:57:18 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42200</guid>
 
-					<description><![CDATA[<p>John Kindervag is best known for developing the Zero Trust Model. He is a hacker, but not within our common definition of a hacker today. </p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-john-kindervag-a-making-not-breaking-hacker/">Hacker Conversations: John Kindervag, a Making not Breaking Hacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco unveils its Quantum Network Entanglement Chip and new Quantum Labs, laying the groundwork for a scalable quantum internet that connects distributed quantum computers into a unified, powerful system.</p>
+<p>The post <a href="https://www.securityweek.com/ciscos-quantum-bet-linking-small-machines-into-one-giant-quantum-computer/">Cisco’s Quantum Bet: Linking Small Machines Into One Giant Quantum Computer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Second Wave of Attacks Hitting SAP NetWeaver After Zero-Day Compromise</title>
-		<link>https://www.securityweek.com/second-wave-of-attacks-hitting-sap-netweaver-after-zero-day-compromise/</link>
+		<title>CodeAnt AI Raises $2 Million for Code Quality and Application Security Platform </title>
+		<link>https://www.securityweek.com/codeant-ai-raises-2-million-for-code-quality-and-application-security-platform/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 06 May 2025 12:33:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42183</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 16:19:12 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[CodeAnt]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42204</guid>
 
-					<description><![CDATA[<p>Threat actors are revisiting SAP NetWeaver instances to leverage webshells deployed via a recent zero-day vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/second-wave-of-attacks-hitting-sap-netweaver-after-zero-day-compromise/">Second Wave of Attacks Hitting SAP NetWeaver After Zero-Day Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Code quality and security firm CodeAnt has secured $2 million in seed funding and it has been valued at $20 million.</p>
+<p>The post <a href="https://www.securityweek.com/codeant-ai-raises-2-million-for-code-quality-and-application-security-platform/">CodeAnt AI Raises $2 Million for Code Quality and Application Security Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CrowdStrike Plans Layoffs to Pursue $10B ARR Target</title>
+		<link>https://www.securityweek.com/crowdstrike-plans-layoffs-to-pursue-10b-arr-target/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 15:57:17 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[EDR]]></category>
+		<category><![CDATA[layoffs]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42203</guid>
+
+					<description><![CDATA[<p>CrowdStrike said the planned cuts will affect approximately 500 employees and will span the first half of fiscal 2026.</p>
+<p>The post <a href="https://www.securityweek.com/crowdstrike-plans-layoffs-to-pursue-10b-arr-target/">CrowdStrike Plans Layoffs to Pursue $10B ARR Target</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ox Security Bags $60M Series B to Tackle Appsec Alert Fatigue </title>
+		<link>https://www.securityweek.com/ox-security-bags-60m-series-b-to-tackle-appsec-alert-fatigue/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 15:44:54 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[appsec]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ox Security]]></category>
+		<category><![CDATA[Series B]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42202</guid>
+
+					<description><![CDATA[<p>Ox Security has raised a total $94 million since its launch in 2021 with ambitious plans to cash in on two fast-moving trends.</p>
+<p>The post <a href="https://www.securityweek.com/ox-security-bags-60m-series-b-to-tackle-appsec-alert-fatigue/">Ox Security Bags $60M Series B to Tackle Appsec Alert Fatigue </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New UK Framework Pressures Vendors on SBOMs, Patching and Default MFA</title>
+		<link>https://www.securityweek.com/new-uk-framework-pressures-vendors-on-sboms-patching-and-default-mfa/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 07 May 2025 14:27:46 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[NCSC]]></category>
+		<category><![CDATA[secure by design]]></category>
+		<category><![CDATA[Security Code of Practice]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42201</guid>
+
+					<description><![CDATA[<p>By baking minimum expectations into procurement conversations, the plan is to steer software vendors to “secure-by-design and default” basics.</p>
+<p>The post <a href="https://www.securityweek.com/new-uk-framework-pressures-vendors-on-sboms-patching-and-default-mfa/">New UK Framework Pressures Vendors on SBOMs, Patching and Default MFA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
