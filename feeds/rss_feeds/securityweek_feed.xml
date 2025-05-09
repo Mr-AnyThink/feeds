@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 08 May 2025 11:55:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 11:04:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,146 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google Finds Data Theft Malware Used by Russian APT in Select Cases</title>
+		<title>Rising Tides: Kelley Misata on Bringing Cybersecurity to Nonprofits</title>
+		<link>https://www.securityweek.com/rising-tides-kelley-misata-on-bringing-cybersecurity-to-nonprofits/</link>
+		
+		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42220</guid>
+
+					<description><![CDATA[<p>Sightline Security’s founder explains why nonprofits need cybersecurity solutions tailored to their unique missions — and why vendors need to listen.</p>
+<p>The post <a href="https://www.securityweek.com/rising-tides-kelley-misata-on-bringing-cybersecurity-to-nonprofits/">Rising Tides: Kelley Misata on Bringing Cybersecurity to Nonprofits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Zero-Day Targeted Since January, Many Sectors Impacted </title>
+		<link>https://www.securityweek.com/sap-zero-day-targeted-since-january-many-sectors-impacted/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 10:49:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42219</guid>
+
+					<description><![CDATA[<p>Hundreds of SAP NetWeaver instances hacked via a zero-day that allows remote code execution, not only arbitrary file uploads, as initially believed.</p>
+<p>The post <a href="https://www.securityweek.com/sap-zero-day-targeted-since-january-many-sectors-impacted/">SAP Zero-Day Targeted Since January, Many Sectors Impacted </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Company and Personal Data Compromised in Recent Insight Partners Hack </title>
+		<link>https://www.securityweek.com/company-and-personal-data-compromised-in-recent-insight-partners-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 10:10:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Insight Partners]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42218</guid>
+
+					<description><![CDATA[<p>VC firm Insight Partners is informing partners and employees that their information was exposed in the January 2025 cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/company-and-personal-data-compromised-in-recent-insight-partners-hack/">Company and Personal Data Compromised in Recent Insight Partners Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Valuable Information Leaked in LockBit Ransomware Hack </title>
+		<link>https://www.securityweek.com/valuable-information-leaked-in-lockbit-ransomware-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 08:16:33 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[LockBit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42216</guid>
+
+					<description><![CDATA[<p>Private messages, Bitcoin addresses, victim data, and attacker information were leaked after someone hacked a LockBit admin panel.</p>
+<p>The post <a href="https://www.securityweek.com/valuable-information-leaked-in-lockbit-ransomware-hack/">Valuable Information Leaked in LockBit Ransomware Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Valarian Bags $20M Seed Capital for ‘Isolation-First’ Infrastructure Tech</title>
+		<link>https://www.securityweek.com/valarian-bags-20m-seed-capital-for-isolation-first-infrastructure-tech/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 14:32:45 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Artis Ventures]]></category>
+		<category><![CDATA[Scout Ventures]]></category>
+		<category><![CDATA[seed-stage]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[Valarian]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42214</guid>
+
+					<description><![CDATA[<p>British startup exits stealth with $20 million in seed-stage financing led by US investors Scout Ventures and Artis Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/valarian-bags-20m-seed-capital-for-isolation-first-infrastructure-tech/">Valarian Bags $20M Seed Capital for ‘Isolation-First’ Infrastructure Tech</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Europol Announces More DDoS Service Takedowns, Arrests</title>
+		<link>https://www.securityweek.com/europol-announces-more-ddos-service-takedowns-arrests/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 13:48:00 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[DDoS-for-hire]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[PowerOff]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42213</guid>
+
+					<description><![CDATA[<p>Four people have been arrested in Poland and several websites associated with DDoS-for-hire services have been shut down.</p>
+<p>The post <a href="https://www.securityweek.com/europol-announces-more-ddos-service-takedowns-arrests/">Europol Announces More DDoS Service Takedowns, Arrests</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Possible Zero-Day Patched in SonicWall SMA Appliances</title>
+		<link>https://www.securityweek.com/possible-zero-day-patched-in-sonicwall-sma-appliances/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 12:41:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SMA]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42212</guid>
+
+					<description><![CDATA[<p>SonicWall patches three SMA 100 vulnerabilities, including a potential zero-day, that could be chained to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/possible-zero-day-patched-in-sonicwall-sma-appliances/">Possible Zero-Day Patched in SonicWall SMA Appliances</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russia-Linked APT Star Blizzard Uses ClickFix to Deploy New LostKeys Malware, Google Warns</title>
 		<link>https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -42,7 +181,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42211</guid>
 
 					<description><![CDATA[<p>Russia-linked APT Star Blizzard is using the ClickFix technique in recent attacks distributing the LostKeys malware.</p>
-<p>The post <a href="https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/">Google Finds Data Theft Malware Used by Russian APT in Select Cases</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/">Russia-Linked APT Star Blizzard Uses ClickFix to Deploy New LostKeys Malware, Google Warns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -82,146 +221,6 @@
 
 					<description><![CDATA[<p>Cisco releases patches for 26 vulnerabilities in IOS and IOS XE software, including 17 critical- and high-severity bugs.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-patches-35-vulnerabilities-across-several-products/">Cisco Patches 35 Vulnerabilities Across Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dozens of SysAid Instances Vulnerable to Remote Hacking</title>
-		<link>https://www.securityweek.com/dozens-of-sysaid-instances-vulnerable-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 09:24:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[SysAid]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42208</guid>
-
-					<description><![CDATA[<p>SysAid patches IT service management software vulnerabilities that can be chained for unauthenticated remote command execution. </p>
-<p>The post <a href="https://www.securityweek.com/dozens-of-sysaid-instances-vulnerable-to-remote-hacking/">Dozens of SysAid Instances Vulnerable to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Masimo Manufacturing Facilities Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/masimo-manufacturing-facilities-hit-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 07:32:17 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Masimo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42207</guid>
-
-					<description><![CDATA[<p>Health technology and consumer electronics firm Masimo detected unauthorized activity on its network in late April.</p>
-<p>The post <a href="https://www.securityweek.com/masimo-manufacturing-facilities-hit-by-cyberattack/">Masimo Manufacturing Facilities Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco’s Quantum Bet: Linking Small Machines Into One Giant Quantum Computer</title>
-		<link>https://www.securityweek.com/ciscos-quantum-bet-linking-small-machines-into-one-giant-quantum-computer/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 16:57:18 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42200</guid>
-
-					<description><![CDATA[<p>Cisco unveils its Quantum Network Entanglement Chip and new Quantum Labs, laying the groundwork for a scalable quantum internet that connects distributed quantum computers into a unified, powerful system.</p>
-<p>The post <a href="https://www.securityweek.com/ciscos-quantum-bet-linking-small-machines-into-one-giant-quantum-computer/">Cisco’s Quantum Bet: Linking Small Machines Into One Giant Quantum Computer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CodeAnt AI Raises $2 Million for Code Quality and Application Security Platform </title>
-		<link>https://www.securityweek.com/codeant-ai-raises-2-million-for-code-quality-and-application-security-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 16:19:12 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[CodeAnt]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42204</guid>
-
-					<description><![CDATA[<p>Code quality and security firm CodeAnt has secured $2 million in seed funding and it has been valued at $20 million.</p>
-<p>The post <a href="https://www.securityweek.com/codeant-ai-raises-2-million-for-code-quality-and-application-security-platform/">CodeAnt AI Raises $2 Million for Code Quality and Application Security Platform </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CrowdStrike Plans Layoffs to Pursue $10B ARR Target</title>
-		<link>https://www.securityweek.com/crowdstrike-plans-layoffs-to-pursue-10b-arr-target/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 15:57:17 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[EDR]]></category>
-		<category><![CDATA[layoffs]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42203</guid>
-
-					<description><![CDATA[<p>CrowdStrike said the planned cuts will affect approximately 500 employees and will span the first half of fiscal 2026.</p>
-<p>The post <a href="https://www.securityweek.com/crowdstrike-plans-layoffs-to-pursue-10b-arr-target/">CrowdStrike Plans Layoffs to Pursue $10B ARR Target</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ox Security Bags $60M Series B to Tackle Appsec Alert Fatigue </title>
-		<link>https://www.securityweek.com/ox-security-bags-60m-series-b-to-tackle-appsec-alert-fatigue/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 15:44:54 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Ox Security]]></category>
-		<category><![CDATA[Series B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42202</guid>
-
-					<description><![CDATA[<p>Ox Security has raised a total $94 million since its launch in 2021 with ambitious plans to cash in on two fast-moving trends.</p>
-<p>The post <a href="https://www.securityweek.com/ox-security-bags-60m-series-b-to-tackle-appsec-alert-fatigue/">Ox Security Bags $60M Series B to Tackle Appsec Alert Fatigue </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New UK Framework Pressures Vendors on SBOMs, Patching and Default MFA</title>
-		<link>https://www.securityweek.com/new-uk-framework-pressures-vendors-on-sboms-patching-and-default-mfa/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 07 May 2025 14:27:46 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[NCSC]]></category>
-		<category><![CDATA[secure by design]]></category>
-		<category><![CDATA[Security Code of Practice]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42201</guid>
-
-					<description><![CDATA[<p>By baking minimum expectations into procurement conversations, the plan is to steer software vendors to “secure-by-design and default” basics.</p>
-<p>The post <a href="https://www.securityweek.com/new-uk-framework-pressures-vendors-on-sboms-patching-and-default-mfa/">New UK Framework Pressures Vendors on SBOMs, Patching and Default MFA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
