@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 09 May 2025 11:04:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 19:37:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,80 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: India-Pakistan Cyberattacks, Radware Vulnerabilities, xAI Leak</title>
+		<link>https://www.securityweek.com/in-other-news-india-pakistan-cyberattacks-radware-vulnerabilities-xai-leak/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 14:54:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42226</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: surge in cyberattacks between India and Pakistan, Radware cloud WAF vulnerabilities, xAI key leak.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-india-pakistan-cyberattacks-radware-vulnerabilities-xai-leak/">In Other News: India-Pakistan Cyberattacks, Radware Vulnerabilities, xAI Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Popular Scraping Tool&#8217;s NPM Package Compromised in Supply Chain Attack</title>
+		<link>https://www.securityweek.com/popular-scraping-tools-npm-package-compromised-in-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 14:12:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[RAT]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42224</guid>
+
+					<description><![CDATA[<p>Supply chain attack compromises the popular rand-user-agent NPM package to deploy and activate a backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/popular-scraping-tools-npm-package-compromised-in-supply-chain-attack/">Popular Scraping Tool&#8217;s NPM Package Compromised in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>160,000 Impacted by Valsoft Data Breach</title>
+		<link>https://www.securityweek.com/160000-impacted-by-valsoft-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 13:34:46 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[AllTrust]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Valsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42223</guid>
+
+					<description><![CDATA[<p>VMS firm Valsoft Corporation says the personal information of over 160,000 people was compromised in a February 2025 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/160000-impacted-by-valsoft-data-breach/">160,000 Impacted by Valsoft Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Malicious NPM Packages Target Cursor AI&#8217;s macOS Users</title>
+		<link>https://www.securityweek.com/malicious-npm-packages-target-cursor-ais-macos-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 12:51:28 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cursor AI]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NPM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42222</guid>
+
+					<description><![CDATA[<p>Three NPM packages posing as developer tools for Cursor AI code editor’s macOS version contain a backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-npm-packages-target-cursor-ais-macos-users/">Malicious NPM Packages Target Cursor AI&#8217;s macOS Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rising Tides: Kelley Misata on Bringing Cybersecurity to Nonprofits</title>
 		<link>https://www.securityweek.com/rising-tides-kelley-misata-on-bringing-cybersecurity-to-nonprofits/</link>
 		
@@ -82,7 +156,7 @@
 		
 			</item>
 		<item>
-		<title>Valuable Information Leaked in LockBit Ransomware Hack </title>
+		<title>LockBit Ransomware Admin Panel Hacked, Leaks Reveal Inside Details</title>
 		<link>https://www.securityweek.com/valuable-information-leaked-in-lockbit-ransomware-hack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
@@ -95,7 +169,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42216</guid>
 
 					<description><![CDATA[<p>Private messages, Bitcoin addresses, victim data, and attacker information were leaked after someone hacked a LockBit admin panel.</p>
-<p>The post <a href="https://www.securityweek.com/valuable-information-leaked-in-lockbit-ransomware-hack/">Valuable Information Leaked in LockBit Ransomware Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/valuable-information-leaked-in-lockbit-ransomware-hack/">LockBit Ransomware Admin Panel Hacked, Leaks Reveal Inside Details</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -139,88 +213,6 @@
 
 					<description><![CDATA[<p>Four people have been arrested in Poland and several websites associated with DDoS-for-hire services have been shut down.</p>
 <p>The post <a href="https://www.securityweek.com/europol-announces-more-ddos-service-takedowns-arrests/">Europol Announces More DDoS Service Takedowns, Arrests</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Possible Zero-Day Patched in SonicWall SMA Appliances</title>
-		<link>https://www.securityweek.com/possible-zero-day-patched-in-sonicwall-sma-appliances/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 12:41:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SMA]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42212</guid>
-
-					<description><![CDATA[<p>SonicWall patches three SMA 100 vulnerabilities, including a potential zero-day, that could be chained to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/possible-zero-day-patched-in-sonicwall-sma-appliances/">Possible Zero-Day Patched in SonicWall SMA Appliances</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russia-Linked APT Star Blizzard Uses ClickFix to Deploy New LostKeys Malware, Google Warns</title>
-		<link>https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 11:55:35 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[LostKeys]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Star Blizzard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42211</guid>
-
-					<description><![CDATA[<p>Russia-linked APT Star Blizzard is using the ClickFix technique in recent attacks distributing the LostKeys malware.</p>
-<p>The post <a href="https://www.securityweek.com/google-finds-data-theft-malware-used-by-russian-apt-in-select-cases/">Russia-Linked APT Star Blizzard Uses ClickFix to Deploy New LostKeys Malware, Google Warns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Improperly Patched Samsung MagicINFO Vulnerability Exploited by Botnet</title>
-		<link>https://www.securityweek.com/improperly-patched-samsung-magicinfo-vulnerability-exploited-by-botnet/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 10:44:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[MagicINFO]]></category>
-		<category><![CDATA[Mirai]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42210</guid>
-
-					<description><![CDATA[<p>The patches for an exploited Samsung MagicINFO vulnerability are ineffective and a Mirai botnet has started targeting it.</p>
-<p>The post <a href="https://www.securityweek.com/improperly-patched-samsung-magicinfo-vulnerability-exploited-by-botnet/">Improperly Patched Samsung MagicINFO Vulnerability Exploited by Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches 35 Vulnerabilities Across Several Products</title>
-		<link>https://www.securityweek.com/cisco-patches-35-vulnerabilities-across-several-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 May 2025 09:52:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42209</guid>
-
-					<description><![CDATA[<p>Cisco releases patches for 26 vulnerabilities in IOS and IOS XE software, including 17 critical- and high-severity bugs.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-35-vulnerabilities-across-several-products/">Cisco Patches 35 Vulnerabilities Across Several Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
