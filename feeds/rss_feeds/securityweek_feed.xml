@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 16 May 2025 10:59:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 May 2025 21:21:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google Warns UK Retailer Hackers Now Targeting US</title>
+		<link>https://www.securityweek.com/google-warns-uk-retailer-hackers-now-targeting-us/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 16 May 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[DragonForce]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[UNC3944]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42301</guid>
+
+					<description><![CDATA[<p>Google says the hacking group behind the recent cyberattacks on UK retailers is now shifting focus to the US.</p>
+<p>The post <a href="https://www.securityweek.com/google-warns-uk-retailer-hackers-now-targeting-us/">Google Warns UK Retailer Hackers Now Targeting US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Hackers Not Behind Blackout, CISO Docuseries, Dior Data Breach</title>
+		<link>https://www.securityweek.com/in-other-news-hackers-not-behind-blackout-ciso-docuseries-dior-data-breach/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 16 May 2025 14:28:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42300</guid>
+
+					<description><![CDATA[<p>A summary of noteworthy stories that might have slipped under the radar this week.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-hackers-not-behind-blackout-ciso-docuseries-dior-data-breach/">In Other News: Hackers Not Behind Blackout, CISO Docuseries, Dior Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>From 60 to 4,000: NATO&#8217;s Locked Shields Reflects Cyber Defense Growth</title>
 		<link>https://www.securityweek.com/from-60-to-4000-natos-locked-shields-reflects-cyber-defense-growth/</link>
 		
@@ -189,47 +228,6 @@
 
 					<description><![CDATA[<p>Enterprise cybersecurity giant Proofpoint is buying Germany-based Microsoft 365 security solutions provider Hornetsecurity.</p>
 <p>The post <a href="https://www.securityweek.com/proofpoint-to-acquire-hornetsecurity-in-reported-1-billion-deal/">Proofpoint to Acquire Hornetsecurity in Reported $1 Billion Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hackers Hit Drone Sector in Supply Chain Attacks</title>
-		<link>https://www.securityweek.com/chinese-hackers-hit-drone-sector-in-supply-chain-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 11:21:10 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[drone]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42281</guid>
-
-					<description><![CDATA[<p>The China-linked hacking group Earth Ammit has launched multi-wave attacks in Taiwan and South Korea to disrupt the drone sector.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hackers-hit-drone-sector-in-supply-chain-attacks/">Chinese Hackers Hit Drone Sector in Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Groups, Chinese APTs Exploit Recent SAP NetWeaver Flaws</title>
-		<link>https://www.securityweek.com/ransomware-groups-chinese-apts-exploit-recent-sap-netweaver-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 15 May 2025 10:42:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ransomware]]></category>
-		<category><![CDATA[SAP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42280</guid>
-
-					<description><![CDATA[<p>Two ransomware groups and several Chinese APTs have been exploiting two recent SAP NetWeaver vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-groups-chinese-apts-exploit-recent-sap-netweaver-flaws/">Ransomware Groups, Chinese APTs Exploit Recent SAP NetWeaver Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
