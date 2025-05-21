@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 20 May 2025 10:30:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 May 2025 10:55:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CloudSEK Raises $19 Million for Threat Intelligence Platform</title>
-		<link>https://www.securityweek.com/cloudsek-raises-19-million-for-threat-intelligence-platform/</link>
+		<title>US Student to Plead Guilty Over PowerSchool Hack</title>
+		<link>https://www.securityweek.com/us-student-to-plead-guilty-over-powerschool-hack/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 10:30:01 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[CloudSEK]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42325</guid>
-
-					<description><![CDATA[<p>Threat protection and intelligence firm CloudSEK raises $19 million in funding from new and existing investors.</p>
-<p>The post <a href="https://www.securityweek.com/cloudsek-raises-19-million-for-threat-intelligence-platform/">CloudSEK Raises $19 Million for Threat Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>O2 Service Vulnerability Exposed User Location</title>
-		<link>https://www.securityweek.com/o2-service-vulnerability-exposed-user-location/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 10:02:48 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[location tracking]]></category>
-		<category><![CDATA[O2]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42322</guid>
-
-					<description><![CDATA[<p>A vulnerability in O2’s implementation of the IMS standard resulted in user location data being exposed in network responses.</p>
-<p>The post <a href="https://www.securityweek.com/o2-service-vulnerability-exposed-user-location/">O2 Service Vulnerability Exposed User Location</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Madhu Gottumukkala Officially Announced as CISA Deputy Director</title>
-		<link>https://www.securityweek.com/madhu-gottumukkala-officially-appointed-cisa-deputy-director/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 09:48:16 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[appointed]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Madhu Gottumukkala]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42321</guid>
-
-					<description><![CDATA[<p>New CISA Deputy Director Madhu Gottumukkala has joined the agency from South Dakota’s Bureau of Information and Technology.</p>
-<p>The post <a href="https://www.securityweek.com/madhu-gottumukkala-officially-appointed-cisa-deputy-director/">Madhu Gottumukkala Officially Announced as CISA Deputy Director</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BreachRx Lands $15 Million as Investors Bet on Breach-Workflow Software</title>
-		<link>https://www.securityweek.com/breachrx-lands-15-million-as-investors-bet-on-breach-workflow-software/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 19:21:53 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Ballistic Ventures]]></category>
-		<category><![CDATA[BreachRx]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[SYN Ventures]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42314</guid>
-
-					<description><![CDATA[<p>San Francisco incident response coordination startup banks $15 million in a Series A funding round led by Ballistic Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/breachrx-lands-15-million-as-investors-bet-on-breach-workflow-software/">BreachRx Lands $15 Million as Investors Bet on Breach-Workflow Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Printer Company Procolored Served Infected Software for Months</title>
-		<link>https://www.securityweek.com/printer-company-procolored-served-infected-software-for-months/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 16:25:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[printer]]></category>
-		<category><![CDATA[Procolored]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42312</guid>
-
-					<description><![CDATA[<p>Procolored’s public website served dozens of software downloads containing information stealer malware and a backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/printer-company-procolored-served-infected-software-for-months/">Printer Company Procolored Served Infected Software for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Legal Aid Agency Finds Data Breach Following Cyberattack</title>
-		<link>https://www.securityweek.com/uk-legal-aid-agency-finds-data-breach-following-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 12:22:22 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Legal Aid Agency]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42311</guid>
-
-					<description><![CDATA[<p>The UK’s Legal Aid Agency was targeted in a cyberattack in April and it recently determined that hackers have stolen sensitive data.</p>
-<p>The post <a href="https://www.securityweek.com/uk-legal-aid-agency-finds-data-breach-following-cyberattack/">UK Legal Aid Agency Finds Data Breach Following Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>480,000 Catholic Health Patients Impacted by Serviceaide Data Leak</title>
-		<link>https://www.securityweek.com/480000-catholic-health-patients-impacted-by-serviceaide-data-leak/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 11:00:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Serviceaide]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42310</guid>
-
-					<description><![CDATA[<p>Serviceaide exposed a database containing personal and medical information belonging to Catholic Health patients.</p>
-<p>The post <a href="https://www.securityweek.com/480000-catholic-health-patients-impacted-by-serviceaide-data-leak/">480,000 Catholic Health Patients Impacted by Serviceaide Data Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spiking Neural Networks: Brain-Inspired Chips That Could Keep Your Data Safe</title>
-		<link>https://www.securityweek.com/spiking-neural-networks-brain-inspired-chips-that-could-keep-your-data-safe/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 10:26:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Spiking Neural Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42306</guid>
-
-					<description><![CDATA[<p>Neuromorphic computing is moving from theory to reality, with brain-inspired processors offering real-time intelligence, low power consumption, and built-in privacy—ushering in a new era for edge devices and cybersecurity.</p>
-<p>The post <a href="https://www.securityweek.com/spiking-neural-networks-brain-inspired-chips-that-could-keep-your-data-safe/">Spiking Neural Networks: Brain-Inspired Chips That Could Keep Your Data Safe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>200,000 Harbin Clinic Patients Impacted by NRS Data Breach</title>
-		<link>https://www.securityweek.com/200000-harbin-clinic-patients-impacted-by-nrs-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 10:19:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Harbin Clinic]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[NRS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42308</guid>
-
-					<description><![CDATA[<p>Harbin Clinic says the information of over 200,000 patients was stolen in a July 2024 data breach at Nationwide Recovery Services.</p>
-<p>The post <a href="https://www.securityweek.com/200000-harbin-clinic-patients-impacted-by-nrs-data-breach/">200,000 Harbin Clinic Patients Impacted by NRS Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prison Sentence for Man Involved in SEC X Account Hack</title>
-		<link>https://www.securityweek.com/prison-sentence-for-man-involved-in-sec-x-account-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 May 2025 09:40:00 +0000</pubDate>
+		<pubDate>Wed, 21 May 2025 10:54:58 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
 		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[SEC]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42307</guid>
+		<category><![CDATA[plead guilty]]></category>
+		<category><![CDATA[PowerSchool]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42359</guid>
 
-					<description><![CDATA[<p>Eric Council Jr. was sentenced to prison for hacking SEC’s official X account and publishing fraudulent posts increasing Bitcoin value.</p>
-<p>The post <a href="https://www.securityweek.com/prison-sentence-for-man-involved-in-sec-x-account-hack/">Prison Sentence for Man Involved in SEC X Account Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Matthew Lane allegedly hacked PowerSchool using stolen credentials and admitted to extorting a telecoms provider.</p>
+<p>The post <a href="https://www.securityweek.com/us-student-to-plead-guilty-over-powerschool-hack/">US Student to Plead Guilty Over PowerSchool Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cellcom Service Disruption Caused by Cyberattack</title>
+		<link>https://www.securityweek.com/cellcom-service-disruption-caused-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 10:01:43 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Cellcom]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42358</guid>
+
+					<description><![CDATA[<p>Wireless carrier Cellcom has confirmed that a week-long widespread service outage is the result of a cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/cellcom-service-disruption-caused-by-cyberattack/">Cellcom Service Disruption Caused by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google DeepMind Unveils Defense Against Indirect Prompt Injection Attacks</title>
+		<link>https://www.securityweek.com/google-deepmind-unveils-defense-against-indirect-prompt-injection-attacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:58:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[DeepMind]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42355</guid>
+
+					<description><![CDATA[<p>Google DeepMind has developed an ongoing process to counter the continuously evolving threatIndirect prompt injection (IPI) attacks.</p>
+<p>The post <a href="https://www.securityweek.com/google-deepmind-unveils-defense-against-indirect-prompt-injection-attacks/">Google DeepMind Unveils Defense Against Indirect Prompt Injection Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wiz Warns of Ongoing Exploitation of Recent Ivanti Vulnerabilities</title>
+		<link>https://www.securityweek.com/wiz-warns-of-ongoing-exploitation-of-recent-ivanti-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:49:38 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42354</guid>
+
+					<description><![CDATA[<p>Wiz warns that threat actors are chaining two recent Ivanti vulnerabilities to achieve unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/wiz-warns-of-ongoing-exploitation-of-recent-ivanti-vulnerabilities/">Wiz Warns of Ongoing Exploitation of Recent Ivanti Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Threat Detection &#038; Incident Response (TDIR) Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:41:32 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Event]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[threat detection]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42351</guid>
+
+					<description><![CDATA[<p>SecurityWeek’s 2025 Threat Detection &#038; Incident Response (TDIR) Summit takes place as a virtual summit on Wednesday, May 21st.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/">Virtual Event Today: Threat Detection &amp; Incident Response (TDIR) Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Up to 25% of Internet-Exposed ICS Are Honeypots: Researchers</title>
+		<link>https://www.securityweek.com/up-to-25-of-internet-exposed-ics-are-honeypots-researchers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:35:02 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[honeypot]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42352</guid>
+
+					<description><![CDATA[<p>Many of the industrial control system (ICS) instances seen in internet scanning are likely or possibly honeypots, not real devices.</p>
+<p>The post <a href="https://www.securityweek.com/up-to-25-of-internet-exposed-ics-are-honeypots-researchers/">Up to 25% of Internet-Exposed ICS Are Honeypots: Researchers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Attack Forces Kettering Health to Cancel Procedures</title>
+		<link>https://www.securityweek.com/ransomware-attack-forces-kettering-health-to-cancel-procedures/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 08:38:50 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Kettering Health]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42348</guid>
+
+					<description><![CDATA[<p>Kettering Health has canceled inpatient and outpatient procedures as it deals with a system-wide outage caused by a ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-attack-forces-kettering-health-to-cancel-procedures/">Ransomware Attack Forces Kettering Health to Cancel Procedures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical OpenPGP.js Vulnerability Allows Spoofing</title>
+		<link>https://www.securityweek.com/critical-openpgp-js-vulnerability-allows-spoofing/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 07:15:58 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[OpenPGP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42347</guid>
+
+					<description><![CDATA[<p>An OpenPGP.js vulnerability tracked as CVE-2025-47934 allows message signature verification to be spoofed. </p>
+<p>The post <a href="https://www.securityweek.com/critical-openpgp-js-vulnerability-allows-spoofing/">Critical OpenPGP.js Vulnerability Allows Spoofing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch</title>
+		<link>https://www.securityweek.com/nato-flagged-vulnerability-tops-latest-vmware-security-patch-batch/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 13:57:36 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-41229]]></category>
+		<category><![CDATA[ESXi]]></category>
+		<category><![CDATA[NATO]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware Cloud Foundation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42333</guid>
+
+					<description><![CDATA[<p>VMware patches flaws that expose users to data leakage, command execution and denial-of-service attacks. No temporary workarounds available. </p>
+<p>The post <a href="https://www.securityweek.com/nato-flagged-vulnerability-tops-latest-vmware-security-patch-batch/">NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers </title>
+		<link>https://www.securityweek.com/vulnerability-exploitation-probability-metric-proposed-by-nist-cisa-researchers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 12:37:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[LEV]]></category>
+		<category><![CDATA[NIST]]></category>
+		<category><![CDATA[prioritization]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42329</guid>
+
+					<description><![CDATA[<p>The Likely Exploited Vulnerabilities (LEV) equations can help augment KEV- and EPSS-based remediation prioritization. </p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-exploitation-probability-metric-proposed-by-nist-cisa-researchers/">Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
