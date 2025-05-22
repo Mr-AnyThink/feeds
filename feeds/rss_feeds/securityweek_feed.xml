@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 21 May 2025 10:55:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 May 2025 12:03:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>US Student to Plead Guilty Over PowerSchool Hack</title>
-		<link>https://www.securityweek.com/us-student-to-plead-guilty-over-powerschool-hack/</link>
+		<title>Marlboro-Chesterfield Pathology Data Breach Impacts 235,000 People</title>
+		<link>https://www.securityweek.com/marlboro-chesterfield-pathology-data-breach-impacts-235000-people/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 10:54:58 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[PowerSchool]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42359</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 12:03:05 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Marlboro-Chesterfield Pathology]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42377</guid>
 
-					<description><![CDATA[<p>Matthew Lane allegedly hacked PowerSchool using stolen credentials and admitted to extorting a telecoms provider.</p>
-<p>The post <a href="https://www.securityweek.com/us-student-to-plead-guilty-over-powerschool-hack/">US Student to Plead Guilty Over PowerSchool Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Marlboro-Chesterfield Pathology has been targeted by the SafePay ransomware group, which stole personal information from its systems.</p>
+<p>The post <a href="https://www.securityweek.com/marlboro-chesterfield-pathology-data-breach-impacts-235000-people/">Marlboro-Chesterfield Pathology Data Breach Impacts 235,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cellcom Service Disruption Caused by Cyberattack</title>
-		<link>https://www.securityweek.com/cellcom-service-disruption-caused-by-cyberattack/</link>
+		<title>Marks &#038; Spencer Expects Ransomware Attack to Cost $400 Million</title>
+		<link>https://www.securityweek.com/marks-spencer-expects-ransomware-attack-to-cost-400-million/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 10:01:43 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cellcom]]></category>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 11:21:10 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[cost]]></category>
 		<category><![CDATA[cyberattack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42358</guid>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[M&S]]></category>
+		<category><![CDATA[Marks&Spencer]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42376</guid>
 
-					<description><![CDATA[<p>Wireless carrier Cellcom has confirmed that a week-long widespread service outage is the result of a cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/cellcom-service-disruption-caused-by-cyberattack/">Cellcom Service Disruption Caused by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>UK retailer Marks &#038; Spencer expects the disruptions caused by the recent cyberattack to continue through July. </p>
+<p>The post <a href="https://www.securityweek.com/marks-spencer-expects-ransomware-attack-to-cost-400-million/">Marks &#038; Spencer Expects Ransomware Attack to Cost $400 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google DeepMind Unveils Defense Against Indirect Prompt Injection Attacks</title>
-		<link>https://www.securityweek.com/google-deepmind-unveils-defense-against-indirect-prompt-injection-attacks/</link>
+		<title>Taming the Hacker Storm: Why Millions in Cybersecurity Spending Isn&#8217;t Enough</title>
+		<link>https://www.securityweek.com/taming-the-hacker-storm-why-millions-in-cybersecurity-spending-isnt-enough/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 09:58:54 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42355</guid>
+		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Deepfake]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42368</guid>
 
-					<description><![CDATA[<p>Google DeepMind has developed an ongoing process to counter the continuously evolving threatIndirect prompt injection (IPI) attacks.</p>
-<p>The post <a href="https://www.securityweek.com/google-deepmind-unveils-defense-against-indirect-prompt-injection-attacks/">Google DeepMind Unveils Defense Against Indirect Prompt Injection Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Despite massive investment, the explosion of sophisticated malware and deepfake attacks persists because organizations struggle to verify digital identities and establish fundamental trust.</p>
+<p>The post <a href="https://www.securityweek.com/taming-the-hacker-storm-why-millions-in-cybersecurity-spending-isnt-enough/">Taming the Hacker Storm: Why Millions in Cybersecurity Spending Isn&#8217;t Enough</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Wiz Warns of Ongoing Exploitation of Recent Ivanti Vulnerabilities</title>
-		<link>https://www.securityweek.com/wiz-warns-of-ongoing-exploitation-of-recent-ivanti-vulnerabilities/</link>
+		<title>Security Theater or Real Defense? The KPIs That Tell the Truth</title>
+		<link>https://www.securityweek.com/security-theater-or-real-defense-the-kpis-that-tell-the-truth/</link>
+		
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Metrics]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42369</guid>
+
+					<description><![CDATA[<p>In the end, cybersecurity isn’t just about collecting data. It’s about proving that your defenses actually work.</p>
+<p>The post <a href="https://www.securityweek.com/security-theater-or-real-defense-the-kpis-that-tell-the-truth/">Security Theater or Real Defense? The KPIs That Tell the Truth</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches High-Severity DoS, Privilege Escalation Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-high-severity-dos-privilege-escalation-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 09:49:38 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42354</guid>
+		<pubDate>Thu, 22 May 2025 08:39:09 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42375</guid>
 
-					<description><![CDATA[<p>Wiz warns that threat actors are chaining two recent Ivanti vulnerabilities to achieve unauthenticated remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/wiz-warns-of-ongoing-exploitation-of-recent-ivanti-vulnerabilities/">Wiz Warns of Ongoing Exploitation of Recent Ivanti Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco published 10 security advisories detailing over a dozen vulnerabilities, including two high-severity flaws in its Identity Services Engine (ISE) and Unified Intelligence Center.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-dos-privilege-escalation-vulnerabilities/">Cisco Patches High-Severity DoS, Privilege Escalation Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Virtual Event Today: Threat Detection &#038; Incident Response (TDIR) Summit</title>
+		<title>GitLab, Atlassian Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/gitlab-atlassian-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 22 May 2025 05:05:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[GitLab]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42372</guid>
+
+					<description><![CDATA[<p>GitLab and Atlassian have released patches for over a dozen vulnerabilities in their products, including high-severity bugs.</p>
+<p>The post <a href="https://www.securityweek.com/gitlab-atlassian-patch-high-severity-vulnerabilities/">GitLab, Atlassian Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Says Russian Hackers Targeting Western Supply-Lines to Ukraine</title>
+		<link>https://www.securityweek.com/cisa-says-russian-hackers-targeting-western-supply-lines-to-ukraine/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 20:47:13 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<category><![CDATA[Unit 26165]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42367</guid>
+
+					<description><![CDATA[<p>Russian military intelligence hackers intensify targeting of Western logistics and technology companies moving supplies into Ukraine. </p>
+<p>The post <a href="https://www.securityweek.com/cisa-says-russian-hackers-targeting-western-supply-lines-to-ukraine/">CISA Says Russian Hackers Targeting Western Supply-Lines to Ukraine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Sinkholes Domains, Disrupts Notorious ‘Lumma Stealer’ Malware Operation</title>
+		<link>https://www.securityweek.com/microsoft-sinkholes-domains-disrupts-notorious-lumma-stealer-malware-operation/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 18:21:54 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[Justice Department]]></category>
+		<category><![CDATA[Lumma Stealer]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42364</guid>
+
+					<description><![CDATA[<p>Redmond’s threat hunters found 394,000 Windows systems talking to Lumma controllers, a victim pool that included global manufacturers. </p>
+<p>The post <a href="https://www.securityweek.com/microsoft-sinkholes-domains-disrupts-notorious-lumma-stealer-malware-operation/">Microsoft Sinkholes Domains, Disrupts Notorious ‘Lumma Stealer’ Malware Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Flaw Allows Remote Hacking of AutomationDirect Industrial Gateway</title>
+		<link>https://www.securityweek.com/critical-flaw-allows-remote-hacking-of-automationdirect-industrial-gateway/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 15:37:21 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42361</guid>
+
+					<description><![CDATA[<p>More than 100 AutomationDirect MB-Gateway devices may be vulnerable to attacks from the internet due to CVE-2025-36535.</p>
+<p>The post <a href="https://www.securityweek.com/critical-flaw-allows-remote-hacking-of-automationdirect-industrial-gateway/">Critical Flaw Allows Remote Hacking of AutomationDirect Industrial Gateway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Now Live: Threat Detection &#038; Incident Response (TDIR) Summit</title>
 		<link>https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 09:41:32 +0000</pubDate>
+		<pubDate>Wed, 21 May 2025 15:19:01 +0000</pubDate>
 				<category><![CDATA[Threat Intelligence]]></category>
 		<category><![CDATA[Event]]></category>
-		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[threat detection]]></category>
 		<category><![CDATA[threat intelligence]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42351</guid>
 
 					<description><![CDATA[<p>SecurityWeek’s 2025 Threat Detection &#038; Incident Response (TDIR) Summit takes place as a virtual summit on Wednesday, May 21st.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/">Virtual Event Today: Threat Detection &amp; Incident Response (TDIR) Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Up to 25% of Internet-Exposed ICS Are Honeypots: Researchers</title>
-		<link>https://www.securityweek.com/up-to-25-of-internet-exposed-ics-are-honeypots-researchers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 09:35:02 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[honeypot]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42352</guid>
-
-					<description><![CDATA[<p>Many of the industrial control system (ICS) instances seen in internet scanning are likely or possibly honeypots, not real devices.</p>
-<p>The post <a href="https://www.securityweek.com/up-to-25-of-internet-exposed-ics-are-honeypots-researchers/">Up to 25% of Internet-Exposed ICS Are Honeypots: Researchers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Attack Forces Kettering Health to Cancel Procedures</title>
-		<link>https://www.securityweek.com/ransomware-attack-forces-kettering-health-to-cancel-procedures/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 08:38:50 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Kettering Health]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42348</guid>
-
-					<description><![CDATA[<p>Kettering Health has canceled inpatient and outpatient procedures as it deals with a system-wide outage caused by a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-attack-forces-kettering-health-to-cancel-procedures/">Ransomware Attack Forces Kettering Health to Cancel Procedures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical OpenPGP.js Vulnerability Allows Spoofing</title>
-		<link>https://www.securityweek.com/critical-openpgp-js-vulnerability-allows-spoofing/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 07:15:58 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[OpenPGP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42347</guid>
-
-					<description><![CDATA[<p>An OpenPGP.js vulnerability tracked as CVE-2025-47934 allows message signature verification to be spoofed. </p>
-<p>The post <a href="https://www.securityweek.com/critical-openpgp-js-vulnerability-allows-spoofing/">Critical OpenPGP.js Vulnerability Allows Spoofing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch</title>
-		<link>https://www.securityweek.com/nato-flagged-vulnerability-tops-latest-vmware-security-patch-batch/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 13:57:36 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-41229]]></category>
-		<category><![CDATA[ESXi]]></category>
-		<category><![CDATA[NATO]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[VMware Cloud Foundation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42333</guid>
-
-					<description><![CDATA[<p>VMware patches flaws that expose users to data leakage, command execution and denial-of-service attacks. No temporary workarounds available. </p>
-<p>The post <a href="https://www.securityweek.com/nato-flagged-vulnerability-tops-latest-vmware-security-patch-batch/">NATO-Flagged Vulnerability Tops Latest VMware Security Patch Batch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers </title>
-		<link>https://www.securityweek.com/vulnerability-exploitation-probability-metric-proposed-by-nist-cisa-researchers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 12:37:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[LEV]]></category>
-		<category><![CDATA[NIST]]></category>
-		<category><![CDATA[prioritization]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42329</guid>
-
-					<description><![CDATA[<p>The Likely Exploited Vulnerabilities (LEV) equations can help augment KEV- and EPSS-based remediation prioritization. </p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-exploitation-probability-metric-proposed-by-nist-cisa-researchers/">Vulnerability Exploitation Probability Metric Proposed by NIST, CISA Researchers </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/">Now Live: Threat Detection &amp; Incident Response (TDIR) Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
