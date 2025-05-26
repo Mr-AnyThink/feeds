@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 23 May 2025 14:13:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 06:44:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nova Scotia Power Confirms Ransomware Attack, 280k Notified of Data Breach</title>
+		<link>https://www.securityweek.com/nova-scotia-power-confirms-ransomware-attack-280k-notified-of-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 26 May 2025 06:43:59 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nova Scotia Power]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42391</guid>
+
+					<description><![CDATA[<p>Nova Scotia Power has finally admitted that the recent cyberattack was a ransomware attack, but it hasn’t paid the hackers.</p>
+<p>The post <a href="https://www.securityweek.com/nova-scotia-power-confirms-ransomware-attack-280k-notified-of-data-breach/">Nova Scotia Power Confirms Ransomware Attack, 280k Notified of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Signal Adds Screenshot-Blocker to Thwart ‘Windows Recall’ </title>
 		<link>https://www.securityweek.com/signal-adds-screenshot-blocker-to-thwart-windows-recall/</link>
 		
@@ -210,26 +229,6 @@
 
 					<description><![CDATA[<p>Akamai documents a privilege escalation flaw in Windows Server 2025 after Redmond declines to ship an immediate patch.</p>
 <p>The post <a href="https://www.securityweek.com/akamai-microsoft-disagree-on-severity-of-unpatched-badsuccessor-flaw/">Akamai, Microsoft Disagree on Severity of Unpatched ‘BadSuccessor’ Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Marlboro-Chesterfield Pathology Data Breach Impacts 235,000 People</title>
-		<link>https://www.securityweek.com/marlboro-chesterfield-pathology-data-breach-impacts-235000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 12:03:05 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Marlboro-Chesterfield Pathology]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42377</guid>
-
-					<description><![CDATA[<p>Marlboro-Chesterfield Pathology has been targeted by the SafePay ransomware group, which stole personal information from its systems.</p>
-<p>The post <a href="https://www.securityweek.com/marlboro-chesterfield-pathology-data-breach-impacts-235000-people/">Marlboro-Chesterfield Pathology Data Breach Impacts 235,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
