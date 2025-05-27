@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 26 May 2025 06:44:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 May 2025 09:59:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Law Firms Warned of Silent Ransom Group Attacks</title>
+		<link>https://www.securityweek.com/law-firms-warned-of-silent-ransom-group-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 09:59:34 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42392</guid>
+
+					<description><![CDATA[<p>The FBI warns US law firms that the Silent Ransom Group (SRG) has been constantly targeting the legal industry.</p>
+<p>The post <a href="https://www.securityweek.com/law-firms-warned-of-silent-ransom-group-attacks/">Law Firms Warned of Silent Ransom Group Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nova Scotia Power Confirms Ransomware Attack, 280k Notified of Data Breach</title>
 		<link>https://www.securityweek.com/nova-scotia-power-confirms-ransomware-attack-280k-notified-of-data-breach/</link>
 		
@@ -206,29 +223,6 @@
 
 					<description><![CDATA[<p>A Chinese espionage group has been chaining two recent Ivanti EPMM vulnerabilities in attacks against organizations in multiple critical sectors.</p>
 <p>The post <a href="https://www.securityweek.com/chinese-spies-exploit-ivanti-vulnerabilities-against-critical-sectors/">Chinese Spies Exploit Ivanti Vulnerabilities Against Critical Sectors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Akamai, Microsoft Disagree on Severity of Unpatched ‘BadSuccessor’ Flaw</title>
-		<link>https://www.securityweek.com/akamai-microsoft-disagree-on-severity-of-unpatched-badsuccessor-flaw/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 16:55:21 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Active Directory]]></category>
-		<category><![CDATA[Akamai]]></category>
-		<category><![CDATA[BadSuccessor]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Windows Server 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42378</guid>
-
-					<description><![CDATA[<p>Akamai documents a privilege escalation flaw in Windows Server 2025 after Redmond declines to ship an immediate patch.</p>
-<p>The post <a href="https://www.securityweek.com/akamai-microsoft-disagree-on-severity-of-unpatched-badsuccessor-flaw/">Akamai, Microsoft Disagree on Severity of Unpatched ‘BadSuccessor’ Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
