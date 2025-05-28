@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 27 May 2025 09:59:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 May 2025 11:36:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Law Firms Warned of Silent Ransom Group Attacks</title>
-		<link>https://www.securityweek.com/law-firms-warned-of-silent-ransom-group-attacks/</link>
+		<title>OneDrive Gives Web Apps Full Read Access to All Files</title>
+		<link>https://www.securityweek.com/onedrive-gives-web-apps-full-read-access-to-all-files/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[OneDrive]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42415</guid>
+
+					<description><![CDATA[<p>Security researchers warn that OneDrive’s file sharing tool may grant third-party web apps access to all your files—not just the one you choose to upload.</p>
+<p>The post <a href="https://www.securityweek.com/onedrive-gives-web-apps-full-read-access-to-all-files/">OneDrive Gives Web Apps Full Read Access to All Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 137, Firefox 139 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-137-firefox-139-patch-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 May 2025 09:59:34 +0000</pubDate>
+		<pubDate>Wed, 28 May 2025 11:36:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42417</guid>
+
+					<description><![CDATA[<p>Google and Mozilla released patches for Chrome and FireFox to address a total of 21 vulnerabilities between the two browsers, including three rated high severity.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-137-firefox-139-patch-high-severity-vulnerabilities/">Chrome 137, Firefox 139 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities in CISA KEV Are Not Equally Critical: Report</title>
+		<link>https://www.securityweek.com/vulnerabilities-in-cisa-kev-are-not-equally-critical-report/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Ox Security]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42407</guid>
+
+					<description><![CDATA[<p>New report says organizations should always consider environmental context when assessing the impact of vulnerabilities in CISA KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-in-cisa-kev-are-not-equally-critical-report/">Vulnerabilities in CISA KEV Are Not Equally Critical: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Root of AI Hallucinations: Physics Theory Digs Into the &#8216;Attention&#8217; Flaw</title>
+		<link>https://www.securityweek.com/the-root-of-ai-hallucinations-physics-theory-digs-into-the-attention-flaw/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 28 May 2025 09:51:29 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[hallucination]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42413</guid>
+
+					<description><![CDATA[<p>Physicist Neil Johnson explores how fundamental laws of nature could explain why AI sometimes fails—and what to do about it.</p>
+<p>The post <a href="https://www.securityweek.com/the-root-of-ai-hallucinations-physics-theory-digs-into-the-attention-flaw/">The Root of AI Hallucinations: Physics Theory Digs Into the &#8216;Attention&#8217; Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>$223 Million Stolen in Cetus Protocol Hack</title>
+		<link>https://www.securityweek.com/223-million-stolen-in-cetus-protocol-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 May 2025 09:23:48 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42412</guid>
+
+					<description><![CDATA[<p>Hackers exploited a vulnerability in Cetus Protocol, a liquidity provider on the SUI blockchain.</p>
+<p>The post <a href="https://www.securityweek.com/223-million-stolen-in-cetus-protocol-hack/">$223 Million Stolen in Cetus Protocol Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zscaler to Acquire MDR Specialist Red Canary</title>
+		<link>https://www.securityweek.com/zscaler-to-acquire-mdr-specialist-red-canary/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 21:31:16 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[MDR]]></category>
+		<category><![CDATA[Red Canary]]></category>
+		<category><![CDATA[Security Operations]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[Zscaler]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42410</guid>
+
+					<description><![CDATA[<p>Zscaler signals a big push into the security-operations market with the announcement of plans to buy Denver-based Red Canary.</p>
+<p>The post <a href="https://www.securityweek.com/zscaler-to-acquire-mdr-specialist-red-canary/">Zscaler to Acquire MDR Specialist Red Canary</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iranian Man Pleads Guilty to Role in Baltimore Ransomware Attack</title>
+		<link>https://www.securityweek.com/iranian-man-pleads-guilty-to-role-in-baltimore-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 18:27:02 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Incident Response]]></category>
 		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42392</guid>
+		<category><![CDATA[Baltimore]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Justice Department]]></category>
+		<category><![CDATA[robbinhood]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42405</guid>
 
-					<description><![CDATA[<p>The FBI warns US law firms that the Silent Ransom Group (SRG) has been constantly targeting the legal industry.</p>
-<p>The post <a href="https://www.securityweek.com/law-firms-warned-of-silent-ransom-group-attacks/">Law Firms Warned of Silent Ransom Group Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sina Gholinejad pleaded guilty to computer-fraud and wire-fraud-conspiracy charges linked to the Robbinhood ransomware hit on Baltimore.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-man-pleads-guilty-to-role-in-baltimore-ransomware-attack/">Iranian Man Pleads Guilty to Role in Baltimore Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Nova Scotia Power Confirms Ransomware Attack, 280k Notified of Data Breach</title>
-		<link>https://www.securityweek.com/nova-scotia-power-confirms-ransomware-attack-280k-notified-of-data-breach/</link>
+		<title>DragonForce Ransomware Hackers Exploiting SimpleHelp Vulnerabilities</title>
+		<link>https://www.securityweek.com/dragonforce-ransomware-hackers-exploiting-simplehelp-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 May 2025 06:43:59 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Nova Scotia Power]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42391</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 15:06:45 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[DragonForce]]></category>
+		<category><![CDATA[SimpleHelp]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42404</guid>
 
-					<description><![CDATA[<p>Nova Scotia Power has finally admitted that the recent cyberattack was a ransomware attack, but it hasn’t paid the hackers.</p>
-<p>The post <a href="https://www.securityweek.com/nova-scotia-power-confirms-ransomware-attack-280k-notified-of-data-breach/">Nova Scotia Power Confirms Ransomware Attack, 280k Notified of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sophos warns that a DragonForce ransomware operator chained three vulnerabilities in SimpleHelp to target a managed service provider.</p>
+<p>The post <a href="https://www.securityweek.com/dragonforce-ransomware-hackers-exploiting-simplehelp-vulnerabilities/">DragonForce Ransomware Hackers Exploiting SimpleHelp Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Signal Adds Screenshot-Blocker to Thwart ‘Windows Recall’ </title>
-		<link>https://www.securityweek.com/signal-adds-screenshot-blocker-to-thwart-windows-recall/</link>
+		<title>Russian Government Hackers Caught Buying Passwords from Cybercriminals</title>
+		<link>https://www.securityweek.com/russian-government-hackers-caught-buying-passwords-from-cybercriminals/</link>
 		
 		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 14:13:53 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Signal]]></category>
-		<category><![CDATA[Windows AI PC]]></category>
-		<category><![CDATA[Windows Recall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42389</guid>
-
-					<description><![CDATA[<p>Signal said the privacy feature is on by default for every Windows 11 user to block Microsoft from taking screenshots for Windows Recall.</p>
-<p>The post <a href="https://www.securityweek.com/signal-adds-screenshot-blocker-to-thwart-windows-recall/">Signal Adds Screenshot-Blocker to Thwart ‘Windows Recall’ </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Volkswagen App Hacked, DR32 Sentenced, New OT Security Solution</title>
-		<link>https://www.securityweek.com/in-other-news-volkswagen-app-hacked-dr32-sentenced-new-ot-security-solution/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 13:41:56 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42387</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: serious vulnerabilities found in a Volkswagen app, Australian hacker DR32 sentenced in the US, and Immersive launches OT security training solution.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-volkswagen-app-hacked-dr32-sentenced-new-ot-security-solution/">In Other News: Volkswagen App Hacked, DR32 Sentenced, New OT Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>On Demand: Threat Detection &#038; Incident Response (TDIR) Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 12:06:52 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Event]]></category>
-		<category><![CDATA[threat detection]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42351</guid>
-
-					<description><![CDATA[<p>SecurityWeek’s 2025 Threat Detection &#038; Incident Response (TDIR) Summit took place as a virtual summit on May 21st.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-tdir-summit/">On Demand: Threat Detection &amp; Incident Response (TDIR) Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Qakbot Gang Leader Indicted in US</title>
-		<link>https://www.securityweek.com/russian-qakbot-gang-leader-indicted-in-us/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 11:07:08 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[Qakbot]]></category>
-		<category><![CDATA[Qbot]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Rustam Gallyamov]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42383</guid>
-
-					<description><![CDATA[<p>Russian national Rustam Gallyamov was indicted in the US for his leading role in the development and distribution of Qakbot malware.</p>
-<p>The post <a href="https://www.securityweek.com/russian-qakbot-gang-leader-indicted-in-us/">Russian Qakbot Gang Leader Indicted in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Companies Warned of Commvault Vulnerability Exploitation</title>
-		<link>https://www.securityweek.com/companies-warned-of-commvault-vulnerability-exploitation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 10:31:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Commvault]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42382</guid>
-
-					<description><![CDATA[<p>CISA warns companies of a widespread campaign targeting a Commvault vulnerability to hack Azure environments.</p>
-<p>The post <a href="https://www.securityweek.com/companies-warned-of-commvault-vulnerability-exploitation/">Companies Warned of Commvault Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cityworks Zero-Day Exploited by Chinese Hackers in US Local Government Attacks</title>
-		<link>https://www.securityweek.com/cityworks-zero-day-exploited-by-chinese-hackers-in-us-local-government-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 09:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CityWorks]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Trimble]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42380</guid>
-
-					<description><![CDATA[<p>A Chinese threat actor exploited a zero-day vulnerability in Trimble Cityworks to hack local government entities in the US.</p>
-<p>The post <a href="https://www.securityweek.com/cityworks-zero-day-exploited-by-chinese-hackers-in-us-local-government-attacks/">Cityworks Zero-Day Exploited by Chinese Hackers in US Local Government Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DanaBot Botnet Disrupted, 16 Suspects Charged</title>
-		<link>https://www.securityweek.com/danabot-botnet-disrupted-by-law-enforcement-16-suspects-charged/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 08:58:28 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[DanaBot]]></category>
+		<pubDate>Tue, 27 May 2025 14:52:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Phishing]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42381</guid>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NATO]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<category><![CDATA[Void Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42401</guid>
 
-					<description><![CDATA[<p>The DanaBot botnet ensnared over 300,000 devices and caused more than $50 million in damages before being disrupted.</p>
-<p>The post <a href="https://www.securityweek.com/danabot-botnet-disrupted-by-law-enforcement-16-suspects-charged/">DanaBot Botnet Disrupted, 16 Suspects Charged</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft flags a new Kremlin hacking team buying stolen usernames and passwords from infostealer markets for use in cyberespionage attacks. </p>
+<p>The post <a href="https://www.securityweek.com/russian-government-hackers-caught-buying-passwords-from-cybercriminals/">Russian Government Hackers Caught Buying Passwords from Cybercriminals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chinese Spies Exploit Ivanti Vulnerabilities Against Critical Sectors</title>
-		<link>https://www.securityweek.com/chinese-spies-exploit-ivanti-vulnerabilities-against-critical-sectors/</link>
+		<title>Ongoing Campaign Uses 60 NPM Packages to Steal Data</title>
+		<link>https://www.securityweek.com/ongoing-campaign-uses-60-npm-packages-to-steal-data/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 08:19:21 +0000</pubDate>
+		<pubDate>Tue, 27 May 2025 14:12:14 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42379</guid>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[info-stealer]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Socket]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42399</guid>
 
-					<description><![CDATA[<p>A Chinese espionage group has been chaining two recent Ivanti EPMM vulnerabilities in attacks against organizations in multiple critical sectors.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-spies-exploit-ivanti-vulnerabilities-against-critical-sectors/">Chinese Spies Exploit Ivanti Vulnerabilities Against Critical Sectors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Security firm Socket warns flags a campaign targeting NPM users with tens of malicious packages that can hijack system information.</p>
+<p>The post <a href="https://www.securityweek.com/ongoing-campaign-uses-60-npm-packages-to-steal-data/">Ongoing Campaign Uses 60 NPM Packages to Steal Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
