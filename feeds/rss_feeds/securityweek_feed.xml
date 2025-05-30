@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 29 May 2025 11:33:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 11:30:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,145 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</title>
+		<link>https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 11:11:19 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT41]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42449</guid>
+
+					<description><![CDATA[<p>China-linked hackers used a compromised government site to target other government entities with the ToughProgress malware that uses an attacker-controlled Google Calendar for C&#038;C.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/">Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MITRE Publishes Post-Quantum Cryptography Migration Roadmap</title>
+		<link>https://www.securityweek.com/mitre-publishes-post-quantum-cryptography-migration-roadmap/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 11:03:56 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42448</guid>
+
+					<description><![CDATA[<p>The roadmap provides an overview of four key stages of the migration process, namely preparation, baseline understanding, planning and execution, and monitoring and evaluation.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-publishes-post-quantum-cryptography-migration-roadmap/">MITRE Publishes Post-Quantum Cryptography Migration Roadmap</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ConnectWise Discloses Suspected State-Sponsored Hack</title>
+		<link>https://www.securityweek.com/connectwise-discloses-suspected-state-sponsored-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 10:36:03 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[ConnectWise]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42446</guid>
+
+					<description><![CDATA[<p>The IT software provider says ScreenConnect users were impacted by the attack, which exploited a high-severity ASP.NET vulnerability.</p>
+<p>The post <a href="https://www.securityweek.com/connectwise-discloses-suspected-state-sponsored-hack/">ConnectWise Discloses Suspected State-Sponsored Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Releases Guidance on SIEM and SOAR Implementation</title>
+		<link>https://www.securityweek.com/cisa-releases-guidance-on-siem-and-soar-implementation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[SIEM]]></category>
+		<category><![CDATA[SOAR]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42447</guid>
+
+					<description><![CDATA[<p>The guidance outlines the benefits and challenges or SIEM and SOAR platforms, and shares implementation recommendations.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-releases-guidance-on-siem-and-soar-implementation/">CISA Releases Guidance on SIEM and SOAR Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Hacking Group &#8216;Earth Lamia&#8217; Targets Multiple Industries</title>
+		<link>https://www.securityweek.com/chinese-hacking-group-earth-lamia-targets-multiple-industries/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 May 2025 16:09:33 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[DragonRank]]></category>
+		<category><![CDATA[Earth Lamia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42439</guid>
+
+					<description><![CDATA[<p>Active since at least 2023, the hacking group has been targeting the financial, government, IT, logistics, retail, and education sectors.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-earth-lamia-targets-multiple-industries/">Chinese Hacking Group &#8216;Earth Lamia&#8217; Targets Multiple Industries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unbound Raises $4 Million to Secure Gen-AI Adoption</title>
+		<link>https://www.securityweek.com/unbound-raises-4-million-to-secure-gen-ai-adoption/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 May 2025 16:06:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[Liquid2]]></category>
+		<category><![CDATA[Race Capital]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[Unbound]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42440</guid>
+
+					<description><![CDATA[<p>Security startup Unbound has raised $4 million in funding to help organizations adopt generative-AI tools securely and responsibly.</p>
+<p>The post <a href="https://www.securityweek.com/unbound-raises-4-million-to-secure-gen-ai-adoption/">Unbound Raises $4 Million to Secure Gen-AI Adoption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GreyNoise Flags 9,000 ASUS Routers Backdoored Via Patched Vulnerability</title>
+		<link>https://www.securityweek.com/greynoise-flags-9000-asus-routers-backdoored-via-patched-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 29 May 2025 14:28:57 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Asus]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Censys]]></category>
+		<category><![CDATA[CVE-2023-39780]]></category>
+		<category><![CDATA[GreyNoise]]></category>
+		<category><![CDATA[ORB]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42437</guid>
+
+					<description><![CDATA[<p>Professional hackers have built a network of ASUS routers that can survive firmware upgrades, factory reboots and most anti-malware scans.</p>
+<p>The post <a href="https://www.securityweek.com/greynoise-flags-9000-asus-routers-backdoored-via-patched-vulnerability/">GreyNoise Flags 9,000 ASUS Routers Backdoored Via Patched Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Victoria’s Secret Website Taken Offline After Cyberattack</title>
 		<link>https://www.securityweek.com/victorias-secret-website-taken-offline-after-cyberattack/</link>
 		
@@ -77,148 +216,6 @@
 
 					<description><![CDATA[<p>Join the live webinar to understand why data in itself is not enough to make informed decisions for prioritization.</p>
 <p>The post <a href="https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/">Webinar Today: Why Context is a Secret Weapon in Application Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Beyond GenAI: Why Agentic AI Was the Real Conversation at RSA 2025</title>
-		<link>https://www.securityweek.com/beyond-genai-why-agentic-ai-was-the-real-conversation-at-rsa-2025/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 09:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42426</guid>
-
-					<description><![CDATA[<p>Agentic AI can be a great tool for many of the ‘gray area’ tasks that SOC analysts undertake.</p>
-<p>The post <a href="https://www.securityweek.com/beyond-genai-why-agentic-ai-was-the-real-conversation-at-rsa-2025/">Beyond GenAI: Why Agentic AI Was the Real Conversation at RSA 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MATLAB Maker MathWorks Recovering From Ransomware Attack</title>
-		<link>https://www.securityweek.com/matlab-maker-mathworks-recovering-from-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 19:41:42 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42425</guid>
-
-					<description><![CDATA[<p>The incident impacted multiple web and mobile applications, licensing services, downloads and online store, website, wiki, MathWorks accounts, and other services.</p>
-<p>The post <a href="https://www.securityweek.com/matlab-maker-mathworks-recovering-from-ransomware-attack/">MATLAB Maker MathWorks Recovering From Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>364,000 Impacted by Data Breach at LexisNexis Risk Solutions</title>
-		<link>https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 16:48:32 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[LexisNexis]]></category>
-		<category><![CDATA[Maine]]></category>
-		<category><![CDATA[PII]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42424</guid>
-
-					<description><![CDATA[<p>Data broker giant LexisNexis Risk Solutions  says personal information was stolen from 364,000 people in a December 2024 data breach.</p>
-<p>The post <a href="https://www.securityweek.com/364000-impacted-by-data-breach-at-lexisnexis-risk-solutions/">364,000 Impacted by Data Breach at LexisNexis Risk Solutions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Czech Government Condemns Chinese Hack on Critical Infrastructure</title>
-		<link>https://www.securityweek.com/czech-government-condemns-chinese-hack-on-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 15:46:25 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT31]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[Czech]]></category>
-		<category><![CDATA[European Union]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42422</guid>
-
-					<description><![CDATA[<p>The Czech government issues a blunt warning to China after APT31 hackers linked to intrusion at critical infrastructure network.</p>
-<p>The post <a href="https://www.securityweek.com/czech-government-condemns-chinese-hack-on-critical-infrastructure/">Czech Government Condemns Chinese Hack on Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cerby Raises $40 Million for Identity Automation Platform</title>
-		<link>https://www.securityweek.com/cerby-raises-40-million-for-identity-automation-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 13:26:37 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Cerby]]></category>
-		<category><![CDATA[DTCP Capital]]></category>
-		<category><![CDATA[Okta Ventures]]></category>
-		<category><![CDATA[Salesforce Ventures]]></category>
-		<category><![CDATA[Series B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42421</guid>
-
-					<description><![CDATA[<p>Identity security automation platform Cerby has raised $40 million in Series B funding to scale operations.</p>
-<p>The post <a href="https://www.securityweek.com/cerby-raises-40-million-for-identity-automation-platform/">Cerby Raises $40 Million for Identity Automation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vietnamese Hackers Distribute Malware via Fake AI-Themed Websites</title>
-		<link>https://www.securityweek.com/vietnamese-hackers-distribute-malware-via-fake-ai-themed-websites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 13:21:29 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[UNC6032]]></category>
-		<category><![CDATA[Vietnam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42420</guid>
-
-					<description><![CDATA[<p>Mandiant warns that a Vietnamese hacking group tracked as UNC6032 is distributing malware via fake AI video generator websites.</p>
-<p>The post <a href="https://www.securityweek.com/vietnamese-hackers-distribute-malware-via-fake-ai-themed-websites/">Vietnamese Hackers Distribute Malware via Fake AI-Themed Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OneDrive Gives Web Apps Full Read Access to All Files</title>
-		<link>https://www.securityweek.com/onedrive-gives-web-apps-full-read-access-to-all-files/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[OneDrive]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42415</guid>
-
-					<description><![CDATA[<p>Security researchers warn that OneDrive’s file sharing tool may grant third-party web apps access to all your files—not just the one you choose to upload.</p>
-<p>The post <a href="https://www.securityweek.com/onedrive-gives-web-apps-full-read-access-to-all-files/">OneDrive Gives Web Apps Full Read Access to All Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
