@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 30 May 2025 11:30:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 14:56:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Firebase, Google Apps Script Abused in Fresh Phishing Campaigns</title>
+		<link>https://www.securityweek.com/firebase-google-apps-script-abused-in-fresh-phishing-campaigns/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 14:56:09 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cofense]]></category>
+		<category><![CDATA[ESET]]></category>
+		<category><![CDATA[Firebase]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Trellix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42454</guid>
+
+					<description><![CDATA[<p>Security researchers flag two phishing campaigns abusing Firebase and Google Apps Script to host malware and fake login pages.</p>
+<p>The post <a href="https://www.securityweek.com/firebase-google-apps-script-abused-in-fresh-phishing-campaigns/">Firebase, Google Apps Script Abused in Fresh Phishing Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Sanctions Philippine Company for Supporting Crypto Scams</title>
+		<link>https://www.securityweek.com/us-sanctions-philippine-company-for-supporting-crypto-scams/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 14:42:44 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Funnull Technology]]></category>
+		<category><![CDATA[pig butchering]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42452</guid>
+
+					<description><![CDATA[<p>The US Treasury Department US has slapped sanctions on Funnull Technology for providing support to cryptocurrency investment scams.</p>
+<p>The post <a href="https://www.securityweek.com/us-sanctions-philippine-company-for-supporting-crypto-scams/">US Sanctions Philippine Company for Supporting Crypto Scams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch Now: Why Context is a Secret Weapon in Application Security Posture Management</title>
+		<link>https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 13:16:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[appsec]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42429</guid>
+
+					<description><![CDATA[<p>Join the live webinar to understand why data in itself is not enough to make informed decisions for prioritization.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/">Watch Now: Why Context is a Secret Weapon in Application Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</title>
 		<link>https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/</link>
 		
@@ -161,61 +223,6 @@
 
 					<description><![CDATA[<p>Professional hackers have built a network of ASUS routers that can survive firmware upgrades, factory reboots and most anti-malware scans.</p>
 <p>The post <a href="https://www.securityweek.com/greynoise-flags-9000-asus-routers-backdoored-via-patched-vulnerability/">GreyNoise Flags 9,000 ASUS Routers Backdoored Via Patched Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Victoria’s Secret Website Taken Offline After Cyberattack</title>
-		<link>https://www.securityweek.com/victorias-secret-website-taken-offline-after-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 11:30:52 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42434</guid>
-
-					<description><![CDATA[<p>Website remains offline following suspected cyber incident, as experts warn of escalating threats targeting major retailers</p>
-<p>The post <a href="https://www.securityweek.com/victorias-secret-website-taken-offline-after-cyberattack/">Victoria’s Secret Website Taken Offline After Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adidas Data Breach Linked to Third-Party Vendor</title>
-		<link>https://www.securityweek.com/adidas-data-breach-linked-to-third-party-vendor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 11:12:58 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Adidas]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42432</guid>
-
-					<description><![CDATA[<p>Adidas said hackers accessed a “third-party customer service provider” and stole  customer information.</p>
-<p>The post <a href="https://www.securityweek.com/adidas-data-breach-linked-to-third-party-vendor/">Adidas Data Breach Linked to Third-Party Vendor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Why Context is a Secret Weapon in Application Security Posture Management</title>
-		<link>https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 10:44:33 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42429</guid>
-
-					<description><![CDATA[<p>Join the live webinar to understand why data in itself is not enough to make informed decisions for prioritization.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/">Webinar Today: Why Context is a Secret Weapon in Application Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
