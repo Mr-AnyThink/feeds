@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 30 May 2025 14:56:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Jun 2025 11:02:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,130 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chrome to Distrust Chunghwa Telecom and Netlock Certificates</title>
+		<link>https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 11:02:15 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[CA]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Chunghwa]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Netlock]]></category>
+		<category><![CDATA[remove]]></category>
+		<category><![CDATA[TLS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42463</guid>
+
+					<description><![CDATA[<p>Patterns of concerning behavior led Google to remove trust in certificates from Chunghwa Telecom and Netlock from Chrome.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/">Chrome to Distrust Chunghwa Telecom and Netlock Certificates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alleged Conti, TrickBot Gang Leader Unmasked</title>
+		<link>https://www.securityweek.com/alleged-conti-trickbot-gang-leader-unmasked/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 10:39:08 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Conti]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Trickbot]]></category>
+		<category><![CDATA[unmasked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42462</guid>
+
+					<description><![CDATA[<p>Russian national Vitaly Nikolaevich Kovalev is believed to be the leader of the Conti and TrickBot cybercrime groups.</p>
+<p>The post <a href="https://www.securityweek.com/alleged-conti-trickbot-gang-leader-unmasked/">Alleged Conti, TrickBot Gang Leader Unmasked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Technical Details Published for Critical Cisco IOS XE Vulnerability</title>
+		<link>https://www.securityweek.com/technical-details-published-for-critical-cisco-ios-xe-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 09:49:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42461</guid>
+
+					<description><![CDATA[<p>The critical flaw, tracked as CVE-2025-20188 (CVSS score of 10/10), allows attackers to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/technical-details-published-for-critical-cisco-ios-xe-vulnerability/">Technical Details Published for Critical Cisco IOS XE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Counter Antivirus Service AVCheck Shut Down by Law Enforcement</title>
+		<link>https://www.securityweek.com/authorities-take-down-counter-antivirus-service-avcheck/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 08:48:59 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[AVCheck]]></category>
+		<category><![CDATA[CAV]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42457</guid>
+
+					<description><![CDATA[<p>Counter antivirus services such as AVCheck allow cybercriminals to test whether their malware is detected by antivirus products.</p>
+<p>The post <a href="https://www.securityweek.com/authorities-take-down-counter-antivirus-service-avcheck/">Counter Antivirus Service AVCheck Shut Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Government Is Investigating Messages Impersonating Trump&#8217;s Chief of Staff, Susie Wiles</title>
+		<link>https://www.securityweek.com/us-government-is-investigating-messages-impersonating-trumps-chief-of-staff-susie-wiles/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 08:35:27 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[impersonated]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Susie Wiles]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42456</guid>
+
+					<description><![CDATA[<p>Elected officials, business executives and other prominent figures in recent weeks received messages from someone impersonating Susie Wiles.</p>
+<p>The post <a href="https://www.securityweek.com/us-government-is-investigating-messages-impersonating-trumps-chief-of-staff-susie-wiles/">US Government Is Investigating Messages Impersonating Trump&#8217;s Chief of Staff, Susie Wiles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: PoC for Fortinet Bug, AI Model Subverts Shutdown, RAT Source Code Leaked</title>
+		<link>https://www.securityweek.com/in-other-news-poc-for-fortinet-bug-ai-model-subverts-shutdown-rat-source-code-leaked/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 08:01:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42455</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: simple PoC code released for Fortinet zero-day, OpenAI O3 disobeys shutdown orders, source code of SilverRAT emerges online.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-poc-for-fortinet-bug-ai-model-subverts-shutdown-rat-source-code-leaked/">In Other News: PoC for Fortinet Bug, AI Model Subverts Shutdown, RAT Source Code Leaked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Firebase, Google Apps Script Abused in Fresh Phishing Campaigns</title>
 		<link>https://www.securityweek.com/firebase-google-apps-script-abused-in-fresh-phishing-campaigns/</link>
 		
@@ -103,126 +227,6 @@
 
 					<description><![CDATA[<p>China-linked hackers used a compromised government site to target other government entities with the ToughProgress malware that uses an attacker-controlled Google Calendar for C&#038;C.</p>
 <p>The post <a href="https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/">Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE Publishes Post-Quantum Cryptography Migration Roadmap</title>
-		<link>https://www.securityweek.com/mitre-publishes-post-quantum-cryptography-migration-roadmap/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 11:03:56 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[Post quantum cryptography]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42448</guid>
-
-					<description><![CDATA[<p>The roadmap provides an overview of four key stages of the migration process, namely preparation, baseline understanding, planning and execution, and monitoring and evaluation.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-publishes-post-quantum-cryptography-migration-roadmap/">MITRE Publishes Post-Quantum Cryptography Migration Roadmap</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ConnectWise Discloses Suspected State-Sponsored Hack</title>
-		<link>https://www.securityweek.com/connectwise-discloses-suspected-state-sponsored-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 10:36:03 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[ConnectWise]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42446</guid>
-
-					<description><![CDATA[<p>The IT software provider says ScreenConnect users were impacted by the attack, which exploited a high-severity ASP.NET vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/connectwise-discloses-suspected-state-sponsored-hack/">ConnectWise Discloses Suspected State-Sponsored Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Releases Guidance on SIEM and SOAR Implementation</title>
-		<link>https://www.securityweek.com/cisa-releases-guidance-on-siem-and-soar-implementation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[SIEM]]></category>
-		<category><![CDATA[SOAR]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42447</guid>
-
-					<description><![CDATA[<p>The guidance outlines the benefits and challenges or SIEM and SOAR platforms, and shares implementation recommendations.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-releases-guidance-on-siem-and-soar-implementation/">CISA Releases Guidance on SIEM and SOAR Implementation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hacking Group &#8216;Earth Lamia&#8217; Targets Multiple Industries</title>
-		<link>https://www.securityweek.com/chinese-hacking-group-earth-lamia-targets-multiple-industries/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 16:09:33 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[DragonRank]]></category>
-		<category><![CDATA[Earth Lamia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42439</guid>
-
-					<description><![CDATA[<p>Active since at least 2023, the hacking group has been targeting the financial, government, IT, logistics, retail, and education sectors.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-earth-lamia-targets-multiple-industries/">Chinese Hacking Group &#8216;Earth Lamia&#8217; Targets Multiple Industries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unbound Raises $4 Million to Secure Gen-AI Adoption</title>
-		<link>https://www.securityweek.com/unbound-raises-4-million-to-secure-gen-ai-adoption/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 16:06:18 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[Liquid2]]></category>
-		<category><![CDATA[Race Capital]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[Unbound]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42440</guid>
-
-					<description><![CDATA[<p>Security startup Unbound has raised $4 million in funding to help organizations adopt generative-AI tools securely and responsibly.</p>
-<p>The post <a href="https://www.securityweek.com/unbound-raises-4-million-to-secure-gen-ai-adoption/">Unbound Raises $4 Million to Secure Gen-AI Adoption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GreyNoise Flags 9,000 ASUS Routers Backdoored Via Patched Vulnerability</title>
-		<link>https://www.securityweek.com/greynoise-flags-9000-asus-routers-backdoored-via-patched-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 14:28:57 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Asus]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Censys]]></category>
-		<category><![CDATA[CVE-2023-39780]]></category>
-		<category><![CDATA[GreyNoise]]></category>
-		<category><![CDATA[ORB]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42437</guid>
-
-					<description><![CDATA[<p>Professional hackers have built a network of ASUS routers that can survive firmware upgrades, factory reboots and most anti-malware scans.</p>
-<p>The post <a href="https://www.securityweek.com/greynoise-flags-9000-asus-routers-backdoored-via-patched-vulnerability/">GreyNoise Flags 9,000 ASUS Routers Backdoored Via Patched Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
