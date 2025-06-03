@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 02 Jun 2025 11:02:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Jun 2025 12:17:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>MainStreet Bank Data Breach Impacts Customer Payment Cards </title>
+		<link>https://www.securityweek.com/mainstreet-bank-data-breach-impacts-customer-payment-cards/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 12:16:57 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[MainStreet Bank]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42478</guid>
+
+					<description><![CDATA[<p>The incident occurred in March and impacted the personally identifiable information of approximately 4.65% of MainStreet Bancshares’ customers.</p>
+<p>The post <a href="https://www.securityweek.com/mainstreet-bank-data-breach-impacts-customer-payment-cards/">MainStreet Bank Data Breach Impacts Customer Payment Cards </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 30 Vulnerabilities Patched in Android</title>
+		<link>https://www.securityweek.com/over-30-vulnerabilities-patched-in-android/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 11:59:12 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42477</guid>
+
+					<description><![CDATA[<p>The latest Android updates fix vulnerabilities in Runtime, Framework, System, and third-party components of the mobile OS.</p>
+<p>The post <a href="https://www.securityweek.com/over-30-vulnerabilities-patched-in-android/">Over 30 Vulnerabilities Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Australia Enforces Ransomware Payment Reporting</title>
+		<link>https://www.securityweek.com/australia-enforces-ransomware-payment-reporting/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 10:51:32 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Laws]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42476</guid>
+
+					<description><![CDATA[<p>Covered organizations in Australia are now required to report ransomware and other cyber extortion payments within three days.</p>
+<p>The post <a href="https://www.securityweek.com/australia-enforces-ransomware-payment-reporting/">Australia Enforces Ransomware Payment Reporting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Researchers Find New Chrome Zero-Day</title>
+		<link>https://www.securityweek.com/google-researchers-find-new-chrome-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 08:53:33 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42475</guid>
+
+					<description><![CDATA[<p>Reported by the Google Threat Analysis Group, the vulnerability might have been exploited by commercial spyware.</p>
+<p>The post <a href="https://www.securityweek.com/google-researchers-find-new-chrome-zero-day/">Google Researchers Find New Chrome Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft, CrowdStrike Lead Effort to Map Threat Actor Names</title>
+		<link>https://www.securityweek.com/microsoft-crowdstrike-lead-effort-to-map-threat-actor-names/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 08:25:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[naming]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42472</guid>
+
+					<description><![CDATA[<p>Microsoft and CrowdStrike are running a project that aims to align threat actor names, and Google and Palo Alto Networks will also contribute.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-crowdstrike-lead-effort-to-map-threat-actor-names/">Microsoft, CrowdStrike Lead Effort to Map Threat Actor Names</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cartier Data Breach: Luxury Retailer Warns Customers That Personal Data Was Exposed</title>
+		<link>https://www.securityweek.com/cartier-data-breach-jewelry-maker-warns-customers-that-personal-data-was-exposed/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 21:18:34 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cartier]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42467</guid>
+
+					<description><![CDATA[<p>Luxury brand Cartier disclosed a data breach in which an unauthorized party gained access to its systems and obtained some client information.</p>
+<p>The post <a href="https://www.securityweek.com/cartier-data-breach-jewelry-maker-warns-customers-that-personal-data-was-exposed/">Cartier Data Breach: Luxury Retailer Warns Customers That Personal Data Was Exposed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cryptojackers Caught Mining Monero via Exposed DevOps Infrastructure</title>
+		<link>https://www.securityweek.com/cryptojackers-caught-mining-monero-via-exposed-devops-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 15:53:04 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[HashiCorp Nomad]]></category>
+		<category><![CDATA[Monero]]></category>
+		<category><![CDATA[Wiz]]></category>
+		<category><![CDATA[XMLRig]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42466</guid>
+
+					<description><![CDATA[<p>Cryptocurrency mining operation hits exposed Consul dashboards, Docker Engine APIs and Gitea code-hosting instances to push Monero miner.</p>
+<p>The post <a href="https://www.securityweek.com/cryptojackers-caught-mining-monero-via-exposed-devops-infrastructure/">Cryptojackers Caught Mining Monero via Exposed DevOps Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Qualcomm Flags Exploitation of Adreno GPU Flaws, Urges OEMs to Patch Urgently</title>
+		<link>https://www.securityweek.com/qualcomm-flags-exploitation-of-adreno-gpu-flaws-urges-oems-to-patch-urgently/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 14:56:28 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-21479]]></category>
+		<category><![CDATA[CVE-2025-21480]]></category>
+		<category><![CDATA[CVE-2025-27038]]></category>
+		<category><![CDATA[Google TAG]]></category>
+		<category><![CDATA[Qualcomm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42465</guid>
+
+					<description><![CDATA[<p>Chipmaker says there are indications from Google Threat Analysis Group that a trio of flaws “may be under limited, targeted exploitation.”</p>
+<p>The post <a href="https://www.securityweek.com/qualcomm-flags-exploitation-of-adreno-gpu-flaws-urges-oems-to-patch-urgently/">Qualcomm Flags Exploitation of Adreno GPU Flaws, Urges OEMs to Patch Urgently</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>vBulletin Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/vbulletin-vulnerability-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2025 12:37:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[forum]]></category>
+		<category><![CDATA[vBulletin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42464</guid>
+
+					<description><![CDATA[<p>Exploitation of the vBulletin vulnerability tracked as CVE-2025-48827 and CVE-2025-48828 started shortly after disclosure.</p>
+<p>The post <a href="https://www.securityweek.com/vbulletin-vulnerability-exploited-in-the-wild/">vBulletin Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chrome to Distrust Chunghwa Telecom and Netlock Certificates</title>
 		<link>https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/</link>
 		
@@ -46,187 +226,6 @@
 
 					<description><![CDATA[<p>Patterns of concerning behavior led Google to remove trust in certificates from Chunghwa Telecom and Netlock from Chrome.</p>
 <p>The post <a href="https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/">Chrome to Distrust Chunghwa Telecom and Netlock Certificates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alleged Conti, TrickBot Gang Leader Unmasked</title>
-		<link>https://www.securityweek.com/alleged-conti-trickbot-gang-leader-unmasked/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 10:39:08 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Conti]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Trickbot]]></category>
-		<category><![CDATA[unmasked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42462</guid>
-
-					<description><![CDATA[<p>Russian national Vitaly Nikolaevich Kovalev is believed to be the leader of the Conti and TrickBot cybercrime groups.</p>
-<p>The post <a href="https://www.securityweek.com/alleged-conti-trickbot-gang-leader-unmasked/">Alleged Conti, TrickBot Gang Leader Unmasked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Technical Details Published for Critical Cisco IOS XE Vulnerability</title>
-		<link>https://www.securityweek.com/technical-details-published-for-critical-cisco-ios-xe-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 09:49:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42461</guid>
-
-					<description><![CDATA[<p>The critical flaw, tracked as CVE-2025-20188 (CVSS score of 10/10), allows attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/technical-details-published-for-critical-cisco-ios-xe-vulnerability/">Technical Details Published for Critical Cisco IOS XE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Counter Antivirus Service AVCheck Shut Down by Law Enforcement</title>
-		<link>https://www.securityweek.com/authorities-take-down-counter-antivirus-service-avcheck/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 08:48:59 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[AVCheck]]></category>
-		<category><![CDATA[CAV]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42457</guid>
-
-					<description><![CDATA[<p>Counter antivirus services such as AVCheck allow cybercriminals to test whether their malware is detected by antivirus products.</p>
-<p>The post <a href="https://www.securityweek.com/authorities-take-down-counter-antivirus-service-avcheck/">Counter Antivirus Service AVCheck Shut Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Government Is Investigating Messages Impersonating Trump&#8217;s Chief of Staff, Susie Wiles</title>
-		<link>https://www.securityweek.com/us-government-is-investigating-messages-impersonating-trumps-chief-of-staff-susie-wiles/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 08:35:27 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Donald Trump]]></category>
-		<category><![CDATA[impersonated]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[Susie Wiles]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42456</guid>
-
-					<description><![CDATA[<p>Elected officials, business executives and other prominent figures in recent weeks received messages from someone impersonating Susie Wiles.</p>
-<p>The post <a href="https://www.securityweek.com/us-government-is-investigating-messages-impersonating-trumps-chief-of-staff-susie-wiles/">US Government Is Investigating Messages Impersonating Trump&#8217;s Chief of Staff, Susie Wiles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: PoC for Fortinet Bug, AI Model Subverts Shutdown, RAT Source Code Leaked</title>
-		<link>https://www.securityweek.com/in-other-news-poc-for-fortinet-bug-ai-model-subverts-shutdown-rat-source-code-leaked/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 08:01:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42455</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: simple PoC code released for Fortinet zero-day, OpenAI O3 disobeys shutdown orders, source code of SilverRAT emerges online.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-poc-for-fortinet-bug-ai-model-subverts-shutdown-rat-source-code-leaked/">In Other News: PoC for Fortinet Bug, AI Model Subverts Shutdown, RAT Source Code Leaked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Firebase, Google Apps Script Abused in Fresh Phishing Campaigns</title>
-		<link>https://www.securityweek.com/firebase-google-apps-script-abused-in-fresh-phishing-campaigns/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 14:56:09 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Cofense]]></category>
-		<category><![CDATA[ESET]]></category>
-		<category><![CDATA[Firebase]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Trellix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42454</guid>
-
-					<description><![CDATA[<p>Security researchers flag two phishing campaigns abusing Firebase and Google Apps Script to host malware and fake login pages.</p>
-<p>The post <a href="https://www.securityweek.com/firebase-google-apps-script-abused-in-fresh-phishing-campaigns/">Firebase, Google Apps Script Abused in Fresh Phishing Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Sanctions Philippine Company for Supporting Crypto Scams</title>
-		<link>https://www.securityweek.com/us-sanctions-philippine-company-for-supporting-crypto-scams/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 14:42:44 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Funnull Technology]]></category>
-		<category><![CDATA[pig butchering]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<category><![CDATA[Treasury]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42452</guid>
-
-					<description><![CDATA[<p>The US Treasury Department US has slapped sanctions on Funnull Technology for providing support to cryptocurrency investment scams.</p>
-<p>The post <a href="https://www.securityweek.com/us-sanctions-philippine-company-for-supporting-crypto-scams/">US Sanctions Philippine Company for Supporting Crypto Scams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch Now: Why Context is a Secret Weapon in Application Security Posture Management</title>
-		<link>https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 13:16:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42429</guid>
-
-					<description><![CDATA[<p>Join the live webinar to understand why data in itself is not enough to make informed decisions for prioritization.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-why-context-is-a-secret-weapon-in-application-security-posture-management/">Watch Now: Why Context is a Secret Weapon in Application Security Posture Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</title>
-		<link>https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 11:11:19 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT41]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42449</guid>
-
-					<description><![CDATA[<p>China-linked hackers used a compromised government site to target other government entities with the ToughProgress malware that uses an attacker-controlled Google Calendar for C&#038;C.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hacking-group-apt41-exploits-google-calendar-to-target-governments/">Chinese Hacking Group APT41 Exploits Google Calendar to Target Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
