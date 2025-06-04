@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 03 Jun 2025 12:17:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Jun 2025 11:59:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>MainStreet Bank Data Breach Impacts Customer Payment Cards </title>
-		<link>https://www.securityweek.com/mainstreet-bank-data-breach-impacts-customer-payment-cards/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 12:16:57 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[bank]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[MainStreet Bank]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42478</guid>
-
-					<description><![CDATA[<p>The incident occurred in March and impacted the personally identifiable information of approximately 4.65% of MainStreet Bancshares’ customers.</p>
-<p>The post <a href="https://www.securityweek.com/mainstreet-bank-data-breach-impacts-customer-payment-cards/">MainStreet Bank Data Breach Impacts Customer Payment Cards </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 30 Vulnerabilities Patched in Android</title>
-		<link>https://www.securityweek.com/over-30-vulnerabilities-patched-in-android/</link>
+		<title>Compyl Raises $12 Million for GRC Platform</title>
+		<link>https://www.securityweek.com/compyl-raises-12-million-for-grc-platform/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 11:59:12 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42477</guid>
+		<pubDate>Wed, 04 Jun 2025 11:38:36 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[complaince]]></category>
+		<category><![CDATA[Compyl]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[GRC]]></category>
+		<category><![CDATA[risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42499</guid>
 
-					<description><![CDATA[<p>The latest Android updates fix vulnerabilities in Runtime, Framework, System, and third-party components of the mobile OS.</p>
-<p>The post <a href="https://www.securityweek.com/over-30-vulnerabilities-patched-in-android/">Over 30 Vulnerabilities Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Compyl has raised $12 million in a Series A funding round that will be invested in go-to-market initiatives, hirings, and GRC platform expansion.</p>
+<p>The post <a href="https://www.securityweek.com/compyl-raises-12-million-for-grc-platform/">Compyl Raises $12 Million for GRC Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Australia Enforces Ransomware Payment Reporting</title>
-		<link>https://www.securityweek.com/australia-enforces-ransomware-payment-reporting/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 10:51:32 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Laws]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42476</guid>
-
-					<description><![CDATA[<p>Covered organizations in Australia are now required to report ransomware and other cyber extortion payments within three days.</p>
-<p>The post <a href="https://www.securityweek.com/australia-enforces-ransomware-payment-reporting/">Australia Enforces Ransomware Payment Reporting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Researchers Find New Chrome Zero-Day</title>
-		<link>https://www.securityweek.com/google-researchers-find-new-chrome-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 08:53:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42475</guid>
-
-					<description><![CDATA[<p>Reported by the Google Threat Analysis Group, the vulnerability might have been exploited by commercial spyware.</p>
-<p>The post <a href="https://www.securityweek.com/google-researchers-find-new-chrome-zero-day/">Google Researchers Find New Chrome Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft, CrowdStrike Lead Effort to Map Threat Actor Names</title>
-		<link>https://www.securityweek.com/microsoft-crowdstrike-lead-effort-to-map-threat-actor-names/</link>
+		<title>Ramnit Malware Infections Spike in OT as Evidence Suggests ICS Shift</title>
+		<link>https://www.securityweek.com/ramnit-malware-infections-spike-in-ot-as-evidence-suggests-ics-shift/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Jun 2025 08:25:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
+		<pubDate>Wed, 04 Jun 2025 11:04:06 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[naming]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42472</guid>
+		<category><![CDATA[Honeywell]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Ramnit]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42498</guid>
 
-					<description><![CDATA[<p>Microsoft and CrowdStrike are running a project that aims to align threat actor names, and Google and Palo Alto Networks will also contribute.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-crowdstrike-lead-effort-to-map-threat-actor-names/">Microsoft, CrowdStrike Lead Effort to Map Threat Actor Names</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Industrial giant Honeywell has published its 2025 Cybersecurity Threat Report with information on the latest trends.</p>
+<p>The post <a href="https://www.securityweek.com/ramnit-malware-infections-spike-in-ot-as-evidence-suggests-ics-shift/">Ramnit Malware Infections Spike in OT as Evidence Suggests ICS Shift</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cartier Data Breach: Luxury Retailer Warns Customers That Personal Data Was Exposed</title>
-		<link>https://www.securityweek.com/cartier-data-breach-jewelry-maker-warns-customers-that-personal-data-was-exposed/</link>
+		<title>Webinar Today: Redefining Vulnerability Management With Exposure Validation</title>
+		<link>https://www.securityweek.com/webinar-today-redefining-vulnerability-management-with-exposure-validation/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 21:18:34 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cartier]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42467</guid>
-
-					<description><![CDATA[<p>Luxury brand Cartier disclosed a data breach in which an unauthorized party gained access to its systems and obtained some client information.</p>
-<p>The post <a href="https://www.securityweek.com/cartier-data-breach-jewelry-maker-warns-customers-that-personal-data-was-exposed/">Cartier Data Breach: Luxury Retailer Warns Customers That Personal Data Was Exposed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cryptojackers Caught Mining Monero via Exposed DevOps Infrastructure</title>
-		<link>https://www.securityweek.com/cryptojackers-caught-mining-monero-via-exposed-devops-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 15:53:04 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[HashiCorp Nomad]]></category>
-		<category><![CDATA[Monero]]></category>
-		<category><![CDATA[Wiz]]></category>
-		<category><![CDATA[XMLRig]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42466</guid>
-
-					<description><![CDATA[<p>Cryptocurrency mining operation hits exposed Consul dashboards, Docker Engine APIs and Gitea code-hosting instances to push Monero miner.</p>
-<p>The post <a href="https://www.securityweek.com/cryptojackers-caught-mining-monero-via-exposed-devops-infrastructure/">Cryptojackers Caught Mining Monero via Exposed DevOps Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Qualcomm Flags Exploitation of Adreno GPU Flaws, Urges OEMs to Patch Urgently</title>
-		<link>https://www.securityweek.com/qualcomm-flags-exploitation-of-adreno-gpu-flaws-urges-oems-to-patch-urgently/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 14:56:28 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
+		<pubDate>Wed, 04 Jun 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-21479]]></category>
-		<category><![CDATA[CVE-2025-21480]]></category>
-		<category><![CDATA[CVE-2025-27038]]></category>
-		<category><![CDATA[Google TAG]]></category>
-		<category><![CDATA[Qualcomm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42465</guid>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42493</guid>
 
-					<description><![CDATA[<p>Chipmaker says there are indications from Google Threat Analysis Group that a trio of flaws “may be under limited, targeted exploitation.”</p>
-<p>The post <a href="https://www.securityweek.com/qualcomm-flags-exploitation-of-adreno-gpu-flaws-urges-oems-to-patch-urgently/">Qualcomm Flags Exploitation of Adreno GPU Flaws, Urges OEMs to Patch Urgently</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Learn why your security controls matter more than theoretical risk scores and how exposure validation helps slash massive patch lists down to the few vulnerabilities that truly demand action.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-redefining-vulnerability-management-with-exposure-validation/">Webinar Today: Redefining Vulnerability Management With Exposure Validation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>vBulletin Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/vbulletin-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 12:37:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[forum]]></category>
-		<category><![CDATA[vBulletin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42464</guid>
-
-					<description><![CDATA[<p>Exploitation of the vBulletin vulnerability tracked as CVE-2025-48827 and CVE-2025-48828 started shortly after disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/vbulletin-vulnerability-exploited-in-the-wild/">vBulletin Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome to Distrust Chunghwa Telecom and Netlock Certificates</title>
-		<link>https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/</link>
+		<title>ThreatSpike Raises $14 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/threatspike-raises-14-million-in-series-a-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 11:02:15 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[CA]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Chunghwa]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Netlock]]></category>
-		<category><![CDATA[remove]]></category>
-		<category><![CDATA[TLS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42463</guid>
+		<pubDate>Wed, 04 Jun 2025 10:49:13 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[ThreatSpike]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42496</guid>
 
-					<description><![CDATA[<p>Patterns of concerning behavior led Google to remove trust in certificates from Chunghwa Telecom and Netlock from Chrome.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-to-distrust-chunghwa-telecom-and-netlock-certificates/">Chrome to Distrust Chunghwa Telecom and Netlock Certificates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>ThreatSpike will use the fresh funding to expand its engineering, go-to-market, and security operations teams.</p>
+<p>The post <a href="https://www.securityweek.com/threatspike-raises-14-million-in-series-a-funding/">ThreatSpike Raises $14 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Victoria&#8217;s Secret Says It Will Postpone Earnings Report After Recent Security Breach</title>
+		<link>https://www.securityweek.com/victorias-secret-says-it-will-postpone-earnings-report-after-recent-security-breach/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 10:18:49 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Victoria's Secret]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42491</guid>
+
+					<description><![CDATA[<p>Victoria’s Secret is postponing the release of its quarterly earnings following a security breach that disrupted the popular lingerie brand’s corporate operations.</p>
+<p>The post <a href="https://www.securityweek.com/victorias-secret-says-it-will-postpone-earnings-report-after-recent-security-breach/">Victoria&#8217;s Secret Says It Will Postpone Earnings Report After Recent Security Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands Hit by The North Face Credential Stuffing Attack</title>
+		<link>https://www.securityweek.com/thousands-hit-by-the-north-face-credential-stuffing-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 09:53:16 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[credential stuffing]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[The North Face]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42490</guid>
+
+					<description><![CDATA[<p>Threat actors steal personal information from thenorthface.com user accounts in a recent credential stuffing campaign.</p>
+<p>The post <a href="https://www.securityweek.com/thousands-hit-by-the-north-face-credential-stuffing-attack/">Thousands Hit by The North Face Credential Stuffing Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>35,000 Solar Power Systems Exposed to Internet</title>
+		<link>https://www.securityweek.com/35000-solar-power-systems-exposed-to-internet/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 08:03:24 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[solar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42488</guid>
+
+					<description><![CDATA[<p>Researchers from Forescout have analyzed the prevalence of internet-exposed solar power devices and shared a list of the top vendors and devices.</p>
+<p>The post <a href="https://www.securityweek.com/35000-solar-power-systems-exposed-to-internet/">35,000 Solar Power Systems Exposed to Internet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trustifi Raises $25 Million for AI-Powered Email Security</title>
+		<link>https://www.securityweek.com/trustifi-raises-25-million-for-ai-powered-email-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2025 04:41:35 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Trustifi]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42486</guid>
+
+					<description><![CDATA[<p>Trustifi has raised $25 million in Series A funding to accelerate its product roadmap and go-to-market initiatives.</p>
+<p>The post <a href="https://www.securityweek.com/trustifi-raises-25-million-for-ai-powered-email-security/">Trustifi Raises $25 Million for AI-Powered Email Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The UK Brings Cyberwarfare Out of the Closet</title>
+		<link>https://www.securityweek.com/the-uk-brings-cyberwarfare-out-of-the-closet/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 17:12:34 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42483</guid>
+
+					<description><![CDATA[<p>The UK’s 2025 Strategic Defence Review outlines a unified approach to modern warfare, integrating cyber, AI, and electromagnetic capabilities across military domains.</p>
+<p>The post <a href="https://www.securityweek.com/the-uk-brings-cyberwarfare-out-of-the-closet/">The UK Brings Cyberwarfare Out of the Closet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mikko Hypponen Leaves Anti-Malware Industry to Fight Against Drones</title>
+		<link>https://www.securityweek.com/mikko-hypponen-joins-anti-drone-company-sensofusion/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2025 14:36:30 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[drone]]></category>
+		<category><![CDATA[Mikko Hypponen]]></category>
+		<category><![CDATA[Sensofusion]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42482</guid>
+
+					<description><![CDATA[<p>Mikko Hypponen has joined the Finnish anti-drone company Sensofusion as Chief Research Officer after three decades of fighting malware.</p>
+<p>The post <a href="https://www.securityweek.com/mikko-hypponen-joins-anti-drone-company-sensofusion/">Mikko Hypponen Leaves Anti-Malware Industry to Fight Against Drones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
