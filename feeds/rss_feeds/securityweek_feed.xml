@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 09 Jun 2025 11:59:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jun 2025 12:00:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>iMessage Zero-Click Attacks Suspected in Targeting of High-Value EU, US Individuals</title>
-		<link>https://www.securityweek.com/imessage-zero-click-attacks-suspected-in-targeting-of-high-value-eu-us-individuals/</link>
+		<title>Five Zero-Days, 15 Misconfigurations Found in Salesforce Industry Cloud</title>
+		<link>https://www.securityweek.com/five-zero-days-15-misconfigurations-found-in-salesforce-industry-cloud/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 12:00:08 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42564</guid>
+
+					<description><![CDATA[<p>Security researchers uncover critical flaws and widespread misconfigurations in Salesforce’s industry-specific CRM solutions.</p>
+<p>The post <a href="https://www.securityweek.com/five-zero-days-15-misconfigurations-found-in-salesforce-industry-cloud/">Five Zero-Days, 15 Misconfigurations Found in Salesforce Industry Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability Patched in SAP NetWeaver</title>
+		<link>https://www.securityweek.com/critical-vulnerability-patched-in-sap-netweaver/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 11:59:44 +0000</pubDate>
+		<pubDate>Tue, 10 Jun 2025 11:05:39 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42561</guid>
+
+					<description><![CDATA[<p>SAP has fixed a critical NetWeaver vulnerability allowing attackers to bypass authorization checks and escalate their privileges.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-patched-in-sap-netweaver/">Critical Vulnerability Patched in SAP NetWeaver</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sensitive Information Stolen in Sensata Ransomware Attack</title>
+		<link>https://www.securityweek.com/sensitive-information-stolen-in-sensata-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 10:52:44 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Sensata]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42559</guid>
+
+					<description><![CDATA[<p>Sensor manufacturer Sensata said a ransomware group had access to its network for more than a week and stole personal information.</p>
+<p>The post <a href="https://www.securityweek.com/sensitive-information-stolen-in-sensata-ransomware-attack/">Sensitive Information Stolen in Sensata Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploited Vulnerability Impacts Over 80,000 Roundcube Servers</title>
+		<link>https://www.securityweek.com/exploited-vulnerability-impacts-over-80000-roundcube-servers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 09:38:08 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Roundcube]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42557</guid>
+
+					<description><![CDATA[<p>Exploitation of a critical-severity RCE vulnerability in Roundcube started only days after a patch was released.</p>
+<p>The post <a href="https://www.securityweek.com/exploited-vulnerability-impacts-over-80000-roundcube-servers/">Exploited Vulnerability Impacts Over 80,000 Roundcube Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities Exposed Phone Number of Any Google User</title>
+		<link>https://www.securityweek.com/vulnerabilities-exposed-phone-number-of-any-google-user/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 08:56:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42554</guid>
+
+					<description><![CDATA[<p>Google has awarded $5,000 to a researcher who found security holes that enabled brute-forcing the phone number of any user. </p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-exposed-phone-number-of-any-google-user/">Vulnerabilities Exposed Phone Number of Any Google User</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Whole Foods Distributor United Natural Foods Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/whole-foods-distributor-united-natural-foods-hit-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Jun 2025 06:56:39 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[United Natural Foods]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42553</guid>
+
+					<description><![CDATA[<p>United Natural Foods has taken some systems offline after detecting unauthorized activity on its IT systems, causing disruptions to operations.</p>
+<p>The post <a href="https://www.securityweek.com/whole-foods-distributor-united-natural-foods-hit-by-cyberattack/">Whole Foods Distributor United Natural Foods Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Hackers and User Lapses Turn Smartphones Into a ‘Mobile Security Crisis’</title>
+		<link>https://www.securityweek.com/chinese-hackers-and-user-lapses-turn-smartphones-into-a-mobile-security-crisis/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2025 18:28:26 +0000</pubDate>
 				<category><![CDATA[Mobile & Wireless]]></category>
 		<category><![CDATA[China]]></category>
-		<category><![CDATA[iMessage]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[zero-click]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42543</guid>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42552</guid>
 
-					<description><![CDATA[<p>iVerify links iPhone crashes to sophisticated zero-click attacks via iMessage targeting individuals involved in politics in the EU and US.</p>
-<p>The post <a href="https://www.securityweek.com/imessage-zero-click-attacks-suspected-in-targeting-of-high-value-eu-us-individuals/">iMessage Zero-Click Attacks Suspected in Targeting of High-Value EU, US Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Foreign hackers have increasingly identified smartphones, other mobile devices and the apps they use as a weak link in U.S. cyberdefenses.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-and-user-lapses-turn-smartphones-into-a-mobile-security-crisis/">Chinese Hackers and User Lapses Turn Smartphones Into a ‘Mobile Security Crisis’</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Seeks Forfeiture of $7.74M in Cryptocurrency Tied to North Korean IT Workers</title>
-		<link>https://www.securityweek.com/us-seeks-forfeiture-of-7-74m-in-cryptocurrency-tied-to-north-korean-it-workers/</link>
+		<title>Chinese Espionage Crews Circle SentinelOne in Year-Long Reconnaissance Campaign</title>
+		<link>https://www.securityweek.com/chinese-espionage-crews-circle-sentinelone-in-year-long-reconnaissance-campaign/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 10:41:05 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[seized]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42542</guid>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Mon, 09 Jun 2025 17:55:11 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT41]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[PurpleHaze]]></category>
+		<category><![CDATA[SentinelLabs]]></category>
+		<category><![CDATA[SentinelOne]]></category>
+		<category><![CDATA[Shadowpad]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42551</guid>
 
-					<description><![CDATA[<p>The US is seeking the forfeiture of $7.74 million in cryptocurrency in frozen wallets tied to North Korean fake IT workers schemes.</p>
-<p>The post <a href="https://www.securityweek.com/us-seeks-forfeiture-of-7-74m-in-cryptocurrency-tied-to-north-korean-it-workers/">US Seeks Forfeiture of $7.74M in Cryptocurrency Tied to North Korean IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Anti-malware vendor said it spent the past twelve months deflecting a stream of network reconnaissance probes from China-nexus threat actors</p>
+<p>The post <a href="https://www.securityweek.com/chinese-espionage-crews-circle-sentinelone-in-year-long-reconnaissance-campaign/">Chinese Espionage Crews Circle SentinelOne in Year-Long Reconnaissance Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Nigerian Involved in Hacking US Tax Preparation Firms Sentenced to Prison </title>
-		<link>https://www.securityweek.com/nigerian-involved-in-hacking-us-tax-preparation-firms-sentenced-to-prison/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 09:53:53 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[Nigerian]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42541</guid>
-
-					<description><![CDATA[<p>Kingsley Uchelue Utulu has been sentenced to more than 5 years in prison for his role in a scheme that involved hacking, fraud and identity theft.</p>
-<p>The post <a href="https://www.securityweek.com/nigerian-involved-in-hacking-us-tax-preparation-firms-sentenced-to-prison/">Nigerian Involved in Hacking US Tax Preparation Firms Sentenced to Prison </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Cybersecurity Executive Order Targets Digital Identity, Sanctions Policies</title>
-		<link>https://www.securityweek.com/trump-cybersecurity-executive-order-targets-digital-identity-sanctions-policies/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Jun 2025 07:17:57 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[executive order]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Policy]]></category>
-		<category><![CDATA[Trump]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42539</guid>
-
-					<description><![CDATA[<p>President Trump says his new cybersecurity executive order amends problematic elements of Biden- and Obama-era executive orders.</p>
-<p>The post <a href="https://www.securityweek.com/trump-cybersecurity-executive-order-targets-digital-identity-sanctions-policies/">Trump Cybersecurity Executive Order Targets Digital Identity, Sanctions Policies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: FBI Warns of BadBox 2, NSO Disputes WhatsApp Fine, 1,000 Leave CISA</title>
-		<link>https://www.securityweek.com/in-other-news-fbi-warns-of-badbox-2-nso-disputes-whatsapp-fine-1000-leave-cisa/</link>
+		<title>Guardz Banks $56M Series B for All-in-One SMB Security</title>
+		<link>https://www.securityweek.com/guardz-banks-56m-series-b-for-all-in-one-smb-security/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42537</guid>
+		<pubDate>Mon, 09 Jun 2025 14:27:54 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Guardz]]></category>
+		<category><![CDATA[Managed Services]]></category>
+		<category><![CDATA[MSPs]]></category>
+		<category><![CDATA[Series B]]></category>
+		<category><![CDATA[SMB]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42548</guid>
 
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: FBI issues an alert on BadBox 2 botnet, NSO disputing the $168 million WhatsApp fine, 1,000 people left CISA since Trump took office.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-fbi-warns-of-badbox-2-nso-disputes-whatsapp-fine-1000-leave-cisa/">In Other News: FBI Warns of BadBox 2, NSO Disputes WhatsApp Fine, 1,000 Leave CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Israeli company said the Series B raise was led by ClearSky and included equity stakes for new backer Phoenix Financial.</p>
+<p>The post <a href="https://www.securityweek.com/guardz-banks-56m-series-b-for-all-in-one-smb-security/">Guardz Banks $56M Series B for All-in-One SMB Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cybersecurity M&#038;A Roundup: 42 Deals Announced in May 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-may-2025/</link>
+		<title>Mirai Botnets Exploiting Wazuh Security Platform Vulnerability </title>
+		<link>https://www.securityweek.com/mirai-botnets-exploiting-wazuh-security-platform-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 12:38:40 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42536</guid>
-
-					<description><![CDATA[<p>The number of cybersecurity-related merger and acquisition (M&#038;A) announcements surged in May 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-may-2025/">Cybersecurity M&#038;A Roundup: 42 Deals Announced in May 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MIND Raises $30 Million for Data Loss Prevention</title>
-		<link>https://www.securityweek.com/mind-raises-30-million-for-data-loss-prevention-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 11:10:57 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[DLP]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[MIND]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42534</guid>
-
-					<description><![CDATA[<p>Data security firm MIND has raised $30 million in Series A funding to expand its R&#038;D and go-to-market teams.</p>
-<p>The post <a href="https://www.securityweek.com/mind-raises-30-million-for-data-loss-prevention-platform/">MIND Raises $30 Million for Data Loss Prevention</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Destructive &#8216;PathWiper&#8217; Targeting Ukraine&#8217;s Critical Infrastructure</title>
-		<link>https://www.securityweek.com/destructive-pathwiper-targeting-ukraines-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 10:20:27 +0000</pubDate>
+		<pubDate>Mon, 09 Jun 2025 14:20:00 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PathWiper]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<category><![CDATA[wiper]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42532</guid>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Wazuh]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42546</guid>
 
-					<description><![CDATA[<p>A Russia-linked threat actor has used the destructive malware dubbed PathWiper against a critical infrastructure organization in Ukraine.</p>
-<p>The post <a href="https://www.securityweek.com/destructive-pathwiper-targeting-ukraines-critical-infrastructure/">Destructive &#8216;PathWiper&#8217; Targeting Ukraine&#8217;s Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Critical ISE Vulnerability With Public PoC</title>
-		<link>https://www.securityweek.com/cisco-patches-critical-ise-vulnerability-with-public-poc/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 09:47:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42531</guid>
-
-					<description><![CDATA[<p>Cisco has released patches for a critical vulnerability impacting cloud deployments of Identity Services Engine (ISE).</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-ise-vulnerability-with-public-poc/">Cisco Patches Critical ISE Vulnerability With Public PoC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HPE Patches Critical Vulnerability in StoreOnce</title>
-		<link>https://www.securityweek.com/hpe-patches-critical-vulnerability-in-storeonce/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 08:52:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[HPE StoreOnce]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42530</guid>
-
-					<description><![CDATA[<p>An HPE StoreOnce vulnerability allows attackers to bypass authentication, potentially leading to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/hpe-patches-critical-vulnerability-in-storeonce/">HPE Patches Critical Vulnerability in StoreOnce</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CVE-2025-24016, a critical remote code execution vulnerability affecting Wazuh servers, has been exploited by Mirai botnets.</p>
+<p>The post <a href="https://www.securityweek.com/mirai-botnets-exploiting-wazuh-security-platform-vulnerability/">Mirai Botnets Exploiting Wazuh Security Platform Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
