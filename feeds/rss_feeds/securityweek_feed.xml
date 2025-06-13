@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 12 Jun 2025 12:19:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jun 2025 12:10:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,201 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Webcast Video: Rethinking Endpoint Hardening for Today’s Attack Landscape</title>
-		<link>https://www.securityweek.com/webinar-today-rethinking-endpoint-hardening-for-todays-attack-landscape/</link>
+		<title>TeamFiltration Abused in Entra ID Account Takeover Campaign</title>
+		<link>https://www.securityweek.com/teamfiltration-abused-in-entra-id-account-takeover-campaign/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 12:19:17 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42592</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 12:10:32 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[EntraID]]></category>
+		<category><![CDATA[Teamfiltration]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42635</guid>
 
-					<description><![CDATA[<p>Learn how attackers hide in plain sight—and what you can do to stop them without slowing down your business.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-rethinking-endpoint-hardening-for-todays-attack-landscape/">Webcast Video: Rethinking Endpoint Hardening for Today’s Attack Landscape</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Threat actors have abused the TeamFiltration pentesting framework to target over 80,000 Entra ID user accounts.</p>
+<p>The post <a href="https://www.securityweek.com/teamfiltration-abused-in-entra-id-account-takeover-campaign/">TeamFiltration Abused in Entra ID Account Takeover Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>&#8216;EchoLeak&#8217; AI Attack Enabled Theft of Sensitive Data via Microsoft 365 Copilot</title>
-		<link>https://www.securityweek.com/echoleak-ai-attack-enabled-theft-of-sensitive-data-via-microsoft-365-copilot/</link>
+		<title>Industry Reactions to Trump Cybersecurity Executive Order: Feedback Friday</title>
+		<link>https://www.securityweek.com/industry-reactions-to-trump-cybersecurity-executive-order-feedback-friday/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 11:06:26 +0000</pubDate>
+		<pubDate>Fri, 13 Jun 2025 11:36:55 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Feedback Friday]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42627</guid>
+
+					<description><![CDATA[<p>Industry professionals comment on the Trump administration’s new executive order on cybersecurity. </p>
+<p>The post <a href="https://www.securityweek.com/industry-reactions-to-trump-cybersecurity-executive-order-feedback-friday/">Industry Reactions to Trump Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SimpleHelp Vulnerability Exploited Against Utility Billing Software Users</title>
+		<link>https://www.securityweek.com/simplehelp-vulnerability-exploited-against-utility-billing-software-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 10:37:39 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SimpleHelp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42626</guid>
+
+					<description><![CDATA[<p>CISA warns that vulnerable SimpleHelp RMM instances have been exploited against a utility billing software provider’s customers.</p>
+<p>The post <a href="https://www.securityweek.com/simplehelp-vulnerability-exploited-against-utility-billing-software-users/">SimpleHelp Vulnerability Exploited Against Utility Billing Software Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fog Ransomware Attack Employs Unusual Tools</title>
+		<link>https://www.securityweek.com/fog-ransomware-attack-employs-unusual-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 10:04:55 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Fog]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42625</guid>
+
+					<description><![CDATA[<p>Multiple legitimate, unusual tools were used in a Fog ransomware attack, including one employed by Chinese hacking group APT41.</p>
+<p>The post <a href="https://www.securityweek.com/fog-ransomware-attack-employs-unusual-tools/">Fog Ransomware Attack Employs Unusual Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability Exposes Many Mitel MiCollab Instances to Remote Hacking</title>
+		<link>https://www.securityweek.com/critical-vulnerability-exposes-many-mitel-micollab-instances-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 08:29:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[MiCollab]]></category>
+		<category><![CDATA[Mitel]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42624</guid>
+
+					<description><![CDATA[<p>Mitel has announced patches for a MiCollab path traversal vulnerability that can be exploited remotely without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-exposes-many-mitel-micollab-instances-to-remote-hacking/">Critical Vulnerability Exposes Many Mitel MiCollab Instances to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerabilities Patched in Trend Micro Apex Central, Endpoint Encryption</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-patched-in-trend-micro-apex-central-endpoint-encryption-policyserver/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 08:02:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[security product]]></category>
+		<category><![CDATA[security product vulnerability]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42623</guid>
+
+					<description><![CDATA[<p>Trend Micro patches critical-severity Apex Central and Endpoint Encryption PolicyServer flaws leading to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-trend-micro-apex-central-endpoint-encryption-policyserver/">Critical Vulnerabilities Patched in Trend Micro Apex Central, Endpoint Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ZeroRISC Raises $10 Million for Open Source Silicon Security Solutions</title>
+		<link>https://www.securityweek.com/zerorisc-raises-10-million-for-open-source-silicon-security-solutions/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 07:22:35 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[silicon]]></category>
+		<category><![CDATA[ZeroRISC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42622</guid>
+
+					<description><![CDATA[<p>ZeroRISC has raised $10 million in seed funding for production-grade open source silicon security, built on OpenTitan designs.</p>
+<p>The post <a href="https://www.securityweek.com/zerorisc-raises-10-million-for-open-source-silicon-security-solutions/">ZeroRISC Raises $10 Million for Open Source Silicon Security Solutions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Paragon ‘Graphite’ Spyware Linked to Zero-Click Hacks on Newest iPhones</title>
+		<link>https://www.securityweek.com/paragon-graphite-spyware-linked-to-zero-click-hacks-on-newest-iphones/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 15:24:15 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Citizen Lab]]></category>
+		<category><![CDATA[Graphite]]></category>
+		<category><![CDATA[iOS 18.3.1]]></category>
+		<category><![CDATA[Paragon]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[zero-click]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42620</guid>
+
+					<description><![CDATA[<p>Citizen Lab publishes forensic proof that spyware maker Paragon can compromise up-to-date iPhones. Journalists in Europe among victims.</p>
+<p>The post <a href="https://www.securityweek.com/paragon-graphite-spyware-linked-to-zero-click-hacks-on-newest-iphones/">Paragon ‘Graphite’ Spyware Linked to Zero-Click Hacks on Newest iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The AI Arms Race: Deepfake Generation vs. Detection</title>
+		<link>https://www.securityweek.com/deepfakes-and-the-ai-battle-between-generation-and-detection/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 14:07:56 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[EchoLeak]]></category>
-		<category><![CDATA[Microsoft 365]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42610</guid>
-
-					<description><![CDATA[<p>Microsoft recently patched CVE-2025-32711, a vulnerability that could have been used for zero-click attacks to steal data from Copilot.</p>
-<p>The post <a href="https://www.securityweek.com/echoleak-ai-attack-enabled-theft-of-sensitive-data-via-microsoft-365-copilot/">&#8216;EchoLeak&#8217; AI Attack Enabled Theft of Sensitive Data via Microsoft 365 Copilot</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The ZTNA Blind Spot: Why Unmanaged Devices Threaten Your Hybrid Workforce</title>
-		<link>https://www.securityweek.com/the-ztna-blind-spot-why-unmanaged-devices-threaten-your-hybrid-workforce/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[BYOD]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<category><![CDATA[ZTNA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42607</guid>
-
-					<description><![CDATA[<p>It’s time for enterprises to stop treating unmanaged devices as an edge case and start securing them as part of a unified Zero Trust strategy.</p>
-<p>The post <a href="https://www.securityweek.com/the-ztna-blind-spot-why-unmanaged-devices-threaten-your-hybrid-workforce/">The ZTNA Blind Spot: Why Unmanaged Devices Threaten Your Hybrid Workforce</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Surge in Cyberattacks Targeting Journalists: Cloudflare</title>
-		<link>https://www.securityweek.com/surge-in-cyberattacks-targeting-journalists-cloudflare/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 10:48:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[journalist]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42609</guid>
-
-					<description><![CDATA[<p>Between May 2024 and April 2025, Cloudflare blocked 109 billion malicious requests targeting organizations protected under Project Galileo.</p>
-<p>The post <a href="https://www.securityweek.com/surge-in-cyberattacks-targeting-journalists-cloudflare/">Surge in Cyberattacks Targeting Journalists: Cloudflare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Patches Privilege Escalation Vulnerabilities</title>
-		<link>https://www.securityweek.com/palo-alto-networks-patches-privilege-escalation-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 08:19:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42606</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has released patches for seven vulnerabilities and incorporated the latest Chrome fixes in its products.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-privilege-escalation-vulnerabilities/">Palo Alto Networks Patches Privilege Escalation Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Interpol Targets Infostealers: 20,000 IPs Taken Down, 32 Arrested, 216,000 Victims Notified</title>
-		<link>https://www.securityweek.com/interpol-targets-infostealers-20000-ips-taken-down-32-arrested-216000-victims-notified/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 08:04:57 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[Deepfake]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Interpol]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42605</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42616</guid>
 
-					<description><![CDATA[<p>Interpol has announced a crackdown on infostealer malware in Asia as part of an effort called Operation Secure.</p>
-<p>The post <a href="https://www.securityweek.com/interpol-targets-infostealers-20000-ips-taken-down-32-arrested-216000-victims-notified/">Interpol Targets Infostealers: 20,000 IPs Taken Down, 32 Arrested, 216,000 Victims Notified</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AI-generated voice deepfakes have crossed the uncanny valley, fueling a surge in fraud that outpaces traditional security measures. Detection technology is racing to keep up.</p>
+<p>The post <a href="https://www.securityweek.com/deepfakes-and-the-ai-battle-between-generation-and-detection/">The AI Arms Race: Deepfake Generation vs. Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>With Retail Cyberattacks on the Rise, Customers Find Orders Blocked and Shelves Empty</title>
-		<link>https://www.securityweek.com/with-retail-cyberattacks-on-the-rise-customers-find-orders-blocked-and-shelves-empty/</link>
+		<title>Hirundo Raises $8 Million to Eliminate AI&#8217;s Bad Behavior</title>
+		<link>https://www.securityweek.com/hirundo-raises-8-million-to-eliminate-ais-bad-behavior/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 01:55:38 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42599</guid>
-
-					<description><![CDATA[<p>Beyond potentially halting sales of physical goods, breaches can expose customers’ personal data to future phishing or fraud attempts.</p>
-<p>The post <a href="https://www.securityweek.com/with-retail-cyberattacks-on-the-rise-customers-find-orders-blocked-and-shelves-empty/">With Retail Cyberattacks on the Rise, Customers Find Orders Blocked and Shelves Empty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Securonix Acquires Threat Intelligence Firm ThreatQuotient</title>
-		<link>https://www.securityweek.com/securonix-acquires-threat-intelligence-firm-threatquotient/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Jun 2025 15:24:34 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 13:03:37 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Securonix]]></category>
-		<category><![CDATA[SIEM]]></category>
-		<category><![CDATA[SOAR]]></category>
-		<category><![CDATA[ThreatQuotient]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42598</guid>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Hirundo]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42615</guid>
 
-					<description><![CDATA[<p>Cybersecurity heavyweight Securonix acquires ThreatQuotient to boost plans to build an all-in-one security operations stack. </p>
-<p>The post <a href="https://www.securityweek.com/securonix-acquires-threat-intelligence-firm-threatquotient/">Securonix Acquires Threat Intelligence Firm ThreatQuotient</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Maze Banks $25M to Tackle Cloud Security With AI Agents</title>
-		<link>https://www.securityweek.com/maze-banks-25m-to-tackle-cloud-security-with-ai-agents/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Jun 2025 14:42:05 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[Maze]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[Theory Ventures]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42597</guid>
-
-					<description><![CDATA[<p>Maze and its investors are betting on finding profits in software that uses AI-powered agents to automate critical parts of the process.</p>
-<p>The post <a href="https://www.securityweek.com/maze-banks-25m-to-tackle-cloud-security-with-ai-agents/">Maze Banks $25M to Tackle Cloud Security With AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flaw in Industrial Computer Maker&#8217;s UEFI Apps Enables Secure Boot Bypass on Many Devices</title>
-		<link>https://www.securityweek.com/flaw-in-industrial-computer-makers-uefi-apps-enables-secure-boot-bypass-on-many-devices/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Jun 2025 14:24:59 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[bypass]]></category>
-		<category><![CDATA[DTResearch]]></category>
-		<category><![CDATA[secure boot]]></category>
-		<category><![CDATA[UEFI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42594</guid>
-
-					<description><![CDATA[<p>Vulnerable DTResearch UEFI firmware applications can be used in BYOVD attacks to bypass Secure Boot.</p>
-<p>The post <a href="https://www.securityweek.com/flaw-in-industrial-computer-makers-uefi-apps-enables-secure-boot-bypass-on-many-devices/">Flaw in Industrial Computer Maker&#8217;s UEFI Apps Enables Secure Boot Bypass on Many Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hirundo tackles AI hallucinations and bias by making trained models “forget” poisoned, malicious, and confidential data.</p>
+<p>The post <a href="https://www.securityweek.com/hirundo-raises-8-million-to-eliminate-ais-bad-behavior/">Hirundo Raises $8 Million to Eliminate AI&#8217;s Bad Behavior</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
