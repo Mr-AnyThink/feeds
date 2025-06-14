@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Jun 2025 12:10:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jun 2025 13:31:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria&#8217;s Secret Cyberattack Cost</title>
+		<link>https://www.securityweek.com/in-other-news-cloudflare-outage-cracked-io-users-identified-victorias-secret-cyberattack-cost/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 13:31:07 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42636</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Cloudflare outage not caused by cyberattack, Dutch police identified 126 users of Cracked.io, the Victoria’s Secret cyberattack has cost $10 million. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-cloudflare-outage-cracked-io-users-identified-victorias-secret-cyberattack-cost/">In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria&#8217;s Secret Cyberattack Cost</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TeamFiltration Abused in Entra ID Account Takeover Campaign</title>
 		<link>https://www.securityweek.com/teamfiltration-abused-in-entra-id-account-takeover-campaign/</link>
 		
@@ -204,25 +221,6 @@
 
 					<description><![CDATA[<p>AI-generated voice deepfakes have crossed the uncanny valley, fueling a surge in fraud that outpaces traditional security measures. Detection technology is racing to keep up.</p>
 <p>The post <a href="https://www.securityweek.com/deepfakes-and-the-ai-battle-between-generation-and-detection/">The AI Arms Race: Deepfake Generation vs. Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hirundo Raises $8 Million to Eliminate AI&#8217;s Bad Behavior</title>
-		<link>https://www.securityweek.com/hirundo-raises-8-million-to-eliminate-ais-bad-behavior/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 13:03:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Hirundo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42615</guid>
-
-					<description><![CDATA[<p>Hirundo tackles AI hallucinations and bias by making trained models “forget” poisoned, malicious, and confidential data.</p>
-<p>The post <a href="https://www.securityweek.com/hirundo-raises-8-million-to-eliminate-ais-bad-behavior/">Hirundo Raises $8 Million to Eliminate AI&#8217;s Bad Behavior</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
