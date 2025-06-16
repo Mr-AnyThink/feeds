@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Jun 2025 13:31:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Jun 2025 12:17:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,141 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Asheville Eye Associates Says 147,000 Impacted by Data Breach</title>
+		<link>https://www.securityweek.com/asheville-eye-associates-says-147000-impacted-by-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 12:17:23 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Asheville Eye Associates]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42655</guid>
+
+					<description><![CDATA[<p>Asheville Eye Associates says the personal information of 147,000 individuals was stolen in a November 2024 data breach.</p>
+<p>The post <a href="https://www.securityweek.com/asheville-eye-associates-says-147000-impacted-by-data-breach/">Asheville Eye Associates Says 147,000 Impacted by Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zoomcar Says Hackers Accessed Data of 8.4 Million Users</title>
+		<link>https://www.securityweek.com/zoomcar-says-hackers-accessed-data-of-8-4-million-users/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 12:07:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Zoomcar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42654</guid>
+
+					<description><![CDATA[<p>The Indian car sharing marketplace Zoomcar learned that its systems were hacked after a threat actor contacted employees. </p>
+<p>The post <a href="https://www.securityweek.com/zoomcar-says-hackers-accessed-data-of-8-4-million-users/">Zoomcar Says Hackers Accessed Data of 8.4 Million Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco</title>
+		<link>https://www.securityweek.com/240000-impacted-by-data-breach-at-eyecare-tech-firm-ocuco/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 11:12:22 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Ocuco]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42653</guid>
+
+					<description><![CDATA[<p>The KillSec ransomware group has stolen hundreds of gigabytes of data from Ireland-based eyecare technology company Ocuco.</p>
+<p>The post <a href="https://www.securityweek.com/240000-impacted-by-data-breach-at-eyecare-tech-firm-ocuco/">240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anubis Ransomware Packs a Wiper to Permanently Delete Files</title>
+		<link>https://www.securityweek.com/anubis-ransomware-packs-a-wiper-to-permanently-delete-files/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 10:15:47 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Anubis]]></category>
+		<category><![CDATA[wiper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42652</guid>
+
+					<description><![CDATA[<p>The emerging Anubis ransomware becomes a major threat, permanently deleting user files and making recovery impossible.</p>
+<p>The post <a href="https://www.securityweek.com/anubis-ransomware-packs-a-wiper-to-permanently-delete-files/">Anubis Ransomware Packs a Wiper to Permanently Delete Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Red Teaming AI: The Build Vs Buy Debate</title>
+		<link>https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/</link>
+		
+		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[generative AI]]></category>
+		<category><![CDATA[Red Team]]></category>
+		<category><![CDATA[Red Teaming]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42640</guid>
+
+					<description><![CDATA[<p>A strong AI deployment starts with asking the right questions, mapping your risks, and thinking like an adversary — before it’s too late.</p>
+<p>The post <a href="https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/">Red Teaming AI: The Build Vs Buy Debate</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>High-Severity Vulnerabilities Patched in Tenable Nessus Agent</title>
+		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-tenable-nessus-agent/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 08:53:54 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Nessus]]></category>
+		<category><![CDATA[security product vulnerability]]></category>
+		<category><![CDATA[Tenable]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42650</guid>
+
+					<description><![CDATA[<p>Three high-severity Tenable Agent vulnerabilities could allow users to overwrite and delete files, or execute arbitrary code, with System privileges.</p>
+<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-tenable-nessus-agent/">High-Severity Vulnerabilities Patched in Tenable Nessus Agent</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canadian Airline WestJet Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/canadian-airline-westjet-hit-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 08:41:39 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[airline]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[WestJet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42649</guid>
+
+					<description><![CDATA[<p>A cybersecurity incident at WestJet resulted in users experiencing interruptions when accessing the company’s application and website.</p>
+<p>The post <a href="https://www.securityweek.com/canadian-airline-westjet-hit-by-cyberattack/">Canadian Airline WestJet Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria&#8217;s Secret Cyberattack Cost</title>
 		<link>https://www.securityweek.com/in-other-news-cloudflare-outage-cracked-io-users-identified-victorias-secret-cyberattack-cost/</link>
 		
@@ -78,149 +213,6 @@
 
 					<description><![CDATA[<p>Industry professionals comment on the Trump administration’s new executive order on cybersecurity. </p>
 <p>The post <a href="https://www.securityweek.com/industry-reactions-to-trump-cybersecurity-executive-order-feedback-friday/">Industry Reactions to Trump Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SimpleHelp Vulnerability Exploited Against Utility Billing Software Users</title>
-		<link>https://www.securityweek.com/simplehelp-vulnerability-exploited-against-utility-billing-software-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 10:37:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SimpleHelp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42626</guid>
-
-					<description><![CDATA[<p>CISA warns that vulnerable SimpleHelp RMM instances have been exploited against a utility billing software provider’s customers.</p>
-<p>The post <a href="https://www.securityweek.com/simplehelp-vulnerability-exploited-against-utility-billing-software-users/">SimpleHelp Vulnerability Exploited Against Utility Billing Software Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fog Ransomware Attack Employs Unusual Tools</title>
-		<link>https://www.securityweek.com/fog-ransomware-attack-employs-unusual-tools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 10:04:55 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Fog]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42625</guid>
-
-					<description><![CDATA[<p>Multiple legitimate, unusual tools were used in a Fog ransomware attack, including one employed by Chinese hacking group APT41.</p>
-<p>The post <a href="https://www.securityweek.com/fog-ransomware-attack-employs-unusual-tools/">Fog Ransomware Attack Employs Unusual Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Exposes Many Mitel MiCollab Instances to Remote Hacking</title>
-		<link>https://www.securityweek.com/critical-vulnerability-exposes-many-mitel-micollab-instances-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 08:29:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[MiCollab]]></category>
-		<category><![CDATA[Mitel]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42624</guid>
-
-					<description><![CDATA[<p>Mitel has announced patches for a MiCollab path traversal vulnerability that can be exploited remotely without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-exposes-many-mitel-micollab-instances-to-remote-hacking/">Critical Vulnerability Exposes Many Mitel MiCollab Instances to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerabilities Patched in Trend Micro Apex Central, Endpoint Encryption</title>
-		<link>https://www.securityweek.com/critical-vulnerabilities-patched-in-trend-micro-apex-central-endpoint-encryption-policyserver/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 08:02:55 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<category><![CDATA[security product]]></category>
-		<category><![CDATA[security product vulnerability]]></category>
-		<category><![CDATA[Trend Micro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42623</guid>
-
-					<description><![CDATA[<p>Trend Micro patches critical-severity Apex Central and Endpoint Encryption PolicyServer flaws leading to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-trend-micro-apex-central-endpoint-encryption-policyserver/">Critical Vulnerabilities Patched in Trend Micro Apex Central, Endpoint Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ZeroRISC Raises $10 Million for Open Source Silicon Security Solutions</title>
-		<link>https://www.securityweek.com/zerorisc-raises-10-million-for-open-source-silicon-security-solutions/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 07:22:35 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[silicon]]></category>
-		<category><![CDATA[ZeroRISC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42622</guid>
-
-					<description><![CDATA[<p>ZeroRISC has raised $10 million in seed funding for production-grade open source silicon security, built on OpenTitan designs.</p>
-<p>The post <a href="https://www.securityweek.com/zerorisc-raises-10-million-for-open-source-silicon-security-solutions/">ZeroRISC Raises $10 Million for Open Source Silicon Security Solutions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Paragon ‘Graphite’ Spyware Linked to Zero-Click Hacks on Newest iPhones</title>
-		<link>https://www.securityweek.com/paragon-graphite-spyware-linked-to-zero-click-hacks-on-newest-iphones/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 15:24:15 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Citizen Lab]]></category>
-		<category><![CDATA[Graphite]]></category>
-		<category><![CDATA[iOS 18.3.1]]></category>
-		<category><![CDATA[Paragon]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<category><![CDATA[zero-click]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42620</guid>
-
-					<description><![CDATA[<p>Citizen Lab publishes forensic proof that spyware maker Paragon can compromise up-to-date iPhones. Journalists in Europe among victims.</p>
-<p>The post <a href="https://www.securityweek.com/paragon-graphite-spyware-linked-to-zero-click-hacks-on-newest-iphones/">Paragon ‘Graphite’ Spyware Linked to Zero-Click Hacks on Newest iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The AI Arms Race: Deepfake Generation vs. Detection</title>
-		<link>https://www.securityweek.com/deepfakes-and-the-ai-battle-between-generation-and-detection/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 14:07:56 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Deepfake]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42616</guid>
-
-					<description><![CDATA[<p>AI-generated voice deepfakes have crossed the uncanny valley, fueling a surge in fraud that outpaces traditional security measures. Detection technology is racing to keep up.</p>
-<p>The post <a href="https://www.securityweek.com/deepfakes-and-the-ai-battle-between-generation-and-detection/">The AI Arms Race: Deepfake Generation vs. Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
