@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 16 Jun 2025 12:17:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jun 2025 12:20:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,145 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US Insurance Industry Warned of Scattered Spider Attacks</title>
+		<link>https://www.securityweek.com/us-insurance-industry-warned-of-scattered-spider-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 12:20:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42667</guid>
+
+					<description><![CDATA[<p>Google is warning insurance companies that Scattered Spider appears to have shifted its focus from the retail sector. </p>
+<p>The post <a href="https://www.securityweek.com/us-insurance-industry-warned-of-scattered-spider-attacks/">US Insurance Industry Warned of Scattered Spider Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Circumvent Raises $6 Million for Cloud Security Platform</title>
+		<link>https://www.securityweek.com/circumvent-raises-6-million-for-cloud-security-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 11:33:22 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Circumvent]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42666</guid>
+
+					<description><![CDATA[<p>Cloud security startup Circumvent has raised $6 million to develop a network of agents for autonomous prioritization and remediation.</p>
+<p>The post <a href="https://www.securityweek.com/circumvent-raises-6-million-for-cloud-security-platform/">Circumvent Raises $6 Million for Cloud Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Vulnerability Exploited Against Discontinued TP-Link Routers</title>
+		<link>https://www.securityweek.com/organizations-warned-of-vulnerability-exploited-against-discontinued-tp-link-routers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 10:55:50 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42665</guid>
+
+					<description><![CDATA[<p>CISA warns that a vulnerability impacting multiple discontinued TP-Link router models is exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-vulnerability-exploited-against-discontinued-tp-link-routers/">Organizations Warned of Vulnerability Exploited Against Discontinued TP-Link Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Asus Armoury Crate Vulnerability Leads to Full System Compromise</title>
+		<link>https://www.securityweek.com/asus-armoury-crate-vulnerability-leads-to-full-system-compromise/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 09:42:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Armoury Crate]]></category>
+		<category><![CDATA[Asus]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42664</guid>
+
+					<description><![CDATA[<p>A high-severity authorization bypass vulnerability in Asus Armoury Crate provides attackers with low-level system privileges.</p>
+<p>The post <a href="https://www.securityweek.com/asus-armoury-crate-vulnerability-leads-to-full-system-compromise/">Asus Armoury Crate Vulnerability Leads to Full System Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent Langflow Vulnerability Exploited by Flodrix Botnet</title>
+		<link>https://www.securityweek.com/recent-langflow-vulnerability-exploited-by-flodrix-botnet/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 08:43:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Langflow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42663</guid>
+
+					<description><![CDATA[<p>A critical Langflow vulnerability tracked as CVE-2025-3248 has been exploited to ensnare devices in the Flodrix botnet.</p>
+<p>The post <a href="https://www.securityweek.com/recent-langflow-vulnerability-exploited-by-flodrix-botnet/">Recent Langflow Vulnerability Exploited by Flodrix Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google’s $32 Billion Wiz Deal Draws DOJ Antitrust Scrutiny: Report</title>
+		<link>https://www.securityweek.com/googles-32-billion-wiz-deal-draws-doj-antitrust-scrutiny-report/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 15:04:08 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[antitrust]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Justice Department]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42659</guid>
+
+					<description><![CDATA[<p>According to reports, the US Department of Justice will assess whether the deal would harm competition in the cybersecurity market.</p>
+<p>The post <a href="https://www.securityweek.com/googles-32-billion-wiz-deal-draws-doj-antitrust-scrutiny-report/">Google’s $32 Billion Wiz Deal Draws DOJ Antitrust Scrutiny: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Archetyp Dark Web Market Shut Down by Law Enforcement</title>
+		<link>https://www.securityweek.com/archetyp-dark-web-market-shut-down-by-law-enforcement/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 13:19:43 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Achetyp]]></category>
+		<category><![CDATA[dark web]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[market]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42656</guid>
+
+					<description><![CDATA[<p>The Archetyp Market drug marketplace has been targeted by law enforcement in an operation involving takedowns and arrests. </p>
+<p>The post <a href="https://www.securityweek.com/archetyp-dark-web-market-shut-down-by-law-enforcement/">Archetyp Dark Web Market Shut Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Asheville Eye Associates Says 147,000 Impacted by Data Breach</title>
 		<link>https://www.securityweek.com/asheville-eye-associates-says-147000-impacted-by-data-breach/</link>
 		
@@ -80,139 +219,6 @@
 
 					<description><![CDATA[<p>The KillSec ransomware group has stolen hundreds of gigabytes of data from Ireland-based eyecare technology company Ocuco.</p>
 <p>The post <a href="https://www.securityweek.com/240000-impacted-by-data-breach-at-eyecare-tech-firm-ocuco/">240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anubis Ransomware Packs a Wiper to Permanently Delete Files</title>
-		<link>https://www.securityweek.com/anubis-ransomware-packs-a-wiper-to-permanently-delete-files/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 10:15:47 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Anubis]]></category>
-		<category><![CDATA[wiper]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42652</guid>
-
-					<description><![CDATA[<p>The emerging Anubis ransomware becomes a major threat, permanently deleting user files and making recovery impossible.</p>
-<p>The post <a href="https://www.securityweek.com/anubis-ransomware-packs-a-wiper-to-permanently-delete-files/">Anubis Ransomware Packs a Wiper to Permanently Delete Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Red Teaming AI: The Build Vs Buy Debate</title>
-		<link>https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/</link>
-		
-		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[generative AI]]></category>
-		<category><![CDATA[Red Team]]></category>
-		<category><![CDATA[Red Teaming]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42640</guid>
-
-					<description><![CDATA[<p>A strong AI deployment starts with asking the right questions, mapping your risks, and thinking like an adversary — before it’s too late.</p>
-<p>The post <a href="https://www.securityweek.com/red-teaming-ai-the-build-vs-buy-debate/">Red Teaming AI: The Build Vs Buy Debate</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerabilities Patched in Tenable Nessus Agent</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-tenable-nessus-agent/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 08:53:54 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Nessus]]></category>
-		<category><![CDATA[security product vulnerability]]></category>
-		<category><![CDATA[Tenable]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42650</guid>
-
-					<description><![CDATA[<p>Three high-severity Tenable Agent vulnerabilities could allow users to overwrite and delete files, or execute arbitrary code, with System privileges.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-tenable-nessus-agent/">High-Severity Vulnerabilities Patched in Tenable Nessus Agent</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canadian Airline WestJet Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/canadian-airline-westjet-hit-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 08:41:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[WestJet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42649</guid>
-
-					<description><![CDATA[<p>A cybersecurity incident at WestJet resulted in users experiencing interruptions when accessing the company’s application and website.</p>
-<p>The post <a href="https://www.securityweek.com/canadian-airline-westjet-hit-by-cyberattack/">Canadian Airline WestJet Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria&#8217;s Secret Cyberattack Cost</title>
-		<link>https://www.securityweek.com/in-other-news-cloudflare-outage-cracked-io-users-identified-victorias-secret-cyberattack-cost/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 13:31:07 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42636</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Cloudflare outage not caused by cyberattack, Dutch police identified 126 users of Cracked.io, the Victoria’s Secret cyberattack has cost $10 million. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-cloudflare-outage-cracked-io-users-identified-victorias-secret-cyberattack-cost/">In Other News: Cloudflare Outage, Cracked.io Users Identified, Victoria&#8217;s Secret Cyberattack Cost</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TeamFiltration Abused in Entra ID Account Takeover Campaign</title>
-		<link>https://www.securityweek.com/teamfiltration-abused-in-entra-id-account-takeover-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 12:10:32 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[EntraID]]></category>
-		<category><![CDATA[Teamfiltration]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42635</guid>
-
-					<description><![CDATA[<p>Threat actors have abused the TeamFiltration pentesting framework to target over 80,000 Entra ID user accounts.</p>
-<p>The post <a href="https://www.securityweek.com/teamfiltration-abused-in-entra-id-account-takeover-campaign/">TeamFiltration Abused in Entra ID Account Takeover Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to Trump Cybersecurity Executive Order: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-trump-cybersecurity-executive-order-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 11:36:55 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[executive order]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42627</guid>
-
-					<description><![CDATA[<p>Industry professionals comment on the Trump administration’s new executive order on cybersecurity. </p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-trump-cybersecurity-executive-order-feedback-friday/">Industry Reactions to Trump Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
