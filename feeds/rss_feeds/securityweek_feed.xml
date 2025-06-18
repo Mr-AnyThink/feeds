@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 17 Jun 2025 12:20:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 11:01:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,154 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mitigating AI Threats: Bridging the Gap Between AI and Legacy Security</title>
+		<link>https://www.securityweek.com/mitigating-ai-threats-bridging-the-gap-between-ai-and-legacy-security/</link>
+		
+		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[awareness training]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42670</guid>
+
+					<description><![CDATA[<p>Adopting a layered defense strategy that includes human-centric tools and updating security components.</p>
+<p>The post <a href="https://www.securityweek.com/mitigating-ai-threats-bridging-the-gap-between-ai-and-legacy-security/">Mitigating AI Threats: Bridging the Gap Between AI and Legacy Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI to Help DoD With Cyber Defense Under New $200 Million Contract</title>
+		<link>https://www.securityweek.com/openai-to-help-dod-with-cyber-defense-under-new-200-million-contract/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 10:58:47 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[artificial inteligence]]></category>
+		<category><![CDATA[DoD]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42677</guid>
+
+					<description><![CDATA[<p>OpenAI has been awarded a $200 million contract for AI capabilities to help the Defense Department address national security challenges.</p>
+<p>The post <a href="https://www.securityweek.com/openai-to-help-dod-with-cyber-defense-under-new-200-million-contract/">OpenAI to Help DoD With Cyber Defense Under New $200 Million Contract</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 137 Update Patches High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-137-update-patches-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 09:43:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42676</guid>
+
+					<description><![CDATA[<p>Google has released a Chrome 137 update to resolve two memory bugs in the browser’s V8 and Profiler components.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-137-update-patches-high-severity-vulnerabilities/">Chrome 137 Update Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Code Execution Vulnerabilities Patched in Veeam, BeyondTrust Products</title>
+		<link>https://www.securityweek.com/code-execution-vulnerabilities-patched-in-veeam-beyondtrust-products/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 08:35:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[Veeam]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42675</guid>
+
+					<description><![CDATA[<p>Veeam and BeyondTrust have resolved several vulnerabilities that could be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/code-execution-vulnerabilities-patched-in-veeam-beyondtrust-products/">Code Execution Vulnerabilities Patched in Veeam, BeyondTrust Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data Breach at Healthcare Services Firm Episource Impacts 5.4 Million People</title>
+		<link>https://www.securityweek.com/data-breach-at-healthcare-services-firm-episource-impacts-5-4-million-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 07:49:50 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Episource]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42674</guid>
+
+					<description><![CDATA[<p>Hackers have stolen personal and health information belonging to the customers of healthcare organizations served by Episource.</p>
+<p>The post <a href="https://www.securityweek.com/data-breach-at-healthcare-services-firm-episource-impacts-5-4-million-people/">Data Breach at Healthcare Services Firm Episource Impacts 5.4 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New ClickFix Malware Variant ‘LightPerlGirl’ Targets Users in Stealthy Hack</title>
+		<link>https://www.securityweek.com/new-clickfix-malware-variant-lightperlgirl-targets-users-in-stealthy-hack/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 20:36:27 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[LightPerlGirl]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42669</guid>
+
+					<description><![CDATA[<p>Researchers identify a previously unknown ClickFix variant exploiting PowerShell and clipboard hijacking to deliver the Lumma infostealer via a compromised travel site.</p>
+<p>The post <a href="https://www.securityweek.com/new-clickfix-malware-variant-lightperlgirl-targets-users-in-stealthy-hack/">New ClickFix Malware Variant ‘LightPerlGirl’ Targets Users in Stealthy Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zyxel Firewall Vulnerability Again in Attacker Crosshairs</title>
+		<link>https://www.securityweek.com/zyxel-firewall-vulnerability-again-in-attacker-crosshairs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 13:23:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42668</guid>
+
+					<description><![CDATA[<p>GreyNoise warns of a spike in exploitation attempts targeting a two-year-old vulnerability in Zyxel firewalls.</p>
+<p>The post <a href="https://www.securityweek.com/zyxel-firewall-vulnerability-again-in-attacker-crosshairs/">Zyxel Firewall Vulnerability Again in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US Insurance Industry Warned of Scattered Spider Attacks</title>
 		<link>https://www.securityweek.com/us-insurance-industry-warned-of-scattered-spider-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
 		<pubDate>Tue, 17 Jun 2025 12:20:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42667</guid>
 
 					<description><![CDATA[<p>Google is warning insurance companies that Scattered Spider appears to have shifted its focus from the retail sector. </p>
@@ -79,146 +221,6 @@
 
 					<description><![CDATA[<p>CISA warns that a vulnerability impacting multiple discontinued TP-Link router models is exploited in the wild.</p>
 <p>The post <a href="https://www.securityweek.com/organizations-warned-of-vulnerability-exploited-against-discontinued-tp-link-routers/">Organizations Warned of Vulnerability Exploited Against Discontinued TP-Link Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Asus Armoury Crate Vulnerability Leads to Full System Compromise</title>
-		<link>https://www.securityweek.com/asus-armoury-crate-vulnerability-leads-to-full-system-compromise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 09:42:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Armoury Crate]]></category>
-		<category><![CDATA[Asus]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42664</guid>
-
-					<description><![CDATA[<p>A high-severity authorization bypass vulnerability in Asus Armoury Crate provides attackers with low-level system privileges.</p>
-<p>The post <a href="https://www.securityweek.com/asus-armoury-crate-vulnerability-leads-to-full-system-compromise/">Asus Armoury Crate Vulnerability Leads to Full System Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent Langflow Vulnerability Exploited by Flodrix Botnet</title>
-		<link>https://www.securityweek.com/recent-langflow-vulnerability-exploited-by-flodrix-botnet/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 08:43:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Langflow]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42663</guid>
-
-					<description><![CDATA[<p>A critical Langflow vulnerability tracked as CVE-2025-3248 has been exploited to ensnare devices in the Flodrix botnet.</p>
-<p>The post <a href="https://www.securityweek.com/recent-langflow-vulnerability-exploited-by-flodrix-botnet/">Recent Langflow Vulnerability Exploited by Flodrix Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google’s $32 Billion Wiz Deal Draws DOJ Antitrust Scrutiny: Report</title>
-		<link>https://www.securityweek.com/googles-32-billion-wiz-deal-draws-doj-antitrust-scrutiny-report/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 15:04:08 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[antitrust]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Justice Department]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42659</guid>
-
-					<description><![CDATA[<p>According to reports, the US Department of Justice will assess whether the deal would harm competition in the cybersecurity market.</p>
-<p>The post <a href="https://www.securityweek.com/googles-32-billion-wiz-deal-draws-doj-antitrust-scrutiny-report/">Google’s $32 Billion Wiz Deal Draws DOJ Antitrust Scrutiny: Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Archetyp Dark Web Market Shut Down by Law Enforcement</title>
-		<link>https://www.securityweek.com/archetyp-dark-web-market-shut-down-by-law-enforcement/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 13:19:43 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Achetyp]]></category>
-		<category><![CDATA[dark web]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[market]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42656</guid>
-
-					<description><![CDATA[<p>The Archetyp Market drug marketplace has been targeted by law enforcement in an operation involving takedowns and arrests. </p>
-<p>The post <a href="https://www.securityweek.com/archetyp-dark-web-market-shut-down-by-law-enforcement/">Archetyp Dark Web Market Shut Down by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Asheville Eye Associates Says 147,000 Impacted by Data Breach</title>
-		<link>https://www.securityweek.com/asheville-eye-associates-says-147000-impacted-by-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 12:17:23 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Asheville Eye Associates]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42655</guid>
-
-					<description><![CDATA[<p>Asheville Eye Associates says the personal information of 147,000 individuals was stolen in a November 2024 data breach.</p>
-<p>The post <a href="https://www.securityweek.com/asheville-eye-associates-says-147000-impacted-by-data-breach/">Asheville Eye Associates Says 147,000 Impacted by Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zoomcar Says Hackers Accessed Data of 8.4 Million Users</title>
-		<link>https://www.securityweek.com/zoomcar-says-hackers-accessed-data-of-8-4-million-users/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 12:07:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Zoomcar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42654</guid>
-
-					<description><![CDATA[<p>The Indian car sharing marketplace Zoomcar learned that its systems were hacked after a threat actor contacted employees. </p>
-<p>The post <a href="https://www.securityweek.com/zoomcar-says-hackers-accessed-data-of-8-4-million-users/">Zoomcar Says Hackers Accessed Data of 8.4 Million Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco</title>
-		<link>https://www.securityweek.com/240000-impacted-by-data-breach-at-eyecare-tech-firm-ocuco/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Jun 2025 11:12:22 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Ocuco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42653</guid>
-
-					<description><![CDATA[<p>The KillSec ransomware group has stolen hundreds of gigabytes of data from Ireland-based eyecare technology company Ocuco.</p>
-<p>The post <a href="https://www.securityweek.com/240000-impacted-by-data-breach-at-eyecare-tech-firm-ocuco/">240,000 Impacted by Data Breach at Eyecare Tech Firm Ocuco</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
