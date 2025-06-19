@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 18 Jun 2025 11:01:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Jun 2025 11:06:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Mitigating AI Threats: Bridging the Gap Between AI and Legacy Security</title>
-		<link>https://www.securityweek.com/mitigating-ai-threats-bridging-the-gap-between-ai-and-legacy-security/</link>
-		
-		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[awareness training]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42670</guid>
-
-					<description><![CDATA[<p>Adopting a layered defense strategy that includes human-centric tools and updating security components.</p>
-<p>The post <a href="https://www.securityweek.com/mitigating-ai-threats-bridging-the-gap-between-ai-and-legacy-security/">Mitigating AI Threats: Bridging the Gap Between AI and Legacy Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI to Help DoD With Cyber Defense Under New $200 Million Contract</title>
-		<link>https://www.securityweek.com/openai-to-help-dod-with-cyber-defense-under-new-200-million-contract/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 10:58:47 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[artificial inteligence]]></category>
-		<category><![CDATA[DoD]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42677</guid>
-
-					<description><![CDATA[<p>OpenAI has been awarded a $200 million contract for AI capabilities to help the Defense Department address national security challenges.</p>
-<p>The post <a href="https://www.securityweek.com/openai-to-help-dod-with-cyber-defense-under-new-200-million-contract/">OpenAI to Help DoD With Cyber Defense Under New $200 Million Contract</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 137 Update Patches High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-137-update-patches-high-severity-vulnerabilities/</link>
+		<title>Chain IQ, UBS Data Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/chain-iq-ubs-data-stolen-in-ransomware-attack/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 09:43:16 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42676</guid>
-
-					<description><![CDATA[<p>Google has released a Chrome 137 update to resolve two memory bugs in the browser’s V8 and Profiler components.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-137-update-patches-high-severity-vulnerabilities/">Chrome 137 Update Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Code Execution Vulnerabilities Patched in Veeam, BeyondTrust Products</title>
-		<link>https://www.securityweek.com/code-execution-vulnerabilities-patched-in-veeam-beyondtrust-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 08:35:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[Veeam]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42675</guid>
-
-					<description><![CDATA[<p>Veeam and BeyondTrust have resolved several vulnerabilities that could be exploited for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/code-execution-vulnerabilities-patched-in-veeam-beyondtrust-products/">Code Execution Vulnerabilities Patched in Veeam, BeyondTrust Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Breach at Healthcare Services Firm Episource Impacts 5.4 Million People</title>
-		<link>https://www.securityweek.com/data-breach-at-healthcare-services-firm-episource-impacts-5-4-million-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 07:49:50 +0000</pubDate>
+		<pubDate>Thu, 19 Jun 2025 11:06:27 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Chain IQ]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Episource]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42674</guid>
+		<category><![CDATA[UBS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42699</guid>
 
-					<description><![CDATA[<p>Hackers have stolen personal and health information belonging to the customers of healthcare organizations served by Episource.</p>
-<p>The post <a href="https://www.securityweek.com/data-breach-at-healthcare-services-firm-episource-impacts-5-4-million-people/">Data Breach at Healthcare Services Firm Episource Impacts 5.4 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A ransomware group has claimed the theft of millions of files from procurement service provider Chain IQ and 19 other companies.</p>
+<p>The post <a href="https://www.securityweek.com/chain-iq-ubs-data-stolen-in-ransomware-attack/">Chain IQ, UBS Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New ClickFix Malware Variant ‘LightPerlGirl’ Targets Users in Stealthy Hack</title>
-		<link>https://www.securityweek.com/new-clickfix-malware-variant-lightperlgirl-targets-users-in-stealthy-hack/</link>
+		<title>Encryption Backdoors: The Security Practitioners’ View</title>
+		<link>https://www.securityweek.com/encryption-backdoors-the-security-practitioners-view/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 20:36:27 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[LightPerlGirl]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42669</guid>
+		<pubDate>Thu, 19 Jun 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[encryption]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42689</guid>
 
-					<description><![CDATA[<p>Researchers identify a previously unknown ClickFix variant exploiting PowerShell and clipboard hijacking to deliver the Lumma infostealer via a compromised travel site.</p>
-<p>The post <a href="https://www.securityweek.com/new-clickfix-malware-variant-lightperlgirl-targets-users-in-stealthy-hack/">New ClickFix Malware Variant ‘LightPerlGirl’ Targets Users in Stealthy Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>After decades of failed attempts to access encrypted communications, governments are shifting from persuasion to coercion—security experts say the risks are too high.</p>
+<p>The post <a href="https://www.securityweek.com/encryption-backdoors-the-security-practitioners-view/">Encryption Backdoors: The Security Practitioners’ View</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Zyxel Firewall Vulnerability Again in Attacker Crosshairs</title>
-		<link>https://www.securityweek.com/zyxel-firewall-vulnerability-again-in-attacker-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 13:23:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Zyxel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42668</guid>
-
-					<description><![CDATA[<p>GreyNoise warns of a spike in exploitation attempts targeting a two-year-old vulnerability in Zyxel firewalls.</p>
-<p>The post <a href="https://www.securityweek.com/zyxel-firewall-vulnerability-again-in-attacker-crosshairs/">Zyxel Firewall Vulnerability Again in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Insurance Industry Warned of Scattered Spider Attacks</title>
-		<link>https://www.securityweek.com/us-insurance-industry-warned-of-scattered-spider-attacks/</link>
+		<title>Krispy Kreme Confirms Data Breach After Ransomware Attack</title>
+		<link>https://www.securityweek.com/krispy-kreme-confirms-data-breach-after-ransomware-attack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 12:20:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
+		<pubDate>Thu, 19 Jun 2025 10:34:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Krispy Kreme]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42697</guid>
+
+					<description><![CDATA[<p>Krispy Kreme is sending notifications to thousands of people impacted by the data breach that came to light at the end of 2024.</p>
+<p>The post <a href="https://www.securityweek.com/krispy-kreme-confirms-data-breach-after-ransomware-attack/">Krispy Kreme Confirms Data Breach After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Choosing a Clear Direction in the Face of Growing Cybersecurity Demands</title>
+		<link>https://www.securityweek.com/choosing-a-clear-direction-in-the-face-of-growing-cybersecurity-demands/</link>
+		
+		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42687</guid>
+
+					<description><![CDATA[<p>In a rapidly changing AI environment, CISOs are worried about investing in the wrong solution or simply not investing because they can’t decide what the best option is.</p>
+<p>The post <a href="https://www.securityweek.com/choosing-a-clear-direction-in-the-face-of-growing-cybersecurity-demands/">Choosing a Clear Direction in the Face of Growing Cybersecurity Demands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>High-Severity Vulnerabilities Patched by Cisco, Atlassian</title>
+		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-cisco-atlassian/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 08:42:08 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42696</guid>
+
+					<description><![CDATA[<p>Cisco has resolved a high-severity vulnerability in Meraki MX and Meraki Z devices. Atlassian pushed patches for multiple third-party dependencies.</p>
+<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-by-cisco-atlassian/">High-Severity Vulnerabilities Patched by Cisco, Atlassian</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Swedish Truck Giant Scania Investigating Hack</title>
+		<link>https://www.securityweek.com/swedish-truck-giant-scania-investigating-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 07:39:15 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[insurance]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42667</guid>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Scania]]></category>
+		<category><![CDATA[truck]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42694</guid>
 
-					<description><![CDATA[<p>Google is warning insurance companies that Scattered Spider appears to have shifted its focus from the retail sector. </p>
-<p>The post <a href="https://www.securityweek.com/us-insurance-industry-warned-of-scattered-spider-attacks/">US Insurance Industry Warned of Scattered Spider Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A hacker is selling allegedly valuable data stolen from Scania, but the truck maker believes impact is very limited.</p>
+<p>The post <a href="https://www.securityweek.com/swedish-truck-giant-scania-investigating-hack/">Swedish Truck Giant Scania Investigating Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Circumvent Raises $6 Million for Cloud Security Platform</title>
-		<link>https://www.securityweek.com/circumvent-raises-6-million-for-cloud-security-platform/</link>
+		<title>Russian Hackers Bypass Gmail MFA With App-Specific Password Ruse</title>
+		<link>https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 11:33:22 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Circumvent]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42666</guid>
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 18:55:14 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[app-specific passwords]]></category>
+		<category><![CDATA[APT29]]></category>
+		<category><![CDATA[Citizen Lab]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42684</guid>
 
-					<description><![CDATA[<p>Cloud security startup Circumvent has raised $6 million to develop a network of agents for autonomous prioritization and remediation.</p>
-<p>The post <a href="https://www.securityweek.com/circumvent-raises-6-million-for-cloud-security-platform/">Circumvent Raises $6 Million for Cloud Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Russian hackers posed as US State Department staff and convinced targets to generate and give up Google app-specific passwords.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/">Russian Hackers Bypass Gmail MFA With App-Specific Password Ruse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Organizations Warned of Vulnerability Exploited Against Discontinued TP-Link Routers</title>
-		<link>https://www.securityweek.com/organizations-warned-of-vulnerability-exploited-against-discontinued-tp-link-routers/</link>
+		<title>Gerrit Misconfiguration Exposed Google Projects to Malicious Code Injection</title>
+		<link>https://www.securityweek.com/gerrit-misconfiguration-exposed-google-projects-to-code-injection/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Jun 2025 10:55:50 +0000</pubDate>
+		<pubDate>Wed, 18 Jun 2025 17:02:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[GerriScary]]></category>
+		<category><![CDATA[Gerrit]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42681</guid>
+
+					<description><![CDATA[<p>Misconfigured permissions in Google’s Gerrit code collaboration platform could have led to the compromise of ChromiumOS and other Google projects.</p>
+<p>The post <a href="https://www.securityweek.com/gerrit-misconfiguration-exposed-google-projects-to-code-injection/">Gerrit Misconfiguration Exposed Google Projects to Malicious Code Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability Patched in Citrix NetScaler</title>
+		<link>https://www.securityweek.com/critical-vulnerability-patched-in-citrix-netscaler/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 13:02:35 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42680</guid>
+
+					<description><![CDATA[<p>Citrix has released patches for critical- and high-severity vulnerabilities in NetScaler and Secure Access Client and Workspace for Windows.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-patched-in-citrix-netscaler/">Critical Vulnerability Patched in Citrix NetScaler</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Linux Security: New Flaws Allow Root Access, CISA Warns of Old Bug Exploitation</title>
+		<link>https://www.securityweek.com/linux-security-new-flaws-allow-root-access-cisa-warns-of-old-bug-exploitation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 12:27:25 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[kernel]]></category>
+		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42665</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42679</guid>
 
-					<description><![CDATA[<p>CISA warns that a vulnerability impacting multiple discontinued TP-Link router models is exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-vulnerability-exploited-against-discontinued-tp-link-routers/">Organizations Warned of Vulnerability Exploited Against Discontinued TP-Link Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Qualys has disclosed two Linux vulnerabilities that can be chained for full root access, and CISA added a flaw to its KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/linux-security-new-flaws-allow-root-access-cisa-warns-of-old-bug-exploitation/">Linux Security: New Flaws Allow Root Access, CISA Warns of Old Bug Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
