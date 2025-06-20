@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 19 Jun 2025 11:06:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Jun 2025 11:44:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,168 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Godfather Android Trojan Creates Sandbox on Infected Devices</title>
+		<link>https://www.securityweek.com/godfather-android-trojan-creates-sandbox-on-infected-devices/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 11:44:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[Android trojan]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[Godfather]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42711</guid>
+
+					<description><![CDATA[<p>The Godfather Android trojan uses on-device virtualization to hijack legitimate applications and steal users’ funds.</p>
+<p>The post <a href="https://www.securityweek.com/godfather-android-trojan-creates-sandbox-on-infected-devices/">Godfather Android Trojan Creates Sandbox on Infected Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Motors Theme Vulnerability Exploited to Hack WordPress Websites</title>
+		<link>https://www.securityweek.com/motors-theme-vulnerability-exploited-to-hack-wordpress-websites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 11:15:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42710</guid>
+
+					<description><![CDATA[<p>Threat actors are exploiting a critical-severity vulnerability in Motors theme for WordPress to change arbitrary user passwords.</p>
+<p>The post <a href="https://www.securityweek.com/motors-theme-vulnerability-exploited-to-hack-wordpress-websites/">Motors Theme Vulnerability Exploited to Hack WordPress Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FreeType Zero-Day Found by Meta Exploited in Paragon Spyware Attacks</title>
+		<link>https://www.securityweek.com/freetype-zero-day-found-by-meta-exploited-in-paragon-spyware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 10:10:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[FreeType]]></category>
+		<category><![CDATA[Paragon]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42708</guid>
+
+					<description><![CDATA[<p>WhatsApp told SecurityWeek that it linked the exploited FreeType vulnerability CVE-2025-27363 to a Paragon exploit.</p>
+<p>The post <a href="https://www.securityweek.com/freetype-zero-day-found-by-meta-exploited-in-paragon-spyware-attacks/">FreeType Zero-Day Found by Meta Exploited in Paragon Spyware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloudflare Tunnels Abused in New Malware Campaign</title>
+		<link>https://www.securityweek.com/cloudflare-tunnels-abused-in-new-malware-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 08:41:27 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[Cloudflare Tunnels]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42707</guid>
+
+					<description><![CDATA[<p>A threat actor is abusing Cloudflare Tunnels for the delivery of a Python loader as part of a complex infection chain.</p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-tunnels-abused-in-new-malware-campaign/">Cloudflare Tunnels Abused in New Malware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>161,000 People Impacted by Krispy Kreme Data Breach</title>
+		<link>https://www.securityweek.com/161000-people-impacted-by-krispy-kreme-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 07:58:12 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Krispy Kreme]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42706</guid>
+
+					<description><![CDATA[<p>Krispy Kreme is sharing more information on the data breach resulting from the ransomware attack targeting the company in 2024. </p>
+<p>The post <a href="https://www.securityweek.com/161000-people-impacted-by-krispy-kreme-data-breach/">161,000 People Impacted by Krispy Kreme Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Access Legacy Systems in Oxford City Council Cyberattack</title>
+		<link>https://www.securityweek.com/hackers-access-legacy-systems-in-oxford-city-council-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 06:50:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42705</guid>
+
+					<description><![CDATA[<p>Personal data of former and current council workers, including election staff, may have been accessed by hackers.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-access-legacy-systems-in-oxford-city-council-cyberattack/">Hackers Access Legacy Systems in Oxford City Council Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War</title>
+		<link>https://www.securityweek.com/predatory-sparrow-burns-90-million-on-iranian-crypto-exchange-in-cyber-shadow-war/</link>
+		
+		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 16:41:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Nobitex]]></category>
+		<category><![CDATA[Predatory Sparrow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42702</guid>
+
+					<description><![CDATA[<p>Israel-linked Predatory Sparrow hackers torched more than $90 million at Iran’s largest cryptobank as Israel-Iran cyberwar escalates.</p>
+<p>The post <a href="https://www.securityweek.com/predatory-sparrow-burns-90-million-on-iranian-crypto-exchange-in-cyber-shadow-war/">Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Campaigns Distribute Malware via Open Source Hacking Tools</title>
+		<link>https://www.securityweek.com/new-campaigns-distribute-malware-via-open-source-hacking-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 19 Jun 2025 12:22:30 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42700</guid>
+
+					<description><![CDATA[<p>Trend Micro and ReversingLabs uncovered over 100 GitHub accounts distributing malware embedded in open source hacking tools.</p>
+<p>The post <a href="https://www.securityweek.com/new-campaigns-distribute-malware-via-open-source-hacking-tools/">New Campaigns Distribute Malware via Open Source Hacking Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chain IQ, UBS Data Stolen in Ransomware Attack</title>
 		<link>https://www.securityweek.com/chain-iq-ubs-data-stolen-in-ransomware-attack/</link>
 		
@@ -57,175 +219,11 @@
 		<category><![CDATA[Government]]></category>
 		<category><![CDATA[backdoor]]></category>
 		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42689</guid>
 
 					<description><![CDATA[<p>After decades of failed attempts to access encrypted communications, governments are shifting from persuasion to coercion—security experts say the risks are too high.</p>
 <p>The post <a href="https://www.securityweek.com/encryption-backdoors-the-security-practitioners-view/">Encryption Backdoors: The Security Practitioners’ View</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Krispy Kreme Confirms Data Breach After Ransomware Attack</title>
-		<link>https://www.securityweek.com/krispy-kreme-confirms-data-breach-after-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 10:34:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Krispy Kreme]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42697</guid>
-
-					<description><![CDATA[<p>Krispy Kreme is sending notifications to thousands of people impacted by the data breach that came to light at the end of 2024.</p>
-<p>The post <a href="https://www.securityweek.com/krispy-kreme-confirms-data-breach-after-ransomware-attack/">Krispy Kreme Confirms Data Breach After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Choosing a Clear Direction in the Face of Growing Cybersecurity Demands</title>
-		<link>https://www.securityweek.com/choosing-a-clear-direction-in-the-face-of-growing-cybersecurity-demands/</link>
-		
-		<dc:creator><![CDATA[Marc Solomon]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42687</guid>
-
-					<description><![CDATA[<p>In a rapidly changing AI environment, CISOs are worried about investing in the wrong solution or simply not investing because they can’t decide what the best option is.</p>
-<p>The post <a href="https://www.securityweek.com/choosing-a-clear-direction-in-the-face-of-growing-cybersecurity-demands/">Choosing a Clear Direction in the Face of Growing Cybersecurity Demands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerabilities Patched by Cisco, Atlassian</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-cisco-atlassian/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 08:42:08 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42696</guid>
-
-					<description><![CDATA[<p>Cisco has resolved a high-severity vulnerability in Meraki MX and Meraki Z devices. Atlassian pushed patches for multiple third-party dependencies.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-by-cisco-atlassian/">High-Severity Vulnerabilities Patched by Cisco, Atlassian</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Swedish Truck Giant Scania Investigating Hack</title>
-		<link>https://www.securityweek.com/swedish-truck-giant-scania-investigating-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 07:39:15 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Scania]]></category>
-		<category><![CDATA[truck]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42694</guid>
-
-					<description><![CDATA[<p>A hacker is selling allegedly valuable data stolen from Scania, but the truck maker believes impact is very limited.</p>
-<p>The post <a href="https://www.securityweek.com/swedish-truck-giant-scania-investigating-hack/">Swedish Truck Giant Scania Investigating Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Hackers Bypass Gmail MFA With App-Specific Password Ruse</title>
-		<link>https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 18:55:14 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[app-specific passwords]]></category>
-		<category><![CDATA[APT29]]></category>
-		<category><![CDATA[Citizen Lab]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gmail]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42684</guid>
-
-					<description><![CDATA[<p>Russian hackers posed as US State Department staff and convinced targets to generate and give up Google app-specific passwords.</p>
-<p>The post <a href="https://www.securityweek.com/russian-hackers-bypass-gmail-mfa-with-app-specific-password-ruse/">Russian Hackers Bypass Gmail MFA With App-Specific Password Ruse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gerrit Misconfiguration Exposed Google Projects to Malicious Code Injection</title>
-		<link>https://www.securityweek.com/gerrit-misconfiguration-exposed-google-projects-to-code-injection/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 17:02:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[GerriScary]]></category>
-		<category><![CDATA[Gerrit]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42681</guid>
-
-					<description><![CDATA[<p>Misconfigured permissions in Google’s Gerrit code collaboration platform could have led to the compromise of ChromiumOS and other Google projects.</p>
-<p>The post <a href="https://www.securityweek.com/gerrit-misconfiguration-exposed-google-projects-to-code-injection/">Gerrit Misconfiguration Exposed Google Projects to Malicious Code Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Patched in Citrix NetScaler</title>
-		<link>https://www.securityweek.com/critical-vulnerability-patched-in-citrix-netscaler/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 13:02:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42680</guid>
-
-					<description><![CDATA[<p>Citrix has released patches for critical- and high-severity vulnerabilities in NetScaler and Secure Access Client and Workspace for Windows.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-patched-in-citrix-netscaler/">Critical Vulnerability Patched in Citrix NetScaler</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linux Security: New Flaws Allow Root Access, CISA Warns of Old Bug Exploitation</title>
-		<link>https://www.securityweek.com/linux-security-new-flaws-allow-root-access-cisa-warns-of-old-bug-exploitation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Jun 2025 12:27:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[kernel]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42679</guid>
-
-					<description><![CDATA[<p>Qualys has disclosed two Linux vulnerabilities that can be chained for full root access, and CISA added a flaw to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/linux-security-new-flaws-allow-root-access-cisa-warns-of-old-bug-exploitation/">Linux Security: New Flaws Allow Root Access, CISA Warns of Old Bug Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
