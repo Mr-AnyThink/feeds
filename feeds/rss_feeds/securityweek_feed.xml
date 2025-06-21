@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 20 Jun 2025 11:44:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Jun 2025 09:41:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,60 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data</title>
+		<link>https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 21 Jun 2025 09:41:03 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Aflac]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42714</guid>
+
+					<description><![CDATA[<p>Aflac said that it’s in the early stages of a review of the incident, and so far is unable to determine the total number of affected individuals.</p>
+<p>The post <a href="https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/">Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer</title>
+		<link>https://www.securityweek.com/in-other-news-viasat-hacked-by-china-washington-post-cyberattack-crowhammer/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 13:58:57 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42713</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: China’s Salt Typhoon targeted Viasat, Washington Post emails compromised in hack, Rowhammer attack named Crowhammer.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-viasat-hacked-by-china-washington-post-cyberattack-crowhammer/">In Other News: Viasat Hacked by China, Washington Post Cyberattack, Crowhammer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider</title>
+		<link>https://www.securityweek.com/record-breaking-ddos-attack-peaked-at-7-3-tbps/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Jun 2025 12:36:30 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[DDoS record]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42712</guid>
+
+					<description><![CDATA[<p>Cloudflare has blocked yet another record-breaking DDoS attack, which delivered the equivalent of 9,000 HD movies in just 45 seconds.</p>
+<p>The post <a href="https://www.securityweek.com/record-breaking-ddos-attack-peaked-at-7-3-tbps/">Record-Breaking 7.3 Tbps DDoS Attack Targets Hosting Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Godfather Android Trojan Creates Sandbox on Infected Devices</title>
 		<link>https://www.securityweek.com/godfather-android-trojan-creates-sandbox-on-infected-devices/</link>
 		
@@ -166,64 +220,6 @@
 
 					<description><![CDATA[<p>Israel-linked Predatory Sparrow hackers torched more than $90 million at Iran’s largest cryptobank as Israel-Iran cyberwar escalates.</p>
 <p>The post <a href="https://www.securityweek.com/predatory-sparrow-burns-90-million-on-iranian-crypto-exchange-in-cyber-shadow-war/">Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Campaigns Distribute Malware via Open Source Hacking Tools</title>
-		<link>https://www.securityweek.com/new-campaigns-distribute-malware-via-open-source-hacking-tools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 12:22:30 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42700</guid>
-
-					<description><![CDATA[<p>Trend Micro and ReversingLabs uncovered over 100 GitHub accounts distributing malware embedded in open source hacking tools.</p>
-<p>The post <a href="https://www.securityweek.com/new-campaigns-distribute-malware-via-open-source-hacking-tools/">New Campaigns Distribute Malware via Open Source Hacking Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chain IQ, UBS Data Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/chain-iq-ubs-data-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 11:06:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Chain IQ]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[UBS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42699</guid>
-
-					<description><![CDATA[<p>A ransomware group has claimed the theft of millions of files from procurement service provider Chain IQ and 19 other companies.</p>
-<p>The post <a href="https://www.securityweek.com/chain-iq-ubs-data-stolen-in-ransomware-attack/">Chain IQ, UBS Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Encryption Backdoors: The Security Practitioners’ View</title>
-		<link>https://www.securityweek.com/encryption-backdoors-the-security-practitioners-view/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42689</guid>
-
-					<description><![CDATA[<p>After decades of failed attempts to access encrypted communications, governments are shifting from persuasion to coercion—security experts say the risks are too high.</p>
-<p>The post <a href="https://www.securityweek.com/encryption-backdoors-the-security-practitioners-view/">Encryption Backdoors: The Security Practitioners’ View</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
