@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 21 Jun 2025 09:41:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Jun 2025 11:39:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical Authentication Bypass Flaw Patched in Teleport</title>
+		<link>https://www.securityweek.com/critical-authentication-bypass-flaw-patched-in-teleport/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 11:39:41 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[authentication bypass]]></category>
+		<category><![CDATA[Teleport]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42730</guid>
+
+					<description><![CDATA[<p>A critical-severity vulnerability in Teleport could allow remote attackers to bypass SSH authentication and access managed systems.</p>
+<p>The post <a href="https://www.securityweek.com/critical-authentication-bypass-flaw-patched-in-teleport/">Critical Authentication Bypass Flaw Patched in Teleport</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>743,000 Impacted by McLaren Health Care Data Breach</title>
+		<link>https://www.securityweek.com/743000-impacted-by-mclaren-health-care-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 11:32:48 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[McLaren Health Care]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42727</guid>
+
+					<description><![CDATA[<p>The personal information of 743,000 individuals was compromised in a 2024 ransomware attack on McLaren Health Care.</p>
+<p>The post <a href="https://www.securityweek.com/743000-impacted-by-mclaren-health-care-data-breach/">743,000 Impacted by McLaren Health Care Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Braces for Cyberattacks After Bombing Iranian Nuclear Sites</title>
+		<link>https://www.securityweek.com/us-braces-for-cyberattacks-after-joining-israel-iran-war/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 10:10:22 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42724</guid>
+
+					<description><![CDATA[<p>Iranian hackers are expected to intensify cyberattacks against the US after the recent air strikes on Iran’s nuclear sites.</p>
+<p>The post <a href="https://www.securityweek.com/us-braces-for-cyberattacks-after-joining-israel-iran-war/">US Braces for Cyberattacks After Bombing Iranian Nuclear Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Steelmaker Nucor Says Hackers Stole Data in Recent Attack</title>
+		<link>https://www.securityweek.com/steelmaker-nucor-says-hackers-stole-data-in-recent-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 08:46:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nucor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42723</guid>
+
+					<description><![CDATA[<p>Nucor has shared an update on the impact of the recent cyberattack and confirmed that some data has been taken from its IT systems.</p>
+<p>The post <a href="https://www.securityweek.com/steelmaker-nucor-says-hackers-stole-data-in-recent-attack/">Steelmaker Nucor Says Hackers Stole Data in Recent Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Aflac Finds Suspicious Activity on US Network That May Impact Social Security Numbers, Other Data</title>
 		<link>https://www.securityweek.com/aflac-finds-suspicious-activity-on-us-network-that-may-impact-social-security-numbers-other-data/</link>
 		
@@ -139,87 +218,6 @@
 
 					<description><![CDATA[<p>WhatsApp told SecurityWeek that it linked the exploited FreeType vulnerability CVE-2025-27363 to a Paragon exploit.</p>
 <p>The post <a href="https://www.securityweek.com/freetype-zero-day-found-by-meta-exploited-in-paragon-spyware-attacks/">FreeType Zero-Day Found by Meta Exploited in Paragon Spyware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudflare Tunnels Abused in New Malware Campaign</title>
-		<link>https://www.securityweek.com/cloudflare-tunnels-abused-in-new-malware-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 08:41:27 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[Cloudflare Tunnels]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42707</guid>
-
-					<description><![CDATA[<p>A threat actor is abusing Cloudflare Tunnels for the delivery of a Python loader as part of a complex infection chain.</p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-tunnels-abused-in-new-malware-campaign/">Cloudflare Tunnels Abused in New Malware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>161,000 People Impacted by Krispy Kreme Data Breach</title>
-		<link>https://www.securityweek.com/161000-people-impacted-by-krispy-kreme-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 07:58:12 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Krispy Kreme]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42706</guid>
-
-					<description><![CDATA[<p>Krispy Kreme is sharing more information on the data breach resulting from the ransomware attack targeting the company in 2024. </p>
-<p>The post <a href="https://www.securityweek.com/161000-people-impacted-by-krispy-kreme-data-breach/">161,000 People Impacted by Krispy Kreme Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Access Legacy Systems in Oxford City Council Cyberattack</title>
-		<link>https://www.securityweek.com/hackers-access-legacy-systems-in-oxford-city-council-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 06:50:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42705</guid>
-
-					<description><![CDATA[<p>Personal data of former and current council workers, including election staff, may have been accessed by hackers.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-access-legacy-systems-in-oxford-city-council-cyberattack/">Hackers Access Legacy Systems in Oxford City Council Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War</title>
-		<link>https://www.securityweek.com/predatory-sparrow-burns-90-million-on-iranian-crypto-exchange-in-cyber-shadow-war/</link>
-		
-		<dc:creator><![CDATA[Ryan Naraine]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 16:41:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[cyberwarfare]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Nobitex]]></category>
-		<category><![CDATA[Predatory Sparrow]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42702</guid>
-
-					<description><![CDATA[<p>Israel-linked Predatory Sparrow hackers torched more than $90 million at Iran’s largest cryptobank as Israel-Iran cyberwar escalates.</p>
-<p>The post <a href="https://www.securityweek.com/predatory-sparrow-burns-90-million-on-iranian-crypto-exchange-in-cyber-shadow-war/">Predatory Sparrow Burns $90 Million on Iranian Crypto Exchange in Cyber Shadow War</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
