@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 24 Jun 2025 10:58:39 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jun 2025 11:41:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SonicWall Warns of Trojanized NetExtender Stealing User Information</title>
+		<link>https://www.securityweek.com/sonicwall-warns-of-trojanized-netextender-stealing-user-information/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 11:30:05 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NetExtender]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[trojanized]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42757</guid>
+
+					<description><![CDATA[<p>SonicWall says a modified version of the legitimate NetExtender application contains information-stealing code.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-warns-of-trojanized-netextender-stealing-user-information/">SonicWall Warns of Trojanized NetExtender Stealing User Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Vulnerabilities Expose Millions of Brother Printers to Hacking</title>
+		<link>https://www.securityweek.com/new-vulnerabilities-expose-millions-of-brother-printers-to-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 11:11:11 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Brother]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[printer]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42754</guid>
+
+					<description><![CDATA[<p>Rapid7 has found several serious vulnerabilities affecting over 700 printer models from Brother and other vendors. </p>
+<p>The post <a href="https://www.securityweek.com/new-vulnerabilities-expose-millions-of-brother-printers-to-hacking/">New Vulnerabilities Expose Millions of Brother Printers to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Sincerity Is a Strategic Asset in Cybersecurity</title>
+		<link>https://www.securityweek.com/why-sincerity-is-a-strategic-asset-in-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42749</guid>
+
+					<description><![CDATA[<p>Strong security doesn’t just rely on tools—it starts with trust, clarity, and sincerity from the top down.</p>
+<p>The post <a href="https://www.securityweek.com/why-sincerity-is-a-strategic-asset-in-cybersecurity/">Why Sincerity Is a Strategic Asset in Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Code Execution Vulnerability Patched in GitHub Enterprise Server</title>
+		<link>https://www.securityweek.com/code-execution-vulnerability-patched-in-github-enterprise-server/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 10:42:32 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[RCE]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42753</guid>
+
+					<description><![CDATA[<p>A high-severity vulnerability in GitHub Enterprise Server could have allowed remote attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/code-execution-vulnerability-patched-in-github-enterprise-server/">Code Execution Vulnerability Patched in GitHub Enterprise Server</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 138, Firefox 140 Patch Multiple Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-138-firefox-140-patch-multiple-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 10:02:35 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42752</guid>
+
+					<description><![CDATA[<p>Chrome 138 and Firefox 140 are rolling out with fixes for two dozen vulnerabilities, including high-severity memory safety issues.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-138-firefox-140-patch-multiple-vulnerabilities/">Chrome 138, Firefox 140 Patch Multiple Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mainline Health, Select Medical Each Disclose Data Breaches Impacting 100,000 People</title>
+		<link>https://www.securityweek.com/mainline-health-select-medical-each-disclose-data-breaches-impacting-100000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 09:06:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Mainline]]></category>
+		<category><![CDATA[Select Medical]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42751</guid>
+
+					<description><![CDATA[<p>Mainline Health and Select Medical Holdings have suffered data breaches that affect more than 100,000 individuals. </p>
+<p>The post <a href="https://www.securityweek.com/mainline-health-select-medical-each-disclose-data-breaches-impacting-100000-people/">Mainline Health, Select Medical Each Disclose Data Breaches Impacting 100,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian APT Hits Ukrainian Government With New Malware via Signal</title>
+		<link>https://www.securityweek.com/russian-apt-hits-ukrainian-government-with-new-malware-via-signal/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2025 07:08:08 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Signal]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42746</guid>
+
+					<description><![CDATA[<p>Russia-linked APT28 deployed new malware against Ukrainian government targets through malicious documents sent via Signal chats.</p>
+<p>The post <a href="https://www.securityweek.com/russian-apt-hits-ukrainian-government-with-new-malware-via-signal/">Russian APT Hits Ukrainian Government With New Malware via Signal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Siemens Notifies Customers of Microsoft Defender Antivirus Issue</title>
+		<link>https://www.securityweek.com/siemens-notifies-customers-of-microsoft-defender-antivirus-issue/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 24 Jun 2025 13:27:44 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Siemens]]></category>
+		<category><![CDATA[Windows Defender]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42744</guid>
+
+					<description><![CDATA[<p>Siemens is working with Microsoft to address a Defender Antivirus problem that can lead to no malware alerts or plant disruptions.</p>
+<p>The post <a href="https://www.securityweek.com/siemens-notifies-customers-of-microsoft-defender-antivirus-issue/">Siemens Notifies Customers of Microsoft Defender Antivirus Issue</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Identity Is the New Perimeter: Why Proofing and Verification Are Business Imperatives</title>
 		<link>https://www.securityweek.com/identity-is-the-new-perimeter-why-proofing-and-verification-are-business-imperatives/</link>
 		
@@ -61,174 +220,6 @@
 
 					<description><![CDATA[<p>Palo Alto Networks has observed a spike in Prometei activity since March 2025, pointing to a resurgence of the botnet.</p>
 <p>The post <a href="https://www.securityweek.com/prometei-botnet-activity-spikes/">Prometei Botnet Activity Spikes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APT Hacking Routers to Build Espionage Infrastructure</title>
-		<link>https://www.securityweek.com/chinese-apt-hacking-routers-to-build-espionage-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 09:50:11 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[LapDogs]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[ShortLeash]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42741</guid>
-
-					<description><![CDATA[<p>A Chinese APT has been infecting SOHO routers with the ShortLeash backdoor to build stealthy espionage infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apt-hacking-routers-to-build-espionage-infrastructure/">Chinese APT Hacking Routers to Build Espionage Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Photo-Stealing Spyware Sneaks Into Apple App Store, Google Play</title>
-		<link>https://www.securityweek.com/photo-stealing-spyware-sneaks-into-apple-app-store-google-play/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 09:38:09 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[iOS malware]]></category>
-		<category><![CDATA[SparkKitty]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42740</guid>
-
-					<description><![CDATA[<p>Newly discovered spyware has sneaked into Apple’s App Store and Google Play to steal images from users’ mobile devices.</p>
-<p>The post <a href="https://www.securityweek.com/photo-stealing-spyware-sneaks-into-apple-app-store-google-play/">Photo-Stealing Spyware Sneaks Into Apple App Store, Google Play</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple, Netflix, Microsoft Sites &#8216;Hacked&#8217; for Tech Support Scams </title>
-		<link>https://www.securityweek.com/apple-netflix-microsoft-sites-hacked-for-tech-support-scams/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 24 Jun 2025 08:59:50 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[injection]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[tech support scam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42737</guid>
-
-					<description><![CDATA[<p>Tech support scammers are using sponsored ads and search parameter injection to trick users into calling them.</p>
-<p>The post <a href="https://www.securityweek.com/apple-netflix-microsoft-sites-hacked-for-tech-support-scams/">Apple, Netflix, Microsoft Sites &#8216;Hacked&#8217; for Tech Support Scams </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Hackers Take Over Victims’ Systems Using Zoom Meeting</title>
-		<link>https://www.securityweek.com/north-korean-hackers-take-over-victims-systems-using-zoom-meeting/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 16:42:55 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[BlueNoroff]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[DPRK]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[Zoom]]></category>
-		<category><![CDATA[Zoom Meeting]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42733</guid>
-
-					<description><![CDATA[<p>North Korean hackers employ social engineering to trick Zoom Meeting participants into executing system-takeover commands.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-take-over-victims-systems-using-zoom-meeting/">North Korean Hackers Take Over Victims’ Systems Using Zoom Meeting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China&#8217;s Salt Typhoon Hackers Target Canadian Telecom Firms</title>
-		<link>https://www.securityweek.com/chinas-salt-typhoon-hackers-target-canadian-telecom-firms/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 14:11:49 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42732</guid>
-
-					<description><![CDATA[<p>Canada’s Centre for Cyber Security and the FBI warn of Chinese hackers targeting telecommunications and other companies in Canada.</p>
-<p>The post <a href="https://www.securityweek.com/chinas-salt-typhoon-hackers-target-canadian-telecom-firms/">China&#8217;s Salt Typhoon Hackers Target Canadian Telecom Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New AI Jailbreak Bypasses Guardrails With Ease</title>
-		<link>https://www.securityweek.com/new-echo-chamber-jailbreak-bypasses-ai-guardrails-with-ease/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42717</guid>
-
-					<description><![CDATA[<p>New "Echo Chamber" attack bypasses advanced LLM safeguards by subtly manipulating conversational context, proving highly effective across leading AI models.</p>
-<p>The post <a href="https://www.securityweek.com/new-echo-chamber-jailbreak-bypasses-ai-guardrails-with-ease/">New AI Jailbreak Bypasses Guardrails With Ease</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Authentication Bypass Flaw Patched in Teleport</title>
-		<link>https://www.securityweek.com/critical-authentication-bypass-flaw-patched-in-teleport/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 11:39:41 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[authentication bypass]]></category>
-		<category><![CDATA[Teleport]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42730</guid>
-
-					<description><![CDATA[<p>A critical-severity vulnerability in Teleport could allow remote attackers to bypass SSH authentication and access managed systems.</p>
-<p>The post <a href="https://www.securityweek.com/critical-authentication-bypass-flaw-patched-in-teleport/">Critical Authentication Bypass Flaw Patched in Teleport</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>743,000 Impacted by McLaren Health Care Data Breach</title>
-		<link>https://www.securityweek.com/743000-impacted-by-mclaren-health-care-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Jun 2025 11:32:48 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[McLaren Health Care]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42727</guid>
-
-					<description><![CDATA[<p>The personal information of 743,000 individuals was compromised in a 2024 ransomware attack on McLaren Health Care.</p>
-<p>The post <a href="https://www.securityweek.com/743000-impacted-by-mclaren-health-care-data-breach/">743,000 Impacted by McLaren Health Care Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
