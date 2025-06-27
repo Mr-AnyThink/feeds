@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 26 Jun 2025 12:11:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jun 2025 11:47:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,166 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft to Preview New Windows Endpoint Security Platform After CrowdStrike Outage </title>
+		<link>https://www.securityweek.com/microsoft-to-preview-new-windows-endpoint-security-platform-after-crowdstrike-outage/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 11:47:01 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[kernel]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42780</guid>
+
+					<description><![CDATA[<p>Microsoft is preparing a private preview of new Windows endpoint security platform capabilities to help antimalware vendors create solutions that run outside the kernel.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-to-preview-new-windows-endpoint-security-platform-after-crowdstrike-outage/">Microsoft to Preview New Windows Endpoint Security Platform After CrowdStrike Outage </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RevEng.ai Raises $4.15 Million to Secure Software Supply Chain</title>
+		<link>https://www.securityweek.com/reveng-ai-raises-4-15-million-to-secure-software-supply-chain/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 10:12:50 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42779</guid>
+
+					<description><![CDATA[<p>RevEng.ai has raised $4.15 million in seed funding for an AI platform that automatically detects malicious code and vulnerabilities in software.</p>
+<p>The post <a href="https://www.securityweek.com/reveng-ai-raises-4-15-million-to-secure-software-supply-chain/">RevEng.ai Raises $4.15 Million to Secure Software Supply Chain</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Hackers Target Chinese Users With RAT, Rootkit</title>
+		<link>https://www.securityweek.com/chinese-hackers-target-chinese-users-with-rat-rootkit/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 09:49:03 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Silver Fox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42778</guid>
+
+					<description><![CDATA[<p>China-linked Silver Fox hacking group is targeting Chinese users with fake installers carrying a RAT and a rootkit.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-target-chinese-users-with-rat-rootkit/">Chinese Hackers Target Chinese Users With RAT, Rootkit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Evidence Suggests Exploitation of CitrixBleed 2 Vulnerability</title>
+		<link>https://www.securityweek.com/evidence-suggests-exploitation-of-citrixbleed-2-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 09:06:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[CitrixBleed 2]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42777</guid>
+
+					<description><![CDATA[<p>The Citrix NetScaler vulnerability tracked as CitrixBleed 2 and CVE-2025–5777 may be exploited in the wild for initial access.</p>
+<p>The post <a href="https://www.securityweek.com/evidence-suggests-exploitation-of-citrixbleed-2-vulnerability/">Evidence Suggests Exploitation of CitrixBleed 2 Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability Exposed All Open VSX Repositories to Takeover</title>
+		<link>https://www.securityweek.com/vulnerability-exposed-all-open-vsx-repositories-to-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 08:18:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[account takeover]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Open VSX]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42776</guid>
+
+					<description><![CDATA[<p>A vulnerability in the extension publishing mechanism of Open VSX could have allowed attackers to tamper with any repository.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-exposed-all-open-vsx-repositories-to-takeover/">Vulnerability Exposed All Open VSX Repositories to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft 365 Direct Send Abused for Phishing</title>
+		<link>https://www.securityweek.com/microsoft-365-direct-send-abused-for-phishing/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 07:56:52 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Direct Send]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42775</guid>
+
+					<description><![CDATA[<p>Hackers are abusing the Microsoft 365 Direct Send feature to deliver phishing emails that bypass email security controls.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-365-direct-send-abused-for-phishing/">Microsoft 365 Direct Send Abused for Phishing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Bipartisan Bill Aims to Block Chinese AI From Federal Agencies</title>
+		<link>https://www.securityweek.com/bipartisan-bill-aims-to-block-chinese-ai-from-federal-agencies/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 16:37:52 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42773</guid>
+
+					<description><![CDATA[<p>The proposal seeks to ban all use of the technology in the U.S. government, with exceptions for use in research and counterterrorism efforts.</p>
+<p>The post <a href="https://www.securityweek.com/bipartisan-bill-aims-to-block-chinese-ai-from-federal-agencies/">Bipartisan Bill Aims to Block Chinese AI From Federal Agencies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Man Who Hacked Organizations to Advertise Security Services Pleads Guilty</title>
+		<link>https://www.securityweek.com/man-who-hacked-organizations-to-advertise-security-services-pleads-guilty/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 12:41:04 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42769</guid>
+
+					<description><![CDATA[<p>Nicholas Michael Kloster has pleaded guilty to computer hacking after targeting at least two organizations.</p>
+<p>The post <a href="https://www.securityweek.com/man-who-hacked-organizations-to-advertise-security-services-pleads-guilty/">Man Who Hacked Organizations to Advertise Security Services Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bonfy.AI Raises $9.5 Million for Adaptive Content Security Platform</title>
 		<link>https://www.securityweek.com/bonfy-ai-raises-9-5-million-for-adaptive-content-security-platform/</link>
 		
@@ -63,169 +223,6 @@
 
 					<description><![CDATA[<p>CISA is urging federal agencies to patch a recent AMI BMC vulnerability and a half-a-decade-old bug in FortiOS by July 17.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-ami-bmc-vulnerability-exploited-in-the-wild/">CISA Warns AMI BMC Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Central Kentucky Radiology Data Breach Impacts 167,000</title>
-		<link>https://www.securityweek.com/central-kentucky-radiology-data-breach-impacts-167000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 09:23:32 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Central Kentucky Radiology]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42765</guid>
-
-					<description><![CDATA[<p>The personal information of 167,000 individuals was compromised in an October 2024 data breach at Central Kentucky Radiology.</p>
-<p>The post <a href="https://www.securityweek.com/central-kentucky-radiology-data-breach-impacts-167000/">Central Kentucky Radiology Data Breach Impacts 167,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Cisco ISE Vulnerabilities Allow Remote Code Execution </title>
-		<link>https://www.securityweek.com/critical-cisco-ise-vulnerabilities-allow-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 08:56:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42764</guid>
-
-					<description><![CDATA[<p>Two critical vulnerabilities in Cisco ISE could allow remote attackers to execute arbitrary code with root privileges.</p>
-<p>The post <a href="https://www.securityweek.com/critical-cisco-ise-vulnerabilities-allow-remote-code-execution/">Critical Cisco ISE Vulnerabilities Allow Remote Code Execution </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>British Man Suspected of Being the Hacker IntelBroker Arrested, Charged</title>
-		<link>https://www.securityweek.com/british-man-suspected-of-being-the-hacker-intelbroker-arrested-charged/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 08:24:27 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[BreachForums]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[IntelBroker]]></category>
-		<category><![CDATA[Kai West]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42762</guid>
-
-					<description><![CDATA[<p>25-year-old Kai West, believed to be the hacker IntelBroker, was arrested in France and charged by the United States.</p>
-<p>The post <a href="https://www.securityweek.com/british-man-suspected-of-being-the-hacker-intelbroker-arrested-charged/">British Man Suspected of Being the Hacker IntelBroker Arrested, Charged</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Citrix NetScaler Flaw Exploited as Zero-Day</title>
-		<link>https://www.securityweek.com/critical-citrix-netscaler-flaw-exploited-as-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Jun 2025 07:02:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42761</guid>
-
-					<description><![CDATA[<p>Citrix has released patches for a critical vulnerability in NetScaler ADC and NetScaler Gateway exploited as a zero-day.</p>
-<p>The post <a href="https://www.securityweek.com/critical-citrix-netscaler-flaw-exploited-as-zero-day/">Critical Citrix NetScaler Flaw Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Thousands of SaaS Apps Could Still Be Susceptible to nOAuth</title>
-		<link>https://www.securityweek.com/thousands-of-saas-apps-could-still-be-susceptible-to-noauth/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 13:50:20 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[EntraID]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[noAuth]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42760</guid>
-
-					<description><![CDATA[<p>New research suggests more than 10,000 SaaS apps could remain vulnerable to a nOAuth variant despite the basic issue being disclosed in June 2023.</p>
-<p>The post <a href="https://www.securityweek.com/thousands-of-saas-apps-could-still-be-susceptible-to-noauth/">Thousands of SaaS Apps Could Still Be Susceptible to nOAuth</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Offers Free Windows 10 Extended Security Update Options as EOS Nears</title>
-		<link>https://www.securityweek.com/microsoft-offers-free-windows-10-extended-security-update-options-as-eos-nears/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 13:21:02 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[ESU]]></category>
-		<category><![CDATA[Extended Security Updates]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Windows ESU]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42759</guid>
-
-					<description><![CDATA[<p>With end of support scheduled for October 2025, Windows 10 users will be able to continue receiving important security updates. </p>
-<p>The post <a href="https://www.securityweek.com/microsoft-offers-free-windows-10-extended-security-update-options-as-eos-nears/">Microsoft Offers Free Windows 10 Extended Security Update Options as EOS Nears</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Abuse ConnectWise to Hide Malware</title>
-		<link>https://www.securityweek.com/hackers-abuse-connectwise-to-hide-malware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 12:21:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ConnectWise]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42758</guid>
-
-					<description><![CDATA[<p>G Data has observed a surge in malware infections originating from ConnectWise applications with modified certificate tables.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-abuse-connectwise-to-hide-malware/">Hackers Abuse ConnectWise to Hide Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Warns of Trojanized NetExtender Stealing User Information</title>
-		<link>https://www.securityweek.com/sonicwall-warns-of-trojanized-netextender-stealing-user-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 11:30:05 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[NetExtender]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[trojanized]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42757</guid>
-
-					<description><![CDATA[<p>SonicWall says a modified version of the legitimate NetExtender application contains information-stealing code.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-warns-of-trojanized-netextender-stealing-user-information/">SonicWall Warns of Trojanized NetExtender Stealing User Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
