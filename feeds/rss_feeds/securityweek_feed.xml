@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 03 Jul 2025 11:29:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Jul 2025 10:30:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Hacker Helps Kill Informants, Crylock Developer Sentenced, Ransomware Negotiator Probed</title>
+		<link>https://www.securityweek.com/in-other-news-hacker-helps-kill-informants-crylock-developer-sentenced-ransomware-negotiator-probed/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2025 10:30:39 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42846</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: drug cartel hires hacker to identify FBI informants, prison time for Russian ransomware developer, ransomware negotiator investigated. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-hacker-helps-kill-informants-crylock-developer-sentenced-ransomware-negotiator-probed/">In Other News: Hacker Helps Kill Informants, Crylock Developer Sentenced, Ransomware Negotiator Probed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Undetectable Android Spyware Backfires, Leaks 62,000 User Logins</title>
 		<link>https://www.securityweek.com/undetectable-android-spyware-backfires-leaks-62000-user-logins/</link>
 		
@@ -189,25 +207,6 @@
 
 					<description><![CDATA[<p>CISA says two more vulnerabilities in the messaging application TeleMessage TM SGNL have been exploited in the wild.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/">CISA Warns of Two Exploited TeleMessage Vulnerabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Targets International Criminal Court</title>
-		<link>https://www.securityweek.com/cyberattack-targets-international-criminal-court/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 08:27:34 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[ICC]]></category>
-		<category><![CDATA[International Criminal Court]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42830</guid>
-
-					<description><![CDATA[<p>The International Criminal Court (ICC) has detected and contained a sophisticated and targeted cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-targets-international-criminal-court/">Cyberattack Targets International Criminal Court</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
