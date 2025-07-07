@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 04 Jul 2025 10:30:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Jul 2025 11:12:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,28 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Police in Brazil Arrest a Suspect Over $100M Banking Hack</title>
+		<link>https://www.securityweek.com/police-in-brazil-arrest-a-suspect-over-100m-banking-hack/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42847</guid>
+
+					<description><![CDATA[<p>Officials identified the suspect as João Roque, a C&#038;M employee who worked in information technology and allegedly helped others gain unauthorized access to PIX systems.</p>
+<p>The post <a href="https://www.securityweek.com/police-in-brazil-arrest-a-suspect-over-100m-banking-hack/">Police in Brazil Arrest a Suspect Over $100M Banking Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Hacker Helps Kill Informants, Crylock Developer Sentenced, Ransomware Negotiator Probed</title>
 		<link>https://www.securityweek.com/in-other-news-hacker-helps-kill-informants-crylock-developer-sentenced-ransomware-negotiator-probed/</link>
 		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
 		<pubDate>Fri, 04 Jul 2025 10:30:39 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
 		<category><![CDATA[Ransomware]]></category>
@@ -188,25 +206,6 @@
 
 					<description><![CDATA[<p>A vulnerability in the Forminator WordPress plugin allows attackers to delete arbitrary files and take over impacted websites.</p>
 <p>The post <a href="https://www.securityweek.com/forminator-wordpress-plugin-vulnerability-exposes-400000-websites-to-takeover/">Forminator WordPress Plugin Vulnerability Exposes 400,000 Websites to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Two Exploited TeleMessage Vulnerabilities </title>
-		<link>https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 08:55:03 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[TeleMessage]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42831</guid>
-
-					<description><![CDATA[<p>CISA says two more vulnerabilities in the messaging application TeleMessage TM SGNL have been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-two-exploited-telemessage-vulnerabilities/">CISA Warns of Two Exploited TeleMessage Vulnerabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
