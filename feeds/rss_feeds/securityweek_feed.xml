@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 07 Jul 2025 11:12:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jul 2025 12:05:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,98 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Exploits, Technical Details Released for CitrixBleed2 Vulnerability</title>
+		<link>https://www.securityweek.com/exploits-technical-details-released-for-citrixbleed2-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 12:04:56 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CitrixBleed2]]></category>
+		<category><![CDATA[CVE-2025-5777]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42854</guid>
+
+					<description><![CDATA[<p>Researchers released technical information and exploit code targeting a critical vulnerability (CVE-2025-5777) in Citrix NetScaler.</p>
+<p>The post <a href="https://www.securityweek.com/exploits-technical-details-released-for-citrixbleed2-vulnerability/">Exploits, Technical Details Released for CitrixBleed2 Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Qantas Hit with Extortion Demand After Data Breach</title>
+		<link>https://www.securityweek.com/qantas-hit-with-extortion-demand-after-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2025 11:50:22 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42853</guid>
+
+					<description><![CDATA[<p>The Australian airline says a cybercriminal attempted to extort it after customer data was stolen from a contact center.</p>
+<p>The post <a href="https://www.securityweek.com/qantas-hit-with-extortion-demand-after-data-breach/">Qantas Hit with Extortion Demand After Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grafana Patches Chromium Bugs, Including Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/grafana-patches-chromium-bugs-including-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2025 18:39:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42852</guid>
+
+					<description><![CDATA[<p>CVE-2025-6554 and three other Chromium vulnerabilities could allow attackers to execute code and corrupt memory remotely.</p>
+<p>The post <a href="https://www.securityweek.com/grafana-patches-chromium-bugs-including-zero-day-exploited-in-the-wild/">Grafana Patches Chromium Bugs, Including Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hunters International Shuts Down, Offers Free Decryptors as It Morphs Into World Leaks</title>
+		<link>https://www.securityweek.com/hunters-international-shuts-down-offers-free-decryptors-as-it-morphs-into-world-leaks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2025 14:08:34 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hunters International]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42851</guid>
+
+					<description><![CDATA[<p>The notorious Hive successor ceases ransomware operations but pivots to pure data extortion under the new World Leaks brand.</p>
+<p>The post <a href="https://www.securityweek.com/hunters-international-shuts-down-offers-free-decryptors-as-it-morphs-into-world-leaks/">Hunters International Shuts Down, Offers Free Decryptors as It Morphs Into World Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ingram Micro Scrambling to Restore Systems After Ransomware Attack</title>
+		<link>https://www.securityweek.com/ingram-micro-scrambling-to-restore-systems-after-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Jul 2025 12:50:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Ingram Micro]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42848</guid>
+
+					<description><![CDATA[<p>The IT products and services giant did not say how the intrusion occurred or whether any data was stolen from its systems.</p>
+<p>The post <a href="https://www.securityweek.com/ingram-micro-scrambling-to-restore-systems-after-ransomware-attack/">Ingram Micro Scrambling to Restore Systems After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Police in Brazil Arrest a Suspect Over $100M Banking Hack</title>
 		<link>https://www.securityweek.com/police-in-brazil-arrest-a-suspect-over-100m-banking-hack/</link>
 		
@@ -115,97 +207,6 @@
 
 					<description><![CDATA[<p>SentinelOne says the fake Zoom update scam delivers ‘NimDoor’, a rare Nim-compiled backdoor.</p>
 <p>The post <a href="https://www.securityweek.com/north-korean-hackers-use-fake-zoom-updates-to-install-macos-malware/">North Korean Hackers Use Fake Zoom Updates to Install macOS Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Like Ransoming a Bike: Organizational Muscle Memory Drives the Most Effective Response</title>
-		<link>https://www.securityweek.com/like-ransoming-a-bike-organizational-muscle-memory-drives-the-most-effective-response/</link>
-		
-		<dc:creator><![CDATA[Trevin Edgeworth]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 13:40:28 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42837</guid>
-
-					<description><![CDATA[<p>Ransomware is a major threat to the enterprise. Tools and training help, but survival depends on one thing: your organization’s muscle memory to respond fast and recover stronger.</p>
-<p>The post <a href="https://www.securityweek.com/like-ransoming-a-bike-organizational-muscle-memory-drives-the-most-effective-response/">Like Ransoming a Bike: Organizational Muscle Memory Drives the Most Effective Response</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Calls Reported Threats by Pro-Iran Hackers to Release Trump-Tied Material a ‘Smear Campaign’</title>
-		<link>https://www.securityweek.com/us-calls-reported-threats-by-pro-iran-hackers-to-release-trump-tied-material-a-smear-campaign/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 13:26:28 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Iran]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42836</guid>
-
-					<description><![CDATA[<p>The United States has warned of continued Iranian cyberattacks following American strikes on Iran’s nuclear facilities.</p>
-<p>The post <a href="https://www.securityweek.com/us-calls-reported-threats-by-pro-iran-hackers-to-release-trump-tied-material-a-smear-campaign/">US Calls Reported Threats by Pro-Iran Hackers to Release Trump-Tied Material a ‘Smear Campaign’</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 41 Deals Announced in June 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-41-deals-announced-in-june-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 12:25:54 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[merger]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42835</guid>
-
-					<description><![CDATA[<p>Forty-one cybersecurity merger and acquisition (M&#038;A) deals were announced in June 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-41-deals-announced-in-june-2025/">Cybersecurity M&#038;A Roundup: 41 Deals Announced in June 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kelly Benefits Data Breach Impacts 550,000 People</title>
-		<link>https://www.securityweek.com/kelly-benefits-data-breach-impacts-550000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 11:09:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Kelly Benefits]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42834</guid>
-
-					<description><![CDATA[<p>As Kelly Benefits’s investigation into a recent data breach progressed, the number of impacted individuals continued to grow. </p>
-<p>The post <a href="https://www.securityweek.com/kelly-benefits-data-breach-impacts-550000-people/">Kelly Benefits Data Breach Impacts 550,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Forminator WordPress Plugin Vulnerability Exposes 400,000 Websites to Takeover</title>
-		<link>https://www.securityweek.com/forminator-wordpress-plugin-vulnerability-exposes-400000-websites-to-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Jul 2025 10:08:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42832</guid>
-
-					<description><![CDATA[<p>A vulnerability in the Forminator WordPress plugin allows attackers to delete arbitrary files and take over impacted websites.</p>
-<p>The post <a href="https://www.securityweek.com/forminator-wordpress-plugin-vulnerability-exposes-400000-websites-to-takeover/">Forminator WordPress Plugin Vulnerability Exposes 400,000 Websites to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
