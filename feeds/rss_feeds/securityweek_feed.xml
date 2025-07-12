@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 11 Jul 2025 12:15:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Jul 2025 16:33:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs</title>
+		<link>https://www.securityweek.com/in-other-news-microsoft-finds-amd-cpu-flaws-zuru-macos-malware-donot-apt/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 11 Jul 2025 12:24:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42912</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Microsoft shows attack against AMD processors, SentinelOne details latest ZuRu macOS malware version, Indian APT DoNot targets governments. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-microsoft-finds-amd-cpu-flaws-zuru-macos-malware-donot-apt/">In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cyberstarts Launches $300M Liquidity Fund to Help Startups Retain Top Talent</title>
 		<link>https://www.securityweek.com/cyberstarts-launches-300m-liquidity-fund-to-help-startups-retain-top-talent/</link>
 		
@@ -65,7 +82,7 @@
 		
 			</item>
 		<item>
-		<title>McDonald&#8217;s Chatbot Recruitment Platform Leaked 64 Million Job Applications</title>
+		<title>McDonald&#8217;s Chatbot Recruitment Platform Exposed 64 Million Job Applications</title>
 		<link>https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -78,7 +95,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42906</guid>
 
 					<description><![CDATA[<p>Two vulnerabilities in an internal API allowed unauthorized access to contacts and chats, exposing the information of 64 million McDonald’s applicants.</p>
-<p>The post <a href="https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/">McDonald&#8217;s Chatbot Recruitment Platform Leaked 64 Million Job Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/">McDonald&#8217;s Chatbot Recruitment Platform Exposed 64 Million Job Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -194,28 +211,6 @@
 
 					<description><![CDATA[<p>Ingram Micro has restored operations across all countries and regions after disconnecting systems to contain a ransomware attack.</p>
 <p>The post <a href="https://www.securityweek.com/ingram-micro-restores-systems-impacted-by-ransomware/">Ingram Micro Restores Systems Impacted by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Four Arrested in UK Over M&#038;S, Co-op Cyberattacks</title>
-		<link>https://www.securityweek.com/four-arrested-in-uk-over-ms-co-op-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 13:55:07 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[M&S]]></category>
-		<category><![CDATA[retailer]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42895</guid>
-
-					<description><![CDATA[<p>Three teens and a woman have been arrested by the UK’s NCA over the hacking of M&#038;S, Co-op and Harrods.</p>
-<p>The post <a href="https://www.securityweek.com/four-arrested-in-uk-over-ms-co-op-cyberattacks/">Four Arrested in UK Over M&#038;S, Co-op Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
