@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 11 Jul 2025 16:33:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Jul 2025 07:44:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Grok-4 Falls to a Jailbreak Two Days After Its Release</title>
+		<link>https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 14:51:41 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<category><![CDATA[LLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42915</guid>
+
+					<description><![CDATA[<p>The latest release of the xAI LLM, Grok-4, has already fallen to a sophisticated jailbreak.</p>
+<p>The post <a href="https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/">Grok-4 Falls to a Jailbreak Two Days After Its Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs</title>
 		<link>https://www.securityweek.com/in-other-news-microsoft-finds-amd-cpu-flaws-zuru-macos-malware-donot-apt/</link>
 		
@@ -193,24 +213,6 @@
 
 					<description><![CDATA[<p>Details have been disclosed for an eSIM hacking method that could impact many, but the industry is taking action.</p>
 <p>The post <a href="https://www.securityweek.com/esim-hack-allows-for-cloning-spying/">eSIM Hack Allows for Cloning, Spying </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ingram Micro Restores Systems Impacted by Ransomware</title>
-		<link>https://www.securityweek.com/ingram-micro-restores-systems-impacted-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 14:00:41 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Ingram Micro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42896</guid>
-
-					<description><![CDATA[<p>Ingram Micro has restored operations across all countries and regions after disconnecting systems to contain a ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/ingram-micro-restores-systems-impacted-by-ransomware/">Ingram Micro Restores Systems Impacted by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
