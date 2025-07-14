@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 13 Jul 2025 07:44:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Jul 2025 12:10:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,108 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Interlock RAT Variant Distributed via FileFix Attacks</title>
+		<link>https://www.securityweek.com/new-interlock-rat-variant-distributed-via-filefix-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 12:10:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[FileFix]]></category>
+		<category><![CDATA[InterLock]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42929</guid>
+
+					<description><![CDATA[<p>The Interlock ransomware group has partnered with the KongTuke TDS to distribute a new RAT variant via FileFix attacks.</p>
+<p>The post <a href="https://www.securityweek.com/new-interlock-rat-variant-distributed-via-filefix-attacks/">New Interlock RAT Variant Distributed via FileFix Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flaws in Gigabyte Firmware Allow Security Bypass, Backdoor Deployment</title>
+		<link>https://www.securityweek.com/flaws-in-gigabyte-firmware-allow-security-bypass-backdoor-deployment/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 11:38:12 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Gigabyte]]></category>
+		<category><![CDATA[secure boot]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42928</guid>
+
+					<description><![CDATA[<p>Vulnerabilities in Gigabyte firmware implementations could allow attackers to disable Secure Boot and execute code during the early boot phase.</p>
+<p>The post <a href="https://www.securityweek.com/flaws-in-gigabyte-firmware-allow-security-bypass-backdoor-deployment/">Flaws in Gigabyte Firmware Allow Security Bypass, Backdoor Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Louis Vuitton Data Breach Hits Customers in Several Countries</title>
+		<link>https://www.securityweek.com/louis-vuitton-data-breach-hits-customers-in-several-countries/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 11:11:40 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Louis Vuitton]]></category>
+		<category><![CDATA[retailer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42926</guid>
+
+					<description><![CDATA[<p>Louis Vuitton customers in the UK, South Korea, Turkey and possibly other countries are being notified of a data breach.</p>
+<p>The post <a href="https://www.securityweek.com/louis-vuitton-data-breach-hits-customers-in-several-countries/">Louis Vuitton Data Breach Hits Customers in Several Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Inject Malware Into Gravity Forms WordPress Plugin </title>
+		<link>https://www.securityweek.com/hackers-inject-malware-into-gravity-forms-wordpress-plugin/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 09:31:39 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress plugin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42925</guid>
+
+					<description><![CDATA[<p>Two Gravity Forms WordPress plugin versions available on the official download page were injected with malware in a supply chain attack.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-inject-malware-into-gravity-forms-wordpress-plugin/">Hackers Inject Malware Into Gravity Forms WordPress Plugin </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>13 Romanians Arrested for Phishing the UK’s Tax Service</title>
+		<link>https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 02:13:38 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Romania]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42917</guid>
+
+					<description><![CDATA[<p>Investigators from HMRC joined more than 100 Romanian police officers to arrest the 13 Romanian suspects in the counties of Ilfov, Giurgiu and Calarasi. </p>
+<p>The post <a href="https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/">13 Romanians Arrested for Phishing the UK’s Tax Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Grok-4 Falls to a Jailbreak Two Days After Its Release</title>
 		<link>https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/</link>
 		
@@ -116,103 +218,6 @@
 
 					<description><![CDATA[<p>Two vulnerabilities in an internal API allowed unauthorized access to contacts and chats, exposing the information of 64 million McDonald’s applicants.</p>
 <p>The post <a href="https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/">McDonald&#8217;s Chatbot Recruitment Platform Exposed 64 Million Job Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Wing FTP Server Vulnerability Exploited</title>
-		<link>https://www.securityweek.com/critical-wing-ftp-server-vulnerability-exploited/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 09:23:47 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Wing FTP server]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42905</guid>
-
-					<description><![CDATA[<p>Wing FTP Server vulnerability CVE-2025-47812 can be exploited for arbitrary command execution with root or system privileges.</p>
-<p>The post <a href="https://www.securityweek.com/critical-wing-ftp-server-vulnerability-exploited/">Critical Wing FTP Server Vulnerability Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok Faces Fresh European Privacy Investigation Over China Data Transfers</title>
-		<link>https://www.securityweek.com/tiktok-faces-fresh-european-privacy-investigation-over-china-data-transfers/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 09:02:01 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42903</guid>
-
-					<description><![CDATA[<p>The Irish Data Privacy Commission announced that TikTok is facing a new European Union privacy investigation into user data sent to China.</p>
-<p>The post <a href="https://www.securityweek.com/tiktok-faces-fresh-european-privacy-investigation-over-china-data-transfers/">TikTok Faces Fresh European Privacy Investigation Over China Data Transfers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>July 2025 Breaks a Decade of Monthly Android Patches</title>
-		<link>https://www.securityweek.com/july-2025-breaks-a-decade-of-monthly-android-patches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 08:29:07 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42902</guid>
-
-					<description><![CDATA[<p>Since August 2015, Google has delivered a constant stream of monthly security patches for Android. Until July 2025.</p>
-<p>The post <a href="https://www.securityweek.com/july-2025-breaks-a-decade-of-monthly-android-patches/">July 2025 Breaks a Decade of Monthly Android Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rowhammer Attack Demonstrated Against Nvidia GPU</title>
-		<link>https://www.securityweek.com/rowhammer-attack-demonstrated-against-nvidia-gpu/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 08:11:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[GPU]]></category>
-		<category><![CDATA[GPUHammer]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Rowhammer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42901</guid>
-
-					<description><![CDATA[<p>Researchers demonstrated GPUHammer — a Rowhammer attack against GPUs — by degrading the accuracy of machine learning models.</p>
-<p>The post <a href="https://www.securityweek.com/rowhammer-attack-demonstrated-against-nvidia-gpu/">Rowhammer Attack Demonstrated Against Nvidia GPU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>eSIM Hack Allows for Cloning, Spying </title>
-		<link>https://www.securityweek.com/esim-hack-allows-for-cloning-spying/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 10 Jul 2025 14:21:44 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[eSIM]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[SIM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42897</guid>
-
-					<description><![CDATA[<p>Details have been disclosed for an eSIM hacking method that could impact many, but the industry is taking action.</p>
-<p>The post <a href="https://www.securityweek.com/esim-hack-allows-for-cloning-spying/">eSIM Hack Allows for Cloning, Spying </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
