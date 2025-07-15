@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 14 Jul 2025 12:10:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jul 2025 09:13:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,145 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zip Security Raises $13.5 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 08:28:41 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[Zip Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42945</guid>
+
+					<description><![CDATA[<p>Zip Security’s Series A funding round led by Ballistic Ventures will help the company grow its engineering and go-to-market teams.</p>
+<p>The post <a href="https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/">Zip Security Raises $13.5 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Group Claims Attack on Belk</title>
+		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-belk/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 07:47:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Belk]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42943</guid>
+
+					<description><![CDATA[<p>DragonForce says it stole more than 150 gigabytes of data from US department store chain Belk in a May cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-belk/">Ransomware Group Claims Attack on Belk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MITRE Unveils AADAPT Framework to Tackle Cryptocurrency Threats </title>
+		<link>https://www.securityweek.com/mitre-unveils-aadapt-framework-to-tackle-cryptocurrency-threats/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 07:10:18 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[AADAPT]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42942</guid>
+
+					<description><![CDATA[<p>The MITRE AADAPT framework provides documentation for identifying, investigating, and responding to weaknesses in digital asset payments.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-unveils-aadapt-framework-to-tackle-cryptocurrency-threats/">MITRE Unveils AADAPT Framework to Tackle Cryptocurrency Threats </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sesame Workshop Regains Control of Elmo’s Hacked X Account After Racist Posts</title>
+		<link>https://www.securityweek.com/sesame-workshop-regains-control-of-elmos-hacked-x-account-after-racist-posts/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 06:09:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[X]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42946</guid>
+
+					<description><![CDATA[<p>The account was compromised over the weekend and Elmo’s 650,000 followers were given antisemitic threats and a reference to the Jeffrey Epstein investigation. </p>
+<p>The post <a href="https://www.securityweek.com/sesame-workshop-regains-control-of-elmos-hacked-x-account-after-racist-posts/">Sesame Workshop Regains Control of Elmo’s Hacked X Account After Racist Posts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Train Brakes Can Be Hacked Over Radio—And the Industry Knew for 20 Years</title>
+		<link>https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 15:05:35 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[railway]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[train]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42936</guid>
+
+					<description><![CDATA[<p>A vulnerability affecting systems named End-of-Train and Head-of-Train can be exploited by hackers to cause trains to brake. </p>
+<p>The post <a href="https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/">Train Brakes Can Be Hacked Over Radio—And the Industry Knew for 20 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CitrixBleed 2 Flaw Poses Unacceptable Risk: CISA</title>
+		<link>https://www.securityweek.com/citrixbleed-2-flaw-poses-unacceptable-risk-cisa/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 14:38:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[CitrixBleed 2]]></category>
+		<category><![CDATA[CitrixBleed2]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42934</guid>
+
+					<description><![CDATA[<p>CISA considers the recently disclosed CitrixBleed 2 vulnerability an unacceptable risk and has added it to the KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/citrixbleed-2-flaw-poses-unacceptable-risk-cisa/">CitrixBleed 2 Flaw Poses Unacceptable Risk: CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Gemini Tricked Into Showing Phishing Message Hidden in Email </title>
+		<link>https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 13:47:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI jailbreak]]></category>
+		<category><![CDATA[Google Gemini]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42930</guid>
+
+					<description><![CDATA[<p>Google Gemini for Workspace can be tricked into displaying a phishing message when asked to summarize an email.</p>
+<p>The post <a href="https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/">Google Gemini Tricked Into Showing Phishing Message Hidden in Email </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>New Interlock RAT Variant Distributed via FileFix Attacks</title>
 		<link>https://www.securityweek.com/new-interlock-rat-variant-distributed-via-filefix-attacks/</link>
 		
@@ -84,140 +223,6 @@
 
 					<description><![CDATA[<p>Louis Vuitton customers in the UK, South Korea, Turkey and possibly other countries are being notified of a data breach.</p>
 <p>The post <a href="https://www.securityweek.com/louis-vuitton-data-breach-hits-customers-in-several-countries/">Louis Vuitton Data Breach Hits Customers in Several Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Inject Malware Into Gravity Forms WordPress Plugin </title>
-		<link>https://www.securityweek.com/hackers-inject-malware-into-gravity-forms-wordpress-plugin/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 09:31:39 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WordPress plugin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42925</guid>
-
-					<description><![CDATA[<p>Two Gravity Forms WordPress plugin versions available on the official download page were injected with malware in a supply chain attack.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-inject-malware-into-gravity-forms-wordpress-plugin/">Hackers Inject Malware Into Gravity Forms WordPress Plugin </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>13 Romanians Arrested for Phishing the UK’s Tax Service</title>
-		<link>https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 02:13:38 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Romania]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42917</guid>
-
-					<description><![CDATA[<p>Investigators from HMRC joined more than 100 Romanian police officers to arrest the 13 Romanian suspects in the counties of Ilfov, Giurgiu and Calarasi. </p>
-<p>The post <a href="https://www.securityweek.com/thirteen-romanians-arrested-for-phishing-the-uks-tax-service/">13 Romanians Arrested for Phishing the UK’s Tax Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grok-4 Falls to a Jailbreak Two Days After Its Release</title>
-		<link>https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Sat, 12 Jul 2025 14:51:41 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42915</guid>
-
-					<description><![CDATA[<p>The latest release of the xAI LLM, Grok-4, has already fallen to a sophisticated jailbreak.</p>
-<p>The post <a href="https://www.securityweek.com/grok-4-falls-to-a-jailbreak-two-days-after-its-release/">Grok-4 Falls to a Jailbreak Two Days After Its Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs</title>
-		<link>https://www.securityweek.com/in-other-news-microsoft-finds-amd-cpu-flaws-zuru-macos-malware-donot-apt/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 12:24:57 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42912</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Microsoft shows attack against AMD processors, SentinelOne details latest ZuRu macOS malware version, Indian APT DoNot targets governments. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-microsoft-finds-amd-cpu-flaws-zuru-macos-malware-donot-apt/">In Other News: Microsoft Finds AMD CPU Flaws, ZuRu macOS Malware Evolves, DoNot APT Targets Govs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberstarts Launches $300M Liquidity Fund to Help Startups Retain Top Talent</title>
-		<link>https://www.securityweek.com/cyberstarts-launches-300m-liquidity-fund-to-help-startups-retain-top-talent/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 11:19:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Cyberstarts]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42909</guid>
-
-					<description><![CDATA[<p>With IPOs taking longer than ever, the venture firm’s fund aims to keep startup veterans motivated while staying private.</p>
-<p>The post <a href="https://www.securityweek.com/cyberstarts-launches-300m-liquidity-fund-to-help-startups-retain-top-talent/">Cyberstarts Launches $300M Liquidity Fund to Help Startups Retain Top Talent</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU Unveils AI Code of Practice to Help Businesses Comply With Bloc’s Rules</title>
-		<link>https://www.securityweek.com/eu-unveils-ai-code-of-practice-to-help-businesses-comply-with-blocs-rules/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42911</guid>
-
-					<description><![CDATA[<p>The EU code is voluntary and complements the EU’s AI Act, a comprehensive set of regulations that was approved last year and is taking effect in phases.</p>
-<p>The post <a href="https://www.securityweek.com/eu-unveils-ai-code-of-practice-to-help-businesses-comply-with-blocs-rules/">EU Unveils AI Code of Practice to Help Businesses Comply With Bloc’s Rules</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>McDonald&#8217;s Chatbot Recruitment Platform Exposed 64 Million Job Applications</title>
-		<link>https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 09:56:19 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[McDonald's]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42906</guid>
-
-					<description><![CDATA[<p>Two vulnerabilities in an internal API allowed unauthorized access to contacts and chats, exposing the information of 64 million McDonald’s applicants.</p>
-<p>The post <a href="https://www.securityweek.com/mcdonalds-chatbot-recruitment-platform-leaked-64-million-job-applications/">McDonald&#8217;s Chatbot Recruitment Platform Exposed 64 Million Job Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
