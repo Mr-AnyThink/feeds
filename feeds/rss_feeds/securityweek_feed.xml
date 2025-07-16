@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 15 Jul 2025 09:13:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Jul 2025 11:31:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,180 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google Says AI Agent Thwarted Exploitation of Critical Vulnerability </title>
+		<link>https://www.securityweek.com/google-says-ai-agent-thwarted-exploitation-of-critical-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 11:29:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Big Sleep]]></category>
+		<category><![CDATA[SQLite]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42961</guid>
+
+					<description><![CDATA[<p>Google refused to share any details on how its Big Sleep AI foiled efforts to exploit a SQLite vulnerability in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/google-says-ai-agent-thwarted-exploitation-of-critical-vulnerability/">Google Says AI Agent Thwarted Exploitation of Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China&#8217;s Salt Typhoon Hacked US National Guard</title>
+		<link>https://www.securityweek.com/chinas-salt-typhoon-hacked-us-national-guard/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 09:20:08 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[National Guard]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42958</guid>
+
+					<description><![CDATA[<p>Chinese hacking group Salt Typhoon targeted a National Guard unit’s network and tapped into communications with other units.</p>
+<p>The post <a href="https://www.securityweek.com/chinas-salt-typhoon-hacked-us-national-guard/">China&#8217;s Salt Typhoon Hacked US National Guard</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former US Soldier Who Hacked AT&#038;T and Verizon Pleads Guilty</title>
+		<link>https://www.securityweek.com/former-us-soldier-who-hacked-att-and-verizon-pleads-guilty/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 08:24:15 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Cameron John Wagenius]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42956</guid>
+
+					<description><![CDATA[<p>Cameron John Wagenius pleaded guilty to charges related to hacking into US telecommunications companies.</p>
+<p>The post <a href="https://www.securityweek.com/former-us-soldier-who-hacked-att-and-verizon-pleads-guilty/">Former US Soldier Who Hacked AT&#038;T and Verizon Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IoT Security Firm Exein Raises $81 Million </title>
+		<link>https://www.securityweek.com/iot-security-firm-exein-raises-81-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 07:48:40 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Exein]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[IoT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42955</guid>
+
+					<description><![CDATA[<p>Italian company Exein has raised €70 million (~$81 million) in a Series C funding round led by Balderton.</p>
+<p>The post <a href="https://www.securityweek.com/iot-security-firm-exein-raises-81-million/">IoT Security Firm Exein Raises $81 Million </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome Update Patches Fifth Zero-Day of 2025</title>
+		<link>https://www.securityweek.com/chrome-update-patches-fifth-zero-day-of-2025/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 06:57:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42954</guid>
+
+					<description><![CDATA[<p>Google has released a Chrome 138 security update that patches a zero-day, the fifth resolved in the browser this year.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-update-patches-fifth-zero-day-of-2025/">Chrome Update Patches Fifth Zero-Day of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Preview: Cloud &#038; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</title>
+		<link>https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 14:56:33 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42951</guid>
+
+					<description><![CDATA[<p>Virtual event brings together leading experts, practitioners, and innovators for a full day of insightful discussions and tactical guidance on evolving threats and real-world defense strategies in cloud security. </p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/">Virtual Event Preview: Cloud &amp; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threat Actors Use SVG Smuggling for Browser-Native Redirection</title>
+		<link>https://www.securityweek.com/threat-actors-use-svg-smuggling-for-browser-native-redirection/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 14:33:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[redirect]]></category>
+		<category><![CDATA[SVG]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42950</guid>
+
+					<description><![CDATA[<p>Obfuscated JavaScript code is embedded within SVG files for browser-native redirection to malicious pages.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actors-use-svg-smuggling-for-browser-native-redirection/">Threat Actors Use SVG Smuggling for Browser-Native Redirection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DDoS Attacks Blocked by Cloudflare in 2025 Already Surpass 2024 Total </title>
+		<link>https://www.securityweek.com/ddos-attacks-blocked-by-cloudflare-in-2025-already-surpass-2024-total/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42947</guid>
+
+					<description><![CDATA[<p>Cloudflare has published its quarterly DDoS threat report for Q2 2025 and the company says it has blocked millions of attacks.</p>
+<p>The post <a href="https://www.securityweek.com/ddos-attacks-blocked-by-cloudflare-in-2025-already-surpass-2024-total/">DDoS Attacks Blocked by Cloudflare in 2025 Already Surpass 2024 Total </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data Breach at Debt Settlement Firm Impacts 160,000 People</title>
+		<link>https://www.securityweek.com/data-breach-at-debt-settlement-firm-impacts-160000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2025 12:52:16 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Century Support Services]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42949</guid>
+
+					<description><![CDATA[<p>Pennsylvania-based Century Support Services is disclosing a data breach after its systems were hacked in November 2024. </p>
+<p>The post <a href="https://www.securityweek.com/data-breach-at-debt-settlement-firm-impacts-160000-people/">Data Breach at Debt Settlement Firm Impacts 160,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Zip Security Raises $13.5 Million in Series A Funding</title>
 		<link>https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/</link>
 		
@@ -41,188 +215,6 @@
 
 					<description><![CDATA[<p>Zip Security’s Series A funding round led by Ballistic Ventures will help the company grow its engineering and go-to-market teams.</p>
 <p>The post <a href="https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/">Zip Security Raises $13.5 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Attack on Belk</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-belk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 07:47:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Belk]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42943</guid>
-
-					<description><![CDATA[<p>DragonForce says it stole more than 150 gigabytes of data from US department store chain Belk in a May cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-belk/">Ransomware Group Claims Attack on Belk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE Unveils AADAPT Framework to Tackle Cryptocurrency Threats </title>
-		<link>https://www.securityweek.com/mitre-unveils-aadapt-framework-to-tackle-cryptocurrency-threats/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 07:10:18 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[AADAPT]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42942</guid>
-
-					<description><![CDATA[<p>The MITRE AADAPT framework provides documentation for identifying, investigating, and responding to weaknesses in digital asset payments.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-unveils-aadapt-framework-to-tackle-cryptocurrency-threats/">MITRE Unveils AADAPT Framework to Tackle Cryptocurrency Threats </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sesame Workshop Regains Control of Elmo’s Hacked X Account After Racist Posts</title>
-		<link>https://www.securityweek.com/sesame-workshop-regains-control-of-elmos-hacked-x-account-after-racist-posts/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:09:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Twitter]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42946</guid>
-
-					<description><![CDATA[<p>The account was compromised over the weekend and Elmo’s 650,000 followers were given antisemitic threats and a reference to the Jeffrey Epstein investigation. </p>
-<p>The post <a href="https://www.securityweek.com/sesame-workshop-regains-control-of-elmos-hacked-x-account-after-racist-posts/">Sesame Workshop Regains Control of Elmo’s Hacked X Account After Racist Posts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Train Brakes Can Be Hacked Over Radio—And the Industry Knew for 20 Years</title>
-		<link>https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 15:05:35 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[railway]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[train]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42936</guid>
-
-					<description><![CDATA[<p>A vulnerability affecting systems named End-of-Train and Head-of-Train can be exploited by hackers to cause trains to brake. </p>
-<p>The post <a href="https://www.securityweek.com/train-hack-gets-proper-attention-after-20-years-researcher/">Train Brakes Can Be Hacked Over Radio—And the Industry Knew for 20 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CitrixBleed 2 Flaw Poses Unacceptable Risk: CISA</title>
-		<link>https://www.securityweek.com/citrixbleed-2-flaw-poses-unacceptable-risk-cisa/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 14:38:36 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[CitrixBleed 2]]></category>
-		<category><![CDATA[CitrixBleed2]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42934</guid>
-
-					<description><![CDATA[<p>CISA considers the recently disclosed CitrixBleed 2 vulnerability an unacceptable risk and has added it to the KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/citrixbleed-2-flaw-poses-unacceptable-risk-cisa/">CitrixBleed 2 Flaw Poses Unacceptable Risk: CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Gemini Tricked Into Showing Phishing Message Hidden in Email </title>
-		<link>https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 13:47:18 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[Google Gemini]]></category>
-		<category><![CDATA[prompt injection]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42930</guid>
-
-					<description><![CDATA[<p>Google Gemini for Workspace can be tricked into displaying a phishing message when asked to summarize an email.</p>
-<p>The post <a href="https://www.securityweek.com/google-gemini-tricked-into-showing-phishing-message-hidden-in-email/">Google Gemini Tricked Into Showing Phishing Message Hidden in Email </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Interlock RAT Variant Distributed via FileFix Attacks</title>
-		<link>https://www.securityweek.com/new-interlock-rat-variant-distributed-via-filefix-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 12:10:10 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[FileFix]]></category>
-		<category><![CDATA[InterLock]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42929</guid>
-
-					<description><![CDATA[<p>The Interlock ransomware group has partnered with the KongTuke TDS to distribute a new RAT variant via FileFix attacks.</p>
-<p>The post <a href="https://www.securityweek.com/new-interlock-rat-variant-distributed-via-filefix-attacks/">New Interlock RAT Variant Distributed via FileFix Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flaws in Gigabyte Firmware Allow Security Bypass, Backdoor Deployment</title>
-		<link>https://www.securityweek.com/flaws-in-gigabyte-firmware-allow-security-bypass-backdoor-deployment/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 11:38:12 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[firmware]]></category>
-		<category><![CDATA[Gigabyte]]></category>
-		<category><![CDATA[secure boot]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42928</guid>
-
-					<description><![CDATA[<p>Vulnerabilities in Gigabyte firmware implementations could allow attackers to disable Secure Boot and execute code during the early boot phase.</p>
-<p>The post <a href="https://www.securityweek.com/flaws-in-gigabyte-firmware-allow-security-bypass-backdoor-deployment/">Flaws in Gigabyte Firmware Allow Security Bypass, Backdoor Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Louis Vuitton Data Breach Hits Customers in Several Countries</title>
-		<link>https://www.securityweek.com/louis-vuitton-data-breach-hits-customers-in-several-countries/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 14 Jul 2025 11:11:40 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Louis Vuitton]]></category>
-		<category><![CDATA[retailer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42926</guid>
-
-					<description><![CDATA[<p>Louis Vuitton customers in the UK, South Korea, Turkey and possibly other countries are being notified of a data breach.</p>
-<p>The post <a href="https://www.securityweek.com/louis-vuitton-data-breach-hits-customers-in-several-countries/">Louis Vuitton Data Breach Hits Customers in Several Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
