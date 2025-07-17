@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 16 Jul 2025 11:31:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Jul 2025 11:32:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,193 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google Says AI Agent Thwarted Exploitation of Critical Vulnerability </title>
-		<link>https://www.securityweek.com/google-says-ai-agent-thwarted-exploitation-of-critical-vulnerability/</link>
+		<title>Mobile Forensics Tool Used by Chinese Law Enforcement Dissected</title>
+		<link>https://www.securityweek.com/mobile-forensics-tool-used-by-chinese-law-enforcement-dissected/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 11:32:46 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[forensics]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Massistant]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42976</guid>
+
+					<description><![CDATA[<p>Deployed on mobile devices confiscated by Chinese law enforcement, Massistant can collect user information, files, and location.</p>
+<p>The post <a href="https://www.securityweek.com/mobile-forensics-tool-used-by-chinese-law-enforcement-dissected/">Mobile Forensics Tool Used by Chinese Law Enforcement Dissected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trial Opens Against Meta CEO Mark Zuckerberg and Other Leaders Over Facebook Privacy Violations</title>
+		<link>https://www.securityweek.com/trial-opens-against-meta-ceo-mark-zuckerberg-and-other-leaders-over-facebook-privacy-violations/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 10:39:30 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Cambridge Analytica]]></category>
+		<category><![CDATA[class action]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42974</guid>
+
+					<description><![CDATA[<p>An $8 billion class action investors’ lawsuit against Meta stemming from the 2018 privacy scandal involving the Cambridge Analytica political consulting firm.</p>
+<p>The post <a href="https://www.securityweek.com/trial-opens-against-meta-ceo-mark-zuckerberg-and-other-leaders-over-facebook-privacy-violations/">Trial Opens Against Meta CEO Mark Zuckerberg and Other Leaders Over Facebook Privacy Violations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Flaws That Earned Hackers $340,000 at Pwn2Own Patched</title>
+		<link>https://www.securityweek.com/vmware-flaws-that-earned-hackers-340000-at-pwn2own-patched/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 11:29:48 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Big Sleep]]></category>
-		<category><![CDATA[SQLite]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42961</guid>
-
-					<description><![CDATA[<p>Google refused to share any details on how its Big Sleep AI foiled efforts to exploit a SQLite vulnerability in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/google-says-ai-agent-thwarted-exploitation-of-critical-vulnerability/">Google Says AI Agent Thwarted Exploitation of Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China&#8217;s Salt Typhoon Hacked US National Guard</title>
-		<link>https://www.securityweek.com/chinas-salt-typhoon-hacked-us-national-guard/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 09:20:08 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[National Guard]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42958</guid>
-
-					<description><![CDATA[<p>Chinese hacking group Salt Typhoon targeted a National Guard unit’s network and tapped into communications with other units.</p>
-<p>The post <a href="https://www.securityweek.com/chinas-salt-typhoon-hacked-us-national-guard/">China&#8217;s Salt Typhoon Hacked US National Guard</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former US Soldier Who Hacked AT&#038;T and Verizon Pleads Guilty</title>
-		<link>https://www.securityweek.com/former-us-soldier-who-hacked-att-and-verizon-pleads-guilty/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 08:24:15 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cameron John Wagenius]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42956</guid>
-
-					<description><![CDATA[<p>Cameron John Wagenius pleaded guilty to charges related to hacking into US telecommunications companies.</p>
-<p>The post <a href="https://www.securityweek.com/former-us-soldier-who-hacked-att-and-verizon-pleads-guilty/">Former US Soldier Who Hacked AT&#038;T and Verizon Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IoT Security Firm Exein Raises $81 Million </title>
-		<link>https://www.securityweek.com/iot-security-firm-exein-raises-81-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 07:48:40 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Exein]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[IoT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42955</guid>
-
-					<description><![CDATA[<p>Italian company Exein has raised €70 million (~$81 million) in a Series C funding round led by Balderton.</p>
-<p>The post <a href="https://www.securityweek.com/iot-security-firm-exein-raises-81-million/">IoT Security Firm Exein Raises $81 Million </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome Update Patches Fifth Zero-Day of 2025</title>
-		<link>https://www.securityweek.com/chrome-update-patches-fifth-zero-day-of-2025/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 06:57:14 +0000</pubDate>
+		<pubDate>Thu, 17 Jul 2025 09:22:30 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42954</guid>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42973</guid>
 
-					<description><![CDATA[<p>Google has released a Chrome 138 security update that patches a zero-day, the fifth resolved in the browser this year.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-update-patches-fifth-zero-day-of-2025/">Chrome Update Patches Fifth Zero-Day of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Four CVEs disclosed at the Pwn2Own Berlin 2025 hacking competition have been patched in VMware products.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-flaws-that-earned-hackers-340000-at-pwn2own-patched/">VMware Flaws That Earned Hackers $340,000 at Pwn2Own Patched</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Virtual Event Preview: Cloud &#038; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</title>
+		<title>Cisco Patches Another Critical ISE Vulnerability</title>
+		<link>https://www.securityweek.com/cisco-patches-another-critical-ise-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 08:22:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42972</guid>
+
+					<description><![CDATA[<p>Cisco has released patches for multiple vulnerabilities, including a critical flaw in Cisco ISE that leads to remote code execution (RCE).</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-another-critical-ise-vulnerability/">Cisco Patches Another Critical ISE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Patches 200 Vulnerabilities With July 2025 CPU</title>
+		<link>https://www.securityweek.com/oracle-patches-200-vulnerabilities-with-july-2025-cpu/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 07:25:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42971</guid>
+
+					<description><![CDATA[<p>Oracle’s July 2025 Critical Patch Update contains 309 security patches that address approximately 200 unique CVEs.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-patches-200-vulnerabilities-with-july-2025-cpu/">Oracle Patches 200 Vulnerabilities With July 2025 CPU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cambodia Makes 1,000 Arrests in Latest Crackdown on Cybercrime</title>
+		<link>https://www.securityweek.com/cambodia-makes-1000-arrests-in-latest-crackdown-on-cybercrime/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 02:39:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cambodia]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42968</guid>
+
+					<description><![CDATA[<p>More than 1,000 suspects were arrested in raids in at least five provinces between Monday and Wednesday, according to Information Minister Neth Pheaktra and police.</p>
+<p>The post <a href="https://www.securityweek.com/cambodia-makes-1000-arrests-in-latest-crackdown-on-cybercrime/">Cambodia Makes 1,000 Arrests in Latest Crackdown on Cybercrime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Europol-Coordinated Global Operation Takes Down Pro-Russian Cybercrime Network</title>
+		<link>https://www.securityweek.com/europol-coordinated-global-operation-takes-down-pro-russian-cybercrime-network/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 17:36:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[NATO]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42967</guid>
+
+					<description><![CDATA[<p>Codenamed Eastwood, the operation targeted the so-called NoName057(16) group, which was identified as being behind a series of DDoS attacks on municipalities and organizations linked to a NATO summit.</p>
+<p>The post <a href="https://www.securityweek.com/europol-coordinated-global-operation-takes-down-pro-russian-cybercrime-network/">Europol-Coordinated Global Operation Takes Down Pro-Russian Cybercrime Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>United Natural Foods Projects Up to $400M Sales Hit From June Cyberattack</title>
+		<link>https://www.securityweek.com/united-natural-foods-projects-up-to-400m-sales-hit-from-june-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 15:21:34 +0000</pubDate>
+				<category><![CDATA[Cyber Insurance]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[UNFI]]></category>
+		<category><![CDATA[United Natural Foods]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42966</guid>
+
+					<description><![CDATA[<p>Cyberattack disrupted UNFI’s operations in June; company estimates $50–$60 million net income hit but anticipates insurance will cover most losses.</p>
+<p>The post <a href="https://www.securityweek.com/united-natural-foods-projects-up-to-400m-sales-hit-from-june-cyberattack/">United Natural Foods Projects Up to $400M Sales Hit From June Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall SMA Appliances Targeted With New &#8216;Overstep&#8217; Malware</title>
+		<link>https://www.securityweek.com/sonicwall-sma-appliances-targeted-with-new-overstep-malware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[UNC6148]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42960</guid>
+
+					<description><![CDATA[<p>A threat actor that may be financially motivated is targeting SonicWall devices with a backdoor and user-mode rootkit.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-sma-appliances-targeted-with-new-overstep-malware/">SonicWall SMA Appliances Targeted With New &#8216;Overstep&#8217; Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Cloud &#038; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</title>
 		<link>https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:56:33 +0000</pubDate>
+		<pubDate>Wed, 16 Jul 2025 13:02:18 +0000</pubDate>
 				<category><![CDATA[Cloud Security]]></category>
 		<category><![CDATA[Event]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42951</guid>
 
 					<description><![CDATA[<p>Virtual event brings together leading experts, practitioners, and innovators for a full day of insightful discussions and tactical guidance on evolving threats and real-world defense strategies in cloud security. </p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/">Virtual Event Preview: Cloud &amp; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threat Actors Use SVG Smuggling for Browser-Native Redirection</title>
-		<link>https://www.securityweek.com/threat-actors-use-svg-smuggling-for-browser-native-redirection/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 14:33:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[JavaScript]]></category>
-		<category><![CDATA[redirect]]></category>
-		<category><![CDATA[SVG]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42950</guid>
-
-					<description><![CDATA[<p>Obfuscated JavaScript code is embedded within SVG files for browser-native redirection to malicious pages.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actors-use-svg-smuggling-for-browser-native-redirection/">Threat Actors Use SVG Smuggling for Browser-Native Redirection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DDoS Attacks Blocked by Cloudflare in 2025 Already Surpass 2024 Total </title>
-		<link>https://www.securityweek.com/ddos-attacks-blocked-by-cloudflare-in-2025-already-surpass-2024-total/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42947</guid>
-
-					<description><![CDATA[<p>Cloudflare has published its quarterly DDoS threat report for Q2 2025 and the company says it has blocked millions of attacks.</p>
-<p>The post <a href="https://www.securityweek.com/ddos-attacks-blocked-by-cloudflare-in-2025-already-surpass-2024-total/">DDoS Attacks Blocked by Cloudflare in 2025 Already Surpass 2024 Total </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Breach at Debt Settlement Firm Impacts 160,000 People</title>
-		<link>https://www.securityweek.com/data-breach-at-debt-settlement-firm-impacts-160000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 12:52:16 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Century Support Services]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42949</guid>
-
-					<description><![CDATA[<p>Pennsylvania-based Century Support Services is disclosing a data breach after its systems were hacked in November 2024. </p>
-<p>The post <a href="https://www.securityweek.com/data-breach-at-debt-settlement-firm-impacts-160000-people/">Data Breach at Debt Settlement Firm Impacts 160,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zip Security Raises $13.5 Million in Series A Funding</title>
-		<link>https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 08:28:41 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[Zip Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42945</guid>
-
-					<description><![CDATA[<p>Zip Security’s Series A funding round led by Ballistic Ventures will help the company grow its engineering and go-to-market teams.</p>
-<p>The post <a href="https://www.securityweek.com/zip-security-raises-13-5-million-in-series-a-funding/">Zip Security Raises $13.5 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/">Virtual Event Today: Cloud &amp; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
