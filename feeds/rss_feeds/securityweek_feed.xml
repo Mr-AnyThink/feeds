@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 17 Jul 2025 11:32:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Jul 2025 11:23:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Mobile Forensics Tool Used by Chinese Law Enforcement Dissected</title>
-		<link>https://www.securityweek.com/mobile-forensics-tool-used-by-chinese-law-enforcement-dissected/</link>
+		<title>Fortinet FortiWeb Flaw Exploited in the Wild After PoC Publication</title>
+		<link>https://www.securityweek.com/fortinet-fortiweb-flaw-exploited-in-the-wild-after-poc-publication/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 11:32:46 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[forensics]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Massistant]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42976</guid>
+		<pubDate>Fri, 18 Jul 2025 11:23:25 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[FortiWeb]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42990</guid>
 
-					<description><![CDATA[<p>Deployed on mobile devices confiscated by Chinese law enforcement, Massistant can collect user information, files, and location.</p>
-<p>The post <a href="https://www.securityweek.com/mobile-forensics-tool-used-by-chinese-law-enforcement-dissected/">Mobile Forensics Tool Used by Chinese Law Enforcement Dissected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Dozens of FortiWeb instances have been hacked after PoC targeting a recent critical vulnerability was shared publicly.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-fortiweb-flaw-exploited-in-the-wild-after-poc-publication/">Fortinet FortiWeb Flaw Exploited in the Wild After PoC Publication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trial Opens Against Meta CEO Mark Zuckerberg and Other Leaders Over Facebook Privacy Violations</title>
-		<link>https://www.securityweek.com/trial-opens-against-meta-ceo-mark-zuckerberg-and-other-leaders-over-facebook-privacy-violations/</link>
+		<title>1.4 Million Affected by Data Breach at Virginia Radiology Practice</title>
+		<link>https://www.securityweek.com/1-4-million-affected-by-data-breach-at-virginia-radiology-practice/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 11:13:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42989</guid>
+
+					<description><![CDATA[<p>Radiology Associates of Richmond has disclosed a data breach impacting protected health and personal information. </p>
+<p>The post <a href="https://www.securityweek.com/1-4-million-affected-by-data-breach-at-virginia-radiology-practice/">1.4 Million Affected by Data Breach at Virginia Radiology Practice</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fraud: A Growth Industry Powered by Gen-AI</title>
+		<link>https://www.securityweek.com/fraud-a-growth-industry-powered-by-gen-ai/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[Gen-AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42987</guid>
+
+					<description><![CDATA[<p>With generative AI enabling fraud-as-a-service at scale, legacy defenses are crumbling. The next wave of cybercrime is faster, smarter, and terrifyingly synthetic.</p>
+<p>The post <a href="https://www.securityweek.com/fraud-a-growth-industry-powered-by-gen-ai/">Fraud: A Growth Industry Powered by Gen-AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CitrixBleed 2: 100 Organizations Hacked, Thousands of Instances Still Vulnerable</title>
+		<link>https://www.securityweek.com/citrixbleed-2-100-organizations-hacked-thousands-of-instances-still-vulnerable/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 10:16:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[CitrixBleed 2]]></category>
+		<category><![CDATA[CitrixBleed2]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42986</guid>
+
+					<description><![CDATA[<p>The CitrixBleed 2 vulnerability in NetScaler may expose organizations to compromise even if patches have been applied.</p>
+<p>The post <a href="https://www.securityweek.com/citrixbleed-2-100-organizations-hacked-thousands-of-instances-still-vulnerable/">CitrixBleed 2: 100 Organizations Hacked, Thousands of Instances Still Vulnerable</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet</title>
+		<link>https://www.securityweek.com/google-sues-operators-of-10-million-device-badbox-2-0-botnet/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 09:14:59 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[BadBox]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42984</guid>
+
+					<description><![CDATA[<p>Google has filed a lawsuit against the Badbox 2.0 botnet operators, after identifying over 10 million infected Android devices.</p>
+<p>The post <a href="https://www.securityweek.com/google-sues-operators-of-10-million-device-badbox-2-0-botnet/">Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking</title>
+		<link>https://www.securityweek.com/critical-nvidia-toolkit-flaw-exposes-ai-cloud-services-to-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 08:42:45 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[NVIDIAScape]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42983</guid>
+
+					<description><![CDATA[<p>Wiz researchers discovered NVIDIAScape, an Nvidia Container Toolkit flaw that can be exploited for full control of the host machine.</p>
+<p>The post <a href="https://www.securityweek.com/critical-nvidia-toolkit-flaw-exposes-ai-cloud-services-to-hacking/">Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anne Arundel Dermatology Data Breach Impacts 1.9 Million People</title>
+		<link>https://www.securityweek.com/anne-arundel-dermatology-data-breach-impacts-1-9-million-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2025 07:44:18 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Anne Arundel Dermatology]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42981</guid>
+
+					<description><![CDATA[<p>Anne Arundel Dermatology said hackers had access to its systems for three months and may have stolen personal and health information. </p>
+<p>The post <a href="https://www.securityweek.com/anne-arundel-dermatology-data-breach-impacts-1-9-million-people/">Anne Arundel Dermatology Data Breach Impacts 1.9 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Settlement Reached in Investors’ Lawsuit Against Meta CEO Mark Zuckerberg and Other Company Leaders</title>
+		<link>https://www.securityweek.com/settlement-reached-in-investors-lawsuit-against-meta-ceo-mark-zuckerberg-and-other-company-leaders/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 10:39:30 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
+		<pubDate>Fri, 18 Jul 2025 06:56:02 +0000</pubDate>
+				<category><![CDATA[Privacy & Compliance]]></category>
 		<category><![CDATA[Cambridge Analytica]]></category>
-		<category><![CDATA[class action]]></category>
 		<category><![CDATA[lawsuit]]></category>
 		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42974</guid>
+		<category><![CDATA[settlement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42980</guid>
 
-					<description><![CDATA[<p>An $8 billion class action investors’ lawsuit against Meta stemming from the 2018 privacy scandal involving the Cambridge Analytica political consulting firm.</p>
-<p>The post <a href="https://www.securityweek.com/trial-opens-against-meta-ceo-mark-zuckerberg-and-other-leaders-over-facebook-privacy-violations/">Trial Opens Against Meta CEO Mark Zuckerberg and Other Leaders Over Facebook Privacy Violations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A settlement has been reached in the class action brought by investors against Meta over the Cambridge Analytica incident, but details have not been shared. </p>
+<p>The post <a href="https://www.securityweek.com/settlement-reached-in-investors-lawsuit-against-meta-ceo-mark-zuckerberg-and-other-company-leaders/">Settlement Reached in Investors’ Lawsuit Against Meta CEO Mark Zuckerberg and Other Company Leaders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>VMware Flaws That Earned Hackers $340,000 at Pwn2Own Patched</title>
-		<link>https://www.securityweek.com/vmware-flaws-that-earned-hackers-340000-at-pwn2own-patched/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 09:22:30 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42973</guid>
-
-					<description><![CDATA[<p>Four CVEs disclosed at the Pwn2Own Berlin 2025 hacking competition have been patched in VMware products.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-flaws-that-earned-hackers-340000-at-pwn2own-patched/">VMware Flaws That Earned Hackers $340,000 at Pwn2Own Patched</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Another Critical ISE Vulnerability</title>
-		<link>https://www.securityweek.com/cisco-patches-another-critical-ise-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 08:22:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42972</guid>
-
-					<description><![CDATA[<p>Cisco has released patches for multiple vulnerabilities, including a critical flaw in Cisco ISE that leads to remote code execution (RCE).</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-another-critical-ise-vulnerability/">Cisco Patches Another Critical ISE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Patches 200 Vulnerabilities With July 2025 CPU</title>
-		<link>https://www.securityweek.com/oracle-patches-200-vulnerabilities-with-july-2025-cpu/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 07:25:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42971</guid>
-
-					<description><![CDATA[<p>Oracle’s July 2025 Critical Patch Update contains 309 security patches that address approximately 200 unique CVEs.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-patches-200-vulnerabilities-with-july-2025-cpu/">Oracle Patches 200 Vulnerabilities With July 2025 CPU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cambodia Makes 1,000 Arrests in Latest Crackdown on Cybercrime</title>
-		<link>https://www.securityweek.com/cambodia-makes-1000-arrests-in-latest-crackdown-on-cybercrime/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 17 Jul 2025 02:39:12 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cambodia]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42968</guid>
-
-					<description><![CDATA[<p>More than 1,000 suspects were arrested in raids in at least five provinces between Monday and Wednesday, according to Information Minister Neth Pheaktra and police.</p>
-<p>The post <a href="https://www.securityweek.com/cambodia-makes-1000-arrests-in-latest-crackdown-on-cybercrime/">Cambodia Makes 1,000 Arrests in Latest Crackdown on Cybercrime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Europol-Coordinated Global Operation Takes Down Pro-Russian Cybercrime Network</title>
-		<link>https://www.securityweek.com/europol-coordinated-global-operation-takes-down-pro-russian-cybercrime-network/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 17:36:12 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[NATO]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42967</guid>
-
-					<description><![CDATA[<p>Codenamed Eastwood, the operation targeted the so-called NoName057(16) group, which was identified as being behind a series of DDoS attacks on municipalities and organizations linked to a NATO summit.</p>
-<p>The post <a href="https://www.securityweek.com/europol-coordinated-global-operation-takes-down-pro-russian-cybercrime-network/">Europol-Coordinated Global Operation Takes Down Pro-Russian Cybercrime Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>United Natural Foods Projects Up to $400M Sales Hit From June Cyberattack</title>
-		<link>https://www.securityweek.com/united-natural-foods-projects-up-to-400m-sales-hit-from-june-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 15:21:34 +0000</pubDate>
-				<category><![CDATA[Cyber Insurance]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[UNFI]]></category>
-		<category><![CDATA[United Natural Foods]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42966</guid>
-
-					<description><![CDATA[<p>Cyberattack disrupted UNFI’s operations in June; company estimates $50–$60 million net income hit but anticipates insurance will cover most losses.</p>
-<p>The post <a href="https://www.securityweek.com/united-natural-foods-projects-up-to-400m-sales-hit-from-june-cyberattack/">United Natural Foods Projects Up to $400M Sales Hit From June Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall SMA Appliances Targeted With New &#8216;Overstep&#8217; Malware</title>
-		<link>https://www.securityweek.com/sonicwall-sma-appliances-targeted-with-new-overstep-malware/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[UNC6148]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42960</guid>
-
-					<description><![CDATA[<p>A threat actor that may be financially motivated is targeting SonicWall devices with a backdoor and user-mode rootkit.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-sma-appliances-targeted-with-new-overstep-malware/">SonicWall SMA Appliances Targeted With New &#8216;Overstep&#8217; Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Cloud &#038; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</title>
+		<title>Watch on Demand: Cloud &#038; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</title>
 		<link>https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 16 Jul 2025 13:02:18 +0000</pubDate>
+		<pubDate>Thu, 17 Jul 2025 17:21:42 +0000</pubDate>
 				<category><![CDATA[Cloud Security]]></category>
 		<category><![CDATA[Event]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=42951</guid>
 
 					<description><![CDATA[<p>Virtual event brings together leading experts, practitioners, and innovators for a full day of insightful discussions and tactical guidance on evolving threats and real-world defense strategies in cloud security. </p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/">Virtual Event Today: Cloud &amp; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-preview-cloud-data-security-summit-2025-tackling-exposed-attack-surfaces-in-the-cloud/">Watch on Demand: Cloud &amp; Data Security Summit – Tackling Exposed Attack Surfaces in the Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Empirical Security Raises $12 Million for AI-Driven Vulnerability Management</title>
+		<link>https://www.securityweek.com/empirical-security-raises-12-million-for-ai-driven-vulnerability-management/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 17 Jul 2025 13:03:40 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[Empirical Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42978</guid>
+
+					<description><![CDATA[<p>Cybersecurity startup Empirical Security has raised $12 million in seed funding for its vulnerability management platform. </p>
+<p>The post <a href="https://www.securityweek.com/empirical-security-raises-12-million-for-ai-driven-vulnerability-management/">Empirical Security Raises $12 Million for AI-Driven Vulnerability Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
