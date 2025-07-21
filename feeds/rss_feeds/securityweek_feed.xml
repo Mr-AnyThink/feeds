@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 19 Jul 2025 05:24:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 11:36:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<generator>https://wordpress.org/?v=6.8.2</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,133 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Marketing, Law Firms Say Data Breaches Impact Over 200,000 People</title>
+		<link>https://www.securityweek.com/marketing-law-firms-say-data-breaches-impact-over-200000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 11:36:45 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cierant]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Zumpano Patricios]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43015</guid>
+
+					<description><![CDATA[<p>Cierant Corporation and Zumpano Patricios independently disclosed data breaches, each impacting more than 200,000 individuals.</p>
+<p>The post <a href="https://www.securityweek.com/marketing-law-firms-say-data-breaches-impact-over-200000-people/">Marketing, Law Firms Say Data Breaches Impact Over 200,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Surveillance Firm Bypasses SS7 Protections to Retrieve User Location</title>
+		<link>https://www.securityweek.com/surveillance-firm-bypasses-ss7-protections-to-retrieve-user-location/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 09:51:59 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[location]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[SS7]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[tracking]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43009</guid>
+
+					<description><![CDATA[<p>A surveillance company was caught using an SS7 bypass technique to trick wireless carriers into divulging users’ locations.</p>
+<p>The post <a href="https://www.securityweek.com/surveillance-firm-bypasses-ss7-protections-to-retrieve-user-location/">Surveillance Firm Bypasses SS7 Protections to Retrieve User Location</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>750,000 Impacted by Data Breach at The Alcohol &#038; Drug Testing Service</title>
+		<link>https://www.securityweek.com/750000-impacted-by-data-breach-at-the-alcohol-drug-testing-service/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 09:00:41 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[TADTS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43007</guid>
+
+					<description><![CDATA[<p>The Alcohol &#038; Drug Testing Service (TADTS) says personal information was stolen in a July 2024 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/750000-impacted-by-data-breach-at-the-alcohol-drug-testing-service/">750,000 Impacted by Data Breach at The Alcohol &#038; Drug Testing Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches &#8216;ToolShell&#8217; Zero-Days Exploited to Hack SharePoint Servers</title>
+		<link>https://www.securityweek.com/microsoft-patches-toolshell-zero-days-exploited-to-hack-sharepoint-servers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 08:38:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-53770]]></category>
+		<category><![CDATA[CVE-2025-53771]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[ToolShell]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43005</guid>
+
+					<description><![CDATA[<p>Microsoft has started releasing updates to fix the exploited SharePoint zero-days tracked as CVE-2025-53770 and CVE-2025-53771.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-toolshell-zero-days-exploited-to-hack-sharepoint-servers/">Microsoft Patches &#8216;ToolShell&#8217; Zero-Days Exploited to Hack SharePoint Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploited CrushFTP Zero-Day Provides Admin Access to Servers</title>
+		<link>https://www.securityweek.com/exploited-crushftp-zero-day-provides-admin-access-to-servers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 07:34:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CrushFTP]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43004</guid>
+
+					<description><![CDATA[<p>Hackers are exploiting a zero-day vulnerability in CrushFTP to gain administrative privileges on vulnerable servers via HTTPS.</p>
+<p>The post <a href="https://www.securityweek.com/exploited-crushftp-zero-day-provides-admin-access-to-servers/">Exploited CrushFTP Zero-Day Provides Admin Access to Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SharePoint Under Attack: Microsoft Warns of Zero-Day Exploited in the Wild – No Patch Available</title>
+		<link>https://www.securityweek.com/sharepoint-under-attack-microsoft-warns-of-zero-day-exploited-in-the-wild-no-patch-available/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Sun, 20 Jul 2025 14:08:25 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-53770]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=42999</guid>
+
+					<description><![CDATA[<p>Enterprises running SharePoint servers should not wait for a fix for CVE-2025-53770 and should commence threat hunting to search for compromise immediately.</p>
+<p>The post <a href="https://www.securityweek.com/sharepoint-under-attack-microsoft-warns-of-zero-day-exploited-in-the-wild-no-patch-available/">SharePoint Under Attack: Microsoft Warns of Zero-Day Exploited in the Wild – No Patch Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Law Firm Hacked by China, Symantec Flaw, Meta AI Hack, FIDO Key Bypass</title>
 		<link>https://www.securityweek.com/in-other-news-law-firm-hacked-by-china-symantec-flaw-meta-ai-hack-fido-key-bypass/</link>
 		
@@ -95,129 +222,6 @@
 
 					<description><![CDATA[<p>Radiology Associates of Richmond has disclosed a data breach impacting protected health and personal information. </p>
 <p>The post <a href="https://www.securityweek.com/1-4-million-affected-by-data-breach-at-virginia-radiology-practice/">1.4 Million Affected by Data Breach at Virginia Radiology Practice</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fraud: A Growth Industry Powered by Gen-AI</title>
-		<link>https://www.securityweek.com/fraud-a-growth-industry-powered-by-gen-ai/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[Gen-AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42987</guid>
-
-					<description><![CDATA[<p>With generative AI enabling fraud-as-a-service at scale, legacy defenses are crumbling. The next wave of cybercrime is faster, smarter, and terrifyingly synthetic.</p>
-<p>The post <a href="https://www.securityweek.com/fraud-a-growth-industry-powered-by-gen-ai/">Fraud: A Growth Industry Powered by Gen-AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CitrixBleed 2: 100 Organizations Hacked, Thousands of Instances Still Vulnerable</title>
-		<link>https://www.securityweek.com/citrixbleed-2-100-organizations-hacked-thousands-of-instances-still-vulnerable/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 10:16:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[CitrixBleed 2]]></category>
-		<category><![CDATA[CitrixBleed2]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42986</guid>
-
-					<description><![CDATA[<p>The CitrixBleed 2 vulnerability in NetScaler may expose organizations to compromise even if patches have been applied.</p>
-<p>The post <a href="https://www.securityweek.com/citrixbleed-2-100-organizations-hacked-thousands-of-instances-still-vulnerable/">CitrixBleed 2: 100 Organizations Hacked, Thousands of Instances Still Vulnerable</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet</title>
-		<link>https://www.securityweek.com/google-sues-operators-of-10-million-device-badbox-2-0-botnet/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 09:14:59 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[BadBox]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42984</guid>
-
-					<description><![CDATA[<p>Google has filed a lawsuit against the Badbox 2.0 botnet operators, after identifying over 10 million infected Android devices.</p>
-<p>The post <a href="https://www.securityweek.com/google-sues-operators-of-10-million-device-badbox-2-0-botnet/">Google Sues Operators of 10-Million-Device Badbox 2.0 Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking</title>
-		<link>https://www.securityweek.com/critical-nvidia-toolkit-flaw-exposes-ai-cloud-services-to-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 08:42:45 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[NVIDIAScape]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42983</guid>
-
-					<description><![CDATA[<p>Wiz researchers discovered NVIDIAScape, an Nvidia Container Toolkit flaw that can be exploited for full control of the host machine.</p>
-<p>The post <a href="https://www.securityweek.com/critical-nvidia-toolkit-flaw-exposes-ai-cloud-services-to-hacking/">Critical Nvidia Toolkit Flaw Exposes AI Cloud Services to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anne Arundel Dermatology Data Breach Impacts 1.9 Million People</title>
-		<link>https://www.securityweek.com/anne-arundel-dermatology-data-breach-impacts-1-9-million-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 07:44:18 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Anne Arundel Dermatology]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42981</guid>
-
-					<description><![CDATA[<p>Anne Arundel Dermatology said hackers had access to its systems for three months and may have stolen personal and health information. </p>
-<p>The post <a href="https://www.securityweek.com/anne-arundel-dermatology-data-breach-impacts-1-9-million-people/">Anne Arundel Dermatology Data Breach Impacts 1.9 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Settlement Reached in Investors’ Lawsuit Against Meta CEO Mark Zuckerberg and Other Company Leaders</title>
-		<link>https://www.securityweek.com/settlement-reached-in-investors-lawsuit-against-meta-ceo-mark-zuckerberg-and-other-company-leaders/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 06:56:02 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[Cambridge Analytica]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[settlement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=42980</guid>
-
-					<description><![CDATA[<p>A settlement has been reached in the class action brought by investors against Meta over the Cambridge Analytica incident, but details have not been shared. </p>
-<p>The post <a href="https://www.securityweek.com/settlement-reached-in-investors-lawsuit-against-meta-ceo-mark-zuckerberg-and-other-company-leaders/">Settlement Reached in Investors’ Lawsuit Against Meta CEO Mark Zuckerberg and Other Company Leaders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
