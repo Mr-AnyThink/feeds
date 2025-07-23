@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 22 Jul 2025 12:20:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Jul 2025 12:05:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,211 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Darktrace Acquires Mira Security</title>
-		<link>https://www.securityweek.com/darktrace-acquires-mira-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 12:15:26 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Darktrace]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Mira Security]]></category>
-		<category><![CDATA[network security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43025</guid>
-
-					<description><![CDATA[<p>AI-powered cybersecurity company Darktrace has acquired network traffic visibility provider Mira Security.</p>
-<p>The post <a href="https://www.securityweek.com/darktrace-acquires-mira-security/">Darktrace Acquires Mira Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dior Says Personal Information Stolen in Cyberattack</title>
-		<link>https://www.securityweek.com/dior-says-personal-information-stolen-in-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 11:43:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Dior]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43023</guid>
-
-					<description><![CDATA[<p>Dior says hackers accessed personal information in a January 2025 intrusion. No payment information was compromised.</p>
-<p>The post <a href="https://www.securityweek.com/dior-says-personal-information-stolen-in-cyberattack/">Dior Says Personal Information Stolen in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Sanctions Russian Hackers Tied to Assassination Attempts</title>
-		<link>https://www.securityweek.com/uk-sanctions-russian-hackers-tied-to-assassination-attempts/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 10:24:40 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43022</guid>
-
-					<description><![CDATA[<p>The UK government has sanctioned three Russian APTs and 18 individuals for their involvement in cyber operations against Ukraine, NATO allies, and EU.</p>
-<p>The post <a href="https://www.securityweek.com/uk-sanctions-russian-hackers-tied-to-assassination-attempts/">UK Sanctions Russian Hackers Tied to Assassination Attempts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ToolShell Zero-Day Attacks on SharePoint: First Wave Linked to China, Hit High-Value Targets</title>
-		<link>https://www.securityweek.com/toolshell-zero-day-attacks-on-sharepoint-first-wave-linked-to-china-hit-high-value-targets/</link>
+		<title>Coyote Banking Trojan First to Abuse Microsoft UIA</title>
+		<link>https://www.securityweek.com/coyote-banking-trojan-first-to-abuse-microsoft-uia/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 08:42:53 +0000</pubDate>
+		<pubDate>Wed, 23 Jul 2025 12:05:44 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[Coyote]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Microsoft UIA]]></category>
+		<category><![CDATA[stealer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43047</guid>
+
+					<description><![CDATA[<p>Akamai’s analysis of the Coyote malware revealed that it abuses Microsoft’s UIA accessibility framework to obtain data.</p>
+<p>The post <a href="https://www.securityweek.com/coyote-banking-trojan-first-to-abuse-microsoft-uia/">Coyote Banking Trojan First to Abuse Microsoft UIA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Interlock Ransomware Attacks</title>
+		<link>https://www.securityweek.com/organizations-warned-of-interlock-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 11:10:43 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[CISA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43046</guid>
+
+					<description><![CDATA[<p>The US government has issued an alert on the Interlock ransomware, which targets organizations via drive-by download attacks.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-interlock-ransomware-attacks/">Organizations Warned of Interlock Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerabilities Patched in Sophos Firewall</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-patched-in-sophos-firewall/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 10:22:21 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[ToolShell]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43019</guid>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43043</guid>
 
-					<description><![CDATA[<p>More details emerged on the ToolShell zero-day attacks targeting SharePoint servers, but confusion remains over the vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/toolshell-zero-day-attacks-on-sharepoint-first-wave-linked-to-china-hit-high-value-targets/">ToolShell Zero-Day Attacks on SharePoint: First Wave Linked to China, Hit High-Value Targets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sophos has patched five vulnerabilities in Sophos Firewall that could allow remote attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-sophos-firewall/">Critical Vulnerabilities Patched in Sophos Firewall</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iranian APT Targets Android Users With New Variants of DCHSpy Spyware</title>
-		<link>https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/</link>
+		<title>High-Severity Flaws Patched in Chrome, Firefox</title>
+		<link>https://www.securityweek.com/high-severity-flaws-patched-in-chrome-firefox/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 13:09:47 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[DCHSpy]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[mobile malware]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43018</guid>
-
-					<description><![CDATA[<p>Iranian APT MuddyWater has been using new versions of the DCHSpy Android surveillance tool since the beginning of the conflict with Israel.</p>
-<p>The post <a href="https://www.securityweek.com/new-variants-of-dchspy-spyware-used-by-iranian-apt-to-target-android-users/">Iranian APT Targets Android Users With New Variants of DCHSpy Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Marketing, Law Firms Say Data Breaches Impact Over 200,000 People</title>
-		<link>https://www.securityweek.com/marketing-law-firms-say-data-breaches-impact-over-200000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 11:36:45 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cierant]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Zumpano Patricios]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43015</guid>
-
-					<description><![CDATA[<p>Cierant Corporation and Zumpano Patricios independently disclosed data breaches, each impacting more than 200,000 individuals.</p>
-<p>The post <a href="https://www.securityweek.com/marketing-law-firms-say-data-breaches-impact-over-200000-people/">Marketing, Law Firms Say Data Breaches Impact Over 200,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Surveillance Firm Bypasses SS7 Protections to Retrieve User Location</title>
-		<link>https://www.securityweek.com/surveillance-firm-bypasses-ss7-protections-to-retrieve-user-location/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 09:51:59 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[location]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[SS7]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<category><![CDATA[tracking]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43009</guid>
-
-					<description><![CDATA[<p>A surveillance company was caught using an SS7 bypass technique to trick wireless carriers into divulging users’ locations.</p>
-<p>The post <a href="https://www.securityweek.com/surveillance-firm-bypasses-ss7-protections-to-retrieve-user-location/">Surveillance Firm Bypasses SS7 Protections to Retrieve User Location</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>750,000 Impacted by Data Breach at The Alcohol &#038; Drug Testing Service</title>
-		<link>https://www.securityweek.com/750000-impacted-by-data-breach-at-the-alcohol-drug-testing-service/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 09:00:41 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[TADTS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43007</guid>
-
-					<description><![CDATA[<p>The Alcohol &#038; Drug Testing Service (TADTS) says personal information was stolen in a July 2024 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/750000-impacted-by-data-breach-at-the-alcohol-drug-testing-service/">750,000 Impacted by Data Breach at The Alcohol &#038; Drug Testing Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches &#8216;ToolShell&#8217; Zero-Days Exploited to Hack SharePoint Servers</title>
-		<link>https://www.securityweek.com/microsoft-patches-toolshell-zero-days-exploited-to-hack-sharepoint-servers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 08:38:06 +0000</pubDate>
+		<pubDate>Wed, 23 Jul 2025 09:58:36 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-53770]]></category>
-		<category><![CDATA[CVE-2025-53771]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43042</guid>
+
+					<description><![CDATA[<p>Fresh security updates for Chrome and Firefox resolve multiple high-severity memory safety vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/high-severity-flaws-patched-in-chrome-firefox/">High-Severity Flaws Patched in Chrome, Firefox</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lumma Stealer Malware Returns After Takedown Attempt</title>
+		<link>https://www.securityweek.com/lumma-stealer-malware-returns-after-takedown-attempt/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 09:43:37 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Lumma Stealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Resurge]]></category>
+		<category><![CDATA[return]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43041</guid>
+
+					<description><![CDATA[<p>The Lumma Stealer is back after Microsoft and law enforcement took action to significantly disrupt the malware’s infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/lumma-stealer-malware-returns-after-takedown-attempt/">Lumma Stealer Malware Returns After Takedown Attempt</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Start Exploiting Critical Cisco ISE Vulnerabilities</title>
+		<link>https://www.securityweek.com/hackers-start-exploiting-critical-cisco-ise-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 09:01:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Cisco ISE]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43040</guid>
+
+					<description><![CDATA[<p>Cisco says it is aware of attempted exploitation of critical ISE vulnerabilities leading to unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-start-exploiting-critical-cisco-ise-vulnerabilities/">Hackers Start Exploiting Critical Cisco ISE Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of SysAid Vulnerability Exploitation</title>
+		<link>https://www.securityweek.com/cisa-warns-of-sysaid-vulnerability-exploitation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2025 07:47:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SysAid]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43039</guid>
+
+					<description><![CDATA[<p>CISA has added two recent SysAid vulnerabilities, CVE-2025-2776 and CVE-2025-2775, to its KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-sysaid-vulnerability-exploitation/">CISA Warns of SysAid Vulnerability Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Says Chinese APTs Exploited ToolShell Zero-Days Weeks Before Patch</title>
+		<link>https://www.securityweek.com/microsoft-says-chinese-apts-exploited-toolshell-zero-days-weeks-before-patch/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2025 17:41:41 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China APT]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[SharePoint]]></category>
 		<category><![CDATA[ToolShell]]></category>
 		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43005</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43036</guid>
 
-					<description><![CDATA[<p>Microsoft has started releasing updates to fix the exploited SharePoint zero-days tracked as CVE-2025-53770 and CVE-2025-53771.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-toolshell-zero-days-exploited-to-hack-sharepoint-servers/">Microsoft Patches &#8216;ToolShell&#8217; Zero-Days Exploited to Hack SharePoint Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft says the Chinese threat actors Linen Typhoon, Violet Typhoon, and Storm-2603 have been exploiting the ToolShell zero-days.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-says-chinese-apts-exploited-toolshell-zero-days-weeks-before-patch/">Microsoft Says Chinese APTs Exploited ToolShell Zero-Days Weeks Before Patch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Exploited CrushFTP Zero-Day Provides Admin Access to Servers</title>
-		<link>https://www.securityweek.com/exploited-crushftp-zero-day-provides-admin-access-to-servers/</link>
+		<title>Reclaiming Control: How Enterprises Can Fix Broken Security Operations</title>
+		<link>https://www.securityweek.com/reclaiming-control-how-enterprises-can-fix-broken-security-operations/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Tue, 22 Jul 2025 16:00:00 +0000</pubDate>
+				<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[Security Operations]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43034</guid>
+
+					<description><![CDATA[<p>Once a manageable function, security operations has become a battlefield of complexity.</p>
+<p>The post <a href="https://www.securityweek.com/reclaiming-control-how-enterprises-can-fix-broken-security-operations/">Reclaiming Control: How Enterprises Can Fix Broken Security Operations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dell Says Data Leaked by Hackers Is Fake</title>
+		<link>https://www.securityweek.com/hackers-leak-fake-dell-data/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 07:34:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CrushFTP]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Tue, 22 Jul 2025 14:43:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[fake hack]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43004</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43029</guid>
 
-					<description><![CDATA[<p>Hackers are exploiting a zero-day vulnerability in CrushFTP to gain administrative privileges on vulnerable servers via HTTPS.</p>
-<p>The post <a href="https://www.securityweek.com/exploited-crushftp-zero-day-provides-admin-access-to-servers/">Exploited CrushFTP Zero-Day Provides Admin Access to Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Dell confirms the compromise of a demo environment containing synthetic data after hackers leak allegedly stolen information.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-leak-fake-dell-data/">Dell Says Data Leaked by Hackers Is Fake</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
