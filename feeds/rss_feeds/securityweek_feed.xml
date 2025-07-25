@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 24 Jul 2025 11:50:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jul 2025 12:01:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,187 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mitel Patches Critical Flaw in Enterprise Communication Platform</title>
+		<link>https://www.securityweek.com/mitel-patches-critical-flaw-in-enterprise-communication-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 12:00:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Mitel]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43077</guid>
+
+					<description><![CDATA[<p>An authentication bypass vulnerability in Mitel MiVoice MX-ONE could allow attackers to access user or admin accounts on the system.</p>
+<p>The post <a href="https://www.securityweek.com/mitel-patches-critical-flaw-in-enterprise-communication-platform/">Mitel Patches Critical Flaw in Enterprise Communication Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sophisticated Koske Linux Malware Developed With AI Aid</title>
+		<link>https://www.securityweek.com/sophisticated-koske-linux-malware-developed-with-ai-aid/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 11:43:21 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Koske]]></category>
+		<category><![CDATA[Linux malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43076</guid>
+
+					<description><![CDATA[<p>The Koske Linux malware shows how cybercriminals can use AI for payload development, persistence, and adaptivity.</p>
+<p>The post <a href="https://www.securityweek.com/sophisticated-koske-linux-malware-developed-with-ai-aid/">Sophisticated Koske Linux Malware Developed With AI Aid</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Student Sentenced to Prison for Selling Phishing Kits</title>
+		<link>https://www.securityweek.com/uk-student-sentenced-to-prison-for-selling-phishing-kits/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 09:52:24 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ollie Holman]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43074</guid>
+
+					<description><![CDATA[<p>Ollie Holman was sentenced to prison for selling over 1,000 phishing kits that caused estimated losses of over $134 million.</p>
+<p>The post <a href="https://www.securityweek.com/uk-student-sentenced-to-prison-for-selling-phishing-kits/">UK Student Sentenced to Prison for Selling Phishing Kits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Spies Target Networking and Virtualization Flaws to Breach Isolated Environments</title>
+		<link>https://www.securityweek.com/chinese-spies-target-networking-and-virtualization-flaws-to-breach-isolated-environments/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 09:22:17 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[F5]]></category>
+		<category><![CDATA[Fire Ant]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43073</guid>
+
+					<description><![CDATA[<p>Chinese cyberespionage group Fire Ant is targeting virtualization and networking infrastructure to access isolated environments.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-spies-target-networking-and-virtualization-flaws-to-breach-isolated-environments/">Chinese Spies Target Networking and Virtualization Flaws to Breach Isolated Environments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking</title>
+		<link>https://www.securityweek.com/no-patch-for-flaw-exposing-hundreds-of-lg-cameras-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 09:03:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[LG]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43072</guid>
+
+					<description><![CDATA[<p>LG Innotek LNV5110R security cameras are affected by a vulnerability that can be exploited for unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/no-patch-for-flaw-exposing-hundreds-of-lg-cameras-to-remote-hacking/">No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Targets North Korea&#8217;s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam</title>
+		<link>https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 08:05:07 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[reward]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43071</guid>
+
+					<description><![CDATA[<p>Christina Chapman was sentenced to prison for helping North Korean IT workers infiltrate US companies and running a laptop farm for them.</p>
+<p>The post <a href="https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/">US Targets North Korea&#8217;s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HeroDevs Raises $125 Million to Secure Deprecated OSS</title>
+		<link>https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 13:38:09 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[HeroDevs]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43066</guid>
+
+					<description><![CDATA[<p>HeroDevs has received a $125 million strategic growth investment from PSG to secure enterprise security stacks.</p>
+<p>The post <a href="https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/">HeroDevs Raises $125 Million to Secure Deprecated OSS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York Seeking Public Opinion on Water Systems Cyber Regulations</title>
+		<link>https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 12:54:08 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43065</guid>
+
+					<description><![CDATA[<p>The proposed cyber regulations include the implementation of incident reporting, response plans, and cybersecurity controls, training, and certification of compliance.</p>
+<p>The post <a href="https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/">New York Seeking Public Opinion on Water Systems Cyber Regulations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</title>
+		<link>https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2025 12:34:47 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[GRC]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[Vanta]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43063</guid>
+
+					<description><![CDATA[<p>Risk management and compliance solutions provider Vanta has raised more than $500 million since 2021.</p>
+<p>The post <a href="https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/">GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Clorox Sues Cognizant for $380 Million Over 2023 Hack</title>
 		<link>https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/</link>
 		
@@ -41,188 +222,6 @@
 
 					<description><![CDATA[<p>Clorox is blaming Congnizat for the 2023 cyberattack, claiming that the IT provided handed over passwords to the hackers.</p>
 <p>The post <a href="https://www.securityweek.com/clorox-sues-cognizant-for-380-million-over-2023-hack/">Clorox Sues Cognizant for $380 Million Over 2023 Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Value NPM Developers Compromised in New Phishing Campaign</title>
-		<link>https://www.securityweek.com/high-value-npm-developers-compromised-in-new-phishing-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 11:12:53 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43061</guid>
-
-					<description><![CDATA[<p>Hackers have injected malware into popular NPM packages after compromising several developer accounts in a fresh phishing campaign.</p>
-<p>The post <a href="https://www.securityweek.com/high-value-npm-developers-compromised-in-new-phishing-campaign/">High-Value NPM Developers Compromised in New Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack</title>
-		<link>https://www.securityweek.com/sonicwall-patches-critical-sma-100-vulnerability-warns-of-recent-malware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 10:18:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43060</guid>
-
-					<description><![CDATA[<p>SonicWall advises organizations to patch SMA 100 appliances and look for IoCs associated with Overstep malware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-critical-sma-100-vulnerability-warns-of-recent-malware-attack/">SonicWall Patches Critical SMA 100 Vulnerability, Warns of Recent Malware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>From Tech Podcasts to Policy: Trump&#8217;s New AI Plan Leans Heavily on Silicon Valley Industry Ideas</title>
-		<link>https://www.securityweek.com/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 09:23:50 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Action Plan]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43059</guid>
-
-					<description><![CDATA[<p>President Donald Trump has unveiled a sweeping new plan for America’s “global dominance” in artificial intelligence.</p>
-<p>The post <a href="https://www.securityweek.com/from-tech-podcasts-to-policy-trumps-new-ai-plan-leans-heavily-on-silicon-valley-industry-ideas/">From Tech Podcasts to Policy: Trump&#8217;s New AI Plan Leans Heavily on Silicon Valley Industry Ideas</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named</title>
-		<link>https://www.securityweek.com/toolshell-attacks-hit-400-sharepoint-servers-us-government-victims-named/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 08:58:20 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[ToolShell]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43058</guid>
-
-					<description><![CDATA[<p>More information has emerged on the ToolShell SharePoint zero-day attacks, including impact, victims, and threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/toolshell-attacks-hit-400-sharepoint-servers-us-government-victims-named/">ToolShell Attacks Hit 400+ SharePoint Servers, US Government Victims Named</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI’s Sam Altman Warns of AI Voice Fraud Crisis in Banking</title>
-		<link>https://www.securityweek.com/openais-sam-altman-warns-of-ai-voice-fraud-crisis-in-banking/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 23 Jul 2025 13:22:06 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43053</guid>
-
-					<description><![CDATA[<p>AI voice clones can impersonate people in a way that Altman said is increasingly “indistinguishable from reality” and will require new methods for verification.</p>
-<p>The post <a href="https://www.securityweek.com/openais-sam-altman-warns-of-ai-voice-fraud-crisis-in-banking/">OpenAI’s Sam Altman Warns of AI Voice Fraud Crisis in Banking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Should We Trust AI? Three Approaches to AI Fallibility</title>
-		<link>https://www.securityweek.com/should-we-trust-ai-three-approaches-to-ai-fallibility/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 23 Jul 2025 12:53:04 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gen-AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43044</guid>
-
-					<description><![CDATA[<p>Experts unpack the risks of trusting agentic AI, arguing that fallibility, hype, and a lack of transparency demand caution—before automation outpaces our understanding.</p>
-<p>The post <a href="https://www.securityweek.com/should-we-trust-ai-three-approaches-to-ai-fallibility/">Should We Trust AI? Three Approaches to AI Fallibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>France Says Administrator of Cybercrime Forum XSS Arrested in Ukraine</title>
-		<link>https://www.securityweek.com/france-says-administrator-of-cybercrime-forum-xss-arrested-in-ukraine/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Jul 2025 12:45:57 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[forum]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[hacker forum]]></category>
-		<category><![CDATA[XSS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43051</guid>
-
-					<description><![CDATA[<p>French authorities announced that an alleged admin of XSS.is, one of the longest-running cybercrime forums, has been arrested in Ukraine.</p>
-<p>The post <a href="https://www.securityweek.com/france-says-administrator-of-cybercrime-forum-xss-arrested-in-ukraine/">France Says Administrator of Cybercrime Forum XSS Arrested in Ukraine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK’s Ransomware Payment Ban: Bold Strategy or Dangerous Gamble?</title>
-		<link>https://www.securityweek.com/uks-ransomware-payment-ban-bold-strategy-or-dangerous-gamble/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 23 Jul 2025 12:25:16 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[payment]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43049</guid>
-
-					<description><![CDATA[<p>Critics warn that a ban on ransomware payments may lead to dangerous unintended consequences, including forcing victims into secrecy or incentivizing attackers to shift tactics. </p>
-<p>The post <a href="https://www.securityweek.com/uks-ransomware-payment-ban-bold-strategy-or-dangerous-gamble/">UK’s Ransomware Payment Ban: Bold Strategy or Dangerous Gamble?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coyote Banking Trojan First to Abuse Microsoft UIA</title>
-		<link>https://www.securityweek.com/coyote-banking-trojan-first-to-abuse-microsoft-uia/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Jul 2025 12:05:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[Coyote]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Microsoft UIA]]></category>
-		<category><![CDATA[stealer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43047</guid>
-
-					<description><![CDATA[<p>Akamai’s analysis of the Coyote malware revealed that it abuses Microsoft’s UIA accessibility framework to obtain data.</p>
-<p>The post <a href="https://www.securityweek.com/coyote-banking-trojan-first-to-abuse-microsoft-uia/">Coyote Banking Trojan First to Abuse Microsoft UIA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
