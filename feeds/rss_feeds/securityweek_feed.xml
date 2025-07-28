@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 25 Jul 2025 13:32:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Jul 2025 12:16:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Scattered Spider Targeting VMware vSphere Environments</title>
+		<link>https://www.securityweek.com/scattered-spider-targeting-vmware-vsphere-environments/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 12:16:10 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43087</guid>
+
+					<description><![CDATA[<p>The financially motivated group is pivoting from Active Directory to VMware vSphere environments, deploying ransomware from the hypervisor.</p>
+<p>The post <a href="https://www.securityweek.com/scattered-spider-targeting-vmware-vsphere-environments/">Scattered Spider Targeting VMware vSphere Environments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Allianz Life Data Breach Impacts Most of 1.4 Million US Customers</title>
+		<link>https://www.securityweek.com/allianz-life-data-breach-impacts-most-of-1-4-million-us-customers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 11:39:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Allianz]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43085</guid>
+
+					<description><![CDATA[<p>Allianz subsidiary said the information of customers, financial professionals and employees was compromised as a result of a hack.</p>
+<p>The post <a href="https://www.securityweek.com/allianz-life-data-breach-impacts-most-of-1-4-million-us-customers/">Allianz Life Data Breach Impacts Most of 1.4 Million US Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BlackSuit Ransomware Group Transitioning to &#8216;Chaos&#8217; Amid Leak Site Seizure</title>
+		<link>https://www.securityweek.com/blacksuit-ransomware-group-transitioning-to-chaos-amid-leak-site-seizure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 10:53:04 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[BlackSuit]]></category>
+		<category><![CDATA[Chaos]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[seized]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43082</guid>
+
+					<description><![CDATA[<p>The emerging Chaos ransomware appears to be a rebranding of BlackSuit, which had its leak site seized by law enforcement.</p>
+<p>The post <a href="https://www.securityweek.com/blacksuit-ransomware-group-transitioning-to-chaos-amid-leak-site-seizure/">BlackSuit Ransomware Group Transitioning to &#8216;Chaos&#8217; Amid Leak Site Seizure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flaw Allowing Website Takeover Found in WordPress Plugin With 400k Installations</title>
+		<link>https://www.securityweek.com/flaw-allowing-website-takeover-found-in-wordpress-plugin-with-400k-installations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 28 Jul 2025 08:30:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Post SMTP]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43081</guid>
+
+					<description><![CDATA[<p>The Post SMTP email delivery WordPress plugin is affected by a critical vulnerability and half of websites using it remain unpatched.</p>
+<p>The post <a href="https://www.securityweek.com/flaw-allowing-website-takeover-found-in-wordpress-plugin-with-400k-installations/">Flaw Allowing Website Takeover Found in WordPress Plugin With 400k Installations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: $30k Google Cloud Build Flaw, Louis Vuitton Breach Update, Attack Surface Growth</title>
 		<link>https://www.securityweek.com/in-other-news-30k-google-cloud-build-flaw-louis-vuitton-breach-update-attack-surface-growth/</link>
 		
@@ -135,91 +215,6 @@
 
 					<description><![CDATA[<p>LG Innotek LNV5110R security cameras are affected by a vulnerability that can be exploited for unauthenticated remote code execution.</p>
 <p>The post <a href="https://www.securityweek.com/no-patch-for-flaw-exposing-hundreds-of-lg-cameras-to-remote-hacking/">No Patch for Flaw Exposing Hundreds of LG Cameras to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Targets North Korea&#8217;s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam</title>
-		<link>https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 25 Jul 2025 08:05:07 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[reward]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43071</guid>
-
-					<description><![CDATA[<p>Christina Chapman was sentenced to prison for helping North Korean IT workers infiltrate US companies and running a laptop farm for them.</p>
-<p>The post <a href="https://www.securityweek.com/us-targets-north-koreas-illicit-funds-15m-rewards-offered-as-american-woman-jailed-in-it-worker-scam/">US Targets North Korea&#8217;s Illicit Funds: $15M Rewards Offered as American Woman Jailed in IT Worker Scam</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HeroDevs Raises $125 Million to Secure Deprecated OSS</title>
-		<link>https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 13:38:09 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[HeroDevs]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OSS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43066</guid>
-
-					<description><![CDATA[<p>HeroDevs has received a $125 million strategic growth investment from PSG to secure enterprise security stacks.</p>
-<p>The post <a href="https://www.securityweek.com/herodevs-raises-125-million-to-secure-deprecated-oss/">HeroDevs Raises $125 Million to Secure Deprecated OSS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New York Seeking Public Opinion on Water Systems Cyber Regulations</title>
-		<link>https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 12:54:08 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[New York]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43065</guid>
-
-					<description><![CDATA[<p>The proposed cyber regulations include the implementation of incident reporting, response plans, and cybersecurity controls, training, and certification of compliance.</p>
-<p>The post <a href="https://www.securityweek.com/new-york-seeking-public-opinion-on-water-systems-cyber-regulations/">New York Seeking Public Opinion on Water Systems Cyber Regulations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</title>
-		<link>https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 12:34:47 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[GRC]]></category>
-		<category><![CDATA[risk management]]></category>
-		<category><![CDATA[Vanta]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43063</guid>
-
-					<description><![CDATA[<p>Risk management and compliance solutions provider Vanta has raised more than $500 million since 2021.</p>
-<p>The post <a href="https://www.securityweek.com/grc-firm-vanta-raises-150-million-at-4-15-billion-valuation/">GRC Firm Vanta Raises $150 Million at $4.15 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
