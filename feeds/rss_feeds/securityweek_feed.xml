@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 29 Jul 2025 11:24:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Jul 2025 12:04:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,209 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Order out of Chaos &#8211; Using Chaos Theory Encryption to Protect OT and IoT</title>
-		<link>https://www.securityweek.com/order-out-of-chaos-using-chaos-theory-encryption-to-protect-ot-and-iot/</link>
+		<title>Cyata Emerges From Stealth With $8.5 Million in Funding</title>
+		<link>https://www.securityweek.com/cyata-emerges-from-stealth-with-8-5-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 12:04:09 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[Cyata]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43120</guid>
+
+					<description><![CDATA[<p>The Israeli startup helps organizations identify, monitor, and control AI agents across their environments.</p>
+<p>The post <a href="https://www.securityweek.com/cyata-emerges-from-stealth-with-8-5-million-in-funding/">Cyata Emerges From Stealth With $8.5 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cost of Data Breach in US Rises to $10.22 Million, Says Latest IBM Report</title>
+		<link>https://www.securityweek.com/cost-of-data-breach-in-us-rises-to-10-22-million-says-latest-ibm-report/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43101</guid>
-
-					<description><![CDATA[<p>The need for secure encryption in IoT and IIoT devices is obvious, and potentially critical for OT and, by extension, much of the critical infrastructure. </p>
-<p>The post <a href="https://www.securityweek.com/order-out-of-chaos-using-chaos-theory-encryption-to-protect-ot-and-iot/">Order out of Chaos &#8211; Using Chaos Theory Encryption to Protect OT and IoT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sploitlight: macOS Vulnerability Leaks Sensitive Information</title>
-		<link>https://www.securityweek.com/sploitlight-macos-vulnerability-leaks-sensitive-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 11:22:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[Sploitlight]]></category>
-		<category><![CDATA[Spotlight]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43106</guid>
-
-					<description><![CDATA[<p>The TCC bypass could expose information cached by Apple Intelligence, including geolocation and biometric data.</p>
-<p>The post <a href="https://www.securityweek.com/sploitlight-macos-vulnerability-leaks-sensitive-information/">Sploitlight: macOS Vulnerability Leaks Sensitive Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dropzone AI Raises $37 Million for Autonomous SOC Analyst</title>
-		<link>https://www.securityweek.com/dropzone-ai-raises-37-million-for-autonomous-soc-analyst/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 11:11:59 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Dropzone]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43102</guid>
-
-					<description><![CDATA[<p>Dropzone AI has announced a Series B funding round led by Theory Ventures to boost its AI SOC solution. </p>
-<p>The post <a href="https://www.securityweek.com/dropzone-ai-raises-37-million-for-autonomous-soc-analyst/">Dropzone AI Raises $37 Million for Autonomous SOC Analyst</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>From Ex Machina to Exfiltration: When AI Gets Too Curious</title>
-		<link>https://www.securityweek.com/from-ex-machina-to-exfiltration-when-ai-gets-too-curious/</link>
-		
-		<dc:creator><![CDATA[Danelle Au]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43100</guid>
-
-					<description><![CDATA[<p>From prompt injection to emergent behavior, today’s curious AI models are quietly breaching trust boundaries. </p>
-<p>The post <a href="https://www.securityweek.com/from-ex-machina-to-exfiltration-when-ai-gets-too-curious/">From Ex Machina to Exfiltration: When AI Gets Too Curious</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Exploited PaperCut Flaw</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-papercut-flaw/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 09:14:26 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[PaperCut]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43098</guid>
-
-					<description><![CDATA[<p>Threat actors are exploiting a two-year-old vulnerability in PaperCut that allows them to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-papercut-flaw/">Organizations Warned of Exploited PaperCut Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fable Security Raises $31 Million for Human Risk Management Platform</title>
-		<link>https://www.securityweek.com/fable-security-raises-31-million-for-human-risk-management-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 08:05:04 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[Fable Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[human risk]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43097</guid>
-
-					<description><![CDATA[<p>Fable Security has emerged from stealth mode with a solution designed to detect risky behaviors and educate employees.</p>
-<p>The post <a href="https://www.securityweek.com/fable-security-raises-31-million-for-human-risk-management-platform/">Fable Security Raises $31 Million for Human Risk Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aanchal Gupta Joins Adobe as Chief Security Officer</title>
-		<link>https://www.securityweek.com/aanchal-gupta-joins-adobe-as-chief-security-officer/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 07:01:45 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Aanchal Gupta]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[CSO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43094</guid>
-
-					<description><![CDATA[<p>Aanchal Gupta has been named CSO at Adobe after holding cybersecurity leadership roles at Microsoft for more than five years.</p>
-<p>The post <a href="https://www.securityweek.com/aanchal-gupta-joins-adobe-as-chief-security-officer/">Aanchal Gupta Joins Adobe as Chief Security Officer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Creating Realistic Deepfakes Is Getting Easier Than Ever. Fighting Back May Take Even More AI</title>
-		<link>https://www.securityweek.com/creating-realistic-deepfakes-is-getting-easier-than-ever-fighting-back-may-take-even-more-ai/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 01:53:59 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Deepfake]]></category>
-		<category><![CDATA[deepfakes]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43093</guid>
-
-					<description><![CDATA[<p>Deepfakes are causing security problems for governments, businesses and individuals and making trust the most valuable currency of the digital age.</p>
-<p>The post <a href="https://www.securityweek.com/creating-realistic-deepfakes-is-getting-easier-than-ever-fighting-back-may-take-even-more-ai/">Creating Realistic Deepfakes Is Getting Easier Than Ever. Fighting Back May Take Even More AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack On Russian Airline Aeroflot Causes the Cancellation of More Than 100 Flights</title>
-		<link>https://www.securityweek.com/cyberattack-on-russian-airline-aeroflot-causes-the-cancellation-of-more-than-100-flights/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 29 Jul 2025 01:45:29 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Aeroflot]]></category>
-		<category><![CDATA[Belarus]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43092</guid>
-
-					<description><![CDATA[<p>Ukrainian and Belarusian hacker groups, which oppose the rule of Belarusian President Alexander Lukashenko, claimed responsibility for the cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-on-russian-airline-aeroflot-causes-the-cancellation-of-more-than-100-flights/">Cyberattack On Russian Airline Aeroflot Causes the Cancellation of More Than 100 Flights</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NASCAR Confirms Personal Information Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/nascar-confirms-personal-information-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Jul 2025 13:04:33 +0000</pubDate>
+		<pubDate>Wed, 30 Jul 2025 11:19:56 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NASCAR]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43089</guid>
+		<category><![CDATA[IBM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43118</guid>
 
-					<description><![CDATA[<p>NASCAR says names, Social Security numbers, and other personal information was stolen in an April 2025 ransomware attack.</p>
-<p>The post <a href="https://www.securityweek.com/nascar-confirms-personal-information-stolen-in-ransomware-attack/">NASCAR Confirms Personal Information Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The global average cost of a breach fell to $4.44 million (the first decline in five years), but the average US cost rose to a record $10.22 million.</p>
+<p>The post <a href="https://www.securityweek.com/cost-of-data-breach-in-us-rises-to-10-22-million-says-latest-ibm-report/">Cost of Data Breach in US Rises to $10.22 Million, Says Latest IBM Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flaw in Vibe Coding Platform Base44 Exposed Private Enterprise Applications</title>
+		<link>https://www.securityweek.com/flaw-in-vibe-coding-platform-base44-exposed-private-enterprise-applications/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 11:16:50 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[authentication bypass]]></category>
+		<category><![CDATA[Base44]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Wix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43119</guid>
+
+					<description><![CDATA[<p>Base44 owner Wix quickly patched a critical authentication bypass vulnerability discovered by researchers at Wiz.</p>
+<p>The post <a href="https://www.securityweek.com/flaw-in-vibe-coding-platform-base44-exposed-private-enterprise-applications/">Flaw in Vibe Coding Platform Base44 Exposed Private Enterprise Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Minnesota Activates National Guard in Response to Cyberattack</title>
+		<link>https://www.securityweek.com/minnesota-activates-national-guard-in-response-to-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 11:03:35 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[city]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[St Paul]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43116</guid>
+
+					<description><![CDATA[<p>Minnesota Governor Tim Walz called in the National Guard to assist the City of Saint Paul in responding to a cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/minnesota-activates-national-guard-in-response-to-cyberattack/">Minnesota Activates National Guard in Response to Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tonic Security Launches With $7 Million in Seed Funding</title>
+		<link>https://www.securityweek.com/tonic-security-launches-with-7-million-in-seed-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 09:03:15 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[Tonic Security]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43115</guid>
+
+					<description><![CDATA[<p>Tonic Security has emerged from stealth mode to tackle the complexity of exposure and vulnerability management.</p>
+<p>The post <a href="https://www.securityweek.com/tonic-security-launches-with-7-million-in-seed-funding/">Tonic Security Launches With $7 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Patches Safari Vulnerability Flagged as Exploited Against Chrome</title>
+		<link>https://www.securityweek.com/apple-patches-safari-vulnerability-flagged-as-exploited-against-chrome/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 08:52:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[WebKit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43114</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2025-6558, the flaw was found in Chrome’s ANGLE and GPU components and was flagged as exploited by Google TAG.</p>
+<p>The post <a href="https://www.securityweek.com/apple-patches-safari-vulnerability-flagged-as-exploited-against-chrome/">Apple Patches Safari Vulnerability Flagged as Exploited Against Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Axonius Acquires Medical Device Security Firm Cynerio in $100 Million Deal</title>
+		<link>https://www.securityweek.com/axonius-acquires-medical-device-security-firm-cynerio-in-100-million-deal/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 07:13:44 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Axonius]]></category>
+		<category><![CDATA[Cynerio]]></category>
+		<category><![CDATA[medical]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43113</guid>
+
+					<description><![CDATA[<p>Axonius has acquired Cynerio for $100 million in cash and stock to accelerate its expansion into the healthcare market.</p>
+<p>The post <a href="https://www.securityweek.com/axonius-acquires-medical-device-security-firm-cynerio-in-100-million-deal/">Axonius Acquires Medical Device Security Firm Cynerio in $100 Million Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tea App Takes Messaging System Offline After Second Security Issue Reported</title>
+		<link>https://www.securityweek.com/tea-app-takes-messaging-system-offline-after-second-security-issue-reported/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 01:48:35 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43111</guid>
+
+					<description><![CDATA[<p>Tea has said about 72,000 images were leaked online in the initial incident, and another 59,000 images publicly viewable in the app from posts, comments and direct messages were also accessed.</p>
+<p>The post <a href="https://www.securityweek.com/tea-app-takes-messaging-system-offline-after-second-security-issue-reported/">Tea App Takes Messaging System Offline After Second Security Issue Reported</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lenovo Firmware Vulnerabilities Allow Persistent Implant Deployment</title>
+		<link>https://www.securityweek.com/lenovo-firmware-vulnerabilities-allow-persistent-implant-deployment/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 17:00:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Endpoint]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<category><![CDATA[SMM]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43109</guid>
+
+					<description><![CDATA[<p>Vulnerabilities discovered by Binarly in Lenovo devices allow privilege escalation, code execution, and security bypass.</p>
+<p>The post <a href="https://www.securityweek.com/lenovo-firmware-vulnerabilities-allow-persistent-implant-deployment/">Lenovo Firmware Vulnerabilities Allow Persistent Implant Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Seal Security Raises $13 Million to Secure Software Supply Chain</title>
+		<link>https://www.securityweek.com/seal-security-raises-13-million-to-secure-software-supply-chain/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 13:43:58 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[Seal Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43108</guid>
+
+					<description><![CDATA[<p>The open source security firm will use the investment to enhance go-to-market efforts and accelerate platform expansion.</p>
+<p>The post <a href="https://www.securityweek.com/seal-security-raises-13-million-to-secure-software-supply-chain/">Seal Security Raises $13 Million to Secure Software Supply Chain</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
