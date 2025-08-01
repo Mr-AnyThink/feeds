@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 31 Jul 2025 12:05:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 10:27:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,193 +28,193 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Browser Extensions Pose Serious Threat to Gen-AI Tools Handling Sensitive Data </title>
-		<link>https://www.securityweek.com/browser-extensions-pose-serious-threat-to-gen-ai-tools-handling-sensitive-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 12:05:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[browser extension]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Man-in-the-Prompt]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43141</guid>
-
-					<description><![CDATA[<p>LayerX has disclosed an AI chatbot hacking method via web browser extensions it has named ‘man-in-the-prompt’.</p>
-<p>The post <a href="https://www.securityweek.com/browser-extensions-pose-serious-threat-to-gen-ai-tools-handling-sensitive-data/">Browser Extensions Pose Serious Threat to Gen-AI Tools Handling Sensitive Data </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Report Links Chinese Companies to Tools Used by State-Sponsored Hackers</title>
-		<link>https://www.securityweek.com/report-links-chinese-companies-to-tools-used-by-state-sponsored-hackers/</link>
+		<title>Cyber Risk Management Firm Safe Raises $70 Million</title>
+		<link>https://www.securityweek.com/cyber-risk-management-firm-safe-raises-70-million/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 10:52:46 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43140</guid>
+		<pubDate>Fri, 01 Aug 2025 10:27:03 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[risk management]]></category>
+		<category><![CDATA[SAFE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43159</guid>
 
-					<description><![CDATA[<p>SentinelLabs connects the dots between prolific Chinese state-sponsored hackers and companies developing intrusion tools.</p>
-<p>The post <a href="https://www.securityweek.com/report-links-chinese-companies-to-tools-used-by-state-sponsored-hackers/">Report Links Chinese Companies to Tools Used by State-Sponsored Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Safe has raised $70 million in Series C funding to advance cyber risk management through specialized AI agents.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-risk-management-firm-safe-raises-70-million/">Cyber Risk Management Firm Safe Raises $70 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Honeywell Experion PKS Flaws Allow Manipulation of Industrial Processes</title>
-		<link>https://www.securityweek.com/honeywell-experion-pks-flaws-allow-manipulation-of-industrial-processes/</link>
+		<title>Echo Raises $15M in Seed Funding for Vulnerability-Free Container Images</title>
+		<link>https://www.securityweek.com/echo-raises-15m-in-seed-funding-for-vulnerability-free-container-images/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 09:23:29 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Honeywell]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43139</guid>
+		<pubDate>Fri, 01 Aug 2025 09:02:59 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Echo]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43158</guid>
 
-					<description><![CDATA[<p>Honeywell has patched several critical and high-severity vulnerabilities in its Experion PKS  industrial process control and automation product.</p>
-<p>The post <a href="https://www.securityweek.com/honeywell-experion-pks-flaws-allow-manipulation-of-industrial-processes/">Honeywell Experion PKS Flaws Allow Manipulation of Industrial Processes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Echo received funding for creating thousands of container images that are not affected by any CVE, for enterprise-grade software infrastructure.  </p>
+<p>The post <a href="https://www.securityweek.com/echo-raises-15m-in-seed-funding-for-vulnerability-free-container-images/">Echo Raises $15M in Seed Funding for Vulnerability-Free Container Images</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Project Zero Tackles Upstream Patch Gap With New Policy</title>
-		<link>https://www.securityweek.com/google-project-zero-tackles-upstream-patch-gap-with-new-policy/</link>
+		<title>Bill Aims to Create National Strategy for Quantum Cybersecurity Migration</title>
+		<link>https://www.securityweek.com/bill-aims-to-create-national-strategy-for-quantum-cybersecurity-migration/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 08:42:53 +0000</pubDate>
+		<pubDate>Fri, 01 Aug 2025 08:13:16 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[legislation]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43156</guid>
+
+					<description><![CDATA[<p>Two US senators introduced a bipartisan bill to help prepare federal government agencies for quantum computing threats.</p>
+<p>The post <a href="https://www.securityweek.com/bill-aims-to-create-national-strategy-for-quantum-cybersecurity-migration/">Bill Aims to Create National Strategy for Quantum Cybersecurity Migration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>$1 Million Offered for WhatsApp Exploit at Pwn2Own Ireland 2025</title>
+		<link>https://www.securityweek.com/1-million-offered-for-whatsapp-exploit-at-pwn2own-ireland-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 07:03:01 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[disclosure policy]]></category>
-		<category><![CDATA[Google Project Zero]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43138</guid>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43154</guid>
 
-					<description><![CDATA[<p>Google Project Zero now publicly shares the discovery of a vulnerability and when its 90-day disclosure deadline expires.</p>
-<p>The post <a href="https://www.securityweek.com/google-project-zero-tackles-upstream-patch-gap-with-new-policy/">Google Project Zero Tackles Upstream Patch Gap With New Policy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Meta is sponsoring ZDI’s Pwn2Own hacking competition, where participants can earn big prizes for smartphone, WhatsApp and wearable device exploits.</p>
+<p>The post <a href="https://www.securityweek.com/1-million-offered-for-whatsapp-exploit-at-pwn2own-ireland-2025/">$1 Million Offered for WhatsApp Exploit at Pwn2Own Ireland 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Senate Committee Advances Trump Nominee to Lead CISA</title>
-		<link>https://www.securityweek.com/senate-committee-advances-trump-nominee-to-lead-cybersecurity-agency-that-protects-election-systems/</link>
+		<title>Noma Security Raises $100 Million for AI Security Platform</title>
+		<link>https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 15:03:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI agent]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Noma Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43152</guid>
+
+					<description><![CDATA[<p>Noma Security has announced a Series B funding round that will enable the company’s growth and expansion of its AI agent security solutions. </p>
+<p>The post <a href="https://www.securityweek.com/noma-security-raises-100-million-for-ai-security-platform/">Noma Security Raises $100 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Researchers Suggest Lasers and Sabotage to Counter Musk’s Starlink Satellites</title>
+		<link>https://www.securityweek.com/chinese-researchers-suggest-lasers-and-sabotage-to-counter-musks-starlink-satellites/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 19:19:14 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Sean Plankey]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43134</guid>
+		<pubDate>Thu, 31 Jul 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Starlink]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43149</guid>
 
-					<description><![CDATA[<p>Committee Members voted to recommend Sean Plankey for director of the Cybersecurity and Infrastructure Security Agency.</p>
-<p>The post <a href="https://www.securityweek.com/senate-committee-advances-trump-nominee-to-lead-cybersecurity-agency-that-protects-election-systems/">Senate Committee Advances Trump Nominee to Lead CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Chinese military and cyber researchers are intensifying efforts to counter Elon Musk’s Starlink satellite network, viewing it as a potential tool for U.S. military power across nuclear, space, and cyber domains. </p>
+<p>The post <a href="https://www.securityweek.com/chinese-researchers-suggest-lasers-and-sabotage-to-counter-musks-starlink-satellites/">Chinese Researchers Suggest Lasers and Sabotage to Counter Musk’s Starlink Satellites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>BlinkOps Raises $50 Million for Agentic Security Automation Platform</title>
-		<link>https://www.securityweek.com/blinkops-raises-50-million-for-agentic-security-automation-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 14:32:01 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[BlinkOps]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[micro-agents]]></category>
-		<category><![CDATA[security automation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43132</guid>
-
-					<description><![CDATA[<p>BlinkOps has announced a Series B funding round that brings the total raised by the company for its micro-agents builder to $90 million. </p>
-<p>The post <a href="https://www.securityweek.com/blinkops-raises-50-million-for-agentic-security-automation-platform/">BlinkOps Raises $50 Million for Agentic Security Automation Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Legion Emerges From Stealth With $38 Million in Funding</title>
-		<link>https://www.securityweek.com/legion-emerges-from-stealth-with-38-million-in-funding/</link>
+		<title>Reach Security Raises $10 Million for Exposure Management Solution</title>
+		<link>https://www.securityweek.com/reach-security-raises-10-million-for-exposure-management-solution/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 13:45:02 +0000</pubDate>
+		<pubDate>Thu, 31 Jul 2025 14:20:24 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[drift]]></category>
+		<category><![CDATA[exposure management]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Legion]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43130</guid>
+		<category><![CDATA[Reach Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43148</guid>
 
-					<description><![CDATA[<p>Legion has raised $38 million in seed and Series A funding for its browser-native AI Security Operations Center (SOC) platform.</p>
-<p>The post <a href="https://www.securityweek.com/legion-emerges-from-stealth-with-38-million-in-funding/">Legion Emerges From Stealth With $38 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Reach Security has received a $10 million strategic investment from M12 to advance its domain-specific AI approach for exposure management.</p>
+<p>The post <a href="https://www.securityweek.com/reach-security-raises-10-million-for-exposure-management-solution/">Reach Security Raises $10 Million for Exposure Management Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Scattered Spider Activity Drops Following Arrests, but Others Adopting Group&#8217;s Tactics</title>
-		<link>https://www.securityweek.com/scattered-spider-activity-drops-following-arrests-but-others-adopting-groups-tactics/</link>
+		<title>Open Source CISA Tool Helps Defenders With Hacker Containment, Eviction</title>
+		<link>https://www.securityweek.com/open-source-cisa-tool-helps-defenders-with-hacker-containment-eviction/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 13:28:25 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43126</guid>
+		<pubDate>Thu, 31 Jul 2025 13:58:13 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43147</guid>
 
-					<description><![CDATA[<p>Multiple financially motivated threat actors are targeting backup systems and employing Scattered Spider’s social engineering techniques.</p>
-<p>The post <a href="https://www.securityweek.com/scattered-spider-activity-drops-following-arrests-but-others-adopting-groups-tactics/">Scattered Spider Activity Drops Following Arrests, but Others Adopting Group&#8217;s Tactics</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The tool includes resources to help organizations during the containment and eviction stages of incident response.</p>
+<p>The post <a href="https://www.securityweek.com/open-source-cisa-tool-helps-defenders-with-hacker-containment-eviction/">Open Source CISA Tool Helps Defenders With Hacker Containment, Eviction</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Palo Alto Networks to Acquire CyberArk for $25 Billion</title>
-		<link>https://www.securityweek.com/palo-alto-networks-to-acquire-cyberark-for-25-billion/</link>
+		<title>Who’s Really Behind the Mask? Combatting Identity Fraud</title>
+		<link>https://www.securityweek.com/whos-really-behind-the-mask-combatting-identity-fraud/</link>
 		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 13:26:46 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Thu, 31 Jul 2025 13:30:00 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
 		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[CyberArk]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43125</guid>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[identity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43146</guid>
 
-					<description><![CDATA[<p>Strategic acquisitions marks Palo Alto Networks' formal entry into the identity security space and accelerates its platform strategy.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-acquire-cyberark-for-25-billion/">Palo Alto Networks to Acquire CyberArk for $25 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Why context, behavioral baselines, and multi-source visibility are the new pillars of identity security in a world where credentials alone no longer cut it.</p>
+<p>The post <a href="https://www.securityweek.com/whos-really-behind-the-mask-combatting-identity-fraud/">Who’s Really Behind the Mask? Combatting Identity Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Telecom Giant Orange Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/telecom-giant-orange-hit-by-cyberattack/</link>
+		<title>API Security Firm Wallarm Raises $55 Million</title>
+		<link>https://www.securityweek.com/api-security-firm-wallarm-raises-55-million/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 12:38:02 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Orange]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43121</guid>
+		<pubDate>Thu, 31 Jul 2025 12:56:18 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[API security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Wallarm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43145</guid>
 
-					<description><![CDATA[<p>Orange was targeted by hackers in an attack that resulted in the disruption of services offered to corporate and individual customers. </p>
-<p>The post <a href="https://www.securityweek.com/telecom-giant-orange-hit-by-cyberattack/">Telecom Giant Orange Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Wallarm has raised money in a Series C funding round led by Toba Capital, which brings the total raised by the company to over $70 million.</p>
+<p>The post <a href="https://www.securityweek.com/api-security-firm-wallarm-raises-55-million/">API Security Firm Wallarm Raises $55 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
