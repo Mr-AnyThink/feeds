@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 01 Aug 2025 10:27:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 16:24:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,79 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gen Z in the Crosshairs: Cybercriminals Shift Focus to Young, Digital-Savvy Workers</title>
+		<link>https://www.securityweek.com/gen-z-in-the-crosshairs-cybercriminals-shift-focus-to-young-digital-savvy-workers/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 16:24:05 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43163</guid>
+
+					<description><![CDATA[<p>Should Gen Z to be treated as a separate attack surface within your company?</p>
+<p>The post <a href="https://www.securityweek.com/gen-z-in-the-crosshairs-cybercriminals-shift-focus-to-young-digital-savvy-workers/">Gen Z in the Crosshairs: Cybercriminals Shift Focus to Young, Digital-Savvy Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Microsoft Probes ToolShell Leak, Port Cybersecurity, Raspberry Pi ATM Hack</title>
+		<link>https://www.securityweek.com/in-other-news-microsoft-probes-toolshell-leak-port-cybersecurity-raspberry-pi-atm-hack/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 14:27:27 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43162</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Microsoft investigates whether the ToolShell exploit was leaked via MAPP, two reports on port cybersecurity, physical backdoor used for ATM hacking attempt.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-microsoft-probes-toolshell-leak-port-cybersecurity-raspberry-pi-atm-hack/">In Other News: Microsoft Probes ToolShell Leak, Port Cybersecurity, Raspberry Pi ATM Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Boosts .NET Bounty Program Rewards to $40,000</title>
+		<link>https://www.securityweek.com/microsoft-boosts-net-bounty-program-rewards-to-40000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 12:59:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[.NET]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43161</guid>
+
+					<description><![CDATA[<p>Valid, complete reports detailing remote code execution or elevation of privilege bugs in .NET qualify for the maximum rewards.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-boosts-net-bounty-program-rewards-to-40000/">Microsoft Boosts .NET Bounty Program Rewards to $40,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Cyberspies Target Foreign Embassies in Moscow via AitM Attacks: Microsoft</title>
+		<link>https://www.securityweek.com/russian-cyberspies-target-foreign-embassies-in-moscow-via-aitm-attacks-microsoft/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 12:28:53 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[embassy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Secret Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43160</guid>
+
+					<description><![CDATA[<p>Russian state-sponsored APT Secret Blizzard has used ISP-level AitM attacks to infect diplomatic devices with malware.</p>
+<p>The post <a href="https://www.securityweek.com/russian-cyberspies-target-foreign-embassies-in-moscow-via-aitm-attacks-microsoft/">Russian Cyberspies Target Foreign Embassies in Moscow via AitM Attacks: Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cyber Risk Management Firm Safe Raises $70 Million</title>
 		<link>https://www.securityweek.com/cyber-risk-management-firm-safe-raises-70-million/</link>
 		
@@ -140,81 +213,6 @@
 
 					<description><![CDATA[<p>Chinese military and cyber researchers are intensifying efforts to counter Elon Musk’s Starlink satellite network, viewing it as a potential tool for U.S. military power across nuclear, space, and cyber domains. </p>
 <p>The post <a href="https://www.securityweek.com/chinese-researchers-suggest-lasers-and-sabotage-to-counter-musks-starlink-satellites/">Chinese Researchers Suggest Lasers and Sabotage to Counter Musk’s Starlink Satellites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reach Security Raises $10 Million for Exposure Management Solution</title>
-		<link>https://www.securityweek.com/reach-security-raises-10-million-for-exposure-management-solution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 14:20:24 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[drift]]></category>
-		<category><![CDATA[exposure management]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Reach Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43148</guid>
-
-					<description><![CDATA[<p>Reach Security has received a $10 million strategic investment from M12 to advance its domain-specific AI approach for exposure management.</p>
-<p>The post <a href="https://www.securityweek.com/reach-security-raises-10-million-for-exposure-management-solution/">Reach Security Raises $10 Million for Exposure Management Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Open Source CISA Tool Helps Defenders With Hacker Containment, Eviction</title>
-		<link>https://www.securityweek.com/open-source-cisa-tool-helps-defenders-with-hacker-containment-eviction/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 13:58:13 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43147</guid>
-
-					<description><![CDATA[<p>The tool includes resources to help organizations during the containment and eviction stages of incident response.</p>
-<p>The post <a href="https://www.securityweek.com/open-source-cisa-tool-helps-defenders-with-hacker-containment-eviction/">Open Source CISA Tool Helps Defenders With Hacker Containment, Eviction</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Who’s Really Behind the Mask? Combatting Identity Fraud</title>
-		<link>https://www.securityweek.com/whos-really-behind-the-mask-combatting-identity-fraud/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 13:30:00 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43146</guid>
-
-					<description><![CDATA[<p>Why context, behavioral baselines, and multi-source visibility are the new pillars of identity security in a world where credentials alone no longer cut it.</p>
-<p>The post <a href="https://www.securityweek.com/whos-really-behind-the-mask-combatting-identity-fraud/">Who’s Really Behind the Mask? Combatting Identity Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>API Security Firm Wallarm Raises $55 Million</title>
-		<link>https://www.securityweek.com/api-security-firm-wallarm-raises-55-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 31 Jul 2025 12:56:18 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[API security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Wallarm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43145</guid>
-
-					<description><![CDATA[<p>Wallarm has raised money in a Series C funding round led by Toba Capital, which brings the total raised by the company to over $70 million.</p>
-<p>The post <a href="https://www.securityweek.com/api-security-firm-wallarm-raises-55-million/">API Security Firm Wallarm Raises $55 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
