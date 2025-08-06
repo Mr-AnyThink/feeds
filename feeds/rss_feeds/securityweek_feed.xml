@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 05 Aug 2025 11:36:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Aug 2025 11:35:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,20 +28,101 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/</link>
+		<title>Flaws Expose 100 Dell Laptop Models to Implants, Windows Login Bypass</title>
+		<link>https://www.securityweek.com/flaws-expose-100-dell-laptop-models-to-implants-windows-login-bypass/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 11:35:25 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[authentication bypass]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[laptop]]></category>
+		<category><![CDATA[Revault]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43203</guid>
+
+					<description><![CDATA[<p>ReVault vulnerabilities in the ControlVault3 firmware in Dell laptops could lead to firmware modifications or Windows login bypass.</p>
+<p>The post <a href="https://www.securityweek.com/flaws-expose-100-dell-laptop-models-to-implants-windows-login-bypass/">Flaws Expose 100 Dell Laptop Models to Implants, Windows Login Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 2)</title>
+		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-2/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:35:59 +0000</pubDate>
+		<pubDate>Wed, 06 Aug 2025 10:00:00 +0000</pubDate>
 				<category><![CDATA[Management & Strategy]]></category>
 		<category><![CDATA[Black Hat]]></category>
 		<category><![CDATA[Black Hat 2025]]></category>
 		<category><![CDATA[security product]]></category>
 		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43195</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43201</guid>
 
 					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-2/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 2)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Issues Out-of-Band Patches for AEM Forms Vulnerabilities With Public PoC</title>
+		<link>https://www.securityweek.com/adobe-issues-out-of-band-patches-for-aem-forms-vulnerabilities-with-public-poc/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 09:19:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[AEM Forms]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43202</guid>
+
+					<description><![CDATA[<p>Adobe has released urgent security updates to resolve two AEM Forms vulnerabilities for which proof-of-concept (PoC) code exists.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-issues-out-of-band-patches-for-aem-forms-vulnerabilities-with-public-poc/">Adobe Issues Out-of-Band Patches for AEM Forms Vulnerabilities With Public PoC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft&#8217;s Project Ire Autonomously Reverse Engineers Software to Find Malware</title>
+		<link>https://www.securityweek.com/microsofts-project-ire-autonomously-reverse-engineers-software-to-find-malware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 16:01:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Project Ire]]></category>
+		<category><![CDATA[reverse engineering]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43200</guid>
+
+					<description><![CDATA[<p>Microsoft has unveiled Project Ire, a prototype autonomous AI agent that can analyze any software file to determine if it’s malicious.</p>
+<p>The post <a href="https://www.securityweek.com/microsofts-project-ire-autonomously-reverse-engineers-software-to-find-malware/">Microsoft&#8217;s Project Ire Autonomously Reverse Engineers Software to Find Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Says User Data Stolen in CRM Hack</title>
+		<link>https://www.securityweek.com/cisco-says-user-data-stolen-in-crm-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 13:26:25 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43197</guid>
+
+					<description><![CDATA[<p>Cisco has disclosed a data breach affecting Cisco.com user accounts, including names, email address, and phone numbers.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-says-user-data-stolen-in-crm-hack/">Cisco Says User Data Stolen in CRM Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -57,12 +138,34 @@
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[appsec]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Software]]></category>
 		<category><![CDATA[vibe coding]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=43190</guid>
 
 					<description><![CDATA[<p>As AI makes software development accessible to all, security teams face a new challenge: protecting applications built by non-developers at unprecedented speed and scale.</p>
 <p>The post <a href="https://www.securityweek.com/vibe-coding-when-everyones-a-developer-who-secures-the-code/">Vibe Coding: When Everyone’s a Developer, Who Secures the Code?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</title>
+		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2025 11:28:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[Black Hat 2025]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[security product]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43195</guid>
+
+					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
+<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -123,103 +226,6 @@
 
 					<description><![CDATA[<p>Research demonstrating high-impact cloud and AI security flaws will be rewarded at Microsoft’s Zero Day Quest competition in spring 2026.</p>
 <p>The post <a href="https://www.securityweek.com/microsoft-offers-5-million-at-zero-day-quest-hacking-contest/">Microsoft Offers $5 Million at Zero Day Quest Hacking Contest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Hunts for Zero-Day Amid Surge in Firewall Exploitation</title>
-		<link>https://www.securityweek.com/sonicwall-hunts-for-zero-day-amid-surge-in-firewall-exploitation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 07:44:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43186</guid>
-
-					<description><![CDATA[<p>Threat actors might be exploiting a zero-day vulnerability in SonicWall firewalls in a fresh wave of ransomware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-hunts-for-zero-day-amid-surge-in-firewall-exploitation/">SonicWall Hunts for Zero-Day Amid Surge in Firewall Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Triton Vulnerabilities Pose Big Risk to AI Models</title>
-		<link>https://www.securityweek.com/nvidia-triton-vulnerabilities-pose-big-risk-to-ai-models/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 16:54:22 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Triton Inference Server]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43183</guid>
-
-					<description><![CDATA[<p>Nvidia has patched over a dozen vulnerabilities in Triton Inference Server, including another set of vulnerabilities that threaten AI systems. </p>
-<p>The post <a href="https://www.securityweek.com/nvidia-triton-vulnerabilities-pose-big-risk-to-ai-models/">Nvidia Triton Vulnerabilities Pose Big Risk to AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Announces $100 Million for State, Local and Tribal Cybersecurity</title>
-		<link>https://www.securityweek.com/us-announces-100-million-for-state-local-and-tribal-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 13:02:01 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43182</guid>
-
-					<description><![CDATA[<p>CISA and FEMA announced two grants of more than $100 million for state, local, and tribal governments looking to improve cybersecurity.</p>
-<p>The post <a href="https://www.securityweek.com/us-announces-100-million-for-state-local-and-tribal-cybersecurity/">US Announces $100 Million for State, Local and Tribal Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Guardrails Under Fire: Cisco&#8217;s Jailbreak Demo Exposes AI Weak Points</title>
-		<link>https://www.securityweek.com/ai-guardrails-under-fire-ciscos-jailbreak-demo-exposes-ai-weak-points/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43172</guid>
-
-					<description><![CDATA[<p>Cisco’s latest jailbreak method reveals just how easily sensitive data can be extracted from chatbots trained on proprietary or copyrighted content.</p>
-<p>The post <a href="https://www.securityweek.com/ai-guardrails-under-fire-ciscos-jailbreak-demo-exposes-ai-weak-points/">AI Guardrails Under Fire: Cisco&#8217;s Jailbreak Demo Exposes AI Weak Points</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sean Cairncross Confirmed by Senate as National Cyber Director</title>
-		<link>https://www.securityweek.com/sean-cairncross-confirmed-by-senate-as-national-cyber-director/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 04 Aug 2025 12:12:20 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[appointed]]></category>
-		<category><![CDATA[Sean Cairncross]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43175</guid>
-
-					<description><![CDATA[<p>The US Senate voted to confirm Sean Cairncross as the National Cyber Director, five months after nominalization.</p>
-<p>The post <a href="https://www.securityweek.com/sean-cairncross-confirmed-by-senate-as-national-cyber-director/">Sean Cairncross Confirmed by Senate as National Cyber Director</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
