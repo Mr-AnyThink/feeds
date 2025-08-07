@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 06 Aug 2025 11:35:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 Aug 2025 12:03:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Flaws Expose 100 Dell Laptop Models to Implants, Windows Login Bypass</title>
-		<link>https://www.securityweek.com/flaws-expose-100-dell-laptop-models-to-implants-windows-login-bypass/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 Aug 2025 11:35:25 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[authentication bypass]]></category>
-		<category><![CDATA[Dell]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firmware]]></category>
-		<category><![CDATA[laptop]]></category>
-		<category><![CDATA[Revault]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43203</guid>
-
-					<description><![CDATA[<p>ReVault vulnerabilities in the ControlVault3 firmware in Dell laptops could lead to firmware modifications or Windows login bypass.</p>
-<p>The post <a href="https://www.securityweek.com/flaws-expose-100-dell-laptop-models-to-implants-windows-login-bypass/">Flaws Expose 100 Dell Laptop Models to Implants, Windows Login Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 2)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 06 Aug 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2025]]></category>
-		<category><![CDATA[security product]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43201</guid>
-
-					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-2/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 2)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Issues Out-of-Band Patches for AEM Forms Vulnerabilities With Public PoC</title>
-		<link>https://www.securityweek.com/adobe-issues-out-of-band-patches-for-aem-forms-vulnerabilities-with-public-poc/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 Aug 2025 09:19:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[AEM Forms]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43202</guid>
-
-					<description><![CDATA[<p>Adobe has released urgent security updates to resolve two AEM Forms vulnerabilities for which proof-of-concept (PoC) code exists.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-issues-out-of-band-patches-for-aem-forms-vulnerabilities-with-public-poc/">Adobe Issues Out-of-Band Patches for AEM Forms Vulnerabilities With Public PoC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft&#8217;s Project Ire Autonomously Reverse Engineers Software to Find Malware</title>
-		<link>https://www.securityweek.com/microsofts-project-ire-autonomously-reverse-engineers-software-to-find-malware/</link>
+		<title>Air France, KLM Say Hackers Accessed Customer Data</title>
+		<link>https://www.securityweek.com/air-france-klm-say-hackers-accessed-customer-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 16:01:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Project Ire]]></category>
-		<category><![CDATA[reverse engineering]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43200</guid>
-
-					<description><![CDATA[<p>Microsoft has unveiled Project Ire, a prototype autonomous AI agent that can analyze any software file to determine if it’s malicious.</p>
-<p>The post <a href="https://www.securityweek.com/microsofts-project-ire-autonomously-reverse-engineers-software-to-find-malware/">Microsoft&#8217;s Project Ire Autonomously Reverse Engineers Software to Find Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Says User Data Stolen in CRM Hack</title>
-		<link>https://www.securityweek.com/cisco-says-user-data-stolen-in-crm-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 13:26:25 +0000</pubDate>
+		<pubDate>Thu, 07 Aug 2025 12:02:55 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[Air France]]></category>
+		<category><![CDATA[airline]]></category>
 		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43197</guid>
+		<category><![CDATA[KLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43225</guid>
 
-					<description><![CDATA[<p>Cisco has disclosed a data breach affecting Cisco.com user accounts, including names, email address, and phone numbers.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-says-user-data-stolen-in-crm-hack/">Cisco Says User Data Stolen in CRM Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Airlines Air France and KLM have disclosed a data breach stemming from unauthorized access to a third-party platform.</p>
+<p>The post <a href="https://www.securityweek.com/air-france-klm-say-hackers-accessed-customer-data/">Air France, KLM Say Hackers Accessed Customer Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vibe Coding: When Everyone’s a Developer, Who Secures the Code?</title>
-		<link>https://www.securityweek.com/vibe-coding-when-everyones-a-developer-who-secures-the-code/</link>
+		<title>Organizations Warned of Vulnerability in Microsoft Exchange Hybrid Deployment</title>
+		<link>https://www.securityweek.com/organizations-warned-of-vulnerability-in-microsoft-exchange-hybrid-deployment/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 11:08:41 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[hybrid]]></category>
+		<category><![CDATA[Microsoft Exchange]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43224</guid>
+
+					<description><![CDATA[<p>CISA and Microsoft have issued advisories for CVE-2025-53786, a high-severity flaw allowing privilege escalation in cloud environments. </p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-vulnerability-in-microsoft-exchange-hybrid-deployment/">Organizations Warned of Vulnerability in Microsoft Exchange Hybrid Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New HTTP Request Smuggling Attacks Impacted CDNs, Major Orgs, Millions of Websites</title>
+		<link>https://www.securityweek.com/new-http-request-smuggling-attacks-impacted-cdns-major-orgs-millions-of-websites/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2025 09:41:11 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Akamai]]></category>
+		<category><![CDATA[CDN]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[HTTP]]></category>
+		<category><![CDATA[HTTP request smuggling]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43222</guid>
+
+					<description><![CDATA[<p>A desync attack method leveraging HTTP/1.1 vulnerabilities impacted many websites and earned researchers more than $200,000 in bug bounties.</p>
+<p>The post <a href="https://www.securityweek.com/new-http-request-smuggling-attacks-impacted-cdns-major-orgs-millions-of-websites/">New HTTP Request Smuggling Attacks Impacted CDNs, Major Orgs, Millions of Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Major Enterprise AI Assistants Can Be Abused for Data Theft, Manipulation</title>
+		<link>https://www.securityweek.com/major-enterprise-ai-assistants-abused-for-data-theft-manipulation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 23:20:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Cursor]]></category>
+		<category><![CDATA[Data Exposure]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43206</guid>
+
+					<description><![CDATA[<p>Zenity has shown how AI assistants such as ChatGPT, Copilot, Cursor, Gemini, and Salesforce Einstein can be abused using specially crafted prompts.</p>
+<p>The post <a href="https://www.securityweek.com/major-enterprise-ai-assistants-abused-for-data-theft-manipulation/">Major Enterprise AI Assistants Can Be Abused for Data Theft, Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Enterprise Secrets Exposed by CyberArk Conjur Vulnerabilities</title>
+		<link>https://www.securityweek.com/enterprise-secrets-exposed-by-cyberark-conjur-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 22:00:00 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[CyberArk]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<category><![CDATA[vulnerabiliites]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43216</guid>
+
+					<description><![CDATA[<p>CyberArk has patched several vulnerabilities that could be chained for unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/enterprise-secrets-exposed-by-cyberark-conjur-vulnerabilities/">Enterprise Secrets Exposed by CyberArk Conjur Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Discloses Data Breach via Salesforce Hack </title>
+		<link>https://www.securityweek.com/google-discloses-salesforce-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 17:25:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43217</guid>
+
+					<description><![CDATA[<p>A Google Salesforce instance may have been targeted as part of a ShinyHunters campaign that hit several major companies. </p>
+<p>The post <a href="https://www.securityweek.com/google-discloses-salesforce-hack/">Google Discloses Data Breach via Salesforce Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PLoB: A Behavioral Fingerprinting Framework to Hunt for Malicious Logins</title>
+		<link>https://www.securityweek.com/plob-a-behavioral-fingerprinting-framework-to-hunt-for-malicious-logins/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Software]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43190</guid>
+		<pubDate>Wed, 06 Aug 2025 15:54:11 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[PLoB]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43214</guid>
 
-					<description><![CDATA[<p>As AI makes software development accessible to all, security teams face a new challenge: protecting applications built by non-developers at unprecedented speed and scale.</p>
-<p>The post <a href="https://www.securityweek.com/vibe-coding-when-everyones-a-developer-who-secures-the-code/">Vibe Coding: When Everyone’s a Developer, Who Secures the Code?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Splunk researchers developed a system to fingerprint post-logon behavior, using AI to find subtle signals of intrusion. </p>
+<p>The post <a href="https://www.securityweek.com/plob-a-behavioral-fingerprinting-framework-to-hunt-for-malicious-logins/">PLoB: A Behavioral Fingerprinting Framework to Hunt for Malicious Logins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/</link>
+		<title>WhatsApp Takes Down 6.8 Million Accounts Linked to Criminal Scam Centers, Meta Says</title>
+		<link>https://www.securityweek.com/whatsapp-takes-down-6-8-million-accounts-linked-to-criminal-scam-centers-meta-says/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:28:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2025]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[security product]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43195</guid>
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 15:15:54 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43213</guid>
 
-					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-1/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Meta linked these scams to a criminal scam center in Cambodia — and said it disrupted the campaign in partnership with ChatGPT maker OpenAI.</p>
+<p>The post <a href="https://www.securityweek.com/whatsapp-takes-down-6-8-million-accounts-linked-to-criminal-scam-centers-meta-says/">WhatsApp Takes Down 6.8 Million Accounts Linked to Criminal Scam Centers, Meta Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Approov Raises $6.7 Million for Mobile App Security</title>
-		<link>https://www.securityweek.com/approov-raises-6-7-million-for-mobile-app-security/</link>
+		<title>Trend Micro Warns of Apex One Vulnerabilities Exploited in Wild</title>
+		<link>https://www.securityweek.com/trend-micro-patches-apex-one-vulnerabilities-exploited-in-wild/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 11:16:52 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Approov]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43194</guid>
-
-					<description><![CDATA[<p>Approov has raised $6.7 million in Series A funding to advance its mobile application and API security solutions.</p>
-<p>The post <a href="https://www.securityweek.com/approov-raises-6-7-million-for-mobile-app-security/">Approov Raises $6.7 Million for Mobile App Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android&#8217;s August 2025 Update Patches Exploited Qualcomm Vulnerability</title>
-		<link>https://www.securityweek.com/androids-august-2025-update-patches-exploited-qualcomm-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 09:49:15 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Qualcomm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43189</guid>
-
-					<description><![CDATA[<p>Android’s light August 2025 security update resolves an Adreno GPU vulnerability confirmed as exploited in June.</p>
-<p>The post <a href="https://www.securityweek.com/androids-august-2025-update-patches-exploited-qualcomm-vulnerability/">Android&#8217;s August 2025 Update Patches Exploited Qualcomm Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Offers $5 Million at Zero Day Quest Hacking Contest</title>
-		<link>https://www.securityweek.com/microsoft-offers-5-million-at-zero-day-quest-hacking-contest/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 08:38:08 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 14:56:43 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[hacking competition]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Zero Day Quest]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43188</guid>
+		<category><![CDATA[Apex One]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43211</guid>
 
-					<description><![CDATA[<p>Research demonstrating high-impact cloud and AI security flaws will be rewarded at Microsoft’s Zero Day Quest competition in spring 2026.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-offers-5-million-at-zero-day-quest-hacking-contest/">Microsoft Offers $5 Million at Zero Day Quest Hacking Contest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Trend Micro has rushed to fix two Apex One zero-days that may have been exploited by Chinese threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/trend-micro-patches-apex-one-vulnerabilities-exploited-in-wild/">Trend Micro Warns of Apex One Vulnerabilities Exploited in Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Paid Out $17 Million in Bug Bounties in Past Year</title>
+		<link>https://www.securityweek.com/microsoft-paid-out-17-million-in-bug-bounties-in-past-year/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 Aug 2025 14:08:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43210</guid>
+
+					<description><![CDATA[<p>Microsoft handed out $17 million in rewards to 344 security researchers through its bug bounty programs over the past year.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-paid-out-17-million-in-bug-bounties-in-past-year/">Microsoft Paid Out $17 Million in Bug Bounties in Past Year</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
