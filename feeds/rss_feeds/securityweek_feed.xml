@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 08 Aug 2025 12:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Aug 2025 10:02:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking</title>
+		<link>https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[bus]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43245</guid>
+
+					<description><![CDATA[<p>Researchers showed how flaws in a bus’ onboard and remote systems can be exploited by hackers for tracking, control and spying. </p>
+<p>The post <a href="https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/">Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Red Teams Jailbreak GPT-5 With Ease, Warn It&#8217;s ‘Nearly Unusable’ for Enterprise</title>
+		<link>https://www.securityweek.com/red-teams-breach-gpt-5-with-ease-warn-its-nearly-unusable-for-enterprise/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2025 18:28:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43244</guid>
+
+					<description><![CDATA[<p>Researchers demonstrate how multi-turn “storytelling” attacks bypass prompt-level filters, exposing systemic weaknesses in GPT-5’s defenses.</p>
+<p>The post <a href="https://www.securityweek.com/red-teams-breach-gpt-5-with-ease-warn-its-nearly-unusable-for-enterprise/">Red Teams Jailbreak GPT-5 With Ease, Warn It&#8217;s ‘Nearly Unusable’ for Enterprise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CodeSecCon 2025: Where Software Security’s Next Chapter Unfolds</title>
+		<link>https://www.securityweek.com/codeseccon-2025-where-software-securitys-next-chapter-unfolds/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2025 16:36:55 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43240</guid>
+
+					<description><![CDATA[<p>Taking place August 12-13, CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained.</p>
+<p>The post <a href="https://www.securityweek.com/codeseccon-2025-where-software-securitys-next-chapter-unfolds/">CodeSecCon 2025: Where Software Security’s Next Chapter Unfolds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector</title>
+		<link>https://www.securityweek.com/help-desk-at-risk-scattered-spider-shines-light-on-overlook-threat-vector/</link>
+		
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43239</guid>
+
+					<description><![CDATA[<p>As attackers target help desks and identity systems, traditional security perimeters are proving insufficient against agile, socially-engineered threats.</p>
+<p>The post <a href="https://www.securityweek.com/help-desk-at-risk-scattered-spider-shines-light-on-overlook-threat-vector/">Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Nvidia Says No to Backdoors, Satellite Hacking, Energy Sector Assessment</title>
 		<link>https://www.securityweek.com/in-other-news-nvidia-says-no-to-backdoors-satellite-hacking-energy-sector-assessment/</link>
 		
@@ -134,91 +212,6 @@
 
 					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
 <p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-3/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 3)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Air France, KLM Say Hackers Accessed Customer Data</title>
-		<link>https://www.securityweek.com/air-france-klm-say-hackers-accessed-customer-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 12:02:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Air France]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[KLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43225</guid>
-
-					<description><![CDATA[<p>Airlines Air France and KLM have disclosed a data breach stemming from unauthorized access to a third-party platform.</p>
-<p>The post <a href="https://www.securityweek.com/air-france-klm-say-hackers-accessed-customer-data/">Air France, KLM Say Hackers Accessed Customer Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Vulnerability in Microsoft Exchange Hybrid Deployment</title>
-		<link>https://www.securityweek.com/organizations-warned-of-vulnerability-in-microsoft-exchange-hybrid-deployment/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 11:08:41 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[hybrid]]></category>
-		<category><![CDATA[Microsoft Exchange]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43224</guid>
-
-					<description><![CDATA[<p>CISA and Microsoft have issued advisories for CVE-2025-53786, a high-severity flaw allowing privilege escalation in cloud environments. </p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-vulnerability-in-microsoft-exchange-hybrid-deployment/">Organizations Warned of Vulnerability in Microsoft Exchange Hybrid Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New HTTP Request Smuggling Attacks Impacted CDNs, Major Orgs, Millions of Websites</title>
-		<link>https://www.securityweek.com/new-http-request-smuggling-attacks-impacted-cdns-major-orgs-millions-of-websites/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 09:41:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Akamai]]></category>
-		<category><![CDATA[CDN]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HTTP]]></category>
-		<category><![CDATA[HTTP request smuggling]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43222</guid>
-
-					<description><![CDATA[<p>A desync attack method leveraging HTTP/1.1 vulnerabilities impacted many websites and earned researchers more than $200,000 in bug bounties.</p>
-<p>The post <a href="https://www.securityweek.com/new-http-request-smuggling-attacks-impacted-cdns-major-orgs-millions-of-websites/">New HTTP Request Smuggling Attacks Impacted CDNs, Major Orgs, Millions of Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Major Enterprise AI Assistants Can Be Abused for Data Theft, Manipulation</title>
-		<link>https://www.securityweek.com/major-enterprise-ai-assistants-abused-for-data-theft-manipulation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 06 Aug 2025 23:20:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[Cursor]]></category>
-		<category><![CDATA[Data Exposure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43206</guid>
-
-					<description><![CDATA[<p>Zenity has shown how AI assistants such as ChatGPT, Copilot, Cursor, Gemini, and Salesforce Einstein can be abused using specially crafted prompts.</p>
-<p>The post <a href="https://www.securityweek.com/major-enterprise-ai-assistants-abused-for-data-theft-manipulation/">Major Enterprise AI Assistants Can Be Abused for Data Theft, Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
