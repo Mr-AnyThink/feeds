@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 10 Aug 2025 08:34:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Aug 2025 11:54:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Connex Credit Union Data Breach Impacts 172,000 People</title>
+		<link>https://www.securityweek.com/connex-credit-union-data-breach-impacts-172000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 11:54:16 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Connex Credit Union]]></category>
+		<category><![CDATA[credit union]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43254</guid>
+
+					<description><![CDATA[<p>Hackers targeted Connex, one of the largest credit unions in Connecticut, and likely stole files containing personal information. </p>
+<p>The post <a href="https://www.securityweek.com/connex-credit-union-data-breach-impacts-172000-people/">Connex Credit Union Data Breach Impacts 172,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Flaws in Major Automaker&#8217;s Dealership Systems Allowed Car Hacking, Personal Data Theft</title>
+		<link>https://www.securityweek.com/flaws-in-major-automakers-dealership-systems-allowed-car-hacking-personal-data-theft/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 11:26:08 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43253</guid>
+
+					<description><![CDATA[<p>A researcher has demonstrated how a platform used by over 1,000 dealerships in the US could have been used to hack cars.</p>
+<p>The post <a href="https://www.securityweek.com/flaws-in-major-automakers-dealership-systems-allowed-car-hacking-personal-data-theft/">Flaws in Major Automaker&#8217;s Dealership Systems Allowed Car Hacking, Personal Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Hackers Exploited WinRAR Zero-Day in Attacks on Europe, Canada</title>
+		<link>https://www.securityweek.com/russian-hackers-exploited-winrar-zero-day-in-attacks-on-europe-canada/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 09:44:22 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[RomCOm]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[WinRAR]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43251</guid>
+
+					<description><![CDATA[<p>WinRAR has patched CVE-2025-8088, a zero-day exploited by Russia’s RomCom in attacks on financial, defense, manufacturing and logistics companies.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hackers-exploited-winrar-zero-day-in-attacks-on-europe-canada/">Russian Hackers Exploited WinRAR Zero-Day in Attacks on Europe, Canada</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BadCam: New BadUSB Attack Turns Linux Webcams Into Persistent Threats </title>
+		<link>https://www.securityweek.com/badcam-new-badusb-attack-turns-linux-webcams-into-persistent-threats/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 08:01:41 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[BadCam]]></category>
+		<category><![CDATA[BadUSB]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Lenovo]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43249</guid>
+
+					<description><![CDATA[<p>Eclypsium researchers have demonstrated a BadCam attack against Lenovo cameras, but others may be impacted as well.</p>
+<p>The post <a href="https://www.securityweek.com/badcam-new-badusb-attack-turns-linux-webcams-into-persistent-threats/">BadCam: New BadUSB Attack Turns Linux Webcams Into Persistent Threats </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Free Wi-Fi Leaves Buses Vulnerable to Remote Hacking</title>
 		<link>https://www.securityweek.com/free-wi-fi-leaves-buses-vulnerable-to-remote-hacking/</link>
 		
@@ -137,82 +216,6 @@
 
 					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
 <p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-4/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 4)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Columbia University Data Breach Impacts 860,000</title>
-		<link>https://www.securityweek.com/columbia-university-data-breach-impacts-860000/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 10:21:22 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Columbia University]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43236</guid>
-
-					<description><![CDATA[<p>Columbia University has been targeted in a cyberattack where hackers stole the personal information of students, applicants, and employees.</p>
-<p>The post <a href="https://www.securityweek.com/columbia-university-data-breach-impacts-860000/">Columbia University Data Breach Impacts 860,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>French Telecom Firm Bouygues Says Data Breach Affects 6.4M Customers</title>
-		<link>https://www.securityweek.com/french-telecom-firm-bouygues-says-data-breach-affects-6-4m-customers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 07:40:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Bouygues Telecom]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43232</guid>
-
-					<description><![CDATA[<p>Bouygues has been targeted in a cyberattack that resulted in the personal information of millions of customers getting compromised.</p>
-<p>The post <a href="https://www.securityweek.com/french-telecom-firm-bouygues-says-data-breach-affects-6-4m-customers/">French Telecom Firm Bouygues Says Data Breach Affects 6.4M Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Says Recent Attacks Don&#8217;t Involve Zero-Day Vulnerability</title>
-		<link>https://www.securityweek.com/sonicwall-says-recent-attacks-dont-involve-zero-day-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 17:15:52 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43228</guid>
-
-					<description><![CDATA[<p>SonicWall has been investigating reports about a zero-day potentially being exploited in ransomware attacks, but found no evidence of a new vulnerability. </p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-says-recent-attacks-dont-involve-zero-day-vulnerability/">SonicWall Says Recent Attacks Don&#8217;t Involve Zero-Day Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 3)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-3/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 13:16:08 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2025]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43227</guid>
-
-					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-3/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 3)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
