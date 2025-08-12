@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 11 Aug 2025 11:54:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Aug 2025 11:30:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SAP Patches Critical S/4HANA Vulnerability</title>
+		<link>https://www.securityweek.com/sap-patches-critical-s-4hana-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2025 11:29:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43260</guid>
+
+					<description><![CDATA[<p>SAP has released 15 new security notes on the August 2025 Patch Tuesday, including for critical vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-s-4hana-vulnerability/">SAP Patches Critical S/4HANA Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OT Networks Targeted in Widespread Exploitation of Erlang/OTP Vulnerability</title>
+		<link>https://www.securityweek.com/ot-networks-targeted-in-widespread-exploitation-of-erlang-otp-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 12 Aug 2025 08:59:44 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Erlang OTP]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43258</guid>
+
+					<description><![CDATA[<p>The recently patched Erlang/OTP flaw CVE-2025-32433 has been exploited since early May, shortly after its existence came to light.</p>
+<p>The post <a href="https://www.securityweek.com/ot-networks-targeted-in-widespread-exploitation-of-erlang-otp-vulnerability/">OT Networks Targeted in Widespread Exploitation of Erlang/OTP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome Sandbox Escape Earns Researcher $250,000</title>
+		<link>https://www.securityweek.com/chrome-sandbox-escape-earns-researcher-250000/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 14:03:35 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[sandbox escape]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43257</guid>
+
+					<description><![CDATA[<p>A researcher has been given the highest reward in Google’s Chrome bug bounty program for a sandbox escape with remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-sandbox-escape-earns-researcher-250000/">Chrome Sandbox Escape Earns Researcher $250,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Managing the Trust-Risk Equation in AI: Predicting Hallucinations Before They Strike</title>
+		<link>https://www.securityweek.com/managing-the-trust-risk-equation-in-ai-predicting-hallucinations-before-they-strike/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 11 Aug 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hallucination]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43255</guid>
+
+					<description><![CDATA[<p>New physics-based research suggests large language models could predict when their own answers are about to go wrong — a potential game changer for trust, risk, and security in AI-driven systems.</p>
+<p>The post <a href="https://www.securityweek.com/managing-the-trust-risk-equation-in-ai-predicting-hallucinations-before-they-strike/">Managing the Trust-Risk Equation in AI: Predicting Hallucinations Before They Strike</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Connex Credit Union Data Breach Impacts 172,000 People</title>
 		<link>https://www.securityweek.com/connex-credit-union-data-breach-impacts-172000-people/</link>
 		
@@ -72,6 +152,7 @@
 				<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[cyberespionage]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[RomCOm]]></category>
 		<category><![CDATA[Russia]]></category>
 		<category><![CDATA[WinRAR]]></category>
@@ -142,80 +223,6 @@
 
 					<description><![CDATA[<p>Researchers demonstrate how multi-turn “storytelling” attacks bypass prompt-level filters, exposing systemic weaknesses in GPT-5’s defenses.</p>
 <p>The post <a href="https://www.securityweek.com/red-teams-breach-gpt-5-with-ease-warn-its-nearly-unusable-for-enterprise/">Red Teams Jailbreak GPT-5 With Ease, Warn It&#8217;s ‘Nearly Unusable’ for Enterprise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CodeSecCon 2025: Where Software Security’s Next Chapter Unfolds</title>
-		<link>https://www.securityweek.com/codeseccon-2025-where-software-securitys-next-chapter-unfolds/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 16:36:55 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43240</guid>
-
-					<description><![CDATA[<p>Taking place August 12-13, CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained.</p>
-<p>The post <a href="https://www.securityweek.com/codeseccon-2025-where-software-securitys-next-chapter-unfolds/">CodeSecCon 2025: Where Software Security’s Next Chapter Unfolds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector</title>
-		<link>https://www.securityweek.com/help-desk-at-risk-scattered-spider-shines-light-on-overlook-threat-vector/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43239</guid>
-
-					<description><![CDATA[<p>As attackers target help desks and identity systems, traditional security perimeters are proving insufficient against agile, socially-engineered threats.</p>
-<p>The post <a href="https://www.securityweek.com/help-desk-at-risk-scattered-spider-shines-light-on-overlook-threat-vector/">Help Desk at Risk: Scattered Spider Shines Light on Overlook Threat Vector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Nvidia Says No to Backdoors, Satellite Hacking, Energy Sector Assessment</title>
-		<link>https://www.securityweek.com/in-other-news-nvidia-says-no-to-backdoors-satellite-hacking-energy-sector-assessment/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 12:09:26 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43238</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: federal court filing system hack, Chanel data breach, emergency CISA directive.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-nvidia-says-no-to-backdoors-satellite-hacking-energy-sector-assessment/">In Other News: Nvidia Says No to Backdoors, Satellite Hacking, Energy Sector Assessment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Hat USA 2025 – Summary of Vendor Announcements (Part 4)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-4/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 08 Aug 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2025]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43235</guid>
-
-					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2025 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2025-summary-of-vendor-announcements-part-4/">Black Hat USA 2025 – Summary of Vendor Announcements (Part 4)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
