@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 13 Aug 2025 11:10:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 11:12:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>&#8216;MadeYouReset&#8217; HTTP2 Vulnerability Enables Massive DDoS Attacks</title>
+		<link>https://www.securityweek.com/madeyoureset-http2-vulnerability-enables-massive-ddos-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2025 11:11:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[DoS]]></category>
+		<category><![CDATA[HTTP2]]></category>
+		<category><![CDATA[MadeYouReset]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43278</guid>
+
+					<description><![CDATA[<p>The new DDoS attack vector, which involves HTTP/2 implementation flaws, has been compared to Rapid Reset.</p>
+<p>The post <a href="https://www.securityweek.com/madeyoureset-http2-vulnerability-enables-massive-ddos-attacks/">&#8216;MadeYouReset&#8217; HTTP2 Vulnerability Enables Massive DDoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Passkey Login Bypassed via WebAuthn Process Manipulation</title>
+		<link>https://www.securityweek.com/passkey-login-bypassed-via-webauthn-process-manipulation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2025 09:09:07 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[authentication bypass]]></category>
+		<category><![CDATA[browser extension]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[passkey]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43275</guid>
+
+					<description><![CDATA[<p>Researchers at enterprise browser security firm SquareX showed how an attacker can impersonate a user and bypass passkey security. </p>
+<p>The post <a href="https://www.securityweek.com/passkey-login-bypassed-via-webauthn-process-manipulation/">Passkey Login Bypassed via WebAuthn Process Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Norwegian Police Say Pro-Russian Hackers Were Likely Behind Suspected Sabotage at a Dam</title>
+		<link>https://www.securityweek.com/norwegian-police-say-pro-russian-hackers-were-likely-behind-suspected-sabotage-at-a-dam/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 20:05:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Norway]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43273</guid>
+
+					<description><![CDATA[<p>During the April incident, hackers gained access to a digital system which remotely controls one of the dam’s valves and opened it to increase the water flow.</p>
+<p>The post <a href="https://www.securityweek.com/norwegian-police-say-pro-russian-hackers-were-likely-behind-suspected-sabotage-at-a-dam/">Norwegian Police Say Pro-Russian Hackers Were Likely Behind Suspected Sabotage at a Dam</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chipmaker Patch Tuesday: Many Vulnerabilities Addressed by Intel, AMD, Nvidia</title>
+		<link>https://www.securityweek.com/chipmaker-patch-tuesday-many-vulnerabilities-addressed-by-intel-amd-nvidia/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 12:29:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43272</guid>
+
+					<description><![CDATA[<p>Intel, AMD and Nvidia have published security advisories describing vulnerabilities found recently in their products.</p>
+<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-many-vulnerabilities-addressed-by-intel-amd-nvidia/">Chipmaker Patch Tuesday: Many Vulnerabilities Addressed by Intel, AMD, Nvidia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Manpower Says Data Breach Stemming From Ransomware Attack Impacts 140,000</title>
 		<link>https://www.securityweek.com/manpower-says-data-breach-stemming-from-ransomware-attack-impacts-140000/</link>
 		
@@ -138,86 +221,6 @@
 
 					<description><![CDATA[<p>Rapid7’s analysis of dark web forums reveals a thriving market where elite hackers sell corporate network access to buyers, turning cybercrime into a streamlined business.</p>
 <p>The post <a href="https://www.securityweek.com/inside-the-dark-webs-access-economy-how-hackers-sell-the-keys-to-enterprise-networks/">Inside the Dark Web’s Access Economy: How Hackers Sell the Keys to Enterprise Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1Kosmos Raises $57 Million for Identity Verification and Authentication Platform</title>
-		<link>https://www.securityweek.com/1kosmos-raises-57-million-for-identity-verification-and-authentication-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[1Kosmos]]></category>
-		<category><![CDATA[authentication]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43259</guid>
-
-					<description><![CDATA[<p>1Kosmos has raised $57 million in Series B funding, which brings the total raised by the company to $72 million.</p>
-<p>The post <a href="https://www.securityweek.com/1kosmos-raises-57-million-for-identity-verification-and-authentication-platform/">1Kosmos Raises $57 Million for Identity Verification and Authentication Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Now Live: CodeSecCon &#8211; Where Software Security’s Next Chapter Unfolds (Virtual Event)</title>
-		<link>https://www.securityweek.com/codeseccon-is-today-where-software-securitys-next-chapter-unfolds-virtual-event/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 12:25:41 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43262</guid>
-
-					<description><![CDATA[<p>Taking place August 12-13, CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained.</p>
-<p>The post <a href="https://www.securityweek.com/codeseccon-is-today-where-software-securitys-next-chapter-unfolds-virtual-event/">Now Live: CodeSecCon &#8211; Where Software Security’s Next Chapter Unfolds (Virtual Event)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical S/4HANA Vulnerability</title>
-		<link>https://www.securityweek.com/sap-patches-critical-s-4hana-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 11:29:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43260</guid>
-
-					<description><![CDATA[<p>SAP has released 15 new security notes on the August 2025 Patch Tuesday, including for critical vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-s-4hana-vulnerability/">SAP Patches Critical S/4HANA Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OT Networks Targeted in Widespread Exploitation of Erlang/OTP Vulnerability</title>
-		<link>https://www.securityweek.com/ot-networks-targeted-in-widespread-exploitation-of-erlang-otp-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 12 Aug 2025 08:59:44 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Erlang OTP]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43258</guid>
-
-					<description><![CDATA[<p>The recently patched Erlang/OTP flaw CVE-2025-32433 has been exploited since early May, shortly after its existence came to light.</p>
-<p>The post <a href="https://www.securityweek.com/ot-networks-targeted-in-widespread-exploitation-of-erlang-otp-vulnerability/">OT Networks Targeted in Widespread Exploitation of Erlang/OTP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
