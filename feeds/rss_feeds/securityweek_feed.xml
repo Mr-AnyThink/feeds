@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 16 Aug 2025 13:37:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 12:17:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hundreds of N-able N-central Instances Affected by Exploited Vulnerabilities</title>
+		<link>https://www.securityweek.com/hundreds-of-n-able-n-central-instances-affected-by-exploited-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 12:17:11 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[N-able]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43302</guid>
+
+					<description><![CDATA[<p>More than 870 N-able N-central instances have not been patched against CVE-2025-8875 and CVE-2025-8876, two exploited vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/hundreds-of-n-able-n-central-instances-affected-by-exploited-vulnerabilities/">Hundreds of N-able N-central Instances Affected by Exploited Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Workday Data Breach Bears Signs of Widespread Salesforce Hack</title>
+		<link>https://www.securityweek.com/workday-data-breach-bears-signs-of-widespread-salesforce-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 11:59:25 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Workday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43300</guid>
+
+					<description><![CDATA[<p>Workday appears to have joined the list of major companies that had their Salesforce instances targeted by hackers. </p>
+<p>The post <a href="https://www.securityweek.com/workday-data-breach-bears-signs-of-widespread-salesforce-hack/">Workday Data Breach Bears Signs of Widespread Salesforce Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Seizes $2.8 Million From Zeppelin Ransomware Operator</title>
+		<link>https://www.securityweek.com/us-seizes-2-8-million-from-zeppelin-ransomware-operator/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 10:56:11 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[seized]]></category>
+		<category><![CDATA[Zeppelin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43298</guid>
+
+					<description><![CDATA[<p>The US has indicted Zeppelin ransomware operator Ianis Antropenko, seizing over $2.8 million in cryptocurrency from his wallet.</p>
+<p>The post <a href="https://www.securityweek.com/us-seizes-2-8-million-from-zeppelin-ransomware-operator/">US Seizes $2.8 Million From Zeppelin Ransomware Operator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Web Hosting Firms in Taiwan Attacked by Chinese APT for Access to High-Value Targets</title>
+		<link>https://www.securityweek.com/web-hosting-firms-in-taiwan-attacked-by-chinese-apt-for-access-to-high-value-targets/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 09:33:23 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Taiwan]]></category>
+		<category><![CDATA[web hosting]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43297</guid>
+
+					<description><![CDATA[<p>Chinese APT UAT-7237 has been targeting Taiwanese web infrastructure for long-term access to high-value entities.</p>
+<p>The post <a href="https://www.securityweek.com/web-hosting-firms-in-taiwan-attacked-by-chinese-apt-for-access-to-high-value-targets/">Web Hosting Firms in Taiwan Attacked by Chinese APT for Access to High-Value Targets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Watch Now: CodeSecCon &#8211; Where Software Security’s Next Chapter Unfolds (Virtual Event)</title>
 		<link>https://www.securityweek.com/watch-now-codeseccon-where-software-securitys-next-chapter-unfolds-virtual-event/</link>
 		
@@ -137,86 +215,6 @@
 
 					<description><![CDATA[<p>Cisco has released over 20 advisories as part of its August 2025 bundled publication for ASA, FMC and FTD products.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-firewall-management-platform/">Cisco Patches Critical Vulnerability in Firewall Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities in Xerox Print Orchestration Product Allow Remote Code Execution</title>
-		<link>https://www.securityweek.com/vulnerabilities-in-xerox-print-orchestration-product-allow-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 13:47:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Xerox]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43282</guid>
-
-					<description><![CDATA[<p>Path traversal and XXE injection flaws allowing unauthenticated remote code execution have been patched in Xerox FreeFlow Core. </p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-in-xerox-print-orchestration-product-allow-remote-code-execution/">Vulnerabilities in Xerox Print Orchestration Product Allow Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Attacks Exploiting N-able Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-n-able-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 12:29:38 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[N-able]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43279</guid>
-
-					<description><![CDATA[<p>CISA reported becoming aware of attacks exploiting CVE-2025-8875 and CVE-2025-8876 in N-able N-central on the day they were patched.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-n-able-vulnerabilities/">CISA Warns of Attacks Exploiting N-able Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;MadeYouReset&#8217; HTTP2 Vulnerability Enables Massive DDoS Attacks</title>
-		<link>https://www.securityweek.com/madeyoureset-http2-vulnerability-enables-massive-ddos-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 11:11:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[DoS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HTTP2]]></category>
-		<category><![CDATA[MadeYouReset]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43278</guid>
-
-					<description><![CDATA[<p>The new DDoS attack vector, which involves HTTP/2 implementation flaws, has been compared to Rapid Reset.</p>
-<p>The post <a href="https://www.securityweek.com/madeyoureset-http2-vulnerability-enables-massive-ddos-attacks/">&#8216;MadeYouReset&#8217; HTTP2 Vulnerability Enables Massive DDoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Passkey Login Bypassed via WebAuthn Process Manipulation</title>
-		<link>https://www.securityweek.com/passkey-login-bypassed-via-webauthn-process-manipulation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 Aug 2025 09:09:07 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[authentication bypass]]></category>
-		<category><![CDATA[browser extension]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[passkey]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43275</guid>
-
-					<description><![CDATA[<p>Researchers at enterprise browser security firm SquareX showed how an attacker can impersonate a user and bypass passkey security. </p>
-<p>The post <a href="https://www.securityweek.com/passkey-login-bypassed-via-webauthn-process-manipulation/">Passkey Login Bypassed via WebAuthn Process Manipulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
