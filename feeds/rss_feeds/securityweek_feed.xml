@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 20 Aug 2025 12:17:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 12:16:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,164 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Password Managers Vulnerable to Data Theft via Clickjacking</title>
+		<link>https://www.securityweek.com/password-managers-vulnerable-to-data-theft-via-clickjacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 12:15:56 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[password manager]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43338</guid>
+
+					<description><![CDATA[<p>A researcher has tested nearly a dozen password managers and found that they were all vulnerable to clickjacking attacks.</p>
+<p>The post <a href="https://www.securityweek.com/password-managers-vulnerable-to-data-theft-via-clickjacking/">Password Managers Vulnerable to Data Theft via Clickjacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian APT Exploiting 7-Year-Old Cisco Vulnerability: FBI</title>
+		<link>https://www.securityweek.com/russian-apt-exploiting-7-year-old-cisco-vulnerability-fbi/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 11:10:57 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Dragonfly]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Static Tundra]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43337</guid>
+
+					<description><![CDATA[<p>Russian state-sponsored hackers tracked as Static Tundra continue to target Cisco devices affected by CVE-2018-0171.</p>
+<p>The post <a href="https://www.securityweek.com/russian-apt-exploiting-7-year-old-cisco-vulnerability-fbi/">Russian APT Exploiting 7-Year-Old Cisco Vulnerability: FBI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Orange Belgium Data Breach Impacts 850,000 Customers</title>
+		<link>https://www.securityweek.com/orange-belgium-data-breach-impacts-850000-customers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 10:06:31 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43334</guid>
+
+					<description><![CDATA[<p>Orange Belgium says hackers accessed data pertaining to 850,000 customer accounts during a July cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/orange-belgium-data-breach-impacts-850000-customers/">Orange Belgium Data Breach Impacts 850,000 Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Patches Zero-Day Exploited in Targeted Attacks</title>
+		<link>https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 08:51:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43333</guid>
+
+					<description><![CDATA[<p>Apple has rolled out iOS and macOS updates that resolve a zero-day vulnerability exploited in highly targeted attacks.</p>
+<p>The post <a href="https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/">Apple Patches Zero-Day Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Europol Says Qilin Ransomware Reward Fake</title>
+		<link>https://www.securityweek.com/europol-says-qilin-ransomware-reward-fake/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 05:48:50 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[fake]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Qilin]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43331</guid>
+
+					<description><![CDATA[<p>A $50,000 reward from Europol for two members of the Qilin ransomware group is a ‘scam’, according to the law enforcement agency.</p>
+<p>The post <a href="https://www.securityweek.com/europol-says-qilin-ransomware-reward-fake/">Europol Says Qilin Ransomware Reward Fake</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GPT-5 Has a Vulnerability: Its Router Can Send You to Older, Less Safe Models</title>
+		<link>https://www.securityweek.com/gpt-5-has-a-vulnerability-it-may-not-be-gpt-5-answering-your-call/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:52:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43329</guid>
+
+					<description><![CDATA[<p>Instead of GPT-5 Pro, your query could be quietly redirected to an older, weaker model, opening the door to jailbreaks, hallucinations, and unsafe outputs.</p>
+<p>The post <a href="https://www.securityweek.com/gpt-5-has-a-vulnerability-it-may-not-be-gpt-5-answering-your-call/">GPT-5 Has a Vulnerability: Its Router Can Send You to Older, Less Safe Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Slow and Steady Security: Lessons from the Tortoise and the Hare</title>
+		<link>https://www.securityweek.com/slow-and-steady-security-lessons-from-the-tortoise-and-the-hare/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:45:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43327</guid>
+
+					<description><![CDATA[<p>By focusing on fundamentals, enterprises can avoid the distraction of hype and build security programs that are consistent, resilient, and effective over the long run.</p>
+<p>The post <a href="https://www.securityweek.com/slow-and-steady-security-lessons-from-the-tortoise-and-the-hare/">Slow and Steady Security: Lessons from the Tortoise and the Hare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elastic Refutes Claims of Zero-Day in EDR Product</title>
+		<link>https://www.securityweek.com/elastic-refutes-claims-of-zero-day-in-edr-product/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2025 14:08:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[EDR]]></category>
+		<category><![CDATA[Elastic]]></category>
+		<category><![CDATA[RCE]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43326</guid>
+
+					<description><![CDATA[<p>Elastic has found no evidence of a vulnerability leading to RCE after details and PoC of a Defend EDR bypass were published online.</p>
+<p>The post <a href="https://www.securityweek.com/elastic-refutes-claims-of-zero-day-in-edr-product/">Elastic Refutes Claims of Zero-Day in EDR Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>RapperBot Botnet Disrupted, American Administrator Indicted</title>
 		<link>https://www.securityweek.com/rapperbot-botnet-disrupted-american-administrator-indicted/</link>
 		
@@ -65,168 +223,6 @@
 
 					<description><![CDATA[<p>Seemplicity announced a Series B funding round that will be used to create AI agents for its exposure management solution.</p>
 <p>The post <a href="https://www.securityweek.com/seemplicity-raises-50-million-for-exposure-management-platform/">Seemplicity Raises $50 Million for Exposure Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flaws in Software Used by Hundreds of Cities and Towns Exposed Sensitive Data</title>
-		<link>https://www.securityweek.com/flaws-in-software-used-by-hundreds-of-cities-and-towns-exposed-sensitive-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 11:25:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Data Exposure]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Workhorse]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43322</guid>
-
-					<description><![CDATA[<p>CERT/CC has disclosed the details of information exposure vulnerabilities in a Workhorse Software application after patches were released. </p>
-<p>The post <a href="https://www.securityweek.com/flaws-in-software-used-by-hundreds-of-cities-and-towns-exposed-sensitive-data/">Flaws in Software Used by Hundreds of Cities and Towns Exposed Sensitive Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pharmaceutical Company Inotiv Confirms Ransomware Attack</title>
-		<link>https://www.securityweek.com/pharmaceutical-company-inotiv-confirms-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 11:05:26 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Inotiv]]></category>
-		<category><![CDATA[pharma]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43320</guid>
-
-					<description><![CDATA[<p>Inotiv has notified the SEC that its business operations took a hit after hackers compromised and encrypted its internal systems.</p>
-<p>The post <a href="https://www.securityweek.com/pharmaceutical-company-inotiv-confirms-ransomware-attack/">Pharmaceutical Company Inotiv Confirms Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerabilities Patched in Chrome, Firefox</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-chrome-firefox/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 08:09:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43318</guid>
-
-					<description><![CDATA[<p>Google and Mozilla have released patches for multiple high-severity vulnerabilities affecting Chrome and Firefox.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-chrome-firefox/">High-Severity Vulnerabilities Patched in Chrome, Firefox</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Intel Employee Data Exposed by Vulnerabilities</title>
-		<link>https://www.securityweek.com/intel-employee-data-exposed-by-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 07:15:54 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43317</guid>
-
-					<description><![CDATA[<p>A researcher said he found vulnerable internal services that exposed the information of 270,000 Intel employees. </p>
-<p>The post <a href="https://www.securityweek.com/intel-employee-data-exposed-by-vulnerabilities/">Intel Employee Data Exposed by Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Dissects PipeMagic Modular Backdoor</title>
-		<link>https://www.securityweek.com/microsoft-dissects-pipemagic-modular-backdoor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 13:56:13 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PipeMagic]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43315</guid>
-
-					<description><![CDATA[<p>PipeMagic, which poses as a ChatGPT application, is a modular malware framework that provides persistent access and flexibility.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-dissects-pipemagic-modular-backdoor/">Microsoft Dissects PipeMagic Modular Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Australia&#8217;s TPG Telecom Investigating iiNet Hack</title>
-		<link>https://www.securityweek.com/australias-tpg-telecom-investigating-iinet-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 12:42:22 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[iiNet]]></category>
-		<category><![CDATA[telecom]]></category>
-		<category><![CDATA[TPG Telecom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43313</guid>
-
-					<description><![CDATA[<p>TPG Telecom has disclosed a cybersecurity incident after discovering unauthorized access to an iiNet order management system. </p>
-<p>The post <a href="https://www.securityweek.com/australias-tpg-telecom-investigating-iinet-hack/">Australia&#8217;s TPG Telecom Investigating iiNet Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gabbard Says UK Scraps Demand for Apple to Give Backdoor Access to Data</title>
-		<link>https://www.securityweek.com/gabbard-says-uk-scraps-demand-for-apple-to-give-backdoor-access-to-data/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 12:11:53 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[encryption backdoor]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[UK]]></category>
-		<category><![CDATA[UK government]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43312</guid>
-
-					<description><![CDATA[<p>Britain abandoned its demand that Apple provide backdoor access to any encrypted user data stored in the cloud.</p>
-<p>The post <a href="https://www.securityweek.com/gabbard-says-uk-scraps-demand-for-apple-to-give-backdoor-access-to-data/">Gabbard Says UK Scraps Demand for Apple to Give Backdoor Access to Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gambling Tech Firm Bragg Discloses Cyberattack</title>
-		<link>https://www.securityweek.com/gambling-tech-firm-bragg-discloses-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 11:59:26 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Bragg]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43310</guid>
-
-					<description><![CDATA[<p>Bragg Gaming Group says hackers accessed its internal systems over the weekend, but did not affect its operations.</p>
-<p>The post <a href="https://www.securityweek.com/gambling-tech-firm-bragg-discloses-cyberattack/">Gambling Tech Firm Bragg Discloses Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
