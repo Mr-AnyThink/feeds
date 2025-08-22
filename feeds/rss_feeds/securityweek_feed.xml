@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 21 Aug 2025 12:16:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Aug 2025 10:54:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,143 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Developer Who Hacked Former Employer&#8217;s Systems Sentenced to Prison</title>
+		<link>https://www.securityweek.com/developer-who-hacked-former-employers-systems-sentenced-to-prison/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 10:54:25 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Davis Lu]]></category>
+		<category><![CDATA[Insider Threat]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43353</guid>
+
+					<description><![CDATA[<p>Davis Lu was sentenced to four years in prison for installing malicious code on employer’s systems and for deleting encrypted data.</p>
+<p>The post <a href="https://www.securityweek.com/developer-who-hacked-former-employers-systems-sentenced-to-prison/">Developer Who Hacked Former Employer&#8217;s Systems Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CPAP Medical Data Breach Impacts 90,000 People</title>
+		<link>https://www.securityweek.com/cpap-medical-data-breach-impacts-90000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 09:50:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[CPAP Medical]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43352</guid>
+
+					<description><![CDATA[<p>CPAP Medical Supplies and Services has disclosed a data breach resulting from an intrusion that occurred in December 2024.</p>
+<p>The post <a href="https://www.securityweek.com/cpap-medical-data-breach-impacts-90000-people/">CPAP Medical Data Breach Impacts 90,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AWS Trusted Advisor Tricked Into Showing Unprotected S3 Buckets as Secure</title>
+		<link>https://www.securityweek.com/aws-trusted-advisor-tricked-into-showing-unprotected-s3-buckets-as-secure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 09:09:30 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[AWS Trusted Advisor]]></category>
+		<category><![CDATA[S3]]></category>
+		<category><![CDATA[security bypass]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43349</guid>
+
+					<description><![CDATA[<p>AWS has addressed a vulnerability that could have been leveraged to bypass Trusted Advisor’s S3 bucket permissions check.</p>
+<p>The post <a href="https://www.securityweek.com/aws-trusted-advisor-tricked-into-showing-unprotected-s3-buckets-as-secure/">AWS Trusted Advisor Tricked Into Showing Unprotected S3 Buckets as Secure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hundreds Targeted in New Atomic macOS Stealer Campaign</title>
+		<link>https://www.securityweek.com/hundreds-targeted-in-new-atomic-macos-stealer-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 08:04:11 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AMOS]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[SHAMOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43348</guid>
+
+					<description><![CDATA[<p>Between June and August, over 300 entities were targeted with the Atomic macOS Stealer via malvertising.</p>
+<p>The post <a href="https://www.securityweek.com/hundreds-targeted-in-new-atomic-macos-stealer-campaign/">Hundreds Targeted in New Atomic macOS Stealer Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MITRE Updates List of Most Common Hardware Weaknesses</title>
+		<link>https://www.securityweek.com/mitre-updates-list-of-most-common-hardware-weaknesses/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 07:43:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CWE]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43346</guid>
+
+					<description><![CDATA[<p>MITRE has updated the list of Most Important Hardware Weaknesses to align it with evolving hardware security challenges.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-updates-list-of-most-common-hardware-weaknesses/">MITRE Updates List of Most Common Hardware Weaknesses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Telecom Firm Colt Confirms Data Breach as Ransomware Group Auctions Files</title>
+		<link>https://www.securityweek.com/telecom-firm-colt-confirms-data-breach-as-ransomware-group-auctions-files/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 14:49:03 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Colt]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43344</guid>
+
+					<description><![CDATA[<p>Colt Technology Services is working on restoring systems disrupted by a ransomware attack that involved data theft.</p>
+<p>The post <a href="https://www.securityweek.com/telecom-firm-colt-confirms-data-breach-as-ransomware-group-auctions-files/">Telecom Firm Colt Confirms Data Breach as Ransomware Group Auctions Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Scattered Spider Hacker Sentenced to Prison</title>
+		<link>https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 12:32:56 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Noah Urban]]></category>
+		<category><![CDATA[prison]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43340</guid>
+
+					<description><![CDATA[<p>Noah Urban was sentenced to 10 years in prison for his role in the notorious cybercriminal operation known as Scattered Spider.</p>
+<p>The post <a href="https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/">Scattered Spider Hacker Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Password Managers Vulnerable to Data Theft via Clickjacking</title>
 		<link>https://www.securityweek.com/password-managers-vulnerable-to-data-theft-via-clickjacking/</link>
 		
@@ -35,6 +172,7 @@
 		<pubDate>Thu, 21 Aug 2025 12:15:56 +0000</pubDate>
 				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[password manager]]></category>
 		<category><![CDATA[research]]></category>
 		<category><![CDATA[vulnerability]]></category>
@@ -81,148 +219,6 @@
 
 					<description><![CDATA[<p>Orange Belgium says hackers accessed data pertaining to 850,000 customer accounts during a July cyberattack.</p>
 <p>The post <a href="https://www.securityweek.com/orange-belgium-data-breach-impacts-850000-customers/">Orange Belgium Data Breach Impacts 850,000 Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Patches Zero-Day Exploited in Targeted Attacks</title>
-		<link>https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 08:51:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43333</guid>
-
-					<description><![CDATA[<p>Apple has rolled out iOS and macOS updates that resolve a zero-day vulnerability exploited in highly targeted attacks.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-zero-day-exploited-in-targeted-attacks/">Apple Patches Zero-Day Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Europol Says Qilin Ransomware Reward Fake</title>
-		<link>https://www.securityweek.com/europol-says-qilin-ransomware-reward-fake/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 05:48:50 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Europol]]></category>
-		<category><![CDATA[fake]]></category>
-		<category><![CDATA[fake hack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Qilin]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43331</guid>
-
-					<description><![CDATA[<p>A $50,000 reward from Europol for two members of the Qilin ransomware group is a ‘scam’, according to the law enforcement agency.</p>
-<p>The post <a href="https://www.securityweek.com/europol-says-qilin-ransomware-reward-fake/">Europol Says Qilin Ransomware Reward Fake</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GPT-5 Has a Vulnerability: Its Router Can Send You to Older, Less Safe Models</title>
-		<link>https://www.securityweek.com/gpt-5-has-a-vulnerability-it-may-not-be-gpt-5-answering-your-call/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 14:52:30 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43329</guid>
-
-					<description><![CDATA[<p>Instead of GPT-5 Pro, your query could be quietly redirected to an older, weaker model, opening the door to jailbreaks, hallucinations, and unsafe outputs.</p>
-<p>The post <a href="https://www.securityweek.com/gpt-5-has-a-vulnerability-it-may-not-be-gpt-5-answering-your-call/">GPT-5 Has a Vulnerability: Its Router Can Send You to Older, Less Safe Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Slow and Steady Security: Lessons from the Tortoise and the Hare</title>
-		<link>https://www.securityweek.com/slow-and-steady-security-lessons-from-the-tortoise-and-the-hare/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 14:45:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43327</guid>
-
-					<description><![CDATA[<p>By focusing on fundamentals, enterprises can avoid the distraction of hype and build security programs that are consistent, resilient, and effective over the long run.</p>
-<p>The post <a href="https://www.securityweek.com/slow-and-steady-security-lessons-from-the-tortoise-and-the-hare/">Slow and Steady Security: Lessons from the Tortoise and the Hare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elastic Refutes Claims of Zero-Day in EDR Product</title>
-		<link>https://www.securityweek.com/elastic-refutes-claims-of-zero-day-in-edr-product/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 14:08:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[EDR]]></category>
-		<category><![CDATA[Elastic]]></category>
-		<category><![CDATA[RCE]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43326</guid>
-
-					<description><![CDATA[<p>Elastic has found no evidence of a vulnerability leading to RCE after details and PoC of a Defend EDR bypass were published online.</p>
-<p>The post <a href="https://www.securityweek.com/elastic-refutes-claims-of-zero-day-in-edr-product/">Elastic Refutes Claims of Zero-Day in EDR Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RapperBot Botnet Disrupted, American Administrator Indicted</title>
-		<link>https://www.securityweek.com/rapperbot-botnet-disrupted-american-administrator-indicted/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 12:17:14 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[RapperBot]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43325</guid>
-
-					<description><![CDATA[<p>The US Department of Justice has announced the takedown of the RapperBot botnet and charges against its American administrator.</p>
-<p>The post <a href="https://www.securityweek.com/rapperbot-botnet-disrupted-american-administrator-indicted/">RapperBot Botnet Disrupted, American Administrator Indicted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Seemplicity Raises $50 Million for Exposure Management Platform</title>
-		<link>https://www.securityweek.com/seemplicity-raises-50-million-for-exposure-management-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[risk management]]></category>
-		<category><![CDATA[Seemplicity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43319</guid>
-
-					<description><![CDATA[<p>Seemplicity announced a Series B funding round that will be used to create AI agents for its exposure management solution.</p>
-<p>The post <a href="https://www.securityweek.com/seemplicity-raises-50-million-for-exposure-management-platform/">Seemplicity Raises $50 Million for Exposure Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
