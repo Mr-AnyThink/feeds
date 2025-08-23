@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 22 Aug 2025 10:54:30 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Aug 2025 16:10:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Large Interpol Cybercrime Crackdown in Africa Leads to the Arrest of Over 1,200 Suspects</title>
+		<link>https://www.securityweek.com/large-interpol-cybercrime-crackdown-in-africa-leads-to-the-arrest-of-over-1200-suspects/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 15:57:58 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Interpol]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43358</guid>
+
+					<description><![CDATA[<p>Dubbed Operation Serengeti 2.0, the operation took place between June and August. </p>
+<p>The post <a href="https://www.securityweek.com/large-interpol-cybercrime-crackdown-in-africa-leads-to-the-arrest-of-over-1200-suspects/">Large Interpol Cybercrime Crackdown in Africa Leads to the Arrest of Over 1,200 Suspects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: McDonald&#8217;s Hack, 1,200 Arrested in Africa, DaVita Breach Grows to 2.7M</title>
+		<link>https://www.securityweek.com/in-other-news-mcdonalds-hack-1200-arrested-in-africa-davita-breach-grows-to-2-7m/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 13:40:01 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43356</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: cryptojacker sentenced to prison, ECC.fail Rowhammer attack, and Microsoft limits China’s access to MAPP.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-mcdonalds-hack-1200-arrested-in-africa-davita-breach-grows-to-2-7m/">In Other News: McDonald&#8217;s Hack, 1,200 Arrested in Africa, DaVita Breach Grows to 2.7M</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Silk Typhoon Hackers Targeting Multiple Industries in North America</title>
+		<link>https://www.securityweek.com/chinese-silk-typhoon-hackers-exploited-commvault-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 Aug 2025 13:32:16 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Silk Typhoon]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43354</guid>
+
+					<description><![CDATA[<p>Silk Typhoon was seen exploiting n-day and zero-day vulnerabilities for initial access to victim systems.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-silk-typhoon-hackers-exploited-commvault-zero-day/">Chinese Silk Typhoon Hackers Targeting Multiple Industries in North America</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Developer Who Hacked Former Employer&#8217;s Systems Sentenced to Prison</title>
 		<link>https://www.securityweek.com/developer-who-hacked-former-employers-systems-sentenced-to-prison/</link>
 		
@@ -159,66 +214,6 @@
 
 					<description><![CDATA[<p>Noah Urban was sentenced to 10 years in prison for his role in the notorious cybercriminal operation known as Scattered Spider.</p>
 <p>The post <a href="https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/">Scattered Spider Hacker Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Password Managers Vulnerable to Data Theft via Clickjacking</title>
-		<link>https://www.securityweek.com/password-managers-vulnerable-to-data-theft-via-clickjacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 12:15:56 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[password manager]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43338</guid>
-
-					<description><![CDATA[<p>A researcher has tested nearly a dozen password managers and found that they were all vulnerable to clickjacking attacks.</p>
-<p>The post <a href="https://www.securityweek.com/password-managers-vulnerable-to-data-theft-via-clickjacking/">Password Managers Vulnerable to Data Theft via Clickjacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian APT Exploiting 7-Year-Old Cisco Vulnerability: FBI</title>
-		<link>https://www.securityweek.com/russian-apt-exploiting-7-year-old-cisco-vulnerability-fbi/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 11:10:57 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Dragonfly]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Static Tundra]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43337</guid>
-
-					<description><![CDATA[<p>Russian state-sponsored hackers tracked as Static Tundra continue to target Cisco devices affected by CVE-2018-0171.</p>
-<p>The post <a href="https://www.securityweek.com/russian-apt-exploiting-7-year-old-cisco-vulnerability-fbi/">Russian APT Exploiting 7-Year-Old Cisco Vulnerability: FBI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Orange Belgium Data Breach Impacts 850,000 Customers</title>
-		<link>https://www.securityweek.com/orange-belgium-data-breach-impacts-850000-customers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 10:06:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43334</guid>
-
-					<description><![CDATA[<p>Orange Belgium says hackers accessed data pertaining to 850,000 customer accounts during a July cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/orange-belgium-data-breach-impacts-850000-customers/">Orange Belgium Data Breach Impacts 850,000 Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
