@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 22 Aug 2025 16:10:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Aug 2025 12:08:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,123 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chip Programming Firm Data I/O Hit by Ransomware</title>
+		<link>https://www.securityweek.com/chip-programming-firm-data-i-o-hit-by-ransomware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 12:07:58 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Data I/O]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43368</guid>
+
+					<description><![CDATA[<p>Data I/O has disclosed a ransomware attack that disrupted the company’s operations, including communications, shipping and production. </p>
+<p>The post <a href="https://www.securityweek.com/chip-programming-firm-data-i-o-hit-by-ransomware/">Chip Programming Firm Data I/O Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anatsa Android Banking Trojan Now Targeting 830 Financial Apps</title>
+		<link>https://www.securityweek.com/anatsa-android-banking-trojan-now-targeting-830-financial-institutions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 11:19:26 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Anatsa]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[Android trojan]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43367</guid>
+
+					<description><![CDATA[<p>The Anatsa Android banking trojan has expanded its target list to new countries and more cryptocurrency applications.</p>
+<p>The post <a href="https://www.securityweek.com/anatsa-android-banking-trojan-now-targeting-830-financial-institutions/">Anatsa Android Banking Trojan Now Targeting 830 Financial Apps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Requests Public Feedback on Updated SBOM Guidance</title>
+		<link>https://www.securityweek.com/cisa-requests-public-feedback-on-updated-sbom-guidance/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 10:44:36 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[SBOM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43365</guid>
+
+					<description><![CDATA[<p>CISA has updated the Minimum Elements for a Software Bill of Materials (SBOM) guidance and is seeking public comment.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-requests-public-feedback-on-updated-sbom-guidance/">CISA Requests Public Feedback on Updated SBOM Guidance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SASE Company Netskope Files for IPO</title>
+		<link>https://www.securityweek.com/sase-company-netskope-files-for-ipo/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 09:36:50 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[Netskope]]></category>
+		<category><![CDATA[SASE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43363</guid>
+
+					<description><![CDATA[<p>Netskope has an annual recurring revenue of more than $707 million, but it’s still not profitable, reporting a net loss of $170 million in H1. </p>
+<p>The post <a href="https://www.securityweek.com/sase-company-netskope-files-for-ipo/">SASE Company Netskope Files for IPO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Arch Linux Project Responding to Week-Long DDoS Attack</title>
+		<link>https://www.securityweek.com/arch-linux-project-responding-to-week-long-ddos-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 08:14:30 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Arch Linux]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43362</guid>
+
+					<description><![CDATA[<p>The Arch Linux Project has been targeted in a DDoS attack that disrupted its website, repository, and forums.</p>
+<p>The post <a href="https://www.securityweek.com/arch-linux-project-responding-to-week-long-ddos-attack/">Arch Linux Project Responding to Week-Long DDoS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Farmers Insurance Data Breach Impacts Over 1 Million People</title>
+		<link>https://www.securityweek.com/farmers-insurance-data-breach-impacts-over-1-million-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 06:24:26 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Farmers Insurance]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[insurance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43361</guid>
+
+					<description><![CDATA[<p>Farmers New World Life Insurance and Farmers Group have filed separate data breach notifications with state authorities. </p>
+<p>The post <a href="https://www.securityweek.com/farmers-insurance-data-breach-impacts-over-1-million-people/">Farmers Insurance Data Breach Impacts Over 1 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Large Interpol Cybercrime Crackdown in Africa Leads to the Arrest of Over 1,200 Suspects</title>
 		<link>https://www.securityweek.com/large-interpol-cybercrime-crackdown-in-africa-leads-to-the-arrest-of-over-1200-suspects/</link>
 		
@@ -96,124 +213,6 @@
 
 					<description><![CDATA[<p>Davis Lu was sentenced to four years in prison for installing malicious code on employer’s systems and for deleting encrypted data.</p>
 <p>The post <a href="https://www.securityweek.com/developer-who-hacked-former-employers-systems-sentenced-to-prison/">Developer Who Hacked Former Employer&#8217;s Systems Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CPAP Medical Data Breach Impacts 90,000 People</title>
-		<link>https://www.securityweek.com/cpap-medical-data-breach-impacts-90000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 Aug 2025 09:50:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[CPAP Medical]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43352</guid>
-
-					<description><![CDATA[<p>CPAP Medical Supplies and Services has disclosed a data breach resulting from an intrusion that occurred in December 2024.</p>
-<p>The post <a href="https://www.securityweek.com/cpap-medical-data-breach-impacts-90000-people/">CPAP Medical Data Breach Impacts 90,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AWS Trusted Advisor Tricked Into Showing Unprotected S3 Buckets as Secure</title>
-		<link>https://www.securityweek.com/aws-trusted-advisor-tricked-into-showing-unprotected-s3-buckets-as-secure/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 Aug 2025 09:09:30 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[AWS Trusted Advisor]]></category>
-		<category><![CDATA[S3]]></category>
-		<category><![CDATA[security bypass]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43349</guid>
-
-					<description><![CDATA[<p>AWS has addressed a vulnerability that could have been leveraged to bypass Trusted Advisor’s S3 bucket permissions check.</p>
-<p>The post <a href="https://www.securityweek.com/aws-trusted-advisor-tricked-into-showing-unprotected-s3-buckets-as-secure/">AWS Trusted Advisor Tricked Into Showing Unprotected S3 Buckets as Secure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hundreds Targeted in New Atomic macOS Stealer Campaign</title>
-		<link>https://www.securityweek.com/hundreds-targeted-in-new-atomic-macos-stealer-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Aug 2025 08:04:11 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AMOS]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[SHAMOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43348</guid>
-
-					<description><![CDATA[<p>Between June and August, over 300 entities were targeted with the Atomic macOS Stealer via malvertising.</p>
-<p>The post <a href="https://www.securityweek.com/hundreds-targeted-in-new-atomic-macos-stealer-campaign/">Hundreds Targeted in New Atomic macOS Stealer Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE Updates List of Most Common Hardware Weaknesses</title>
-		<link>https://www.securityweek.com/mitre-updates-list-of-most-common-hardware-weaknesses/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 Aug 2025 07:43:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CWE]]></category>
-		<category><![CDATA[hardware]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43346</guid>
-
-					<description><![CDATA[<p>MITRE has updated the list of Most Important Hardware Weaknesses to align it with evolving hardware security challenges.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-updates-list-of-most-common-hardware-weaknesses/">MITRE Updates List of Most Common Hardware Weaknesses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Telecom Firm Colt Confirms Data Breach as Ransomware Group Auctions Files</title>
-		<link>https://www.securityweek.com/telecom-firm-colt-confirms-data-breach-as-ransomware-group-auctions-files/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 14:49:03 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Colt]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43344</guid>
-
-					<description><![CDATA[<p>Colt Technology Services is working on restoring systems disrupted by a ransomware attack that involved data theft.</p>
-<p>The post <a href="https://www.securityweek.com/telecom-firm-colt-confirms-data-breach-as-ransomware-group-auctions-files/">Telecom Firm Colt Confirms Data Breach as Ransomware Group Auctions Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Scattered Spider Hacker Sentenced to Prison</title>
-		<link>https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 Aug 2025 12:32:56 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Noah Urban]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43340</guid>
-
-					<description><![CDATA[<p>Noah Urban was sentenced to 10 years in prison for his role in the notorious cybercriminal operation known as Scattered Spider.</p>
-<p>The post <a href="https://www.securityweek.com/scattered-spider-hacker-sentenced-to-prison/">Scattered Spider Hacker Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
