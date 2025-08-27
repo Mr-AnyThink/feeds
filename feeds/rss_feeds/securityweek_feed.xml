@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 26 Aug 2025 11:24:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Aug 2025 11:44:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,82 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Citrix Patches Exploited NetScaler Zero-Day</title>
+		<link>https://www.securityweek.com/citrix-patches-exploited-netscaler-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2025 11:44:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[CVE-2025-7775]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43389</guid>
+
+					<description><![CDATA[<p>Zero-day exploited in the wild forces Citrix and CISA to push emergency patch deadlines for federal agencies.</p>
+<p>The post <a href="https://www.securityweek.com/citrix-patches-exploited-netscaler-zero-day/">Citrix Patches Exploited NetScaler Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PromptLock: First AI-Powered Ransomware Emerges</title>
+		<link>https://www.securityweek.com/promptlock-first-ai-powered-ransomware-emerges/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2025 11:33:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43387</guid>
+
+					<description><![CDATA[<p>Proof-of-concept ransomware uses AI models to generate attack scripts in real time.</p>
+<p>The post <a href="https://www.securityweek.com/promptlock-first-ai-powered-ransomware-emerges/">PromptLock: First AI-Powered Ransomware Emerges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Beyond the Prompt: Building Trustworthy Agent Systems</title>
+		<link>https://www.securityweek.com/beyond-the-prompt-building-trustworthy-agent-systems/</link>
+		
+		<dc:creator><![CDATA[Stu Sjouwerman]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[LLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43385</guid>
+
+					<description><![CDATA[<p>Building secure AI agent systems requires a disciplined engineering approach focused on deliberate architecture and human oversight.</p>
+<p>The post <a href="https://www.securityweek.com/beyond-the-prompt-building-trustworthy-agent-systems/">Beyond the Prompt: Building Trustworthy Agent Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Healthcare Services Group Data Breach Impacts 624,000</title>
+		<link>https://www.securityweek.com/healthcare-services-group-data-breach-impacts-624000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2025 13:26:32 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Healthcare Services Group]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43384</guid>
+
+					<description><![CDATA[<p>The personal information of many individuals was stolen from Healthcare Services Group’s computer systems in 2024.</p>
+<p>The post <a href="https://www.securityweek.com/healthcare-services-group-data-breach-impacts-624000/">Healthcare Services Group Data Breach Impacts 624,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Docker Desktop Vulnerability Leads to Host Compromise</title>
 		<link>https://www.securityweek.com/docker-desktop-vulnerability-leads-to-host-compromise/</link>
 		
@@ -137,85 +213,6 @@
 
 					<description><![CDATA[<p>Researchers unveil OneFlip, a Rowhammer-based attack that flips a single bit in neural network weights to stealthily backdoor AI systems without degrading performance.</p>
 <p>The post <a href="https://www.securityweek.com/oneflip-an-emerging-threat-to-ai-that-could-make-vehicles-crash-and-facial-recognition-fail/">OneFlip: An Emerging Threat to AI that Could Make Vehicles Crash and Facial Recognition Fail</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pakistani Hackers Back at Targeting Indian Government Entities</title>
-		<link>https://www.securityweek.com/pakistani-hackers-back-at-targeting-indian-government-entities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Aug 2025 13:25:15 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[APT36]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Pakistan]]></category>
-		<category><![CDATA[Transparent Tribe]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43370</guid>
-
-					<description><![CDATA[<p>Pakistani state-sponsored hacking group APT36 is targeting Linux systems in a fresh campaign aimed at Indian government entities.</p>
-<p>The post <a href="https://www.securityweek.com/pakistani-hackers-back-at-targeting-indian-government-entities/">Pakistani Hackers Back at Targeting Indian Government Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aspire Rural Health System Data Breach Impacts Nearly 140,000</title>
-		<link>https://www.securityweek.com/aspire-rural-health-system-data-breach-impacts-nearly-140000/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 Aug 2025 12:41:51 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[BianLian]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43369</guid>
-
-					<description><![CDATA[<p>Aspire Rural Health System was targeted last year by the BianLian ransomware group, which claimed to have stolen sensitive data.</p>
-<p>The post <a href="https://www.securityweek.com/aspire-rural-health-system-data-breach-impacts-nearly-140000/">Aspire Rural Health System Data Breach Impacts Nearly 140,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chip Programming Firm Data I/O Hit by Ransomware</title>
-		<link>https://www.securityweek.com/chip-programming-firm-data-i-o-hit-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 Aug 2025 12:07:58 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Data I/O]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43368</guid>
-
-					<description><![CDATA[<p>Data I/O has disclosed a ransomware attack that disrupted the company’s operations, including communications, shipping and production. </p>
-<p>The post <a href="https://www.securityweek.com/chip-programming-firm-data-i-o-hit-by-ransomware/">Chip Programming Firm Data I/O Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anatsa Android Banking Trojan Now Targeting 830 Financial Apps</title>
-		<link>https://www.securityweek.com/anatsa-android-banking-trojan-now-targeting-830-financial-institutions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 Aug 2025 11:19:26 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Anatsa]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[Android trojan]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43367</guid>
-
-					<description><![CDATA[<p>The Anatsa Android banking trojan has expanded its target list to new countries and more cryptocurrency applications.</p>
-<p>The post <a href="https://www.securityweek.com/anatsa-android-banking-trojan-now-targeting-830-financial-institutions/">Anatsa Android Banking Trojan Now Targeting 830 Financial Apps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
