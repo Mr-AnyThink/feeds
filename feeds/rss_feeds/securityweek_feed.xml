@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 28 Aug 2025 12:02:07 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Aug 2025 12:17:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,62 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers</title>
+		<link>https://www.securityweek.com/us-sanctions-russian-national-chinese-firm-aiding-north-korean-it-workers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:17:52 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43411</guid>
+
+					<description><![CDATA[<p>US Treasury sanctions Russian and Chinese entities tied to North Korea’s use of fake IT workers, who exploited stolen identities, AI, and malware to funnel millions back to Pyongyang.</p>
+<p>The post <a href="https://www.securityweek.com/us-sanctions-russian-national-chinese-firm-aiding-north-korean-it-workers/">US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Group Exploits Hybrid Cloud Gaps, Gains Full Azure Control in Enterprise Attacks</title>
+		<link>https://www.securityweek.com/ransomware-group-exploits-hybrid-cloud-gaps-gains-full-azure-control-in-enterprise-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:10:40 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Storm-0501]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43410</guid>
+
+					<description><![CDATA[<p>Storm-0501 has been leveraging cloud-native capabilities for data exfiltration and deletion, without deploying file-encrypting malware.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-exploits-hybrid-cloud-gaps-gains-full-azure-control-in-enterprise-attacks/">Ransomware Group Exploits Hybrid Cloud Gaps, Gains Full Azure Control in Enterprise Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China’s Salt Typhoon Hacked Critical Infrastructure Globally for Years</title>
+		<link>https://www.securityweek.com/chinas-salt-typhoon-hacked-critical-infrastructure-globally-for-years/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 28 Aug 2025 13:56:14 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salt Typhoon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43409</guid>
+
+					<description><![CDATA[<p>China-linked APT ‘Salt Typhoon’ exploited known router flaws to maintain persistent access across telecom, government, and military networks, giving Beijing’s intelligence services global surveillance reach.</p>
+<p>The post <a href="https://www.securityweek.com/chinas-salt-typhoon-hacked-critical-infrastructure-globally-for-years/">China’s Salt Typhoon Hacked Critical Infrastructure Globally for Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CrowdStrike to Acquire Onum to Fuel Falcon Next-Gen SIEM With Real-Time Telemetry</title>
 		<link>https://www.securityweek.com/crowdstrike-to-acquire-onum-to-fuel-falcon-next-gen-siem-with-real-time-telemetry/</link>
 		
@@ -155,64 +211,6 @@
 
 					<description><![CDATA[<p>State websites and phone lines were taken offline, but officials say emergency services and personal data remain unaffected.</p>
 <p>The post <a href="https://www.securityweek.com/nevada-state-offices-closed-following-disruptive-cyberattack/">Nevada State Offices Closed Following Disruptive Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Infostealers: The Silent Smash-and-Grab Driving Modern Cybercrime</title>
-		<link>https://www.securityweek.com/infostealers-the-silent-smash-and-grab-driving-modern-cybercrime/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 12:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43390</guid>
-
-					<description><![CDATA[<p>Competition among malware-as-a-service developers has transformed infostealers into refined, accessible tools for cybercriminals worldwide.</p>
-<p>The post <a href="https://www.securityweek.com/infostealers-the-silent-smash-and-grab-driving-modern-cybercrime/">Infostealers: The Silent Smash-and-Grab Driving Modern Cybercrime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Citrix Patches Exploited NetScaler Zero-Day</title>
-		<link>https://www.securityweek.com/citrix-patches-exploited-netscaler-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 11:44:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[CVE-2025-7775]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43389</guid>
-
-					<description><![CDATA[<p>Zero-day exploited in the wild forces Citrix and CISA to push emergency patch deadlines for federal agencies.</p>
-<p>The post <a href="https://www.securityweek.com/citrix-patches-exploited-netscaler-zero-day/">Citrix Patches Exploited NetScaler Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PromptLock: First AI-Powered Ransomware Emerges</title>
-		<link>https://www.securityweek.com/promptlock-first-ai-powered-ransomware-emerges/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 11:33:44 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43387</guid>
-
-					<description><![CDATA[<p>Proof-of-concept ransomware uses AI models to generate attack scripts in real time.</p>
-<p>The post <a href="https://www.securityweek.com/promptlock-first-ai-powered-ransomware-emerges/">PromptLock: First AI-Powered Ransomware Emerges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
