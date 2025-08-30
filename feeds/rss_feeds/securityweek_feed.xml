@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 29 Aug 2025 12:17:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Aug 2025 18:03:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,93 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks</title>
+		<link>https://www.securityweek.com/in-other-news-iranian-ships-hacked-verified-android-developers-ai-used-in-attacks/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 14:26:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43419</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: communications of dozens of Iranian ships disrupted, only apps from verified developers will run on Android devices, and AI used across multiple phases of malicious attacks.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-iranian-ships-hacked-verified-android-developers-ai-used-in-attacks/">In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VerifTools Fake ID Operation Dismantled by Law Enforcement</title>
+		<link>https://www.securityweek.com/veriftools-fake-id-operation-dismantled-by-law-enforcement/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 14:18:29 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[VerifTools]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43418</guid>
+
+					<description><![CDATA[<p>Authorities say VerifTools sold fake driver’s licenses and passports worldwide, enabling fraudsters to bypass KYC checks and access online accounts.</p>
+<p>The post <a href="https://www.securityweek.com/veriftools-fake-id-operation-dismantled-by-law-enforcement/">VerifTools Fake ID Operation Dismantled by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign</title>
+		<link>https://www.securityweek.com/google-confirms-workspace-accounts-also-hit-in-salesforce-salesloft-drift-data-theft-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:40:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43417</guid>
+
+					<description><![CDATA[<p>Google says the same OAuth token compromise that enabled Salesforce data theft also let hackers access a small number of Workspace accounts via the Salesloft Drift integration.</p>
+<p>The post <a href="https://www.securityweek.com/google-confirms-workspace-accounts-also-hit-in-salesforce-salesloft-drift-data-theft-campaign/">Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TransUnion Data Breach Impacts 4.4 Million</title>
+		<link>https://www.securityweek.com/transunion-data-breach-impacts-4-4-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:36:02 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[TransUnion]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43415</guid>
+
+					<description><![CDATA[<p>The credit reporting firm did not name the third-party application involved in the incident, only noting that it was used for its US consumer support operations.</p>
+<p>The post <a href="https://www.securityweek.com/transunion-data-breach-impacts-4-4-million/">TransUnion Data Breach Impacts 4.4 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nevada Confirms Ransomware Attack Behind Statewide Service Disruptions</title>
+		<link>https://www.securityweek.com/nevada-confirms-ransomware-attack-behind-statewide-service-disruptions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2025 12:28:45 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Nevada]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43412</guid>
+
+					<description><![CDATA[<p>State officials confirm ransomware forced office closures, disrupted services, and led to data theft, as Nevada works with CISA and law enforcement to restore critical systems.</p>
+<p>The post <a href="https://www.securityweek.com/nevada-confirms-ransomware-attack-behind-statewide-service-disruptions/">Nevada Confirms Ransomware Attack Behind Statewide Service Disruptions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers</title>
 		<link>https://www.securityweek.com/us-sanctions-russian-national-chinese-firm-aiding-north-korean-it-workers/</link>
 		
@@ -53,6 +140,7 @@
 				<category><![CDATA[Cloud Security]]></category>
 		<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Storm-0501]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=43410</guid>
 
@@ -116,101 +204,6 @@
 
 					<description><![CDATA[<p>Join this live discussion to learn how organizations can strengthen ransomware defenses while staying ahead of tightening compliance requirements.</p>
 <p>The post <a href="https://www.securityweek.com/webinar-today-ransomware-defense-that-meets-evolving-compliance-mandates/">Webinar Today: Ransomware Defense That Meets Evolving Compliance Mandates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Target Popular Nx Build System in First AI-Weaponized Supply Chain Attack</title>
-		<link>https://www.securityweek.com/hackers-target-popular-nx-build-system-in-first-ai-weaponized-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 28 Aug 2025 10:51:27 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Development]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43403</guid>
-
-					<description><![CDATA[<p>With more than 4 million weekly downloads, the Nx build platform became the first known supply chain breach where hackers weaponized AI assistants for data theft.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-popular-nx-build-system-in-first-ai-weaponized-supply-chain-attack/">Hackers Target Popular Nx Build System in First AI-Weaponized Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Weaponize Trust with AI-Crafted Emails to Deploy ScreenConnect</title>
-		<link>https://www.securityweek.com/hackers-weaponize-trust-with-ai-crafted-emails-to-deploy-screenconnect/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 16:54:19 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43401</guid>
-
-					<description><![CDATA[<p>AI-powered phishing attacks leverage ConnectWise ScreenConnect for remote access, underscoring their sophistication.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-weaponize-trust-with-ai-crafted-emails-to-deploy-screenconnect/">Hackers Weaponize Trust with AI-Crafted Emails to Deploy ScreenConnect</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hundreds of Salesforce Customers Hit by Widespread Data Theft Campaign</title>
-		<link>https://www.securityweek.com/hundreds-of-salesforce-customers-hit-by-widespread-data-theft-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 16:31:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[UNC6395]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43400</guid>
-
-					<description><![CDATA[<p>Google says the hackers systematically exported corporate data, focusing on secrets such as AWS and Snowflake keys.</p>
-<p>The post <a href="https://www.securityweek.com/hundreds-of-salesforce-customers-hit-by-widespread-data-theft-campaign/">Hundreds of Salesforce Customers Hit by Widespread Data Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China-Linked Hackers Hijack Web Traffic to Deliver Backdoor</title>
-		<link>https://www.securityweek.com/china-linked-hackers-hijack-web-traffic-to-deliver-backdoor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 16:07:29 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[PlugX]]></category>
-		<category><![CDATA[UNC6384]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43399</guid>
-
-					<description><![CDATA[<p>Google researchers say China-linked UNC6384 combined social engineering, signed malware, and adversary-in-the-middle attacks to evade detection.</p>
-<p>The post <a href="https://www.securityweek.com/china-linked-hackers-hijack-web-traffic-to-deliver-backdoor/">China-Linked Hackers Hijack Web Traffic to Deliver Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nevada State Offices Closed Following Disruptive Cyberattack</title>
-		<link>https://www.securityweek.com/nevada-state-offices-closed-following-disruptive-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 13:15:10 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Nevada]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43397</guid>
-
-					<description><![CDATA[<p>State websites and phone lines were taken offline, but officials say emergency services and personal data remain unaffected.</p>
-<p>The post <a href="https://www.securityweek.com/nevada-state-offices-closed-following-disruptive-cyberattack/">Nevada State Offices Closed Following Disruptive Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
