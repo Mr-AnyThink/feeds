@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 02 Sep 2025 12:12:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Sep 2025 11:29:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,130 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</title>
+		<link>https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43441</guid>
+
+					<description><![CDATA[<p>Known for her seminal book, A Hacker Manifesto, Wark reframes hacking as a cultural force rooted in play, creativity, and human nature.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/">Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pennsylvania Attorney General Confirms Ransomware Behind Weeks-Long Outage</title>
+		<link>https://www.securityweek.com/pennsylvania-attorney-general-confirms-ransomware-behind-weeks-long-outage/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 11:29:16 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43444</guid>
+
+					<description><![CDATA[<p>Attack disrupted email, phones, and websites for weeks, but officials say no ransom was paid.</p>
+<p>The post <a href="https://www.securityweek.com/pennsylvania-attorney-general-confirms-ransomware-behind-weeks-long-outage/">Pennsylvania Attorney General Confirms Ransomware Behind Weeks-Long Outage</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Jaguar Land Rover Operations &#8216;Severely Disrupted&#8217; by Cyberattack</title>
+		<link>https://www.securityweek.com/jaguar-land-rover-operations-severely-disrupted-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 10:06:32 +0000</pubDate>
+				<category><![CDATA[Disaster Recovery]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Jaguar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43439</guid>
+
+					<description><![CDATA[<p>The automotive company said it disconnected its systems, which severely impacted both retail and manufacturing operations.</p>
+<p>The post <a href="https://www.securityweek.com/jaguar-land-rover-operations-severely-disrupted-by-cyberattack/">Jaguar Land Rover Operations &#8216;Severely Disrupted&#8217; by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Firms Hit by Salesforce–Salesloft Drift Breach</title>
+		<link>https://www.securityweek.com/security-firms-hit-by-salesforce-salesloft-drift-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 09:53:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Salesloft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43438</guid>
+
+					<description><![CDATA[<p>Hackers accessed customer contact information and case data from Salesforce instances at Cloudflare, Palo Alto Networks, and Zscaler.</p>
+<p>The post <a href="https://www.securityweek.com/security-firms-hit-by-salesforce-salesloft-drift-breach/">Security Firms Hit by Salesforce–Salesloft Drift Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sangoma Patches Critical Zero-Day Exploited to Hack FreePBX Servers</title>
+		<link>https://www.securityweek.com/sangoma-patches-critical-zero-day-exploited-to-hack-freepbx-servers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2025 18:11:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-57819]]></category>
+		<category><![CDATA[Sangoma]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43433</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2025-57819 (CVSS score of 10/10), the bug is described as an insufficient sanitization of user-supplied data. </p>
+<p>The post <a href="https://www.securityweek.com/sangoma-patches-critical-zero-day-exploited-to-hack-freepbx-servers/">Sangoma Patches Critical Zero-Day Exploited to Hack FreePBX Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</title>
+		<link>https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2025 15:02:36 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43430</guid>
+
+					<description><![CDATA[<p>Part of a wave of DDoS attacks that lasted for weeks, the assault was a UDP flood, originating from several IoT and cloud providers.</p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/">Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Varonis Acquires Email Security Firm SlashNext</title>
+		<link>https://www.securityweek.com/varonis-acquires-email-security-firm-slashnext/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2025 14:56:23 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[SlashNext]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43428</guid>
+
+					<description><![CDATA[<p>The transaction is valued up to $150 million, including performance-based retention awards, a Varonis spokesperson told SecurityWeek.</p>
+<p>The post <a href="https://www.securityweek.com/varonis-acquires-email-security-firm-slashnext/">Varonis Acquires Email Security Firm SlashNext</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Amazon Disrupts Russian Hacking Campaign Targeting Microsoft Users</title>
 		<link>https://www.securityweek.com/amazon-disrupts-russian-hacking-campaign-targeting-microsoft-users/</link>
 		
@@ -79,134 +203,6 @@
 
 					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: communications of dozens of Iranian ships disrupted, only apps from verified developers will run on Android devices, and AI used across multiple phases of malicious attacks.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-iranian-ships-hacked-verified-android-developers-ai-used-in-attacks/">In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VerifTools Fake ID Operation Dismantled by Law Enforcement</title>
-		<link>https://www.securityweek.com/veriftools-fake-id-operation-dismantled-by-law-enforcement/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 14:18:29 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[VerifTools]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43418</guid>
-
-					<description><![CDATA[<p>Authorities say VerifTools sold fake driver’s licenses and passports worldwide, enabling fraudsters to bypass KYC checks and access online accounts.</p>
-<p>The post <a href="https://www.securityweek.com/veriftools-fake-id-operation-dismantled-by-law-enforcement/">VerifTools Fake ID Operation Dismantled by Law Enforcement</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign</title>
-		<link>https://www.securityweek.com/google-confirms-workspace-accounts-also-hit-in-salesforce-salesloft-drift-data-theft-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 12:40:57 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43417</guid>
-
-					<description><![CDATA[<p>Google says the same OAuth token compromise that enabled Salesforce data theft also let hackers access a small number of Workspace accounts via the Salesloft Drift integration.</p>
-<p>The post <a href="https://www.securityweek.com/google-confirms-workspace-accounts-also-hit-in-salesforce-salesloft-drift-data-theft-campaign/">Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TransUnion Data Breach Impacts 4.4 Million</title>
-		<link>https://www.securityweek.com/transunion-data-breach-impacts-4-4-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 12:36:02 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[TransUnion]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43415</guid>
-
-					<description><![CDATA[<p>The credit reporting firm did not name the third-party application involved in the incident, only noting that it was used for its US consumer support operations.</p>
-<p>The post <a href="https://www.securityweek.com/transunion-data-breach-impacts-4-4-million/">TransUnion Data Breach Impacts 4.4 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nevada Confirms Ransomware Attack Behind Statewide Service Disruptions</title>
-		<link>https://www.securityweek.com/nevada-confirms-ransomware-attack-behind-statewide-service-disruptions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 12:28:45 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Nevada]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43412</guid>
-
-					<description><![CDATA[<p>State officials confirm ransomware forced office closures, disrupted services, and led to data theft, as Nevada works with CISA and law enforcement to restore critical systems.</p>
-<p>The post <a href="https://www.securityweek.com/nevada-confirms-ransomware-attack-behind-statewide-service-disruptions/">Nevada Confirms Ransomware Attack Behind Statewide Service Disruptions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers</title>
-		<link>https://www.securityweek.com/us-sanctions-russian-national-chinese-firm-aiding-north-korean-it-workers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 12:17:52 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43411</guid>
-
-					<description><![CDATA[<p>US Treasury sanctions Russian and Chinese entities tied to North Korea’s use of fake IT workers, who exploited stolen identities, AI, and malware to funnel millions back to Pyongyang.</p>
-<p>The post <a href="https://www.securityweek.com/us-sanctions-russian-national-chinese-firm-aiding-north-korean-it-workers/">US Sanctions Russian National, Chinese Firm Aiding North Korean IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Exploits Hybrid Cloud Gaps, Gains Full Azure Control in Enterprise Attacks</title>
-		<link>https://www.securityweek.com/ransomware-group-exploits-hybrid-cloud-gaps-gains-full-azure-control-in-enterprise-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 12:10:40 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Storm-0501]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43410</guid>
-
-					<description><![CDATA[<p>Storm-0501 has been leveraging cloud-native capabilities for data exfiltration and deletion, without deploying file-encrypting malware.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-exploits-hybrid-cloud-gaps-gains-full-azure-control-in-enterprise-attacks/">Ransomware Group Exploits Hybrid Cloud Gaps, Gains Full Azure Control in Enterprise Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China’s Salt Typhoon Hacked Critical Infrastructure Globally for Years</title>
-		<link>https://www.securityweek.com/chinas-salt-typhoon-hacked-critical-infrastructure-globally-for-years/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 28 Aug 2025 13:56:14 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43409</guid>
-
-					<description><![CDATA[<p>China-linked APT ‘Salt Typhoon’ exploited known router flaws to maintain persistent access across telecom, government, and military networks, giving Beijing’s intelligence services global surveillance reach.</p>
-<p>The post <a href="https://www.securityweek.com/chinas-salt-typhoon-hacked-critical-infrastructure-globally-for-years/">China’s Salt Typhoon Hacked Critical Infrastructure Globally for Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
