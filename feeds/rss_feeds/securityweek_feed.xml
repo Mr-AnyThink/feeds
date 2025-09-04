@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 03 Sep 2025 11:29:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Sep 2025 11:53:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,174 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sola Security Raises $35M to Bring No-Code App Building to Cybersecurity Teams</title>
+		<link>https://www.securityweek.com/sola-security-raises-35m-to-bring-no-code-app-building-to-cybersecurity-teams/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 11:42:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43456</guid>
+
+					<description><![CDATA[<p>The Israeli startup’s AI-powered no-code platform helps security teams design and deploy custom apps in minutes—tackling tool sprawl without heavy engineering.</p>
+<p>The post <a href="https://www.securityweek.com/sola-security-raises-35m-to-bring-no-code-app-building-to-cybersecurity-teams/">Sola Security Raises $35M to Bring No-Code App Building to Cybersecurity Teams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US, Allies Push for SBOMs to Bolster Cybersecurity</title>
+		<link>https://www.securityweek.com/us-allies-push-for-sboms-to-bolster-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 10:37:53 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[SBOM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43455</guid>
+
+					<description><![CDATA[<p>SBOM adoption will drive software supply chain security, decreasing risks and costs, and improving transparency.</p>
+<p>The post <a href="https://www.securityweek.com/us-allies-push-for-sboms-to-bolster-cybersecurity/">US, Allies Push for SBOMs to Bolster Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wytec Expects Significant Financial Loss Following Website Hack</title>
+		<link>https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 09:46:27 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[defaced]]></category>
+		<category><![CDATA[Wytec]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43454</guid>
+
+					<description><![CDATA[<p>Wytec’s website was defaced twice by unknown threat actors more than a week ago and it has yet to be brought back online.</p>
+<p>The post <a href="https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/">Wytec Expects Significant Financial Loss Following Website Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Exploit Sitecore Zero-Day for Malware Delivery</title>
+		<link>https://www.securityweek.com/hackers-exploit-sitecore-zero-day-for-malware-delivery/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 08:46:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Sitecore]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43453</guid>
+
+					<description><![CDATA[<p>Google has observed ViewState deserialization attacks leveraging a sample machine key exposed in older deployment guides.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-exploit-sitecore-zero-day-for-malware-delivery/">Hackers Exploit Sitecore Zero-Day for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Two Exploited Vulnerabilities Patched in Android</title>
+		<link>https://www.securityweek.com/two-exploited-vulnerabilities-patched-in-android/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 07:49:35 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43452</guid>
+
+					<description><![CDATA[<p>Elevation of privilege flaws in Android Runtime (CVE-2025-48543) and Linux kernel (CVE-2025-38352) have been exploited in targeted attacks.</p>
+<p>The post <a href="https://www.securityweek.com/two-exploited-vulnerabilities-patched-in-android/">Two Exploited Vulnerabilities Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tidal Cyber Raises $10 Million for CTI and Adversary Behavior Platform</title>
+		<link>https://www.securityweek.com/tidal-cyber-raises-10-million-for-cti-and-adversary-behavior-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 01:55:15 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43451</guid>
+
+					<description><![CDATA[<p>Co-founded by former MITRE experts, the startup will use the funding to accelerate product innovation and fuel company growth.</p>
+<p>The post <a href="https://www.securityweek.com/tidal-cyber-raises-10-million-for-cti-and-adversary-behavior-platform/">Tidal Cyber Raises $10 Million for CTI and Adversary Behavior Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Cybersecurity Agency Flags Wi-Fi Range Extender Vulnerability Under Active Attack</title>
+		<link>https://www.securityweek.com/us-cybersecurity-agency-flags-wi-fi-range-extender-vulnerability-under-active-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 18:56:27 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2020-24363]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43450</guid>
+
+					<description><![CDATA[<p>Flaw allows attackers to reset and hijack TP-Link TL-WA855RE devices; CISA urges users to retire discontinued extenders.</p>
+<p>The post <a href="https://www.securityweek.com/us-cybersecurity-agency-flags-wi-fi-range-extender-vulnerability-under-active-attack/">US Cybersecurity Agency Flags Wi-Fi Range Extender Vulnerability Under Active Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Patches High-Severity Chrome Vulnerability in Latest Update</title>
+		<link>https://www.securityweek.com/google-patches-high-severity-chrome-vulnerability-in-latest-update/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 14:29:33 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[CVE-2025-9864]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43449</guid>
+
+					<description><![CDATA[<p>Chrome's latest release addresses a high-severity use-after-free vulnerability in the V8 JavaScript engine that could be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-high-severity-chrome-vulnerability-in-latest-update/">Google Patches High-Severity Chrome Vulnerability in Latest Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cato Networks Acquires AI Security Firm Aim Security</title>
+		<link>https://www.securityweek.com/cato-networks-acquires-ai-security-firm-aim-security/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 13:38:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43446</guid>
+
+					<description><![CDATA[<p>Founded in 2022 to help organizations with the secure deployment of generative-AI utilities, Aim emerged from stealth in January 2024.</p>
+<p>The post <a href="https://www.securityweek.com/cato-networks-acquires-ai-security-firm-aim-security/">Cato Networks Acquires AI Security Firm Aim Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</title>
 		<link>https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/</link>
 		
@@ -38,171 +206,6 @@
 
 					<description><![CDATA[<p>Known for her seminal book, A Hacker Manifesto, Wark reframes hacking as a cultural force rooted in play, creativity, and human nature.</p>
 <p>The post <a href="https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/">Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pennsylvania Attorney General Confirms Ransomware Behind Weeks-Long Outage</title>
-		<link>https://www.securityweek.com/pennsylvania-attorney-general-confirms-ransomware-behind-weeks-long-outage/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 11:29:16 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43444</guid>
-
-					<description><![CDATA[<p>Attack disrupted email, phones, and websites for weeks, but officials say no ransom was paid.</p>
-<p>The post <a href="https://www.securityweek.com/pennsylvania-attorney-general-confirms-ransomware-behind-weeks-long-outage/">Pennsylvania Attorney General Confirms Ransomware Behind Weeks-Long Outage</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jaguar Land Rover Operations &#8216;Severely Disrupted&#8217; by Cyberattack</title>
-		<link>https://www.securityweek.com/jaguar-land-rover-operations-severely-disrupted-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 10:06:32 +0000</pubDate>
-				<category><![CDATA[Disaster Recovery]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Jaguar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43439</guid>
-
-					<description><![CDATA[<p>The automotive company said it disconnected its systems, which severely impacted both retail and manufacturing operations.</p>
-<p>The post <a href="https://www.securityweek.com/jaguar-land-rover-operations-severely-disrupted-by-cyberattack/">Jaguar Land Rover Operations &#8216;Severely Disrupted&#8217; by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Firms Hit by Salesforce–Salesloft Drift Breach</title>
-		<link>https://www.securityweek.com/security-firms-hit-by-salesforce-salesloft-drift-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 09:53:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[Salesloft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43438</guid>
-
-					<description><![CDATA[<p>Hackers accessed customer contact information and case data from Salesforce instances at Cloudflare, Palo Alto Networks, and Zscaler.</p>
-<p>The post <a href="https://www.securityweek.com/security-firms-hit-by-salesforce-salesloft-drift-breach/">Security Firms Hit by Salesforce–Salesloft Drift Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sangoma Patches Critical Zero-Day Exploited to Hack FreePBX Servers</title>
-		<link>https://www.securityweek.com/sangoma-patches-critical-zero-day-exploited-to-hack-freepbx-servers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 18:11:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-57819]]></category>
-		<category><![CDATA[Sangoma]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43433</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2025-57819 (CVSS score of 10/10), the bug is described as an insufficient sanitization of user-supplied data. </p>
-<p>The post <a href="https://www.securityweek.com/sangoma-patches-critical-zero-day-exploited-to-hack-freepbx-servers/">Sangoma Patches Critical Zero-Day Exploited to Hack FreePBX Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</title>
-		<link>https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 15:02:36 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43430</guid>
-
-					<description><![CDATA[<p>Part of a wave of DDoS attacks that lasted for weeks, the assault was a UDP flood, originating from several IoT and cloud providers.</p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-blocks-record-11-5-tbps-ddos-attack/">Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Varonis Acquires Email Security Firm SlashNext</title>
-		<link>https://www.securityweek.com/varonis-acquires-email-security-firm-slashnext/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 14:56:23 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[SlashNext]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43428</guid>
-
-					<description><![CDATA[<p>The transaction is valued up to $150 million, including performance-based retention awards, a Varonis spokesperson told SecurityWeek.</p>
-<p>The post <a href="https://www.securityweek.com/varonis-acquires-email-security-firm-slashnext/">Varonis Acquires Email Security Firm SlashNext</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon Disrupts Russian Hacking Campaign Targeting Microsoft Users</title>
-		<link>https://www.securityweek.com/amazon-disrupts-russian-hacking-campaign-targeting-microsoft-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 12:12:12 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[APT29]]></category>
-		<category><![CDATA[Cozy Bear]]></category>
-		<category><![CDATA[Midnight Blizzard]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43427</guid>
-
-					<description><![CDATA[<p>The Midnight Blizzard cyberspies used compromised websites to trick users into authorizing devices they controlled.</p>
-<p>The post <a href="https://www.securityweek.com/amazon-disrupts-russian-hacking-campaign-targeting-microsoft-users/">Amazon Disrupts Russian Hacking Campaign Targeting Microsoft Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp Zero-Day Exploited in Attacks Targeting Apple Users</title>
-		<link>https://www.securityweek.com/whatsapp-zero-day-exploited-in-attacks-targeting-apple-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 11:39:32 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-55177]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43425</guid>
-
-					<description><![CDATA[<p>The vulnerability (CVE-2025-55177) was exploited along an iOS/macOS zero-day in suspected spyware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/whatsapp-zero-day-exploited-in-attacks-targeting-apple-users/">WhatsApp Zero-Day Exploited in Attacks Targeting Apple Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks</title>
-		<link>https://www.securityweek.com/in-other-news-iranian-ships-hacked-verified-android-developers-ai-used-in-attacks/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 29 Aug 2025 14:26:07 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43419</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: communications of dozens of Iranian ships disrupted, only apps from verified developers will run on Android devices, and AI used across multiple phases of malicious attacks.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-iranian-ships-hacked-verified-android-developers-ai-used-in-attacks/">In Other News: Iranian Ships Hacked, Verified Android Developers, AI Used in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
