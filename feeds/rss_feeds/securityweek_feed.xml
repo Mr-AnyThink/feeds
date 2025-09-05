@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 04 Sep 2025 11:53:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Sep 2025 12:17:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,141 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Scammers Abuse Grok, US Manufacturing Attacks, Gmail Security Claims Debunked</title>
+		<link>https://www.securityweek.com/in-other-news-scammers-abuse-grok-us-manufacturing-attacks-gmail-security-claims-debunked/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 12:17:31 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43485</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Google fined €325 million, City of Baltimore sent $1.5 million to scammer, Bridgestone targeted in cyberattack.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-scammers-abuse-grok-us-manufacturing-attacks-gmail-security-claims-debunked/">In Other News: Scammers Abuse Grok, US Manufacturing Attacks, Gmail Security Claims Debunked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Targeted Hundreds in Fake Job Interview Attacks</title>
+		<link>https://www.securityweek.com/north-korean-hackers-targeted-hundreds-in-fake-job-interview-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 10:37:33 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Contagious Interview]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[jobs]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43484</guid>
+
+					<description><![CDATA[<p>The hackers were seen actively monitoring cyber threat intelligence to discover and rebuild exposed infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-targeted-hundreds-in-fake-job-interview-attacks/">North Korean Hackers Targeted Hundreds in Fake Job Interview Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>More Cybersecurity Firms Hit by Salesforce-Salesloft Drift Breach</title>
+		<link>https://www.securityweek.com/more-cybersecurity-firms-hit-by-salesforce-salesloft-drift-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 08:42:27 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Salesloft]]></category>
+		<category><![CDATA[security company hacked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43482</guid>
+
+					<description><![CDATA[<p>Proofpoint, SpyCloud, Tanium, and Tenable confirmed that hackers accessed information stored in their Salesforce instances.</p>
+<p>The post <a href="https://www.securityweek.com/more-cybersecurity-firms-hit-by-salesforce-salesloft-drift-breach/">More Cybersecurity Firms Hit by Salesforce-Salesloft Drift Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent SAP S/4HANA Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/recent-sap-s-4hana-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 07:49:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SAP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43480</guid>
+
+					<description><![CDATA[<p>A critical SAP S/4HANA code injection flaw tracked as CVE-2025-42957 and allowing full system takeover has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/recent-sap-s-4hana-vulnerability-exploited-in-attacks/">Recent SAP S/4HANA Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Seeks Researchers for 2026 iPhone Security Program</title>
+		<link>https://www.securityweek.com/apple-seeks-researchers-for-2026-iphone-security-program/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 15:09:02 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Security Research Device]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[SRDP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43469</guid>
+
+					<description><![CDATA[<p>Security researchers interested in participating in the 2026 Apple Security Research Device program can apply until October 31.</p>
+<p>The post <a href="https://www.securityweek.com/apple-seeks-researchers-for-2026-iphone-security-program/">Apple Seeks Researchers for 2026 iPhone Security Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Supply Chain Attack Method Demonstrated Against Google, Microsoft Products</title>
+		<link>https://www.securityweek.com/ai-supply-chain-attack-method-demonstrated-against-google-microsoft-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 12:59:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[model namespace reuse]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43459</guid>
+
+					<description><![CDATA[<p>An AI supply chain issue named Model Namespace Reuse can allow attackers to deploy malicious models and achieve code execution.</p>
+<p>The post <a href="https://www.securityweek.com/ai-supply-chain-attack-method-demonstrated-against-google-microsoft-products/">AI Supply Chain Attack Method Demonstrated Against Google, Microsoft Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Offers $10 Million for Three Russian Energy Firm Hackers</title>
+		<link>https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 12:25:18 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[reward]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43458</guid>
+
+					<description><![CDATA[<p>Marat Tyukov, Mikhail Gavrilov, and Pavel Akulov targeted US critical infrastructure and over 500 energy companies in 135 countries.</p>
+<p>The post <a href="https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/">US Offers $10 Million for Three Russian Energy Firm Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sola Security Raises $35M to Bring No-Code App Building to Cybersecurity Teams</title>
 		<link>https://www.securityweek.com/sola-security-raises-35m-to-bring-no-code-app-building-to-cybersecurity-teams/</link>
 		
@@ -79,133 +214,6 @@
 
 					<description><![CDATA[<p>Wytec’s website was defaced twice by unknown threat actors more than a week ago and it has yet to be brought back online.</p>
 <p>The post <a href="https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/">Wytec Expects Significant Financial Loss Following Website Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Exploit Sitecore Zero-Day for Malware Delivery</title>
-		<link>https://www.securityweek.com/hackers-exploit-sitecore-zero-day-for-malware-delivery/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 08:46:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Sitecore]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43453</guid>
-
-					<description><![CDATA[<p>Google has observed ViewState deserialization attacks leveraging a sample machine key exposed in older deployment guides.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-exploit-sitecore-zero-day-for-malware-delivery/">Hackers Exploit Sitecore Zero-Day for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two Exploited Vulnerabilities Patched in Android</title>
-		<link>https://www.securityweek.com/two-exploited-vulnerabilities-patched-in-android/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 07:49:35 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43452</guid>
-
-					<description><![CDATA[<p>Elevation of privilege flaws in Android Runtime (CVE-2025-48543) and Linux kernel (CVE-2025-38352) have been exploited in targeted attacks.</p>
-<p>The post <a href="https://www.securityweek.com/two-exploited-vulnerabilities-patched-in-android/">Two Exploited Vulnerabilities Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tidal Cyber Raises $10 Million for CTI and Adversary Behavior Platform</title>
-		<link>https://www.securityweek.com/tidal-cyber-raises-10-million-for-cti-and-adversary-behavior-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 01:55:15 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43451</guid>
-
-					<description><![CDATA[<p>Co-founded by former MITRE experts, the startup will use the funding to accelerate product innovation and fuel company growth.</p>
-<p>The post <a href="https://www.securityweek.com/tidal-cyber-raises-10-million-for-cti-and-adversary-behavior-platform/">Tidal Cyber Raises $10 Million for CTI and Adversary Behavior Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Cybersecurity Agency Flags Wi-Fi Range Extender Vulnerability Under Active Attack</title>
-		<link>https://www.securityweek.com/us-cybersecurity-agency-flags-wi-fi-range-extender-vulnerability-under-active-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 18:56:27 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2020-24363]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43450</guid>
-
-					<description><![CDATA[<p>Flaw allows attackers to reset and hijack TP-Link TL-WA855RE devices; CISA urges users to retire discontinued extenders.</p>
-<p>The post <a href="https://www.securityweek.com/us-cybersecurity-agency-flags-wi-fi-range-extender-vulnerability-under-active-attack/">US Cybersecurity Agency Flags Wi-Fi Range Extender Vulnerability Under Active Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Patches High-Severity Chrome Vulnerability in Latest Update</title>
-		<link>https://www.securityweek.com/google-patches-high-severity-chrome-vulnerability-in-latest-update/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 14:29:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[CVE-2025-9864]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43449</guid>
-
-					<description><![CDATA[<p>Chrome's latest release addresses a high-severity use-after-free vulnerability in the V8 JavaScript engine that could be exploited for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-high-severity-chrome-vulnerability-in-latest-update/">Google Patches High-Severity Chrome Vulnerability in Latest Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cato Networks Acquires AI Security Firm Aim Security</title>
-		<link>https://www.securityweek.com/cato-networks-acquires-ai-security-firm-aim-security/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 13:38:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43446</guid>
-
-					<description><![CDATA[<p>Founded in 2022 to help organizations with the secure deployment of generative-AI utilities, Aim emerged from stealth in January 2024.</p>
-<p>The post <a href="https://www.securityweek.com/cato-networks-acquires-ai-security-firm-aim-security/">Cato Networks Acquires AI Security Firm Aim Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</title>
-		<link>https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 03 Sep 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43441</guid>
-
-					<description><![CDATA[<p>Known for her seminal book, A Hacker Manifesto, Wark reframes hacking as a cultural force rooted in play, creativity, and human nature.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-mckenzie-wark-author-of-a-hacker-manifesto/">Hacker Conversations: McKenzie Wark, Author of A Hacker Manifesto</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
