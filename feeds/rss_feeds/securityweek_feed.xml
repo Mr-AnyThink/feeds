@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 05 Sep 2025 12:17:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Sep 2025 14:54:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,67 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How to Close the AI Governance Gap in Software Development</title>
+		<link>https://www.securityweek.com/how-to-close-the-ai-governance-gap-in-software-development/</link>
+		
+		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[DevSecOps]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43488</guid>
+
+					<description><![CDATA[<p>Widespread adoption of AI coding tools accelerates development—but also introduces critical vulnerabilities that demand stronger governance and oversight.</p>
+<p>The post <a href="https://www.securityweek.com/how-to-close-the-ai-governance-gap-in-software-development/">How to Close the AI Governance Gap in Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool</title>
+		<link>https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 13:41:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[A2]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43487</guid>
+
+					<description><![CDATA[<p>Called A2, the framework mimics human analysis to identify vulnerabilities in Android applications and then validates them.</p>
+<p>The post <a href="https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/">Academics Build AI-Powered Android Vulnerability Discovery and Validation Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FireCompass Raises $20 Million for Offensive Security Platform</title>
+		<link>https://www.securityweek.com/firecompass-raises-20-million-for-offensive-security-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Sep 2025 12:29:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[FireCompass]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<category><![CDATA[penetration testing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43486</guid>
+
+					<description><![CDATA[<p>The AI-powered automated penetration testing firm will invest the new funds in R&#038;D, team expansion, and global scale.</p>
+<p>The post <a href="https://www.securityweek.com/firecompass-raises-20-million-for-offensive-security-platform/">FireCompass Raises $20 Million for Offensive Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Scammers Abuse Grok, US Manufacturing Attacks, Gmail Security Claims Debunked</title>
 		<link>https://www.securityweek.com/in-other-news-scammers-abuse-grok-us-manufacturing-attacks-gmail-security-claims-debunked/</link>
 		
@@ -157,63 +218,6 @@
 
 					<description><![CDATA[<p>Marat Tyukov, Mikhail Gavrilov, and Pavel Akulov targeted US critical infrastructure and over 500 energy companies in 135 countries.</p>
 <p>The post <a href="https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/">US Offers $10 Million for Three Russian Energy Firm Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sola Security Raises $35M to Bring No-Code App Building to Cybersecurity Teams</title>
-		<link>https://www.securityweek.com/sola-security-raises-35m-to-bring-no-code-app-building-to-cybersecurity-teams/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 11:42:07 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43456</guid>
-
-					<description><![CDATA[<p>The Israeli startup’s AI-powered no-code platform helps security teams design and deploy custom apps in minutes—tackling tool sprawl without heavy engineering.</p>
-<p>The post <a href="https://www.securityweek.com/sola-security-raises-35m-to-bring-no-code-app-building-to-cybersecurity-teams/">Sola Security Raises $35M to Bring No-Code App Building to Cybersecurity Teams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US, Allies Push for SBOMs to Bolster Cybersecurity</title>
-		<link>https://www.securityweek.com/us-allies-push-for-sboms-to-bolster-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 10:37:53 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43455</guid>
-
-					<description><![CDATA[<p>SBOM adoption will drive software supply chain security, decreasing risks and costs, and improving transparency.</p>
-<p>The post <a href="https://www.securityweek.com/us-allies-push-for-sboms-to-bolster-cybersecurity/">US, Allies Push for SBOMs to Bolster Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wytec Expects Significant Financial Loss Following Website Hack</title>
-		<link>https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 09:46:27 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[defaced]]></category>
-		<category><![CDATA[Wytec]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43454</guid>
-
-					<description><![CDATA[<p>Wytec’s website was defaced twice by unknown threat actors more than a week ago and it has yet to be brought back online.</p>
-<p>The post <a href="https://www.securityweek.com/wytec-expects-significant-financial-loss-following-website-hack/">Wytec Expects Significant Financial Loss Following Website Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
