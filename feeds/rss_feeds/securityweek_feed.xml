@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 05 Sep 2025 14:54:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Sep 2025 10:31:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Over 6,700 Private Repositories Made Public in Nx Supply Chain Attack</title>
+		<link>https://www.securityweek.com/over-6700-private-repositories-made-public-in-nx-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 10:31:45 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[S1ngularity]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43495</guid>
+
+					<description><![CDATA[<p>The private repositories of hundreds of organizations were published publicly in the second phase of the Nx supply chain attack.</p>
+<p>The post <a href="https://www.securityweek.com/over-6700-private-repositories-made-public-in-nx-supply-chain-attack/">Over 6,700 Private Repositories Made Public in Nx Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fintech Firm Wealthsimple Says Supply Chain Attack Resulted in Data Breach</title>
+		<link>https://www.securityweek.com/fintech-firm-wealthsimple-says-supply-chain-attack-resulted-in-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 09:09:44 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Wealthsimple]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43494</guid>
+
+					<description><![CDATA[<p>Canadian firm Wealthsimple says a data breach impacts the information of some customers, but accounts and funds remain secure.</p>
+<p>The post <a href="https://www.securityweek.com/fintech-firm-wealthsimple-says-supply-chain-attack-resulted-in-data-breach/">Fintech Firm Wealthsimple Says Supply Chain Attack Resulted in Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 27 Deals Announced in August 2025</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-27-deals-announced-in-august-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Sep 2025 08:18:45 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43493</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Accenture, CrowdStrike, F5, Okta, and SentinelOne.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-27-deals-announced-in-august-2025/">Cybersecurity M&#038;A Roundup: 27 Deals Announced in August 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>How to Close the AI Governance Gap in Software Development</title>
 		<link>https://www.securityweek.com/how-to-close-the-ai-governance-gap-in-software-development/</link>
 		
@@ -159,65 +216,6 @@
 
 					<description><![CDATA[<p>A critical SAP S/4HANA code injection flaw tracked as CVE-2025-42957 and allowing full system takeover has been exploited in the wild.</p>
 <p>The post <a href="https://www.securityweek.com/recent-sap-s-4hana-vulnerability-exploited-in-attacks/">Recent SAP S/4HANA Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Seeks Researchers for 2026 iPhone Security Program</title>
-		<link>https://www.securityweek.com/apple-seeks-researchers-for-2026-iphone-security-program/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 15:09:02 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Security Research Device]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[SRDP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43469</guid>
-
-					<description><![CDATA[<p>Security researchers interested in participating in the 2026 Apple Security Research Device program can apply until October 31.</p>
-<p>The post <a href="https://www.securityweek.com/apple-seeks-researchers-for-2026-iphone-security-program/">Apple Seeks Researchers for 2026 iPhone Security Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Supply Chain Attack Method Demonstrated Against Google, Microsoft Products</title>
-		<link>https://www.securityweek.com/ai-supply-chain-attack-method-demonstrated-against-google-microsoft-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 12:59:34 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[model namespace reuse]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43459</guid>
-
-					<description><![CDATA[<p>An AI supply chain issue named Model Namespace Reuse can allow attackers to deploy malicious models and achieve code execution.</p>
-<p>The post <a href="https://www.securityweek.com/ai-supply-chain-attack-method-demonstrated-against-google-microsoft-products/">AI Supply Chain Attack Method Demonstrated Against Google, Microsoft Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Offers $10 Million for Three Russian Energy Firm Hackers</title>
-		<link>https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Sep 2025 12:25:18 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[reward]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43458</guid>
-
-					<description><![CDATA[<p>Marat Tyukov, Mikhail Gavrilov, and Pavel Akulov targeted US critical infrastructure and over 500 energy companies in 135 countries.</p>
-<p>The post <a href="https://www.securityweek.com/us-offers-10-million-for-three-russian-energy-firm-hackers/">US Offers $10 Million for Three Russian Energy Firm Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
