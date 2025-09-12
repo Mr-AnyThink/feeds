@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 11 Sep 2025 12:16:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Sep 2025 12:03:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,208 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>UAE’s K2 Think AI Jailbroken Through Its Own Transparency Features</title>
-		<link>https://www.securityweek.com/uaes-k2-think-ai-jailbroken-through-its-own-transparency-features/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 12:16:35 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[jailbreak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43545</guid>
-
-					<description><![CDATA[<p>Researchers exploited K2 Think’s built-in explainability to dismantle its safety guardrails, raising new questions about whether transparency and security in AI can truly coexist.</p>
-<p>The post <a href="https://www.securityweek.com/uaes-k2-think-ai-jailbroken-through-its-own-transparency-features/">UAE’s K2 Think AI Jailbroken Through Its Own Transparency Features</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>100,000 Impacted by Cornwell Quality Tools Data Breach </title>
-		<link>https://www.securityweek.com/100000-impacted-by-cornwell-quality-tools-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 12:13:47 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Cornwell Quality Tools]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43547</guid>
-
-					<description><![CDATA[<p>The tools manufacturer was targeted in a ransomware attack claimed by the Cactus group.</p>
-<p>The post <a href="https://www.securityweek.com/100000-impacted-by-cornwell-quality-tools-data-breach/">100,000 Impacted by Cornwell Quality Tools Data Breach </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Senator Urges FTC Probe of Microsoft Over Security Failures</title>
-		<link>https://www.securityweek.com/senator-urges-ftc-probe-of-microsoft-over-security-failures/</link>
+		<title>Apple Sends Fresh Wave of Spyware Notifications to French Users</title>
+		<link>https://www.securityweek.com/apple-sends-fresh-wave-of-spyware-notifications-to-french-users/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 11:28:18 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[FTC]]></category>
-		<category><![CDATA[investigation]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Ron Wyden]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43542</guid>
-
-					<description><![CDATA[<p>Senator Ron Wyden’s complaints focus on Windows security and the Kerberoasting attack technique. </p>
-<p>The post <a href="https://www.securityweek.com/senator-urges-ftc-probe-of-microsoft-over-security-failures/">Senator Urges FTC Probe of Microsoft Over Security Failures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Emerges as the Hope—and Risk—for Overloaded SOCs</title>
-		<link>https://www.securityweek.com/ai-emerges-as-the-hope-and-risk-for-overloaded-socs/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 11:27:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Automation]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43541</guid>
-
-					<description><![CDATA[<p>With security teams drowning in alerts, many suppress detection rules and accept hidden risks. AI promises relief through automation and triage—but without human oversight, it risks becoming part of the problem.</p>
-<p>The post <a href="https://www.securityweek.com/ai-emerges-as-the-hope-and-risk-for-overloaded-socs/">AI Emerges as the Hope—and Risk—for Overloaded SOCs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Email Security Startup AegisAI Launches With $13 Million in Funding</title>
-		<link>https://www.securityweek.com/email-security-startup-aegisai-launches-with-13-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 11:13:21 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[AegisAI]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43540</guid>
-
-					<description><![CDATA[<p>AegisAI uses autonomous AI agents to prevent phishing, malware, and BEC attacks from reaching inboxes.</p>
-<p>The post <a href="https://www.securityweek.com/email-security-startup-aegisai-launches-with-13-million-in-funding/">Email Security Startup AegisAI Launches With $13 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Remote CarPlay Hack Puts Drivers at Risk of Distraction and Surveillance</title>
-		<link>https://www.securityweek.com/remote-carplay-hack-puts-drivers-at-risk-of-distraction-and-surveillance/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 10:20:01 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[CarPlay]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43536</guid>
-
-					<description><![CDATA[<p>Oligo Security has shared details on an Apple CarPlay attack that hackers may be able to launch without any interaction.</p>
-<p>The post <a href="https://www.securityweek.com/remote-carplay-hack-puts-drivers-at-risk-of-distraction-and-surveillance/">Remote CarPlay Hack Puts Drivers at Risk of Distraction and Surveillance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jaguar Land Rover Admits Data Breach Caused by Recent Cyberattack</title>
-		<link>https://www.securityweek.com/jaguar-land-rover-admits-data-breach-caused-by-recent-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 15:00:03 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Jaguar Land Rover]]></category>
-		<category><![CDATA[JLR]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43534</guid>
-
-					<description><![CDATA[<p>After announcing that the cyberattack-caused disruption to factories would continue, Jaguar Land Rover is now confirming a data breach.</p>
-<p>The post <a href="https://www.securityweek.com/jaguar-land-rover-admits-data-breach-caused-by-recent-cyberattack/">Jaguar Land Rover Admits Data Breach Caused by Recent Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Geordie Emerges From Stealth With $6.5M for AI Agent Security Platform</title>
-		<link>https://www.securityweek.com/geordie-emerges-from-stealth-with-6-5m-for-ai-agent-security-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 12:49:31 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Geordie]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[stealth]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43533</guid>
-
-					<description><![CDATA[<p>Geordie has developed a platform that gives enterprises deep visibility into AI agents and what they are doing.</p>
-<p>The post <a href="https://www.securityweek.com/geordie-emerges-from-stealth-with-6-5m-for-ai-agent-security-platform/">Geordie Emerges From Stealth With $6.5M for AI Agent Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Red Access Raises $17 Million for Agentless Security Platform</title>
-		<link>https://www.securityweek.com/red-access-raises-17-million-for-agentless-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Red Access]]></category>
-		<category><![CDATA[Series A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43528</guid>
-
-					<description><![CDATA[<p>The investment will accelerate product innovation and will fuel the security company’s expansion in the US.</p>
-<p>The post <a href="https://www.securityweek.com/red-access-raises-17-million-for-agentless-security-platform/">Red Access Raises $17 Million for Agentless Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Unveils iPhone Memory Protections to Combat Sophisticated Attacks</title>
-		<link>https://www.securityweek.com/apple-unveils-iphone-memory-protections-to-combat-sophisticated-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 11:35:20 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
+		<pubDate>Fri, 12 Sep 2025 12:03:33 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[alert]]></category>
 		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[iPhone 17]]></category>
-		<category><![CDATA[iPhone Air]]></category>
-		<category><![CDATA[Memory Integrity Enforcement]]></category>
-		<category><![CDATA[memory protection]]></category>
-		<category><![CDATA[MIE]]></category>
+		<category><![CDATA[France]]></category>
 		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43527</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43569</guid>
 
-					<description><![CDATA[<p>Apple’s new Memory Integrity Enforcement (MIE) brings always-on memory-safety protection covering key attack surfaces — including the kernel and over 70 userland processes.</p>
-<p>The post <a href="https://www.securityweek.com/apple-unveils-iphone-memory-protections-to-combat-sophisticated-attacks/">Apple Unveils iPhone Memory Protections to Combat Sophisticated Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Apple this year sent at least four rounds of notifications to French users potentially targeted by commercial spyware.</p>
+<p>The post <a href="https://www.securityweek.com/apple-sends-fresh-wave-of-spyware-notifications-to-french-users/">Apple Sends Fresh Wave of Spyware Notifications to French Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>F5 to Acquire CalypsoAI for $180 Million</title>
+		<link>https://www.securityweek.com/f5-to-acquire-calypsoai-for-180-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 11:22:14 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[CalypsoAI]]></category>
+		<category><![CDATA[F5]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43567</guid>
+
+					<description><![CDATA[<p>F5 is buying CalypsoAI for its adaptive AI inference security solutions, which will be integrated into its Application Delivery and Security Platform.</p>
+<p>The post <a href="https://www.securityweek.com/f5-to-acquire-calypsoai-for-180-million/">F5 to Acquire CalypsoAI for $180 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA: CVE Program to Focus on Vulnerability Data Quality</title>
+		<link>https://www.securityweek.com/cisa-cve-program-to-focus-on-vulnerability-data-quality/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 10:53:01 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CVE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43566</guid>
+
+					<description><![CDATA[<p>CISA says it is time for the CVE Program to focus on improving trust, responsiveness, and the caliber of vulnerability data.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-cve-program-to-focus-on-vulnerability-data-quality/">CISA: CVE Program to Focus on Vulnerability Data Quality</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMScape: Academics Break Cloud Isolation With New Spectre Attack</title>
+		<link>https://www.securityweek.com/vmscape-academics-break-cloud-isolation-with-new-spectre-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 09:49:57 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<category><![CDATA[VM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43565</guid>
+
+					<description><![CDATA[<p>Exploiting incomplete speculative execution attack mitigations extended to the branch predictor state, VMScape leaks arbitrary memory.</p>
+<p>The post <a href="https://www.securityweek.com/vmscape-academics-break-cloud-isolation-with-new-spectre-attack/">VMScape: Academics Break Cloud Isolation With New Spectre Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm</title>
+		<link>https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 08:40:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hardware]]></category>
+		<category><![CDATA[KioSoft]]></category>
+		<category><![CDATA[MiFare]]></category>
+		<category><![CDATA[NFC]]></category>
+		<category><![CDATA[payment]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43562</guid>
+
+					<description><![CDATA[<p>KioSoft was notified about a serious NFC card vulnerability in 2023 and only recently claimed to have released a patch.</p>
+<p>The post <a href="https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/">Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Breaking AI &#8211; Inside the Art of LLM Pen Testing</title>
+		<link>https://www.securityweek.com/webinar-today-breaking-ai-inside-the-art-of-llm-pen-testing/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 15:01:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43553</guid>
+
+					<description><![CDATA[<p>Join the webinar as we reveal a new model for AI pen testing – one grounded in social engineering, behavioral manipulation, and even therapeutic dialogue.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-breaking-ai-inside-the-art-of-llm-pen-testing/">Webinar Today: Breaking AI &#8211; Inside the Art of LLM Pen Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches High-Severity IOS XR Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 14:31:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43554</guid>
+
+					<description><![CDATA[<p>High-severity flaws in IOS XR could lead to ISO image verification bypass and denial-of-service conditions.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities/">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Train Operator LNER Warns Customers of Data Breach</title>
+		<link>https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 13:55:55 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[LNER]]></category>
+		<category><![CDATA[railway]]></category>
+		<category><![CDATA[train]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43551</guid>
+
+					<description><![CDATA[<p>LNER said the security incident involved a third-party supplier and resulted in contact information and other data being compromised.</p>
+<p>The post <a href="https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/">UK Train Operator LNER Warns Customers of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Chrome Vulnerability Earns Researcher $43,000</title>
+		<link>https://www.securityweek.com/critical-chrome-vulnerability-earns-researcher-43000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 13:22:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43550</guid>
+
+					<description><![CDATA[<p>Google patched a critical use-after-free vulnerability in Chrome that could potentially lead to code execution.</p>
+<p>The post <a href="https://www.securityweek.com/critical-chrome-vulnerability-earns-researcher-43000/">Critical Chrome Vulnerability Earns Researcher $43,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Akira Ransomware Attacks Fuel Uptick in Exploitation of SonicWall Flaw</title>
+		<link>https://www.securityweek.com/akira-ransomware-attacks-fuel-uptick-in-exploitation-of-sonicwall-flaw/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 12:24:56 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Akira]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43549</guid>
+
+					<description><![CDATA[<p>The Akira ransomware group is likely exploiting a combination of three attack vectors to gain unauthorized access to vulnerable appliances.</p>
+<p>The post <a href="https://www.securityweek.com/akira-ransomware-attacks-fuel-uptick-in-exploitation-of-sonicwall-flaw/">Akira Ransomware Attacks Fuel Uptick in Exploitation of SonicWall Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
