@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 12 Sep 2025 12:03:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Sep 2025 14:26:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research</title>
+		<link>https://www.securityweek.com/in-other-news-900k-for-xss-bugs-hybridpetya-malware-burger-king-censors-research/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 14:26:14 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43571</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Huntress research raises concerns, Google paid out $1.6 million for cloud vulnerabilities, California web browser bill.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-900k-for-xss-bugs-hybridpetya-malware-burger-king-censors-research/">In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DELMIA Factory Software Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2025 12:55:28 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Delmia Apriso]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[factory]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43570</guid>
+
+					<description><![CDATA[<p>A deserialization of untrusted data in the MOM software allows attackers to achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/">DELMIA Factory Software Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apple Sends Fresh Wave of Spyware Notifications to French Users</title>
 		<link>https://www.securityweek.com/apple-sends-fresh-wave-of-spyware-notifications-to-french-users/</link>
 		
@@ -179,44 +215,6 @@
 
 					<description><![CDATA[<p>LNER said the security incident involved a third-party supplier and resulted in contact information and other data being compromised.</p>
 <p>The post <a href="https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/">UK Train Operator LNER Warns Customers of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Chrome Vulnerability Earns Researcher $43,000</title>
-		<link>https://www.securityweek.com/critical-chrome-vulnerability-earns-researcher-43000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 13:22:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43550</guid>
-
-					<description><![CDATA[<p>Google patched a critical use-after-free vulnerability in Chrome that could potentially lead to code execution.</p>
-<p>The post <a href="https://www.securityweek.com/critical-chrome-vulnerability-earns-researcher-43000/">Critical Chrome Vulnerability Earns Researcher $43,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Akira Ransomware Attacks Fuel Uptick in Exploitation of SonicWall Flaw</title>
-		<link>https://www.securityweek.com/akira-ransomware-attacks-fuel-uptick-in-exploitation-of-sonicwall-flaw/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 12:24:56 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Akira]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43549</guid>
-
-					<description><![CDATA[<p>The Akira ransomware group is likely exploiting a combination of three attack vectors to gain unauthorized access to vulnerable appliances.</p>
-<p>The post <a href="https://www.securityweek.com/akira-ransomware-attacks-fuel-uptick-in-exploitation-of-sonicwall-flaw/">Akira Ransomware Attacks Fuel Uptick in Exploitation of SonicWall Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
