@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 12 Sep 2025 14:26:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Sep 2025 11:16:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FBI Shares IoCs for Recent Salesforce Intrusion Campaigns</title>
+		<link>https://www.securityweek.com/fbi-shares-iocs-for-recent-salesforce-intrusion-campaigns/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 11:16:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[IOC]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Salesloft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43580</guid>
+
+					<description><![CDATA[<p>The cybercrime groups tracked as UNC6040 and UNC6395 have been extorting organizations after stealing data from their Salesforce instances.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-shares-iocs-for-recent-salesforce-intrusion-campaigns/">FBI Shares IoCs for Recent Salesforce Intrusion Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Launched Behind-the-Scenes Campaign Against California Privacy Legislation; It Passed Anyway</title>
+		<link>https://www.securityweek.com/google-launched-behind-the-scenes-campaign-against-california-privacy-legislation-it-passed-anyway/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 10:55:48 +0000</pubDate>
+				<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43579</guid>
+
+					<description><![CDATA[<p>In April, Rhode Island resident Navah Hopkins received a plea for her help to defeat legislation thousands of miles away in California. The ask came from Google, maker of the world’s most used web browser, Chrome. The tech giant sent a message to an email list that Hopkins and other small business owners were subscribed [&#8230;]</p>
+<p>The post <a href="https://www.securityweek.com/google-launched-behind-the-scenes-campaign-against-california-privacy-legislation-it-passed-anyway/">Google Launched Behind-the-Scenes Campaign Against California Privacy Legislation; It Passed Anyway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach</title>
+		<link>https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 09:45:41 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[credit union]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Fairmont Federal Credit Union]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43577</guid>
+
+					<description><![CDATA[<p>Two years after the fact, Fairmont Federal Credit Union tells customers their personal, financial, and medical information was compromised.</p>
+<p>The post <a href="https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/">West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Samsung Patches Zero-Day Exploited Against Android Users</title>
+		<link>https://www.securityweek.com/samsung-patches-zero-day-exploited-against-android-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 08:08:54 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43574</guid>
+
+					<description><![CDATA[<p>Reported by Meta and WhatsApp, the vulnerability leads to remote code execution and was likely exploited by a spyware vendor.</p>
+<p>The post <a href="https://www.securityweek.com/samsung-patches-zero-day-exploited-against-android-users/">Samsung Patches Zero-Day Exploited Against Android Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research</title>
 		<link>https://www.securityweek.com/in-other-news-900k-for-xss-bugs-hybridpetya-malware-burger-king-censors-research/</link>
 		
@@ -136,85 +216,6 @@
 
 					<description><![CDATA[<p>Exploiting incomplete speculative execution attack mitigations extended to the branch predictor state, VMScape leaks arbitrary memory.</p>
 <p>The post <a href="https://www.securityweek.com/vmscape-academics-break-cloud-isolation-with-new-spectre-attack/">VMScape: Academics Break Cloud Isolation With New Spectre Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm</title>
-		<link>https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 08:40:27 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hardware]]></category>
-		<category><![CDATA[KioSoft]]></category>
-		<category><![CDATA[MiFare]]></category>
-		<category><![CDATA[NFC]]></category>
-		<category><![CDATA[payment]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43562</guid>
-
-					<description><![CDATA[<p>KioSoft was notified about a serious NFC card vulnerability in 2023 and only recently claimed to have released a patch.</p>
-<p>The post <a href="https://www.securityweek.com/payment-system-vendor-took-year-to-patch-infinite-card-top-up-hack-security-firm/">Payment System Vendor Took Year+ to Patch Infinite Card Top-Up Hack: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Breaking AI &#8211; Inside the Art of LLM Pen Testing</title>
-		<link>https://www.securityweek.com/webinar-today-breaking-ai-inside-the-art-of-llm-pen-testing/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 15:01:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43553</guid>
-
-					<description><![CDATA[<p>Join the webinar as we reveal a new model for AI pen testing – one grounded in social engineering, behavioral manipulation, and even therapeutic dialogue.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-breaking-ai-inside-the-art-of-llm-pen-testing/">Webinar Today: Breaking AI &#8211; Inside the Art of LLM Pen Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches High-Severity IOS XR Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 14:31:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43554</guid>
-
-					<description><![CDATA[<p>High-severity flaws in IOS XR could lead to ISO image verification bypass and denial-of-service conditions.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities/">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Train Operator LNER Warns Customers of Data Breach</title>
-		<link>https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 13:55:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[LNER]]></category>
-		<category><![CDATA[railway]]></category>
-		<category><![CDATA[train]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43551</guid>
-
-					<description><![CDATA[<p>LNER said the security incident involved a third-party supplier and resulted in contact information and other data being compromised.</p>
-<p>The post <a href="https://www.securityweek.com/uk-train-operator-lner-warns-customers-of-data-breach/">UK Train Operator LNER Warns Customers of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
