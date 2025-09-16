@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 15 Sep 2025 11:16:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Sep 2025 11:38:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,194 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>FBI Shares IoCs for Recent Salesforce Intrusion Campaigns</title>
-		<link>https://www.securityweek.com/fbi-shares-iocs-for-recent-salesforce-intrusion-campaigns/</link>
+		<title>Neon Cyber Emerges from Stealth, Shining a Light into the Browser</title>
+		<link>https://www.securityweek.com/neon-cyber-emerges-from-stealth-shining-a-light-into-the-browser/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 11:30:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Neon Cyber]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43598</guid>
+
+					<description><![CDATA[<p>Neon Cyber argues that phishing, social engineering, and insider threats demand protections that follow users into the browser, where most attacks now begin.</p>
+<p>The post <a href="https://www.securityweek.com/neon-cyber-emerges-from-stealth-shining-a-light-into-the-browser/">Neon Cyber Emerges from Stealth, Shining a Light into the Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rowhammer Attack Demonstrated Against DDR5</title>
+		<link>https://www.securityweek.com/rowhammer-attack-demonstrated-against-ddr5/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 11:16:10 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[IOC]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[Salesloft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43580</guid>
+		<pubDate>Tue, 16 Sep 2025 11:28:37 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DDR5]]></category>
+		<category><![CDATA[DRAM]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Rowhammer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43596</guid>
 
-					<description><![CDATA[<p>The cybercrime groups tracked as UNC6040 and UNC6395 have been extorting organizations after stealing data from their Salesforce instances.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-shares-iocs-for-recent-salesforce-intrusion-campaigns/">FBI Shares IoCs for Recent Salesforce Intrusion Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Researchers devise Phoenix, a new Rowhammer attack that achieves root on DDR5 systems in less than two minutes.</p>
+<p>The post <a href="https://www.securityweek.com/rowhammer-attack-demonstrated-against-ddr5/">Rowhammer Attack Demonstrated Against DDR5</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Launched Behind-the-Scenes Campaign Against California Privacy Legislation; It Passed Anyway</title>
-		<link>https://www.securityweek.com/google-launched-behind-the-scenes-campaign-against-california-privacy-legislation-it-passed-anyway/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 10:55:48 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[ads]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43579</guid>
-
-					<description><![CDATA[<p>In April, Rhode Island resident Navah Hopkins received a plea for her help to defeat legislation thousands of miles away in California. The ask came from Google, maker of the world’s most used web browser, Chrome. The tech giant sent a message to an email list that Hopkins and other small business owners were subscribed [&#8230;]</p>
-<p>The post <a href="https://www.securityweek.com/google-launched-behind-the-scenes-campaign-against-california-privacy-legislation-it-passed-anyway/">Google Launched Behind-the-Scenes Campaign Against California Privacy Legislation; It Passed Anyway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach</title>
-		<link>https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 09:45:41 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[credit union]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Fairmont Federal Credit Union]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43577</guid>
-
-					<description><![CDATA[<p>Two years after the fact, Fairmont Federal Credit Union tells customers their personal, financial, and medical information was compromised.</p>
-<p>The post <a href="https://www.securityweek.com/west-virginia-credit-union-notifying-187000-people-impacted-by-2023-data-breach/">West Virginia Credit Union Notifying 187,000 People Impacted by 2023 Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Samsung Patches Zero-Day Exploited Against Android Users</title>
-		<link>https://www.securityweek.com/samsung-patches-zero-day-exploited-against-android-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 08:08:54 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Samsung]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43574</guid>
-
-					<description><![CDATA[<p>Reported by Meta and WhatsApp, the vulnerability leads to remote code execution and was likely exploited by a spyware vendor.</p>
-<p>The post <a href="https://www.securityweek.com/samsung-patches-zero-day-exploited-against-android-users/">Samsung Patches Zero-Day Exploited Against Android Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research</title>
-		<link>https://www.securityweek.com/in-other-news-900k-for-xss-bugs-hybridpetya-malware-burger-king-censors-research/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 14:26:14 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43571</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Huntress research raises concerns, Google paid out $1.6 million for cloud vulnerabilities, California web browser bill.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-900k-for-xss-bugs-hybridpetya-malware-burger-king-censors-research/">In Other News: $900k for XSS Bugs, HybridPetya Malware, Burger King Censors Research</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DELMIA Factory Software Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 12:55:28 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Delmia Apriso]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[factory]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43570</guid>
-
-					<description><![CDATA[<p>A deserialization of untrusted data in the MOM software allows attackers to achieve remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/delmia-factory-software-vulnerability-exploited-in-attacks/">DELMIA Factory Software Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Sends Fresh Wave of Spyware Notifications to French Users</title>
-		<link>https://www.securityweek.com/apple-sends-fresh-wave-of-spyware-notifications-to-french-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 12:03:33 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43569</guid>
-
-					<description><![CDATA[<p>Apple this year sent at least four rounds of notifications to French users potentially targeted by commercial spyware.</p>
-<p>The post <a href="https://www.securityweek.com/apple-sends-fresh-wave-of-spyware-notifications-to-french-users/">Apple Sends Fresh Wave of Spyware Notifications to French Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 to Acquire CalypsoAI for $180 Million</title>
-		<link>https://www.securityweek.com/f5-to-acquire-calypsoai-for-180-million/</link>
+		<title>ChatGPT&#8217;s Calendar Integration Can Be Exploited to Steal Emails</title>
+		<link>https://www.securityweek.com/chatgpts-new-calendar-integration-can-be-abused-to-steal-emails/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 11:22:14 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
+		<pubDate>Tue, 16 Sep 2025 10:51:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CalypsoAI]]></category>
-		<category><![CDATA[F5]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43567</guid>
+		<category><![CDATA[calendar]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[integration]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43594</guid>
 
-					<description><![CDATA[<p>F5 is buying CalypsoAI for its adaptive AI inference security solutions, which will be integrated into its Application Delivery and Security Platform.</p>
-<p>The post <a href="https://www.securityweek.com/f5-to-acquire-calypsoai-for-180-million/">F5 to Acquire CalypsoAI for $180 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Researchers show how a crafted calendar invite can trigger ChatGPT to exfiltrate sensitive emails.</p>
+<p>The post <a href="https://www.securityweek.com/chatgpts-new-calendar-integration-can-be-abused-to-steal-emails/">ChatGPT&#8217;s Calendar Integration Can Be Exploited to Steal Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA: CVE Program to Focus on Vulnerability Data Quality</title>
-		<link>https://www.securityweek.com/cisa-cve-program-to-focus-on-vulnerability-data-quality/</link>
+		<title>Fraud Prevention Company SEON Raises $80 Million in Series C Funding</title>
+		<link>https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 10:53:01 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CVE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43566</guid>
+		<pubDate>Tue, 16 Sep 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[SEON]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43593</guid>
 
-					<description><![CDATA[<p>CISA says it is time for the CVE Program to focus on improving trust, responsiveness, and the caliber of vulnerability data.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-cve-program-to-focus-on-vulnerability-data-quality/">CISA: CVE Program to Focus on Vulnerability Data Quality</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company will invest in its AI and real-time detection platform, in global expansion, and in strategic partnerships.</p>
+<p>The post <a href="https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/">Fraud Prevention Company SEON Raises $80 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>VMScape: Academics Break Cloud Isolation With New Spectre Attack</title>
-		<link>https://www.securityweek.com/vmscape-academics-break-cloud-isolation-with-new-spectre-attack/</link>
+		<title>Apple Rolls Out iOS 26, macOS Tahoe 26 With Patches for Over 50 Vulnerabilities</title>
+		<link>https://www.securityweek.com/apple-rolls-out-ios-26-macos-tahoe-26-with-patches-for-over-50-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 12 Sep 2025 09:49:57 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[Spectre]]></category>
-		<category><![CDATA[VM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43565</guid>
+		<pubDate>Tue, 16 Sep 2025 08:44:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOS 26]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[macOS Tahoe]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43591</guid>
 
-					<description><![CDATA[<p>Exploiting incomplete speculative execution attack mitigations extended to the branch predictor state, VMScape leaks arbitrary memory.</p>
-<p>The post <a href="https://www.securityweek.com/vmscape-academics-break-cloud-isolation-with-new-spectre-attack/">VMScape: Academics Break Cloud Isolation With New Spectre Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Apple has announced major mobile and desktop platform releases and addressed an exploited bug in older platforms.</p>
+<p>The post <a href="https://www.securityweek.com/apple-rolls-out-ios-26-macos-tahoe-26-with-patches-for-over-50-vulnerabilities/">Apple Rolls Out iOS 26, macOS Tahoe 26 With Patches for Over 50 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Endpoint Security Firm Remedio Raises $65 Million in First Funding Round</title>
+		<link>https://www.securityweek.com/endpoint-security-firm-remedio-raises-65-million-in-first-funding-round/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 08:29:52 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Gytpol]]></category>
+		<category><![CDATA[Remedio]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43589</guid>
+
+					<description><![CDATA[<p>The bootstrapped company will invest in an AI-powered unified enterprise platform combining configuration, compliance, patching, and vulnerability management.</p>
+<p>The post <a href="https://www.securityweek.com/endpoint-security-firm-remedio-raises-65-million-in-first-funding-round/">Endpoint Security Firm Remedio Raises $65 Million in First Funding Round</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>689,000 Affected by Insider Breach at FinWise Bank</title>
+		<link>https://www.securityweek.com/689000-affected-by-insider-breach-at-finwise-bank/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 18:02:21 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[America First Finance]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[FinWise Bank]]></category>
+		<category><![CDATA[insider]]></category>
+		<category><![CDATA[insider breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43587</guid>
+
+					<description><![CDATA[<p>A former FinWise employee gained access to American First Finance customer information.</p>
+<p>The post <a href="https://www.securityweek.com/689000-affected-by-insider-breach-at-finwise-bank/">689,000 Affected by Insider Breach at FinWise Bank</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zero Trust Is 15 Years Old — Why Full Adoption Is Worth the Struggle</title>
+		<link>https://www.securityweek.com/zero-trust-is-15-years-old-why-full-adoption-is-worth-the-struggle/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 18:02:20 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Zero Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43526</guid>
+
+					<description><![CDATA[<p>Fifteen years after its debut, Zero Trust remains the gold standard in cybersecurity theory — but its uneven implementation leaves organizations both stronger and dangerously exposed.</p>
+<p>The post <a href="https://www.securityweek.com/zero-trust-is-15-years-old-why-full-adoption-is-worth-the-struggle/">Zero Trust Is 15 Years Old — Why Full Adoption Is Worth the Struggle</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silent Push Raises $10 Million for Threat Intelligence Platform</title>
+		<link>https://www.securityweek.com/silent-push-raises-10-million-for-threat-intelligence-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 14:45:45 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Silent Push]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43584</guid>
+
+					<description><![CDATA[<p>Silent Push, which provides Indicators of Future Attack, has raised a total of $32 million in funding.</p>
+<p>The post <a href="https://www.securityweek.com/silent-push-raises-10-million-for-threat-intelligence-platform/">Silent Push Raises $10 Million for Threat Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Terra Security Raises $30 Million for AI Penetration Testing Platform</title>
+		<link>https://www.securityweek.com/terra-security-raises-30-million-for-ai-penetration-testing-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 13:23:52 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[penetration testing]]></category>
+		<category><![CDATA[Series A]]></category>
+		<category><![CDATA[Terra Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43581</guid>
+
+					<description><![CDATA[<p>The Israeli cybersecurity startup plans to expand its offensive security offering to cover more enterprise attack surface.</p>
+<p>The post <a href="https://www.securityweek.com/terra-security-raises-30-million-for-ai-penetration-testing-platform/">Terra Security Raises $30 Million for AI Penetration Testing Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
