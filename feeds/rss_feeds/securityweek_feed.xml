@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 16 Sep 2025 11:38:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Sep 2025 12:14:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Neon Cyber Emerges from Stealth, Shining a Light into the Browser</title>
-		<link>https://www.securityweek.com/neon-cyber-emerges-from-stealth-shining-a-light-into-the-browser/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Neon Cyber]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43598</guid>
-
-					<description><![CDATA[<p>Neon Cyber argues that phishing, social engineering, and insider threats demand protections that follow users into the browser, where most attacks now begin.</p>
-<p>The post <a href="https://www.securityweek.com/neon-cyber-emerges-from-stealth-shining-a-light-into-the-browser/">Neon Cyber Emerges from Stealth, Shining a Light into the Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rowhammer Attack Demonstrated Against DDR5</title>
-		<link>https://www.securityweek.com/rowhammer-attack-demonstrated-against-ddr5/</link>
+		<title>BreachForums Owner Sent to Prison in Resentencing </title>
+		<link>https://www.securityweek.com/breachforums-owner-sent-to-prison-in-resentencing/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 11:28:37 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DDR5]]></category>
-		<category><![CDATA[DRAM]]></category>
-		<category><![CDATA[research]]></category>
-		<category><![CDATA[Rowhammer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43596</guid>
+		<pubDate>Wed, 17 Sep 2025 12:13:55 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[BreachForums]]></category>
+		<category><![CDATA[Conor Fitzpatrick]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43617</guid>
 
-					<description><![CDATA[<p>Researchers devise Phoenix, a new Rowhammer attack that achieves root on DDR5 systems in less than two minutes.</p>
-<p>The post <a href="https://www.securityweek.com/rowhammer-attack-demonstrated-against-ddr5/">Rowhammer Attack Demonstrated Against DDR5</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Conor Fitzpatrick, who pleaded guilty in July 2023, was sentenced last year to time served and supervised release.</p>
+<p>The post <a href="https://www.securityweek.com/breachforums-owner-sent-to-prison-in-resentencing/">BreachForums Owner Sent to Prison in Resentencing </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ChatGPT&#8217;s Calendar Integration Can Be Exploited to Steal Emails</title>
-		<link>https://www.securityweek.com/chatgpts-new-calendar-integration-can-be-abused-to-steal-emails/</link>
+		<title>Scalekit Raises $5.5 Million to Secure AI Agent Authentication</title>
+		<link>https://www.securityweek.com/scalekit-raises-5-5-million-to-secure-ai-agent-authentication/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 10:51:37 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 12:03:12 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[calendar]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[integration]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43594</guid>
-
-					<description><![CDATA[<p>Researchers show how a crafted calendar invite can trigger ChatGPT to exfiltrate sensitive emails.</p>
-<p>The post <a href="https://www.securityweek.com/chatgpts-new-calendar-integration-can-be-abused-to-steal-emails/">ChatGPT&#8217;s Calendar Integration Can Be Exploited to Steal Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fraud Prevention Company SEON Raises $80 Million in Series C Funding</title>
-		<link>https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[authentication]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SEON]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43593</guid>
+		<category><![CDATA[Scalekit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43616</guid>
 
-					<description><![CDATA[<p>The company will invest in its AI and real-time detection platform, in global expansion, and in strategic partnerships.</p>
-<p>The post <a href="https://www.securityweek.com/fraud-prevention-company-seon-raises-80-million-in-series-c-funding/">Fraud Prevention Company SEON Raises $80 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup provides an authentication stack that secures both incoming authentication and outgoing agent actions.</p>
+<p>The post <a href="https://www.securityweek.com/scalekit-raises-5-5-million-to-secure-ai-agent-authentication/">Scalekit Raises $5.5 Million to Secure AI Agent Authentication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Apple Rolls Out iOS 26, macOS Tahoe 26 With Patches for Over 50 Vulnerabilities</title>
-		<link>https://www.securityweek.com/apple-rolls-out-ios-26-macos-tahoe-26-with-patches-for-over-50-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 08:44:31 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iOS 26]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[macOS Tahoe]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43591</guid>
-
-					<description><![CDATA[<p>Apple has announced major mobile and desktop platform releases and addressed an exploited bug in older platforms.</p>
-<p>The post <a href="https://www.securityweek.com/apple-rolls-out-ios-26-macos-tahoe-26-with-patches-for-over-50-vulnerabilities/">Apple Rolls Out iOS 26, macOS Tahoe 26 With Patches for Over 50 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Endpoint Security Firm Remedio Raises $65 Million in First Funding Round</title>
-		<link>https://www.securityweek.com/endpoint-security-firm-remedio-raises-65-million-in-first-funding-round/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 08:29:52 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[endpoint security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Gytpol]]></category>
-		<category><![CDATA[Remedio]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43589</guid>
-
-					<description><![CDATA[<p>The bootstrapped company will invest in an AI-powered unified enterprise platform combining configuration, compliance, patching, and vulnerability management.</p>
-<p>The post <a href="https://www.securityweek.com/endpoint-security-firm-remedio-raises-65-million-in-first-funding-round/">Endpoint Security Firm Remedio Raises $65 Million in First Funding Round</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>689,000 Affected by Insider Breach at FinWise Bank</title>
-		<link>https://www.securityweek.com/689000-affected-by-insider-breach-at-finwise-bank/</link>
+		<title>Decade-Old Pixie Dust Wi-Fi Hack Still Impacts Many Devices</title>
+		<link>https://www.securityweek.com/decade-old-pixie-dust-wi-fi-hack-still-impacts-many-devices/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 18:02:21 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[America First Finance]]></category>
-		<category><![CDATA[bank]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[FinWise Bank]]></category>
-		<category><![CDATA[insider]]></category>
-		<category><![CDATA[insider breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43587</guid>
+		<pubDate>Wed, 17 Sep 2025 11:12:37 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Pixie Dust]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[WPS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43615</guid>
 
-					<description><![CDATA[<p>A former FinWise employee gained access to American First Finance customer information.</p>
-<p>The post <a href="https://www.securityweek.com/689000-affected-by-insider-breach-at-finwise-bank/">689,000 Affected by Insider Breach at FinWise Bank</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>NetRise has identified 20 device models from six vendors that are still vulnerable to Pixie Dust attacks.</p>
+<p>The post <a href="https://www.securityweek.com/decade-old-pixie-dust-wi-fi-hack-still-impacts-many-devices/">Decade-Old Pixie Dust Wi-Fi Hack Still Impacts Many Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Zero Trust Is 15 Years Old — Why Full Adoption Is Worth the Struggle</title>
-		<link>https://www.securityweek.com/zero-trust-is-15-years-old-why-full-adoption-is-worth-the-struggle/</link>
+		<title>Shai-Hulud Supply Chain Attack: Worm Used to Steal Secrets, 180+ NPM Packages Hit</title>
+		<link>https://www.securityweek.com/shai-hulud-supply-chain-attack-worm-used-to-steal-secrets-180-npm-packages-hit/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 09:09:14 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[Shai-Hulud]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[worm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43611</guid>
+
+					<description><![CDATA[<p>The packages were injected with malicious code to harvest secrets, dump them to a public repository, and make private repositories public.</p>
+<p>The post <a href="https://www.securityweek.com/shai-hulud-supply-chain-attack-worm-used-to-steal-secrets-180-npm-packages-hit/">Shai-Hulud Supply Chain Attack: Worm Used to Steal Secrets, 180+ NPM Packages Hit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RaccoonO365 Phishing Service Disrupted, Leader Identified</title>
+		<link>https://www.securityweek.com/raccoono365-phishing-service-disrupted-leader-identified/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 08:45:48 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Nigerian]]></category>
+		<category><![CDATA[RaccoonO365]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43610</guid>
+
+					<description><![CDATA[<p>Microsoft and Cloudflare have teamed up to take down the infrastructure used by RaccoonO365.</p>
+<p>The post <a href="https://www.securityweek.com/raccoono365-phishing-service-disrupted-leader-identified/">RaccoonO365 Phishing Service Disrupted, Leader Identified</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CrowdStrike to Acquire Pangea to Launch AI Detection and Response (AIDR)</title>
+		<link>https://www.securityweek.com/crowdstrike-to-acquire-pangea-to-launch-ai-detection-and-response-aidr/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 22:26:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43608</guid>
+
+					<description><![CDATA[<p>Acquisition extends CrowdStrike’s Falcon platform into AI security, introducing AI Detection and Response (AIDR) to protect enterprise models, agents, and applications across the full AI lifecycle.</p>
+<p>The post <a href="https://www.securityweek.com/crowdstrike-to-acquire-pangea-to-launch-ai-detection-and-response-aidr/">CrowdStrike to Acquire Pangea to Launch AI Detection and Response (AIDR)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Check Point to Acquire AI Security Firm Lakera</title>
+		<link>https://www.securityweek.com/check-point-to-acquire-ai-security-firm-lakera/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 18:47:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[Lakera]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43607</guid>
+
+					<description><![CDATA[<p>Move highlights rising demand for AI-native security as enterprises face new risks from generative models and autonomous agents</p>
+<p>The post <a href="https://www.securityweek.com/check-point-to-acquire-ai-security-firm-lakera/">Check Point to Acquire AI Security Firm Lakera</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Analytics Firm Vega Emerges From Stealth With $65M in Funding </title>
+		<link>https://www.securityweek.com/security-analytics-firm-vega-emerges-from-stealth-with-65m-in-funding/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 14:05:28 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[SIEM]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[Vega]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43605</guid>
+
+					<description><![CDATA[<p>Vega provides security analytics and operations solutions designed to help organizations detect and respond to threats.</p>
+<p>The post <a href="https://www.securityweek.com/security-analytics-firm-vega-emerges-from-stealth-with-65m-in-funding/">Security Analytics Firm Vega Emerges From Stealth With $65M in Funding </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ray Security Emerges From Stealth With $11M to Bring Real-Time, AI-Driven Data Protection</title>
+		<link>https://www.securityweek.com/ray-security-emerges-from-stealth-with-11m-to-bring-real-time-ai-driven-data-protection/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 18:02:20 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43526</guid>
+		<pubDate>Tue, 16 Sep 2025 13:45:15 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43604</guid>
 
-					<description><![CDATA[<p>Fifteen years after its debut, Zero Trust remains the gold standard in cybersecurity theory — but its uneven implementation leaves organizations both stronger and dangerously exposed.</p>
-<p>The post <a href="https://www.securityweek.com/zero-trust-is-15-years-old-why-full-adoption-is-worth-the-struggle/">Zero Trust Is 15 Years Old — Why Full Adoption Is Worth the Struggle</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Tel Aviv, Israel-based Ray Security emerged from stealth with $11 million seed funding and a desire to change the way corporate data is protected. The funding was co-led by Venture Guides and Ibex Investors.</p>
+<p>The post <a href="https://www.securityweek.com/ray-security-emerges-from-stealth-with-11m-to-bring-real-time-ai-driven-data-protection/">Ray Security Emerges From Stealth With $11M to Bring Real-Time, AI-Driven Data Protection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Silent Push Raises $10 Million for Threat Intelligence Platform</title>
-		<link>https://www.securityweek.com/silent-push-raises-10-million-for-threat-intelligence-platform/</link>
+		<title>Security Industry Skeptical of Scattered Spider-ShinyHunters Retirement Claims</title>
+		<link>https://www.securityweek.com/security-industry-skeptical-of-scattered-spider-shinyhunters-retirement-claims/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 14:45:45 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Silent Push]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43584</guid>
+		<pubDate>Tue, 16 Sep 2025 12:42:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[retirement]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43599</guid>
 
-					<description><![CDATA[<p>Silent Push, which provides Indicators of Future Attack, has raised a total of $32 million in funding.</p>
-<p>The post <a href="https://www.securityweek.com/silent-push-raises-10-million-for-threat-intelligence-platform/">Silent Push Raises $10 Million for Threat Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Terra Security Raises $30 Million for AI Penetration Testing Platform</title>
-		<link>https://www.securityweek.com/terra-security-raises-30-million-for-ai-penetration-testing-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 13:23:52 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[penetration testing]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[Terra Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43581</guid>
-
-					<description><![CDATA[<p>The Israeli cybersecurity startup plans to expand its offensive security offering to cover more enterprise attack surface.</p>
-<p>The post <a href="https://www.securityweek.com/terra-security-raises-30-million-for-ai-penetration-testing-platform/">Terra Security Raises $30 Million for AI Penetration Testing Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The notorious cybercrime groups claim they are going dark, but experts believe they will continue their activities.</p>
+<p>The post <a href="https://www.securityweek.com/security-industry-skeptical-of-scattered-spider-shinyhunters-retirement-claims/">Security Industry Skeptical of Scattered Spider-ShinyHunters Retirement Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
