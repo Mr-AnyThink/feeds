@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 17 Sep 2025 12:14:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Sep 2025 11:48:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>BreachForums Owner Sent to Prison in Resentencing </title>
-		<link>https://www.securityweek.com/breachforums-owner-sent-to-prison-in-resentencing/</link>
+		<title>Tiffany Data Breach Impacts Thousands of Customers</title>
+		<link>https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 12:13:55 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[BreachForums]]></category>
-		<category><![CDATA[Conor Fitzpatrick]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43617</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 11:48:54 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[luxury]]></category>
+		<category><![CDATA[Tiffany]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43637</guid>
 
-					<description><![CDATA[<p>Conor Fitzpatrick, who pleaded guilty in July 2023, was sentenced last year to time served and supervised release.</p>
-<p>The post <a href="https://www.securityweek.com/breachforums-owner-sent-to-prison-in-resentencing/">BreachForums Owner Sent to Prison in Resentencing </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The high-end jewelry retailer is informing customers in the United States and Canada that hackers accessed information related to gift cards.</p>
+<p>The post <a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/">Tiffany Data Breach Impacts Thousands of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Scalekit Raises $5.5 Million to Secure AI Agent Authentication</title>
-		<link>https://www.securityweek.com/scalekit-raises-5-5-million-to-secure-ai-agent-authentication/</link>
+		<title>Threat Actor Infests Hotels With New RAT</title>
+		<link>https://www.securityweek.com/threat-actor-infests-hotels-with-new-rat/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 12:03:12 +0000</pubDate>
+		<pubDate>Thu, 18 Sep 2025 11:17:22 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[RAT]]></category>
+		<category><![CDATA[RevengeHotels]]></category>
+		<category><![CDATA[VenomRAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43635</guid>
+
+					<description><![CDATA[<p>RevengeHotels has been targeting hotels in Brazil and Spanish-speaking regions with VenomRAT implants in 2025.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actor-infests-hotels-with-new-rat/">Threat Actor Infests Hotels With New RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Prompts Password Resets After Hackers Obtain Firewall Configurations</title>
+		<link>https://www.securityweek.com/sonicwall-prompts-password-resets-after-firewall-configurations-exposed-in-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 09:41:04 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[brute force]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[password reset]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43633</guid>
+
+					<description><![CDATA[<p>The company sent a new preferences file to less than 5% of customers, urging them to import it into firewalls and reset their passwords.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-prompts-password-resets-after-firewall-configurations-exposed-in-breach/">SonicWall Prompts Password Resets After Hackers Obtain Firewall Configurations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nearly 250,000 Impacted by Data Breach at Medical Associates of Brevard </title>
+		<link>https://www.securityweek.com/nearly-250000-impacted-by-data-breach-at-medical-associates-of-brevard/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 08:38:52 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Medical Associates of Brevard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43632</guid>
+
+					<description><![CDATA[<p>The BianLian ransomware group took credit for the cyberattack on the healthcare organization in January 2025. </p>
+<p>The post <a href="https://www.securityweek.com/nearly-250000-impacted-by-data-breach-at-medical-associates-of-brevard/">Nearly 250,000 Impacted by Data Breach at Medical Associates of Brevard </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Israeli Cyber Fund Glilot Capital Raises $500 Million</title>
+		<link>https://www.securityweek.com/israeli-cyber-fund-glilot-capital-raises-500-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 08:11:36 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Glilot Capital]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43630</guid>
+
+					<description><![CDATA[<p>The top-performing venture fund heavily invests in startups building cybersecurity, AI, and enterprise software.</p>
+<p>The post <a href="https://www.securityweek.com/israeli-cyber-fund-glilot-capital-raises-500-million/">Israeli Cyber Fund Glilot Capital Raises $500 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 140 Update Patches Sixth Zero-Day of 2025</title>
+		<link>https://www.securityweek.com/chrome-140-update-patches-sixth-zero-day-of-2025/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 07:54:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43629</guid>
+
+					<description><![CDATA[<p>An exploited type confusion in the V8 JavaScript engine tracked as CVE-2025-10585 was found by Google Threat Analysis Group this week.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-140-update-patches-sixth-zero-day-of-2025/">Chrome 140 Update Patches Sixth Zero-Day of 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Insight Partners Confirms Data Breach Result of Ransomware Attack</title>
+		<link>https://www.securityweek.com/insight-partners-confirms-data-breach-result-of-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 18 Sep 2025 07:31:38 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Insight Partners]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43628</guid>
+
+					<description><![CDATA[<p>Venture capital firm Insight Partners says the data breach disclosed in February 2025 impacts over 12,000 people.</p>
+<p>The post <a href="https://www.securityweek.com/insight-partners-confirms-data-breach-result-of-ransomware-attack/">Insight Partners Confirms Data Breach Result of Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Attack Surface Management Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-attack-surface-management-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 14:47:06 +0000</pubDate>
+				<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[attack surface management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43623</guid>
+
+					<description><![CDATA[<p>SecurityWeek's Attack Surface Management Virtual Summit is now LIVE and runs today from 11AM – 4PM ET.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-attack-surface-management-summit/">Virtual Event Today: Attack Surface Management Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Irregular Raises $80 Million for AI Security Testing Lab</title>
+		<link>https://www.securityweek.com/irregular-raises-80-million-for-ai-security-testing-lab/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 17 Sep 2025 14:22:32 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[AI model testing]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Scalekit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43616</guid>
+		<category><![CDATA[Irregular]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43622</guid>
 
-					<description><![CDATA[<p>The startup provides an authentication stack that secures both incoming authentication and outgoing agent actions.</p>
-<p>The post <a href="https://www.securityweek.com/scalekit-raises-5-5-million-to-secure-ai-agent-authentication/">Scalekit Raises $5.5 Million to Secure AI Agent Authentication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Irregular is testing the cybersecurity capabilities of AI models, including Anthropic’s Claude and OpenAI’s ChatGPT.</p>
+<p>The post <a href="https://www.securityweek.com/irregular-raises-80-million-for-ai-security-testing-lab/">Irregular Raises $80 Million for AI Security Testing Lab</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Decade-Old Pixie Dust Wi-Fi Hack Still Impacts Many Devices</title>
-		<link>https://www.securityweek.com/decade-old-pixie-dust-wi-fi-hack-still-impacts-many-devices/</link>
+		<title>RegScale Raises $30 Million for GRC Platform</title>
+		<link>https://www.securityweek.com/regscale-raises-30-million-for-grc-platform/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 11:12:37 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Pixie Dust]]></category>
-		<category><![CDATA[Wi-Fi]]></category>
-		<category><![CDATA[WPS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43615</guid>
-
-					<description><![CDATA[<p>NetRise has identified 20 device models from six vendors that are still vulnerable to Pixie Dust attacks.</p>
-<p>The post <a href="https://www.securityweek.com/decade-old-pixie-dust-wi-fi-hack-still-impacts-many-devices/">Decade-Old Pixie Dust Wi-Fi Hack Still Impacts Many Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shai-Hulud Supply Chain Attack: Worm Used to Steal Secrets, 180+ NPM Packages Hit</title>
-		<link>https://www.securityweek.com/shai-hulud-supply-chain-attack-worm-used-to-steal-secrets-180-npm-packages-hit/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 09:09:14 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[worm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43611</guid>
-
-					<description><![CDATA[<p>The packages were injected with malicious code to harvest secrets, dump them to a public repository, and make private repositories public.</p>
-<p>The post <a href="https://www.securityweek.com/shai-hulud-supply-chain-attack-worm-used-to-steal-secrets-180-npm-packages-hit/">Shai-Hulud Supply Chain Attack: Worm Used to Steal Secrets, 180+ NPM Packages Hit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RaccoonO365 Phishing Service Disrupted, Leader Identified</title>
-		<link>https://www.securityweek.com/raccoono365-phishing-service-disrupted-leader-identified/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 08:45:48 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Nigerian]]></category>
-		<category><![CDATA[RaccoonO365]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43610</guid>
-
-					<description><![CDATA[<p>Microsoft and Cloudflare have teamed up to take down the infrastructure used by RaccoonO365.</p>
-<p>The post <a href="https://www.securityweek.com/raccoono365-phishing-service-disrupted-leader-identified/">RaccoonO365 Phishing Service Disrupted, Leader Identified</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CrowdStrike to Acquire Pangea to Launch AI Detection and Response (AIDR)</title>
-		<link>https://www.securityweek.com/crowdstrike-to-acquire-pangea-to-launch-ai-detection-and-response-aidr/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 22:26:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43608</guid>
-
-					<description><![CDATA[<p>Acquisition extends CrowdStrike’s Falcon platform into AI security, introducing AI Detection and Response (AIDR) to protect enterprise models, agents, and applications across the full AI lifecycle.</p>
-<p>The post <a href="https://www.securityweek.com/crowdstrike-to-acquire-pangea-to-launch-ai-detection-and-response-aidr/">CrowdStrike to Acquire Pangea to Launch AI Detection and Response (AIDR)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Check Point to Acquire AI Security Firm Lakera</title>
-		<link>https://www.securityweek.com/check-point-to-acquire-ai-security-firm-lakera/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 18:47:08 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Check Point]]></category>
-		<category><![CDATA[Lakera]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43607</guid>
-
-					<description><![CDATA[<p>Move highlights rising demand for AI-native security as enterprises face new risks from generative models and autonomous agents</p>
-<p>The post <a href="https://www.securityweek.com/check-point-to-acquire-ai-security-firm-lakera/">Check Point to Acquire AI Security Firm Lakera</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Analytics Firm Vega Emerges From Stealth With $65M in Funding </title>
-		<link>https://www.securityweek.com/security-analytics-firm-vega-emerges-from-stealth-with-65m-in-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 14:05:28 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
+		<pubDate>Wed, 17 Sep 2025 13:39:02 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SIEM]]></category>
-		<category><![CDATA[SOC]]></category>
-		<category><![CDATA[Vega]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43605</guid>
+		<category><![CDATA[GRC]]></category>
+		<category><![CDATA[RegScale]]></category>
+		<category><![CDATA[risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43620</guid>
 
-					<description><![CDATA[<p>Vega provides security analytics and operations solutions designed to help organizations detect and respond to threats.</p>
-<p>The post <a href="https://www.securityweek.com/security-analytics-firm-vega-emerges-from-stealth-with-65m-in-funding/">Security Analytics Firm Vega Emerges From Stealth With $65M in Funding </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ray Security Emerges From Stealth With $11M to Bring Real-Time, AI-Driven Data Protection</title>
-		<link>https://www.securityweek.com/ray-security-emerges-from-stealth-with-11m-to-bring-real-time-ai-driven-data-protection/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 13:45:15 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43604</guid>
-
-					<description><![CDATA[<p>Tel Aviv, Israel-based Ray Security emerged from stealth with $11 million seed funding and a desire to change the way corporate data is protected. The funding was co-led by Venture Guides and Ibex Investors.</p>
-<p>The post <a href="https://www.securityweek.com/ray-security-emerges-from-stealth-with-11m-to-bring-real-time-ai-driven-data-protection/">Ray Security Emerges From Stealth With $11M to Bring Real-Time, AI-Driven Data Protection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Industry Skeptical of Scattered Spider-ShinyHunters Retirement Claims</title>
-		<link>https://www.securityweek.com/security-industry-skeptical-of-scattered-spider-shinyhunters-retirement-claims/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 16 Sep 2025 12:42:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[retirement]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43599</guid>
-
-					<description><![CDATA[<p>The notorious cybercrime groups claim they are going dark, but experts believe they will continue their activities.</p>
-<p>The post <a href="https://www.securityweek.com/security-industry-skeptical-of-scattered-spider-shinyhunters-retirement-claims/">Security Industry Skeptical of Scattered Spider-ShinyHunters Retirement Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>RegScale has raised a total of more than $50 million, with the latest investment being used to enhance its platform and expand.</p>
+<p>The post <a href="https://www.securityweek.com/regscale-raises-30-million-for-grc-platform/">RegScale Raises $30 Million for GRC Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
