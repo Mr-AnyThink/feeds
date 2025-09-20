@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 19 Sep 2025 11:19:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Sep 2025 14:28:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek&#8217;s Coding Bias</title>
+		<link>https://www.securityweek.com/in-other-news-600k-hit-by-healthcare-breaches-major-shinyhunters-hacks-deepseeks-coding-bias/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 14:27:59 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43667</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Eve Security seed funding, Claroty report, patches from WatchGuard and Nokia.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-600k-hit-by-healthcare-breaches-major-shinyhunters-hacks-deepseeks-coding-bias/">In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek&#8217;s Coding Bias</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions</title>
+		<link>https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 13:36:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Gamaredon]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Turla]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43666</guid>
+
+					<description><![CDATA[<p>Turla malware was deployed in February on select systems that Gamaredon had compromised in January.</p>
+<p>The post <a href="https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/">Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CISA Analyzes Malware From Ivanti EPMM Intrusions</title>
 		<link>https://www.securityweek.com/cisa-analyzes-malware-from-ivanti-epmm-intrusions/</link>
 		
@@ -181,47 +219,6 @@
 
 					<description><![CDATA[<p>The high-end jewelry retailer is informing customers in the United States and Canada that hackers accessed information related to gift cards.</p>
 <p>The post <a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/">Tiffany Data Breach Impacts Thousands of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threat Actor Infests Hotels With New RAT</title>
-		<link>https://www.securityweek.com/threat-actor-infests-hotels-with-new-rat/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 11:17:22 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[hotel]]></category>
-		<category><![CDATA[RAT]]></category>
-		<category><![CDATA[RevengeHotels]]></category>
-		<category><![CDATA[VenomRAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43635</guid>
-
-					<description><![CDATA[<p>RevengeHotels has been targeting hotels in Brazil and Spanish-speaking regions with VenomRAT implants in 2025.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actor-infests-hotels-with-new-rat/">Threat Actor Infests Hotels With New RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Prompts Password Resets After Hackers Obtain Firewall Configurations</title>
-		<link>https://www.securityweek.com/sonicwall-prompts-password-resets-after-firewall-configurations-exposed-in-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 09:41:04 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[brute force]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[password]]></category>
-		<category><![CDATA[password reset]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43633</guid>
-
-					<description><![CDATA[<p>The company sent a new preferences file to less than 5% of customers, urging them to import it into firewalls and reset their passwords.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-prompts-password-resets-after-firewall-configurations-exposed-in-breach/">SonicWall Prompts Password Resets After Hackers Obtain Firewall Configurations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
