@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 19 Sep 2025 14:28:02 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 11:23:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>HoundBytes Launches Automated Security Analyst</title>
+		<link>https://www.securityweek.com/houndbytes-launches-automated-security-analyst/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 11:22:46 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[analyst]]></category>
+		<category><![CDATA[HoundBytes]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[Workhorse]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43679</guid>
+
+					<description><![CDATA[<p>The Romania-based company has launched WorkHorse and is preparing for a funding round to accelerate growth.</p>
+<p>The post <a href="https://www.securityweek.com/houndbytes-launches-automated-security-analyst/">HoundBytes Launches Automated Security Analyst</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Widespread Infostealer Campaign Targeting macOS Users</title>
+		<link>https://www.securityweek.com/widespread-infostealer-campaign-targeting-macos-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 09:56:04 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AMOS]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43677</guid>
+
+					<description><![CDATA[<p>Threat actors rely on malicious GitHub repositories to infect LastPass’s macOS users with the Atomic infostealer.</p>
+<p>The post <a href="https://www.securityweek.com/widespread-infostealer-campaign-targeting-macos-users/">Widespread Infostealer Campaign Targeting macOS Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI Warns of Spoofed IC3 Website</title>
+		<link>https://www.securityweek.com/fbi-warns-of-spoofed-ic3-website/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 09:43:08 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[IC3]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[spoofing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43676</guid>
+
+					<description><![CDATA[<p>Threat actors likely spoofed the official government website for personal information theft and monetary fraudulent activity.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-warns-of-spoofed-ic3-website/">FBI Warns of Spoofed IC3 Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortra Patches Critical GoAnywhere MFT Vulnerability</title>
+		<link>https://www.securityweek.com/fortra-patches-critical-goanywhere-mft-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 07:50:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortra]]></category>
+		<category><![CDATA[MFT]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43671</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2025-10035 (CVSS score of 10), the critical deserialization vulnerability could be exploited for command injection.</p>
+<p>The post <a href="https://www.securityweek.com/fortra-patches-critical-goanywhere-mft-vulnerability/">Fortra Patches Critical GoAnywhere MFT Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Airport Cyberattack Disrupts More Flights Across Europe</title>
+		<link>https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2025 16:03:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43670</guid>
+
+					<description><![CDATA[<p>The cyberattack affected software of Collins Aerospace, whose systems help passengers check in, print boarding passes and bag tags, and dispatch their luggage. </p>
+<p>The post <a href="https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/">Airport Cyberattack Disrupts More Flights Across Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattack Disrupts Check-In Systems at Major European Airports</title>
+		<link>https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2025 15:33:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[airline]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Europe]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43669</guid>
+
+					<description><![CDATA[<p>The disruptions to airport electronic systems meant that only manual check-in and boarding was possible. </p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/">Cyberattack Disrupts Check-In Systems at Major European Airports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek&#8217;s Coding Bias</title>
 		<link>https://www.securityweek.com/in-other-news-600k-hit-by-healthcare-breaches-major-shinyhunters-hacks-deepseeks-coding-bias/</link>
 		
@@ -100,125 +220,6 @@
 
 					<description><![CDATA[<p>The AI agent was able to solve different types of CAPTCHAs and adjusted its cursor movements to better mimic human behavior.</p>
 <p>The post <a href="https://www.securityweek.com/chatgpt-tricked-into-solving-captchas/">ChatGPT Tricked Into Solving CAPTCHAs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Netskope Raises Over $908 Million in IPO</title>
-		<link>https://www.securityweek.com/netskope-raises-over-908-million-in-ipo/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 10:36:59 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[Netskope]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43658</guid>
-
-					<description><![CDATA[<p>Netskope has debuted on Nasdaq and its shares soared more than 18%, bringing the company’s value to $8.6 billion. </p>
-<p>The post <a href="https://www.securityweek.com/netskope-raises-over-908-million-in-ipo/">Netskope Raises Over $908 Million in IPO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two Scattered Spider Suspects Arrested in UK; One Charged in US</title>
-		<link>https://www.securityweek.com/two-scattered-spider-suspects-arrested-in-uk-one-charged-in-us/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 09:27:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43654</guid>
-
-					<description><![CDATA[<p>Thalha Jubair and Owen Flowers were charged in the UK and the US with hacking critical infrastructure organizations.</p>
-<p>The post <a href="https://www.securityweek.com/two-scattered-spider-suspects-arrested-in-uk-one-charged-in-us/">Two Scattered Spider Suspects Arrested in UK; One Charged in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unpatched Vulnerabilities Expose Novakon HMIs to Remote Hacking</title>
-		<link>https://www.securityweek.com/unpatched-vulnerabilities-expose-novakon-hmis-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 07:53:23 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[HMI]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43651</guid>
-
-					<description><![CDATA[<p>Novakon HMIs are affected by remote code execution and information exposure vulnerabilities. </p>
-<p>The post <a href="https://www.securityweek.com/unpatched-vulnerabilities-expose-novakon-hmis-to-remote-hacking/">Unpatched Vulnerabilities Expose Novakon HMIs to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT Targeted in Server-Side Data Theft Attack</title>
-		<link>https://www.securityweek.com/chatgpt-deep-research-targeted-in-server-side-data-theft-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[data theft]]></category>
-		<category><![CDATA[Deep Research]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[server side]]></category>
-		<category><![CDATA[ShadowLeak]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43644</guid>
-
-					<description><![CDATA[<p>OpenAI has fixed this zero-click attack method called ShadowLeak by researchers.</p>
-<p>The post <a href="https://www.securityweek.com/chatgpt-deep-research-targeted-in-server-side-data-theft-attack/">ChatGPT Targeted in Server-Side Data Theft Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch Now: Attack Surface Management Summit &#8211; All Sessions Available</title>
-		<link>https://www.securityweek.com/virtual-event-today-attack-surface-management-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 12:21:37 +0000</pubDate>
-				<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[attack surface management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43623</guid>
-
-					<description><![CDATA[<p>Videos from SecurityWeek's Attack Surface Management Virtual Summit are now available to watch on demand.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-attack-surface-management-summit/">Watch Now: Attack Surface Management Summit &#8211; All Sessions Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tiffany Data Breach Impacts Thousands of Customers</title>
-		<link>https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 11:48:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[luxury]]></category>
-		<category><![CDATA[Tiffany]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43637</guid>
-
-					<description><![CDATA[<p>The high-end jewelry retailer is informing customers in the United States and Canada that hackers accessed information related to gift cards.</p>
-<p>The post <a href="https://www.securityweek.com/tiffany-data-breach-impacts-thousands-of-customers/">Tiffany Data Breach Impacts Thousands of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
