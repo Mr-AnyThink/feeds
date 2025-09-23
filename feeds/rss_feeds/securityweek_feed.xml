@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 22 Sep 2025 11:23:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Sep 2025 11:44:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,174 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>All Microsoft Entra Tenants Were Exposed to Silent Compromise via Invisible Actor Tokens: Researcher</title>
+		<link>https://www.securityweek.com/all-microsoft-entra-tenants-were-exposed-to-silent-compromise-via-invisible-actor-tokens-researcher/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 11:44:16 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Entra]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Microsoft Entra]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43701</guid>
+
+					<description><![CDATA[<p>The strength of responsible disclosure is that it can solve problems before they are actioned. The weakness is that it potentially generates a false sense of security in the vendor.</p>
+<p>The post <a href="https://www.securityweek.com/all-microsoft-entra-tenants-were-exposed-to-silent-compromise-via-invisible-actor-tokens-researcher/">All Microsoft Entra Tenants Were Exposed to Silent Compromise via Invisible Actor Tokens: Researcher</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Top 25 MCP Vulnerabilities Reveal How AI Agents Can Be Exploited</title>
+		<link>https://www.securityweek.com/top-25-mcp-vulnerabilities-reveal-how-ai-agents-can-be-exploited/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 11:13:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[MCP]]></category>
+		<category><![CDATA[vulnerabiliites]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43695</guid>
+
+					<description><![CDATA[<p>A new ranking of Model Context Protocol weaknesses highlights critical risks—from prompt injection to command injection—and provides a roadmap for securing the foundations of agentic AI.</p>
+<p>The post <a href="https://www.securityweek.com/top-25-mcp-vulnerabilities-reveal-how-ai-agents-can-be-exploited/">Top 25 MCP Vulnerabilities Reveal How AI Agents Can Be Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ShadowV2 DDoS Service Lets Customers Self-Manage Attacks</title>
+		<link>https://www.securityweek.com/shadowv2-ddos-service-lets-customers-self-manage-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 11:06:55 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[ShadowV2]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43697</guid>
+
+					<description><![CDATA[<p>The botnet’s operators provide customers with access to an infected network of Docker containers so they can conduct DDoS attacks.</p>
+<p>The post <a href="https://www.securityweek.com/shadowv2-ddos-service-lets-customers-self-manage-attacks/">ShadowV2 DDoS Service Lets Customers Self-Manage Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Scattered Spider Suspect Arrested in US</title>
+		<link>https://www.securityweek.com/scattered-spider-suspect-arrested-in-us/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 09:25:29 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[casino]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43691</guid>
+
+					<description><![CDATA[<p>The juvenile suspect surrendered on September 17 and was booked on computer intrusion, extortion, and identity theft charges.</p>
+<p>The post <a href="https://www.securityweek.com/scattered-spider-suspect-arrested-in-us/">Scattered Spider Suspect Arrested in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Automotive Titan Stellantis Discloses Data Breach</title>
+		<link>https://www.securityweek.com/automotive-titan-stellantis-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 08:38:33 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[Stellantis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43689</guid>
+
+					<description><![CDATA[<p>The company says customer contact information was stolen from a third-party service provider’s platform.</p>
+<p>The post <a href="https://www.securityweek.com/automotive-titan-stellantis-discloses-data-breach/">Automotive Titan Stellantis Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mycroft Raises $3.5 Million for AI-Powered Security and Compliance Platform</title>
+		<link>https://www.securityweek.com/mycroft-raises-3-5-million-for-ai-powered-security-and-compliance-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mycroft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43680</guid>
+
+					<description><![CDATA[<p>The Canada-based company has emerged from stealth with autonomous AI agents designed to manage and operate the security and IT stack.</p>
+<p>The post <a href="https://www.securityweek.com/mycroft-raises-3-5-million-for-ai-powered-security-and-compliance-platform/">Mycroft Raises $3.5 Million for AI-Powered Security and Compliance Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers Earn $150,000 for L1TF Exploit Leaking Data From Public Cloud</title>
+		<link>https://www.securityweek.com/researchers-earn-150000-for-l1tf-exploit-leaking-data-from-public-cloud/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 12:48:06 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[Foreshadow]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[L1TF]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43683</guid>
+
+					<description><![CDATA[<p>L1TF Reloaded is a vulnerability combining the old L1TF and half-Spectre hardware flaws to bypass deployed software mitigations.</p>
+<p>The post <a href="https://www.securityweek.com/researchers-earn-150000-for-l1tf-exploit-leaking-data-from-public-cloud/">Researchers Earn $150,000 for L1TF Exploit Leaking Data From Public Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>European Airport Disruptions Caused by Ransomware Attack</title>
+		<link>https://www.securityweek.com/european-airport-disruptions-caused-by-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 12:31:54 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[aiport]]></category>
+		<category><![CDATA[Collins Aerospace]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43682</guid>
+
+					<description><![CDATA[<p>Collins Aerospace is reportedly having difficulties recovering from the ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/european-airport-disruptions-caused-by-ransomware-attack/">European Airport Disruptions Caused by Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>HoundBytes Launches Automated Security Analyst</title>
 		<link>https://www.securityweek.com/houndbytes-launches-automated-security-analyst/</link>
 		
@@ -62,164 +230,6 @@
 
 					<description><![CDATA[<p>Threat actors rely on malicious GitHub repositories to infect LastPass’s macOS users with the Atomic infostealer.</p>
 <p>The post <a href="https://www.securityweek.com/widespread-infostealer-campaign-targeting-macos-users/">Widespread Infostealer Campaign Targeting macOS Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FBI Warns of Spoofed IC3 Website</title>
-		<link>https://www.securityweek.com/fbi-warns-of-spoofed-ic3-website/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 09:43:08 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[IC3]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[spoofing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43676</guid>
-
-					<description><![CDATA[<p>Threat actors likely spoofed the official government website for personal information theft and monetary fraudulent activity.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-warns-of-spoofed-ic3-website/">FBI Warns of Spoofed IC3 Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortra Patches Critical GoAnywhere MFT Vulnerability</title>
-		<link>https://www.securityweek.com/fortra-patches-critical-goanywhere-mft-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Sep 2025 07:50:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortra]]></category>
-		<category><![CDATA[MFT]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43671</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2025-10035 (CVSS score of 10), the critical deserialization vulnerability could be exploited for command injection.</p>
-<p>The post <a href="https://www.securityweek.com/fortra-patches-critical-goanywhere-mft-vulnerability/">Fortra Patches Critical GoAnywhere MFT Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Airport Cyberattack Disrupts More Flights Across Europe</title>
-		<link>https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sun, 21 Sep 2025 16:03:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43670</guid>
-
-					<description><![CDATA[<p>The cyberattack affected software of Collins Aerospace, whose systems help passengers check in, print boarding passes and bag tags, and dispatch their luggage. </p>
-<p>The post <a href="https://www.securityweek.com/airport-cyberattack-disrupts-more-flights-across-europe/">Airport Cyberattack Disrupts More Flights Across Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Disrupts Check-In Systems at Major European Airports</title>
-		<link>https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 20 Sep 2025 15:33:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Europe]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43669</guid>
-
-					<description><![CDATA[<p>The disruptions to airport electronic systems meant that only manual check-in and boarding was possible. </p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-disrupts-check-in-systems-at-major-european-airports/">Cyberattack Disrupts Check-In Systems at Major European Airports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek&#8217;s Coding Bias</title>
-		<link>https://www.securityweek.com/in-other-news-600k-hit-by-healthcare-breaches-major-shinyhunters-hacks-deepseeks-coding-bias/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 14:27:59 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43667</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Eve Security seed funding, Claroty report, patches from WatchGuard and Nokia.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-600k-hit-by-healthcare-breaches-major-shinyhunters-hacks-deepseeks-coding-bias/">In Other News: 600k Hit by Healthcare Breaches, Major ShinyHunters Hacks, DeepSeek&#8217;s Coding Bias</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions</title>
-		<link>https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 13:36:10 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Gamaredon]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Turla]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43666</guid>
-
-					<description><![CDATA[<p>Turla malware was deployed in February on select systems that Gamaredon had compromised in January.</p>
-<p>The post <a href="https://www.securityweek.com/turla-and-gamaredon-working-together-in-fresh-ukrainian-intrusions/">Turla and Gamaredon Working Together in Fresh Ukrainian Intrusions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Analyzes Malware From Ivanti EPMM Intrusions</title>
-		<link>https://www.securityweek.com/cisa-analyzes-malware-from-ivanti-epmm-intrusions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 11:19:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43660</guid>
-
-					<description><![CDATA[<p>Hackers chained two Ivanti EPMM vulnerabilities to collect system information, dump credentials, and execute malware.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-analyzes-malware-from-ivanti-epmm-intrusions/">CISA Analyzes Malware From Ivanti EPMM Intrusions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT Tricked Into Solving CAPTCHAs</title>
-		<link>https://www.securityweek.com/chatgpt-tricked-into-solving-captchas/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Sep 2025 11:12:20 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[CAPTCHA]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43659</guid>
-
-					<description><![CDATA[<p>The AI agent was able to solve different types of CAPTCHAs and adjusted its cursor movements to better mimic human behavior.</p>
-<p>The post <a href="https://www.securityweek.com/chatgpt-tricked-into-solving-captchas/">ChatGPT Tricked Into Solving CAPTCHAs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
