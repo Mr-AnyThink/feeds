@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 24 Sep 2025 12:12:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 11:35:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese Spies Lurked in Networks for 393 Days, Hunted for Zero-Day Intel</title>
+		<link>https://www.securityweek.com/chinese-spies-lurked-in-networks-for-393-days-hunted-for-zero-day-intel/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 11:35:33 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[UNC5221]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43736</guid>
+
+					<description><![CDATA[<p>Google’s Threat Intelligence Group and Mandiant have shared findings on a recent BrickStorm campaign linked to UNC5221.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-spies-lurked-in-networks-for-393-days-hunted-for-zero-day-intel/">Chinese Spies Lurked in Networks for 393 Days, Hunted for Zero-Day Intel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CSA Unveils SaaS Security Controls Framework to Ease Complexity</title>
+		<link>https://www.securityweek.com/csa-unveils-saas-security-controls-framework-to-ease-complexity/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43728</guid>
+
+					<description><![CDATA[<p>New framework from the Cloud Security Alliance helps SaaS customers navigate the shared responsibility model with confidence.</p>
+<p>The post <a href="https://www.securityweek.com/csa-unveils-saas-security-controls-framework-to-ease-complexity/">CSA Unveils SaaS Security Controls Framework to Ease Complexity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Volvo Group Employee Data Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/volvo-group-employee-data-stolen-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 10:06:47 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43733</guid>
+
+					<description><![CDATA[<p>The Miljödata data breach has impacted numerous organizations, education institutions, and Swedish municipalities.</p>
+<p>The post <a href="https://www.securityweek.com/volvo-group-employee-data-stolen-in-ransomware-attack/">Volvo Group Employee Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches Zero-Day Flaw Affecting Routers and Switches</title>
+		<link>https://www.securityweek.com/cisco-patches-zero-day-flaw-affecting-routers-and-switches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 08:40:41 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[switch]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43731</guid>
+
+					<description><![CDATA[<p>The security defect allows remote attackers with administrative privileges to execute arbitrary code as the root user.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-zero-day-flaw-affecting-routers-and-switches/">Cisco Patches Zero-Day Flaw Affecting Routers and Switches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Target Casino Operator Boyd Gaming</title>
+		<link>https://www.securityweek.com/hackers-target-casino-operator-boyd-gaming/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 14:02:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Boyd Gaming]]></category>
+		<category><![CDATA[casino]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43723</guid>
+
+					<description><![CDATA[<p>Boyd Gaming has informed the SEC about a data breach affecting the information of employees and other individuals.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-target-casino-operator-boyd-gaming/">Hackers Target Casino Operator Boyd Gaming</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GeoServer Flaw Exploited in US Federal Agency Hack</title>
+		<link>https://www.securityweek.com/geoserver-flaw-exploited-in-us-federal-agency-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 12:25:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[GeoServer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43722</guid>
+
+					<description><![CDATA[<p>The hackers remained undetected for three weeks, deploying China Chopper, remote access scripts, and reconnaissance tools.</p>
+<p>The post <a href="https://www.securityweek.com/geoserver-flaw-exploited-in-us-federal-agency-hack/">GeoServer Flaw Exploited in US Federal Agency Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>European Airport Cyberattack Linked to Obscure Ransomware, Suspect Arrested</title>
 		<link>https://www.securityweek.com/european-airport-cyberattack-linked-to-obscure-ransomware-suspect-arrested/</link>
 		
@@ -107,126 +226,6 @@
 
 					<description><![CDATA[<p>The software update includes additional file checks and helps users remove the known rootkit deployed in a recent campaign.</p>
 <p>The post <a href="https://www.securityweek.com/sonicwall-updates-sma-100-appliances-to-remove-overstep-malware/">SonicWall Updates SMA 100 Appliances to Remove Overstep Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Libraesva Email Security Gateway Vulnerability Exploited by Nation-State Hackers</title>
-		<link>https://www.securityweek.com/libraesva-email-security-gateway-vulnerability-exploited-by-nation-state-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 07:26:20 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[ESG]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Libraesva]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43711</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2025-59689, the command injection bug could be triggered via malicious emails containing crafted compressed attachments.</p>
-<p>The post <a href="https://www.securityweek.com/libraesva-email-security-gateway-vulnerability-exploited-by-nation-state-hackers/">Libraesva Email Security Gateway Vulnerability Exploited by Nation-State Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jaguar Land Rover Says Shutdown Will Continue Until at Least Oct 1 After Cyberattack</title>
-		<link>https://www.securityweek.com/jaguar-land-rover-says-shutdown-will-continue-until-at-least-oct-1-after-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 22:39:48 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43708</guid>
-
-					<description><![CDATA[<p>JLR extended the pause in production “to give clarity for the coming week as we build the timeline for the phased restart of our operations and continue our investigation.”</p>
-<p>The post <a href="https://www.securityweek.com/jaguar-land-rover-says-shutdown-will-continue-until-at-least-oct-1-after-cyberattack/">Jaguar Land Rover Says Shutdown Will Continue Until at Least Oct 1 After Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A Massive Telecom Threat Was Stopped Right As World Leaders Gathered at UN Headquarters in New York</title>
-		<link>https://www.securityweek.com/a-massive-telecom-threat-was-stopped-right-as-world-leaders-gathered-at-un-headquarters-in-new-york/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 22:30:25 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Secret Service]]></category>
-		<category><![CDATA[SIM]]></category>
-		<category><![CDATA[telecom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43707</guid>
-
-					<description><![CDATA[<p>More than 300 servers and 100,000 SIM cards designed to mimic cellphones and overwhelm networks.</p>
-<p>The post <a href="https://www.securityweek.com/a-massive-telecom-threat-was-stopped-right-as-world-leaders-gathered-at-un-headquarters-in-new-york/">A Massive Telecom Threat Was Stopped Right As World Leaders Gathered at UN Headquarters in New York</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Patch Bypassed for Supermicro Vulnerability Allowing BMC Hack</title>
-		<link>https://www.securityweek.com/patch-bypassed-for-supermicro-vulnerability-allowing-bmc-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[BMC]]></category>
-		<category><![CDATA[patch bypass]]></category>
-		<category><![CDATA[Supermicro]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43698</guid>
-
-					<description><![CDATA[<p>Binarly researchers have found a way to bypass a patch for a previously disclosed vulnerability. </p>
-<p>The post <a href="https://www.securityweek.com/patch-bypassed-for-supermicro-vulnerability-allowing-bmc-hack/">Patch Bypassed for Supermicro Vulnerability Allowing BMC Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SolarWinds Makes Third Attempt at Patching Exploited Vulnerability</title>
-		<link>https://www.securityweek.com/solarwinds-makes-third-attempt-at-patching-exploited-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 16:43:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[Web Help Desk]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43705</guid>
-
-					<description><![CDATA[<p>CVE-2025-26399 is a patch bypass of CVE-2024-28988, which is a patch bypass of the exploited CVE-2024-28986.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-makes-third-attempt-at-patching-exploited-vulnerability/">SolarWinds Makes Third Attempt at Patching Exploited Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unit 221B Raises $5 Million for Threat Intel Aiding Hacker Arrests </title>
-		<link>https://www.securityweek.com/unit-221b-raises-5-million-for-threat-intel-aiding-hacker-arrests/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 23 Sep 2025 12:44:17 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[seed funding]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<category><![CDATA[Unit 221B]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43702</guid>
-
-					<description><![CDATA[<p>The company will expand its platform’s capabilities and accelerate investigative collaboration and go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/unit-221b-raises-5-million-for-threat-intel-aiding-hacker-arrests/">Unit 221B Raises $5 Million for Threat Intel Aiding Hacker Arrests </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
