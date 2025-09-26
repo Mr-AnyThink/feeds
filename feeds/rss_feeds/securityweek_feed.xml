@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 25 Sep 2025 11:35:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Sep 2025 12:01:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chinese Spies Lurked in Networks for 393 Days, Hunted for Zero-Day Intel</title>
-		<link>https://www.securityweek.com/chinese-spies-lurked-in-networks-for-393-days-hunted-for-zero-day-intel/</link>
+		<title>North Korea&#8217;s Fake Recruiters Feed Stolen Data to IT Workers</title>
+		<link>https://www.securityweek.com/north-koreas-fake-recruiters-feed-stolen-data-to-it-workers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 12:01:23 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[DeceptiveDevelopment]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[recruitment]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43760</guid>
+
+					<description><![CDATA[<p>North Korean threat actors pose as recruiters to steal developers’ identities and supply them to fraudulent IT workers.</p>
+<p>The post <a href="https://www.securityweek.com/north-koreas-fake-recruiters-feed-stolen-data-to-it-workers/">North Korea&#8217;s Fake Recruiters Feed Stolen Data to IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>No Patches for Vulnerabilities Allowing Cognex Industrial Camera Hacking</title>
+		<link>https://www.securityweek.com/no-patches-for-vulnerabilities-allowing-cognex-industrial-camera-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 11:35:33 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
+		<pubDate>Fri, 26 Sep 2025 11:18:20 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Cognex]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43758</guid>
+
+					<description><![CDATA[<p>Cognex is advising customers to transition to newer versions of its machine vision products.</p>
+<p>The post <a href="https://www.securityweek.com/no-patches-for-vulnerabilities-allowing-cognex-industrial-camera-hacking/">No Patches for Vulnerabilities Allowing Cognex Industrial Camera Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New XCSSET macOS Malware Variant Hijacks Cryptocurrency Transactions</title>
+		<link>https://www.securityweek.com/new-xcsset-macos-malware-variant-hijacks-cryptocurrency-transactions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 10:14:20 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[cryptojacking]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[XCSSET]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43757</guid>
+
+					<description><![CDATA[<p>The malware now uses a four-stage infection chain, has an additional persistence mechanism, and also targets Firefox browser data.</p>
+<p>The post <a href="https://www.securityweek.com/new-xcsset-macos-malware-variant-hijacks-cryptocurrency-transactions/">New XCSSET macOS Malware Variant Hijacks Cryptocurrency Transactions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent Fortra GoAnywhere MFT Vulnerability Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/recent-fortra-goanywhere-mft-vulnerability-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 08:49:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Fortra]]></category>
+		<category><![CDATA[GoAnywhere]]></category>
+		<category><![CDATA[MFT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43754</guid>
+
+					<description><![CDATA[<p>Eight days before patches, a threat actor exploited CVE-2025-10035 as a zero-day to create a backdoor admin account.</p>
+<p>The post <a href="https://www.securityweek.com/recent-fortra-goanywhere-mft-vulnerability-exploited-as-zero-day/">Recent Fortra GoAnywhere MFT Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Firewall Zero-Days Exploited in China-Linked ArcaneDoor Attacks</title>
+		<link>https://www.securityweek.com/cisco-firewall-zero-days-exploited-in-china-linked-arcanedoor-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 26 Sep 2025 07:05:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ArcaneDoor]]></category>
 		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[UNC5221]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43736</guid>
-
-					<description><![CDATA[<p>Google’s Threat Intelligence Group and Mandiant have shared findings on a recent BrickStorm campaign linked to UNC5221.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-spies-lurked-in-networks-for-393-days-hunted-for-zero-day-intel/">Chinese Spies Lurked in Networks for 393 Days, Hunted for Zero-Day Intel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CSA Unveils SaaS Security Controls Framework to Ease Complexity</title>
-		<link>https://www.securityweek.com/csa-unveils-saas-security-controls-framework-to-ease-complexity/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43728</guid>
-
-					<description><![CDATA[<p>New framework from the Cloud Security Alliance helps SaaS customers navigate the shared responsibility model with confidence.</p>
-<p>The post <a href="https://www.securityweek.com/csa-unveils-saas-security-controls-framework-to-ease-complexity/">CSA Unveils SaaS Security Controls Framework to Ease Complexity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Volvo Group Employee Data Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/volvo-group-employee-data-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 10:06:47 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43733</guid>
-
-					<description><![CDATA[<p>The Miljödata data breach has impacted numerous organizations, education institutions, and Swedish municipalities.</p>
-<p>The post <a href="https://www.securityweek.com/volvo-group-employee-data-stolen-in-ransomware-attack/">Volvo Group Employee Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Zero-Day Flaw Affecting Routers and Switches</title>
-		<link>https://www.securityweek.com/cisco-patches-zero-day-flaw-affecting-routers-and-switches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 08:40:41 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Cisco]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[switch]]></category>
+		<category><![CDATA[firewall]]></category>
 		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43731</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43746</guid>
 
-					<description><![CDATA[<p>The security defect allows remote attackers with administrative privileges to execute arbitrary code as the root user.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-zero-day-flaw-affecting-routers-and-switches/">Cisco Patches Zero-Day Flaw Affecting Routers and Switches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Leading to remote code execution and privilege escalation, the flaws were exploited on Cisco ASA 5500-X series devices that lack secure boot.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-firewall-zero-days-exploited-in-china-linked-arcanedoor-attacks/">Cisco Firewall Zero-Days Exploited in China-Linked ArcaneDoor Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hackers Target Casino Operator Boyd Gaming</title>
-		<link>https://www.securityweek.com/hackers-target-casino-operator-boyd-gaming/</link>
+		<title>Salesforce AI Hack Enabled CRM Data Theft</title>
+		<link>https://www.securityweek.com/salesforce-ai-hack-enabled-crm-data-theft/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 14:02:04 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Boyd Gaming]]></category>
-		<category><![CDATA[casino]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43723</guid>
+		<pubDate>Thu, 25 Sep 2025 16:15:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI hack]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<category><![CDATA[Salesforce AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43743</guid>
 
-					<description><![CDATA[<p>Boyd Gaming has informed the SEC about a data breach affecting the information of employees and other individuals.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-casino-operator-boyd-gaming/">Hackers Target Casino Operator Boyd Gaming</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Prompt injection has been leveraged alongside an expired domain to steal Salesforce data in an attack named ForcedLeak.</p>
+<p>The post <a href="https://www.securityweek.com/salesforce-ai-hack-enabled-crm-data-theft/">Salesforce AI Hack Enabled CRM Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>GeoServer Flaw Exploited in US Federal Agency Hack</title>
-		<link>https://www.securityweek.com/geoserver-flaw-exploited-in-us-federal-agency-hack/</link>
+		<title>PyPI Warns Users of Fresh Phishing Campaign</title>
+		<link>https://www.securityweek.com/pypi-warns-users-of-fresh-phishing-campaign/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 12:25:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[GeoServer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43722</guid>
+		<pubDate>Thu, 25 Sep 2025 14:35:44 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[PyPI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43742</guid>
 
-					<description><![CDATA[<p>The hackers remained undetected for three weeks, deploying China Chopper, remote access scripts, and reconnaissance tools.</p>
-<p>The post <a href="https://www.securityweek.com/geoserver-flaw-exploited-in-us-federal-agency-hack/">GeoServer Flaw Exploited in US Federal Agency Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Threat actors impersonating PyPI ask users to verify their email for security purposes, directing them to fake websites.</p>
+<p>The post <a href="https://www.securityweek.com/pypi-warns-users-of-fresh-phishing-campaign/">PyPI Warns Users of Fresh Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>European Airport Cyberattack Linked to Obscure Ransomware, Suspect Arrested</title>
-		<link>https://www.securityweek.com/european-airport-cyberattack-linked-to-obscure-ransomware-suspect-arrested/</link>
+		<title>Chinese Cyberspies Hacked US Defense Contractors</title>
+		<link>https://www.securityweek.com/chinese-cyberspies-hacked-us-defense-contractors/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 12:57:39 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[RedNovember]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43740</guid>
+
+					<description><![CDATA[<p>RedNovember has been targeting government, defense and aerospace, and legal services organizations worldwide.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-cyberspies-hacked-us-defense-contractors/">Chinese Cyberspies Hacked US Defense Contractors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RTX Confirms Airport Services Hit by Ransomware</title>
+		<link>https://www.securityweek.com/rtx-confirms-airport-services-hit-by-ransomware/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 12:12:16 +0000</pubDate>
+		<pubDate>Thu, 25 Sep 2025 12:41:30 +0000</pubDate>
 				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[airport]]></category>
 		<category><![CDATA[Collins Aerospace]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[HardBit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43721</guid>
+		<category><![CDATA[RTX]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43738</guid>
 
-					<description><![CDATA[<p>Cybersecurity researchers believe the attack on Collins Aerospace involved a piece of ransomware known as HardBit.</p>
-<p>The post <a href="https://www.securityweek.com/european-airport-cyberattack-linked-to-obscure-ransomware-suspect-arrested/">European Airport Cyberattack Linked to Obscure Ransomware, Suspect Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The aerospace and defense giant has disclosed the cyberattack in a filing with the SEC.</p>
+<p>The post <a href="https://www.securityweek.com/rtx-confirms-airport-services-hit-by-ransomware/">RTX Confirms Airport Services Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>GitHub Boosting Security in Response to NPM Supply Chain Attacks </title>
-		<link>https://www.securityweek.com/github-boosting-security-in-response-to-npm-supply-chain-attacks/</link>
+		<title>Perspective: Why Politics in the Workplace is a Cybersecurity Risk</title>
+		<link>https://www.securityweek.com/perspective-why-politics-in-the-workplace-is-a-cybersecurity-risk/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 10:17:20 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[2FA]]></category>
-		<category><![CDATA[authentication]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43719</guid>
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 12:30:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43737</guid>
 
-					<description><![CDATA[<p>GitHub will implement local publishing with mandatory 2FA, granular tokens that expire after seven days, and trusted publishing.</p>
-<p>The post <a href="https://www.securityweek.com/github-boosting-security-in-response-to-npm-supply-chain-attacks/">GitHub Boosting Security in Response to NPM Supply Chain Attacks </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Record-Breaking DDoS Attack Peaks at 22 Tbps and 10 Bpps</title>
-		<link>https://www.securityweek.com/record-breaking-ddos-attack-peaks-at-22-tbps-and-10-bpps/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 09:24:34 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Aisuru]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[DDoS record]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43714</guid>
-
-					<description><![CDATA[<p>The attack was aimed at a European network infrastructure company and it has been linked to the Aisuru botnet.</p>
-<p>The post <a href="https://www.securityweek.com/record-breaking-ddos-attack-peaks-at-22-tbps-and-10-bpps/">Record-Breaking DDoS Attack Peaks at 22 Tbps and 10 Bpps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Updates SMA 100 Appliances to Remove Overstep Malware</title>
-		<link>https://www.securityweek.com/sonicwall-updates-sma-100-appliances-to-remove-overstep-malware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Sep 2025 08:28:33 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Overstep]]></category>
-		<category><![CDATA[rootkit]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43712</guid>
-
-					<description><![CDATA[<p>The software update includes additional file checks and helps users remove the known rootkit deployed in a recent campaign.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-updates-sma-100-appliances-to-remove-overstep-malware/">SonicWall Updates SMA 100 Appliances to Remove Overstep Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Bringing politics into professional spaces undermines decision-making, collaboration, and ultimately weakens security teams.</p>
+<p>The post <a href="https://www.securityweek.com/perspective-why-politics-in-the-workplace-is-a-cybersecurity-risk/">Perspective: Why Politics in the Workplace is a Cybersecurity Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
