@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 02 Oct 2025 11:34:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Oct 2025 11:36:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,168 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Unauthenticated RCE Flaw Patched in DrayTek Routers</title>
+		<link>https://www.securityweek.com/unauthenticated-rce-flaw-patched-in-draytek-routers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 11:36:42 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DrayTek]]></category>
+		<category><![CDATA[router]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43852</guid>
+
+					<description><![CDATA[<p>The security defect can be exploited remotely via crafted HTTP/S requests to a vulnerable device’s web user interface.</p>
+<p>The post <a href="https://www.securityweek.com/unauthenticated-rce-flaw-patched-in-draytek-routers/">Unauthenticated RCE Flaw Patched in DrayTek Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Exploited Meteobridge Vulnerability</title>
+		<link>https://www.securityweek.com/organizations-warned-of-exploited-meteobridge-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 10:44:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Meteobridge]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43851</guid>
+
+					<description><![CDATA[<p>Patched in mid-May, the security defect allows remote unauthenticated attackers to execute arbitrary commands with root privileges.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-meteobridge-vulnerability/">Organizations Warned of Exploited Meteobridge Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MokN Raises $3 Million for Phish-Back Solution</title>
+		<link>https://www.securityweek.com/mokn-raises-3-million-for-phish-back-solution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 10:35:33 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[MokN]]></category>
+		<category><![CDATA[phish-back]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43850</guid>
+
+					<description><![CDATA[<p>The French cybersecurity startup tricks attackers into revealing stolen credentials so they can be neutralized.</p>
+<p>The post <a href="https://www.securityweek.com/mokn-raises-3-million-for-phish-back-solution/">MokN Raises $3 Million for Phish-Back Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks</title>
+		<link>https://www.securityweek.com/oracle-says-known-vulnerabilities-possibly-exploited-in-recent-extortion-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 09:55:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[E-Business Suite]]></category>
+		<category><![CDATA[EBS]]></category>
+		<category><![CDATA[extortion]]></category>
+		<category><![CDATA[FIN11]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43849</guid>
+
+					<description><![CDATA[<p>The software giant’s investigation showed that vulnerabilities patched in July 2025 may be involved.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-says-known-vulnerabilities-possibly-exploited-in-recent-extortion-attacks/">Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 141 and Firefox 143 Patches Fix High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-141-and-firefox-143-patches-fix-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 08:37:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43848</guid>
+
+					<description><![CDATA[<p>High-severity flaws were patched in Chrome’s WebGPU and Video components, and in Firefox’s Graphics and JavaScript Engine components.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-141-and-firefox-143-patches-fix-high-severity-vulnerabilities/">Chrome 141 and Firefox 143 Patches Fix High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Red Hat Confirms GitLab Instance Hack, Data Theft</title>
+		<link>https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 06:55:26 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Crimson Collective]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitLab]]></category>
+		<category><![CDATA[red hat]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43844</guid>
+
+					<description><![CDATA[<p>Hackers claim to have stolen 28,000 private repositories, including data associated with major companies that use Red Hat services.</p>
+<p>The post <a href="https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/">Red Hat Confirms GitLab Instance Hack, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Many Attacks Aimed at EU Targeted OT, Says Cybersecurity Agency</title>
+		<link>https://www.securityweek.com/many-attacks-aimed-at-eu-targeted-ot-says-cybersecurity-agency/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 14:13:30 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ENISA]]></category>
+		<category><![CDATA[hacktivists]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43843</guid>
+
+					<description><![CDATA[<p>ENISA has published its 2025 Threat Landscape report, highlighting some of the attacks aimed at OT systems.</p>
+<p>The post <a href="https://www.securityweek.com/many-attacks-aimed-at-eu-targeted-ot-says-cybersecurity-agency/">Many Attacks Aimed at EU Targeted OT, Says Cybersecurity Agency</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>1.2 Million Impacted by WestJet Data Breach</title>
+		<link>https://www.securityweek.com/1-2-million-impacted-by-westjet-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2025 12:31:47 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[airline]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[WestJet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43838</guid>
+
+					<description><![CDATA[<p>The Canadian airline fell victim to a cyberattack in June and has completed the analysis of stolen information.</p>
+<p>The post <a href="https://www.securityweek.com/1-2-million-impacted-by-westjet-data-breach/">1.2 Million Impacted by WestJet Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>766,000 Impacted by Data Breach at Dealership Software Provider Motility</title>
 		<link>https://www.securityweek.com/766000-impacted-by-data-breach-at-dealership-software-provider-motility/</link>
 		
@@ -63,173 +225,6 @@
 
 					<description><![CDATA[<p>The attack uses a passive interposer to control the SGX enclave and extract the DCAP attestation key, breaking the mechanism.</p>
 <p>The post <a href="https://www.securityweek.com/wiretap-attack-breaks-intel-sgx-security/">WireTap Attack Breaks Intel SGX Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybercriminals Claim Theft of Data From Oracle E-Business Suite Customers</title>
-		<link>https://www.securityweek.com/cybercriminals-claim-theft-of-data-from-oracle-e-business-suite-customers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 10:28:03 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FIN11]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43832</guid>
-
-					<description><![CDATA[<p>The attackers are claiming to be affiliated with the notorious Cl0p ransomware group and links have been found to FIN11.</p>
-<p>The post <a href="https://www.securityweek.com/cybercriminals-claim-theft-of-data-from-oracle-e-business-suite-customers/">Cybercriminals Claim Theft of Data From Oracle E-Business Suite Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zania Raises $18 Million for AI-Powered GRC Platform</title>
-		<link>https://www.securityweek.com/zania-raises-18-million-for-ai-powered-grc-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 09:43:46 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[governance]]></category>
-		<category><![CDATA[GRC]]></category>
-		<category><![CDATA[risk management]]></category>
-		<category><![CDATA[Zania]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43830</guid>
-
-					<description><![CDATA[<p>The company plans to triple its engineering and go‑to‑market teams and to accelerate its agentic AI platform.</p>
-<p>The post <a href="https://www.securityweek.com/zania-raises-18-million-for-ai-powered-grc-platform/">Zania Raises $18 Million for AI-Powered GRC Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1.5 Million Impacted by Allianz Life Data Breach</title>
-		<link>https://www.securityweek.com/1-5-million-impacted-by-allianz-life-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 08:02:18 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Allianz]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Salesforce hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43827</guid>
-
-					<description><![CDATA[<p>In July, hackers stole files containing names, addresses, dates of birth, and Social Security numbers from a cloud-based CRM.</p>
-<p>The post <a href="https://www.securityweek.com/1-5-million-impacted-by-allianz-life-data-breach/">1.5 Million Impacted by Allianz Life Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenSSL Vulnerabilities Allow Private Key Recovery, Code Execution, DoS Attacks</title>
-		<link>https://www.securityweek.com/openssl-vulnerabilities-allow-private-key-recovery-code-execution-dos-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 13:59:39 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[OpenSSL]]></category>
-		<category><![CDATA[private key recovery]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43820</guid>
-
-					<description><![CDATA[<p>Three vulnerabilities have been patched with the release of OpenSSL updates. </p>
-<p>The post <a href="https://www.securityweek.com/openssl-vulnerabilities-allow-private-key-recovery-code-execution-dos-attacks/">OpenSSL Vulnerabilities Allow Private Key Recovery, Code Execution, DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APT &#8216;Phantom Taurus&#8217; Targeting Organizations With Net-Star Malware</title>
-		<link>https://www.securityweek.com/chinese-apt-phantom-taurus-targeting-organizations-with-net-star-malware/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 12:21:11 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Net-Star]]></category>
-		<category><![CDATA[Phantom Taurus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43819</guid>
-
-					<description><![CDATA[<p>Focused on espionage, the threat actor shares infrastructure with Chinese APTs, but uses different TTPs in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apt-phantom-taurus-targeting-organizations-with-net-star-malware/">Chinese APT &#8216;Phantom Taurus&#8217; Targeting Organizations With Net-Star Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canadian Airline WestJet Says Hackers Stole Customer Data</title>
-		<link>https://www.securityweek.com/canadian-airline-westjet-says-hackers-stole-customer-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 11:45:12 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[WestJet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43817</guid>
-
-					<description><![CDATA[<p>The company says names, contact details, and ID documents provided in connection with reservations and travel were stolen from its systems.</p>
-<p>The post <a href="https://www.securityweek.com/canadian-airline-westjet-says-hackers-stole-customer-data/">Canadian Airline WestJet Says Hackers Stole Customer Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NIST Publishes Guide for Protecting ICS Against USB-Borne Threats</title>
-		<link>https://www.securityweek.com/nist-publishes-guide-for-protecting-ics-against-usb-borne-threats/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 11:16:48 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[NIST]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[USB]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43815</guid>
-
-					<description><![CDATA[<p>NIST Special Publication 1334 focuses on reducing cybersecurity risks associated with the use of removable media devices in OT environments.</p>
-<p>The post <a href="https://www.securityweek.com/nist-publishes-guide-for-protecting-ics-against-usb-borne-threats/">NIST Publishes Guide for Protecting ICS Against USB-Borne Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Descope Raises $35 Million in Seed Round Extension</title>
-		<link>https://www.securityweek.com/descope-raises-35-million-in-seed-round-extension/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Oct 2025 11:02:21 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Descope]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[IAM]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43812</guid>
-
-					<description><![CDATA[<p>The identity and access management provider will invest in agentic identity R&#038;D, expand to new regions, and hire new talent.</p>
-<p>The post <a href="https://www.securityweek.com/descope-raises-35-million-in-seed-round-extension/">Descope Raises $35 Million in Seed Round Extension</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
