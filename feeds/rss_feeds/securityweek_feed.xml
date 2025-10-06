@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 04 Oct 2025 09:16:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Oct 2025 11:24:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,111 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers Extorting Salesforce After Stealing Data From Dozens of Customers</title>
+		<link>https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 11:24:35 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[extortion]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43865</guid>
+
+					<description><![CDATA[<p>Salesforce says the extortion attempts are related to past or unsubstantiated incidents, and not to fresh intrusions.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/">Hackers Extorting Salesforce After Stealing Data From Dozens of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data Breach at Doctors Imaging Group Impacts 171,000 People</title>
+		<link>https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 10:46:16 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Doctors Imaging Group]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43864</guid>
+
+					<description><![CDATA[<p>Doctors Imaging Group is informing customers about a cybersecurity incident nearly a year after it occurred. </p>
+<p>The post <a href="https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/">Data Breach at Doctors Imaging Group Impacts 171,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>$4.5 Million Offered in New Cloud Hacking Competition</title>
+		<link>https://www.securityweek.com/4-5-million-offered-in-new-cloud-hacking-competition/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 09:44:11 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[exploits]]></category>
+		<category><![CDATA[hacking competition]]></category>
+		<category><![CDATA[Wiz]]></category>
+		<category><![CDATA[Zeroday.Cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43862</guid>
+
+					<description><![CDATA[<p>Wiz has teamed up with Microsoft, Google and AWS and is inviting cloud security researchers to its Zeroday.Cloud competition.</p>
+<p>The post <a href="https://www.securityweek.com/4-5-million-offered-in-new-cloud-hacking-competition/">$4.5 Million Offered in New Cloud Hacking Competition</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Beer Giant Asahi Says Data Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/beer-giant-asahi-says-data-stolen-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 07:58:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Asahi]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43860</guid>
+
+					<description><![CDATA[<p>The brewing giant has reverted to manual order processing and shipment as operations at its Japanese subsidiaries are disrupted.</p>
+<p>The post <a href="https://www.securityweek.com/beer-giant-asahi-says-data-stolen-in-ransomware-attack/">Beer Giant Asahi Says Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle E-Business Suite Zero-Day Exploited in Cl0p Attacks</title>
+		<link>https://www.securityweek.com/oracle-e-business-suite-zero-day-exploited-in-cl0p-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 06 Oct 2025 07:43:51 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43857</guid>
+
+					<description><![CDATA[<p>Oracle has informed customers that it has patched a critical remote code execution vulnerability tracked as CVE-2025-61882.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-e-business-suite-zero-day-exploited-in-cl0p-attacks/">Oracle E-Business Suite Zero-Day Exploited in Cl0p Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: PQC Adoption, New Android Spyware, FEMA Data Breach</title>
 		<link>https://www.securityweek.com/in-other-news-pqc-adoption-new-android-spyware-fema-data-breach/</link>
 		
@@ -116,112 +221,6 @@
 
 					<description><![CDATA[<p>The French cybersecurity startup tricks attackers into revealing stolen credentials so they can be neutralized.</p>
 <p>The post <a href="https://www.securityweek.com/mokn-raises-3-million-for-phish-back-solution/">MokN Raises $3 Million for Phish-Back Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks</title>
-		<link>https://www.securityweek.com/oracle-says-known-vulnerabilities-possibly-exploited-in-recent-extortion-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 09:55:49 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[E-Business Suite]]></category>
-		<category><![CDATA[EBS]]></category>
-		<category><![CDATA[extortion]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FIN11]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43849</guid>
-
-					<description><![CDATA[<p>The software giant’s investigation showed that vulnerabilities patched in July 2025 may be involved.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-says-known-vulnerabilities-possibly-exploited-in-recent-extortion-attacks/">Oracle Says Known Vulnerabilities Possibly Exploited in Recent Extortion Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 141 and Firefox 143 Patches Fix High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-141-and-firefox-143-patches-fix-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 08:37:02 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43848</guid>
-
-					<description><![CDATA[<p>High-severity flaws were patched in Chrome’s WebGPU and Video components, and in Firefox’s Graphics and JavaScript Engine components.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-141-and-firefox-143-patches-fix-high-severity-vulnerabilities/">Chrome 141 and Firefox 143 Patches Fix High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Red Hat Confirms GitLab Instance Hack, Data Theft</title>
-		<link>https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 06:55:26 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Crimson Collective]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitLab]]></category>
-		<category><![CDATA[red hat]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43844</guid>
-
-					<description><![CDATA[<p>Hackers claim to have stolen 28,000 private repositories, including data associated with major companies that use Red Hat services.</p>
-<p>The post <a href="https://www.securityweek.com/red-hat-confirms-gitlab-instance-hack-data-theft/">Red Hat Confirms GitLab Instance Hack, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Many Attacks Aimed at EU Targeted OT, Says Cybersecurity Agency</title>
-		<link>https://www.securityweek.com/many-attacks-aimed-at-eu-targeted-ot-says-cybersecurity-agency/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 14:13:30 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ENISA]]></category>
-		<category><![CDATA[hacktivists]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43843</guid>
-
-					<description><![CDATA[<p>ENISA has published its 2025 Threat Landscape report, highlighting some of the attacks aimed at OT systems.</p>
-<p>The post <a href="https://www.securityweek.com/many-attacks-aimed-at-eu-targeted-ot-says-cybersecurity-agency/">Many Attacks Aimed at EU Targeted OT, Says Cybersecurity Agency</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1.2 Million Impacted by WestJet Data Breach</title>
-		<link>https://www.securityweek.com/1-2-million-impacted-by-westjet-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Oct 2025 12:31:47 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[WestJet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43838</guid>
-
-					<description><![CDATA[<p>The Canadian airline fell victim to a cyberattack in June and has completed the analysis of stolen information.</p>
-<p>The post <a href="https://www.securityweek.com/1-2-million-impacted-by-westjet-data-breach/">1.2 Million Impacted by WestJet Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
