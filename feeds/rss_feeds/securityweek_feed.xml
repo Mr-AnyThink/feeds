@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 07 Oct 2025 12:01:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 11:09:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025</title>
+		<link>https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 11:09:29 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43912</guid>
+
+					<description><![CDATA[<p>The hackers are believed to have stolen over $6 billion for the Pyongyang regime, financing its military programs.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/">North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Radiflow Unveils New OT Security Platform</title>
+		<link>https://www.securityweek.com/radiflow-unveils-new-ot-security-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 10:07:03 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Radiflow]]></category>
+		<category><![CDATA[security product]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43908</guid>
+
+					<description><![CDATA[<p>Radiflow360 provides enhanced visibility, risk management, and incident response capabilities for mid-sized industrial enterprises. </p>
+<p>The post <a href="https://www.securityweek.com/radiflow-unveils-new-ot-security-platform/">Radiflow Unveils New OT Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Group Claims Attack on Beer Giant Asahi</title>
+		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 09:15:35 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Asahi]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Qilin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43904</guid>
+
+					<description><![CDATA[<p>The hackers claim the theft of 27 gigabytes of data, including contracts, employee information, and financial documents.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/">Ransomware Group Claims Attack on Beer Giant Asahi</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DraftKings Warns Users of Credential Stuffing Attacks</title>
+		<link>https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 08:59:18 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[credential stuffing]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DraftKings]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43902</guid>
+
+					<description><![CDATA[<p>Hackers accessed user accounts and compromised names, addresses, phone numbers, email addresses, and other information.</p>
+<p>The post <a href="https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/">DraftKings Warns Users of Credential Stuffing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of Oracle EBS Zero-Day Started 2 Months Before Patching</title>
+		<link>https://www.securityweek.com/exploitation-of-oracle-ebs-zero-day-started-2-months-before-patching/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 07:45:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[E-Business Suite]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43899</guid>
+
+					<description><![CDATA[<p>Hundreds of internet-exposed Oracle E-Business Suite instances may still be vulnerable to attacks.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-oracle-ebs-zero-day-started-2-months-before-patching/">Exploitation of Oracle EBS Zero-Day Started 2 Months Before Patching</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Stole Data From Public Safety Comms Firm BK Technologies</title>
+		<link>https://www.securityweek.com/hackers-stole-data-from-public-safety-comms-firm-bk-technologies/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 07 Oct 2025 13:15:33 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[BK Technologies]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43889</guid>
+
+					<description><![CDATA[<p>BK Technologies has informed the SEC that it discovered an IT intrusion on September 20. </p>
+<p>The post <a href="https://www.securityweek.com/hackers-stole-data-from-public-safety-comms-firm-bk-technologies/">Hackers Stole Data From Public Safety Comms Firm BK Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cybersecurity M&#038;A Roundup: 40 Deals Announced in September 2025</title>
 		<link>https://www.securityweek.com/cybersecurity-ma-roundup-40-deals-announced-in-september-2025/</link>
 		
@@ -98,127 +217,6 @@
 
 					<description><![CDATA[<p>The Medusa ransomware operators exploited the GoAnywhere MFT vulnerability one week before patches were released.</p>
 <p>The post <a href="https://www.securityweek.com/fortra-goanywhere-mft-zero-day-exploited-in-ransomware-attacks/">Fortra GoAnywhere MFT Zero-Day Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Y2K38 Bug Is a Vulnerability, Not Just a Date Problem, Researchers Warn</title>
-		<link>https://www.securityweek.com/the-y2k38-bug-is-a-vulnerability-not-just-a-date-problem-researchers-warn/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 08:43:06 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NTP]]></category>
-		<category><![CDATA[time manipulation]]></category>
-		<category><![CDATA[Unix]]></category>
-		<category><![CDATA[Y2K38]]></category>
-		<category><![CDATA[Year 2038]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43879</guid>
-
-					<description><![CDATA[<p>The Year 2036/2038 problem is a bug that will be triggered in more than a decade, but hackers could exploit it today against ICS and consumer devices.</p>
-<p>The post <a href="https://www.securityweek.com/the-y2k38-bug-is-a-vulnerability-not-just-a-date-problem-researchers-warn/">The Y2K38 Bug Is a Vulnerability, Not Just a Date Problem, Researchers Warn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Puts 60,000 Redis Servers at Risk of Exploitation</title>
-		<link>https://www.securityweek.com/critical-vulnerability-puts-60000-redis-servers-at-risk-of-exploitation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 08:32:44 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Redis]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43878</guid>
-
-					<description><![CDATA[<p>Authenticated attackers can exploit the security flaw to trigger a use-after-free and potentially execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-puts-60000-redis-servers-at-risk-of-exploitation/">Critical Vulnerability Puts 60,000 Redis Servers at Risk of Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Discord Says User Information Stolen in Third-Party Data Breach</title>
-		<link>https://www.securityweek.com/discord-says-user-information-stolen-in-third-party-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 14:44:50 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Discord]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43870</guid>
-
-					<description><![CDATA[<p>Names, usernames, email addresses, contact information, IP addresses, and billing information was compromised.</p>
-<p>The post <a href="https://www.securityweek.com/discord-says-user-information-stolen-in-third-party-data-breach/">Discord Says User Information Stolen in Third-Party Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft and Steam Take Action as Unity Vulnerability Puts Games at Risk</title>
-		<link>https://www.securityweek.com/microsoft-and-steam-take-action-as-unity-vulnerability-puts-games-at-risk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 13:06:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Steam]]></category>
-		<category><![CDATA[Unity]]></category>
-		<category><![CDATA[Valve]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43868</guid>
-
-					<description><![CDATA[<p>The flaw could lead to local code execution, allowing attackers to access confidential information on devices running Unity-built applications.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-and-steam-take-action-as-unity-vulnerability-puts-games-at-risk/">Microsoft and Steam Take Action as Unity Vulnerability Puts Games at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Extorting Salesforce After Stealing Data From Dozens of Customers</title>
-		<link>https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 11:24:35 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[extortion]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43865</guid>
-
-					<description><![CDATA[<p>Salesforce says the extortion attempts are related to past or unsubstantiated incidents, and not to fresh intrusions.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-extorting-salesforce-after-stealing-data-from-dozens-of-customers/">Hackers Extorting Salesforce After Stealing Data From Dozens of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Breach at Doctors Imaging Group Impacts 171,000 People</title>
-		<link>https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 10:46:16 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Doctors Imaging Group]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43864</guid>
-
-					<description><![CDATA[<p>Doctors Imaging Group is informing customers about a cybersecurity incident nearly a year after it occurred. </p>
-<p>The post <a href="https://www.securityweek.com/data-breach-at-doctors-imaging-group-impacts-171000-people/">Data Breach at Doctors Imaging Group Impacts 171,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
