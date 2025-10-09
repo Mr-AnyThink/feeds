@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 08 Oct 2025 11:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Oct 2025 11:38:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025</title>
-		<link>https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/</link>
+		<title>Realm.Security Raises $15 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/realm-security-raises-15-million-in-series-a-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 11:09:29 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cryptocurrency heist]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43912</guid>
-
-					<description><![CDATA[<p>The hackers are believed to have stolen over $6 billion for the Pyongyang regime, financing its military programs.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-have-stolen-2-billion-in-cryptocurrency-in-2025/">North Korean Hackers Have Stolen $2 Billion in Cryptocurrency in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Radiflow Unveils New OT Security Platform</title>
-		<link>https://www.securityweek.com/radiflow-unveils-new-ot-security-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 10:07:03 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Radiflow]]></category>
-		<category><![CDATA[security product]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43908</guid>
-
-					<description><![CDATA[<p>Radiflow360 provides enhanced visibility, risk management, and incident response capabilities for mid-sized industrial enterprises. </p>
-<p>The post <a href="https://www.securityweek.com/radiflow-unveils-new-ot-security-platform/">Radiflow Unveils New OT Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Claims Attack on Beer Giant Asahi</title>
-		<link>https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 09:15:35 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Asahi]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Qilin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43904</guid>
-
-					<description><![CDATA[<p>The hackers claim the theft of 27 gigabytes of data, including contracts, employee information, and financial documents.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-claims-attack-on-beer-giant-asahi/">Ransomware Group Claims Attack on Beer Giant Asahi</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DraftKings Warns Users of Credential Stuffing Attacks</title>
-		<link>https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 08:59:18 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[credential stuffing]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DraftKings]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43902</guid>
-
-					<description><![CDATA[<p>Hackers accessed user accounts and compromised names, addresses, phone numbers, email addresses, and other information.</p>
-<p>The post <a href="https://www.securityweek.com/draftkings-warns-users-of-credential-stuffing-attacks/">DraftKings Warns Users of Credential Stuffing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Oracle EBS Zero-Day Started 2 Months Before Patching</title>
-		<link>https://www.securityweek.com/exploitation-of-oracle-ebs-zero-day-started-2-months-before-patching/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 07:45:54 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[E-Business Suite]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43899</guid>
-
-					<description><![CDATA[<p>Hundreds of internet-exposed Oracle E-Business Suite instances may still be vulnerable to attacks.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-oracle-ebs-zero-day-started-2-months-before-patching/">Exploitation of Oracle EBS Zero-Day Started 2 Months Before Patching</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Stole Data From Public Safety Comms Firm BK Technologies</title>
-		<link>https://www.securityweek.com/hackers-stole-data-from-public-safety-comms-firm-bk-technologies/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 13:15:33 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[BK Technologies]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43889</guid>
-
-					<description><![CDATA[<p>BK Technologies has informed the SEC that it discovered an IT intrusion on September 20. </p>
-<p>The post <a href="https://www.securityweek.com/hackers-stole-data-from-public-safety-comms-firm-bk-technologies/">Hackers Stole Data From Public Safety Comms Firm BK Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 40 Deals Announced in September 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-40-deals-announced-in-september-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 12:01:55 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43887</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Check Point, CrowdStrike, F5, Mitsubishi Electric, and SentinelOne. </p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-40-deals-announced-in-september-2025/">Cybersecurity M&#038;A Roundup: 40 Deals Announced in September 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Filigran Raises $58 Million in Series C Funding</title>
-		<link>https://www.securityweek.com/filigran-raises-58-million-in-series-c-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 11:05:09 +0000</pubDate>
+		<pubDate>Thu, 09 Oct 2025 11:38:15 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Filigran]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43886</guid>
+		<category><![CDATA[Realm.Security]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43931</guid>
 
-					<description><![CDATA[<p>The company plans to expand to new markets, fuel the development of a new module for its platform, and accelerate AI integration.</p>
-<p>The post <a href="https://www.securityweek.com/filigran-raises-58-million-in-series-c-funding/">Filigran Raises $58 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate its product development and market expansion efforts.</p>
+<p>The post <a href="https://www.securityweek.com/realm-security-raises-15-million-in-series-a-funding/">Realm.Security Raises $15 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Security Firm Exposes Role of Beijing Research Institute in China&#8217;s Cyber Operations</title>
-		<link>https://www.securityweek.com/security-firm-exposes-role-of-beijing-research-institute-in-chinas-cyber-operations/</link>
+		<title>GitHub Copilot Chat Flaw Leaked Data From Private Repositories</title>
+		<link>https://www.securityweek.com/github-copilot-chat-flaw-leaked-data-from-private-repositories/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 10:34:36 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43885</guid>
-
-					<description><![CDATA[<p>BIETA and its subsidiary CIII research develop and sell technologies supporting China’s intelligence, counterintelligence, and military operations.</p>
-<p>The post <a href="https://www.securityweek.com/security-firm-exposes-role-of-beijing-research-institute-in-chinas-cyber-operations/">Security Firm Exposes Role of Beijing Research Institute in China&#8217;s Cyber Operations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortra GoAnywhere MFT Zero-Day Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/fortra-goanywhere-mft-zero-day-exploited-in-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Oct 2025 09:40:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Fortra]]></category>
-		<category><![CDATA[GoAnywhere]]></category>
-		<category><![CDATA[Ransomware]]></category>
+		<pubDate>Thu, 09 Oct 2025 10:51:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43884</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43930</guid>
 
-					<description><![CDATA[<p>The Medusa ransomware operators exploited the GoAnywhere MFT vulnerability one week before patches were released.</p>
-<p>The post <a href="https://www.securityweek.com/fortra-goanywhere-mft-zero-day-exploited-in-ransomware-attacks/">Fortra GoAnywhere MFT Zero-Day Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hidden comments allowed full control over Copilot responses and leaked sensitive information and source code.</p>
+<p>The post <a href="https://www.securityweek.com/github-copilot-chat-flaw-leaked-data-from-private-repositories/">GitHub Copilot Chat Flaw Leaked Data From Private Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Hackers Breached Law Firm Williams &#038; Connolly via Zero-Day</title>
+		<link>https://www.securityweek.com/chinese-hackers-breached-law-firm-williams-connolly-via-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 09:40:40 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[law firm]]></category>
+		<category><![CDATA[Williams&Connolly]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43925</guid>
+
+					<description><![CDATA[<p>The company said there is no evidence that confidential client data was stolen from its systems.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-breached-law-firm-williams-connolly-via-zero-day/">Chinese Hackers Breached Law Firm Williams &#038; Connolly via Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>All SonicWall Cloud Backup Users Had Firewall Configurations Stolen</title>
+		<link>https://www.securityweek.com/all-sonicwall-cloud-backup-users-had-firewall-configurations-stolen/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 08:30:38 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43928</guid>
+
+					<description><![CDATA[<p>In early September, hackers stole the firewall configuration backup files stored using the MySonicWall service.</p>
+<p>The post <a href="https://www.securityweek.com/all-sonicwall-cloud-backup-users-had-firewall-configurations-stolen/">All SonicWall Cloud Backup Users Had Firewall Configurations Stolen</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Discord Says 70,000 Users Had IDs Exposed in Recent Data Breach</title>
+		<link>https://www.securityweek.com/discord-says-70000-users-had-ids-exposed-in-recent-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 08:03:29 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Discord]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43926</guid>
+
+					<description><![CDATA[<p>The hackers claim the theft of over 2 million photos of government identification documents provided to Discord for age verification.</p>
+<p>The post <a href="https://www.securityweek.com/discord-says-70000-users-had-ids-exposed-in-recent-data-breach/">Discord Says 70,000 Users Had IDs Exposed in Recent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Takes Center Stage at DataTribe’s Cyber Innovation Day</title>
+		<link>https://www.securityweek.com/ai-takes-center-stage-at-datatribes-cyber-innovation-day/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 16:40:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43921</guid>
+
+					<description><![CDATA[<p>From defending AI agents to teaching robots to move safely, finalists at this year’s DataTribe Challenge are charting the next frontier in cybersecurity innovation.</p>
+<p>The post <a href="https://www.securityweek.com/ai-takes-center-stage-at-datatribes-cyber-innovation-day/">AI Takes Center Stage at DataTribe’s Cyber Innovation Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Will AI-SPM Become the Standard Security Layer for Safe AI Adoption?</title>
+		<link>https://www.securityweek.com/will-ai-spm-become-the-standard-security-layer-for-safe-ai-adoption/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 16:26:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[SASE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43920</guid>
+
+					<description><![CDATA[<p>How security posture management for AI can protect against model poisoning, excessive agency, jailbreaking and other LLM risks.</p>
+<p>The post <a href="https://www.securityweek.com/will-ai-spm-become-the-standard-security-layer-for-safe-ai-adoption/">Will AI-SPM Become the Standard Security Layer for Safe AI Adoption?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Zero Trust &#038; Identity Strategies Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 14:05:03 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Zero Trust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43915</guid>
+
+					<description><![CDATA[<p>Join the virtual event we dive into the world of digital identity management and the role of zero-trust principles and associated technologies.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/">Virtual Event Today: Zero Trust &amp; Identity Strategies Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google DeepMind&#8217;s New AI Agent Finds and Fixes Vulnerabilities </title>
+		<link>https://www.securityweek.com/google-deepminds-new-ai-agent-finds-and-fixes-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 13:32:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI agent]]></category>
+		<category><![CDATA[CodeMender]]></category>
+		<category><![CDATA[DeepMind]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43914</guid>
+
+					<description><![CDATA[<p>The new product is called CodeMender and it can rewrite vulnerable code to prevent future exploits. </p>
+<p>The post <a href="https://www.securityweek.com/google-deepminds-new-ai-agent-finds-and-fixes-vulnerabilities/">Google DeepMind&#8217;s New AI Agent Finds and Fixes Vulnerabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Offers Up to $20,000 in New AI Bug Bounty Program</title>
+		<link>https://www.securityweek.com/google-offers-up-to-20000-in-new-ai-bug-bounty-program/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 12:28:46 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43913</guid>
+
+					<description><![CDATA[<p>The company has updated the program’s scope and has combined the rewards for abuse and security issues into a single table.</p>
+<p>The post <a href="https://www.securityweek.com/google-offers-up-to-20000-in-new-ai-bug-bounty-program/">Google Offers Up to $20,000 in New AI Bug Bounty Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
