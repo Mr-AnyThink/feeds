@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 09 Oct 2025 11:38:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 12:06:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,104 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RondoDox Botnet Takes ‘Exploit Shotgun’ Approach</title>
+		<link>https://www.securityweek.com/rondodox-botnet-takes-exploit-shotgun-approach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 12:06:03 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[RondoDox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43939</guid>
+
+					<description><![CDATA[<p>The botnet packs over 50 exploits targeting unpatched routers, DVRs, NVRs, CCTV systems, servers, and other network devices.</p>
+<p>The post <a href="https://www.securityweek.com/rondodox-botnet-takes-exploit-shotgun-approach/">RondoDox Botnet Takes ‘Exploit Shotgun’ Approach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Juniper Networks Patches Critical Junos Space Vulnerabilities</title>
+		<link>https://www.securityweek.com/juniper-networks-patches-critical-junos-space-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 10:27:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Juniper]]></category>
+		<category><![CDATA[Junos OS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43938</guid>
+
+					<description><![CDATA[<p>Patches were rolled out for more than 200 vulnerabilities in Junos Space and Junos Space Security Director, including nine critical-severity flaws.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-critical-junos-space-vulnerabilities/">Juniper Networks Patches Critical Junos Space Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ZDI Drops 13 Unpatched Ivanti Endpoint Manager Vulnerabilities</title>
+		<link>https://www.securityweek.com/zdi-drops-13-unpatched-ivanti-endpoint-manager-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 09:45:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[unpatched]]></category>
+		<category><![CDATA[ZDI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43937</guid>
+
+					<description><![CDATA[<p>The unpatched vulnerabilities allow attackers to execute arbitrary code remotely and escalate their privileges.</p>
+<p>The post <a href="https://www.securityweek.com/zdi-drops-13-unpatched-ivanti-endpoint-manager-vulnerabilities/">ZDI Drops 13 Unpatched Ivanti Endpoint Manager Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Bug Bounty Update: Top Payout $2 Million, $35 Million Paid to Date</title>
+		<link>https://www.securityweek.com/apple-bug-bounty-update-top-payout-now-2-million-35-million-paid-to-date/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 09:15:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43934</guid>
+
+					<description><![CDATA[<p>Apple has announced significant updates to its bug bounty program, including new categories and target flags.</p>
+<p>The post <a href="https://www.securityweek.com/apple-bug-bounty-update-top-payout-now-2-million-35-million-paid-to-date/">Apple Bug Bounty Update: Top Payout $2 Million, $35 Million Paid to Date</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sophisticated Malware Deployed in Oracle EBS Zero-Day Attacks</title>
+		<link>https://www.securityweek.com/sophisticated-malware-deployed-in-oracle-ebs-zero-day-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 07:43:02 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43933</guid>
+
+					<description><![CDATA[<p>Google researchers believe exploitation may have started as early as July 10 and the campaign hit dozens of organizations.</p>
+<p>The post <a href="https://www.securityweek.com/sophisticated-malware-deployed-in-oracle-ebs-zero-day-attacks/">Sophisticated Malware Deployed in Oracle EBS Zero-Day Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Realm.Security Raises $15 Million in Series A Funding</title>
 		<link>https://www.securityweek.com/realm-security-raises-15-million-in-series-a-funding/</link>
 		
@@ -120,99 +218,6 @@
 
 					<description><![CDATA[<p>The hackers claim the theft of over 2 million photos of government identification documents provided to Discord for age verification.</p>
 <p>The post <a href="https://www.securityweek.com/discord-says-70000-users-had-ids-exposed-in-recent-data-breach/">Discord Says 70,000 Users Had IDs Exposed in Recent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Takes Center Stage at DataTribe’s Cyber Innovation Day</title>
-		<link>https://www.securityweek.com/ai-takes-center-stage-at-datatribes-cyber-innovation-day/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 16:40:07 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43921</guid>
-
-					<description><![CDATA[<p>From defending AI agents to teaching robots to move safely, finalists at this year’s DataTribe Challenge are charting the next frontier in cybersecurity innovation.</p>
-<p>The post <a href="https://www.securityweek.com/ai-takes-center-stage-at-datatribes-cyber-innovation-day/">AI Takes Center Stage at DataTribe’s Cyber Innovation Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Will AI-SPM Become the Standard Security Layer for Safe AI Adoption?</title>
-		<link>https://www.securityweek.com/will-ai-spm-become-the-standard-security-layer-for-safe-ai-adoption/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 16:26:04 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[SASE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43920</guid>
-
-					<description><![CDATA[<p>How security posture management for AI can protect against model poisoning, excessive agency, jailbreaking and other LLM risks.</p>
-<p>The post <a href="https://www.securityweek.com/will-ai-spm-become-the-standard-security-layer-for-safe-ai-adoption/">Will AI-SPM Become the Standard Security Layer for Safe AI Adoption?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Zero Trust &#038; Identity Strategies Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 14:05:03 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43915</guid>
-
-					<description><![CDATA[<p>Join the virtual event we dive into the world of digital identity management and the role of zero-trust principles and associated technologies.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-zero-trust-identity-strategies-summit/">Virtual Event Today: Zero Trust &amp; Identity Strategies Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google DeepMind&#8217;s New AI Agent Finds and Fixes Vulnerabilities </title>
-		<link>https://www.securityweek.com/google-deepminds-new-ai-agent-finds-and-fixes-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 13:32:01 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agent]]></category>
-		<category><![CDATA[CodeMender]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43914</guid>
-
-					<description><![CDATA[<p>The new product is called CodeMender and it can rewrite vulnerable code to prevent future exploits. </p>
-<p>The post <a href="https://www.securityweek.com/google-deepminds-new-ai-agent-finds-and-fixes-vulnerabilities/">Google DeepMind&#8217;s New AI Agent Finds and Fixes Vulnerabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Offers Up to $20,000 in New AI Bug Bounty Program</title>
-		<link>https://www.securityweek.com/google-offers-up-to-20000-in-new-ai-bug-bounty-program/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Oct 2025 12:28:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43913</guid>
-
-					<description><![CDATA[<p>The company has updated the program’s scope and has combined the rewards for abuse and security issues into a single table.</p>
-<p>The post <a href="https://www.securityweek.com/google-offers-up-to-20000-in-new-ai-bug-bounty-program/">Google Offers Up to $20,000 in New AI Bug Bounty Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
