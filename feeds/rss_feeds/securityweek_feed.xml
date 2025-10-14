@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 13 Oct 2025 11:40:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Oct 2025 11:50:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,192 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>NPM Infrastructure Abused in Phishing Campaign Aimed at Industrial and Electronics Firms</title>
-		<link>https://www.securityweek.com/npm-infrastructure-abused-in-phishing-campaign-aimed-at-industrial-and-electronics-firms/</link>
+		<title>Beyond the Black Box: Building Trust and Governance in the Age of AI</title>
+		<link>https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 11:40:19 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Beamglea]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43953</guid>
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[governance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43970</guid>
 
-					<description><![CDATA[<p>Threat actors used automation to create over 175 malicious NPM packages targeting more than 135 organizations.</p>
-<p>The post <a href="https://www.securityweek.com/npm-infrastructure-abused-in-phishing-campaign-aimed-at-industrial-and-electronics-firms/">NPM Infrastructure Abused in Phishing Campaign Aimed at Industrial and Electronics Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Balancing innovation with ethical governance is crucial for ensuring fairness, accountability, and public trust in the age of intelligent machines.</p>
+<p>The post <a href="https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/">Beyond the Black Box: Building Trust and Governance in the Age of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Oracle Patches EBS Vulnerability Allowing Access to Sensitive Data</title>
-		<link>https://www.securityweek.com/oracle-patches-ebs-vulnerability-allowing-access-to-sensitive-data/</link>
+		<title>Pixnapping Attack Steals Data From Google, Samsung Android Phones</title>
+		<link>https://www.securityweek.com/pixnapping-attack-steals-data-from-google-samsung-android-phones/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 10:37:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-61884]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43952</guid>
-
-					<description><![CDATA[<p>It’s unclear if the new Oracle E-Business Suite flaw, which can be exploited remotely without authentication, has been used in the wild.  </p>
-<p>The post <a href="https://www.securityweek.com/oracle-patches-ebs-vulnerability-allowing-access-to-sensitive-data/">Oracle Patches EBS Vulnerability Allowing Access to Sensitive Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spanish Authorities Dismantle &#8216;GXC Team&#8217; Crime-as-a-Service Operation</title>
-		<link>https://www.securityweek.com/spanish-authorities-dismantle-gxc-team-crime-as-a-service-operation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 09:35:48 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[dismantled]]></category>
-		<category><![CDATA[GXC]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Spain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43951</guid>
-
-					<description><![CDATA[<p>The authorities arrested GoogleXcoder, the alleged administrator of GXC Team, which offered phishing kits and Android malware.</p>
-<p>The post <a href="https://www.securityweek.com/spanish-authorities-dismantle-gxc-team-crime-as-a-service-operation/">Spanish Authorities Dismantle &#8216;GXC Team&#8217; Crime-as-a-Service Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Extortion Group Leaks Millions of Records From Salesforce Hacks</title>
-		<link>https://www.securityweek.com/extortion-group-leaks-millions-of-records-from-salesforce-hacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 08:44:01 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salesforce hack]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43949</guid>
-
-					<description><![CDATA[<p>The data allegedly pertains to Albertsons, Engie Resources, Fujifilm, GAP, Qantas, and Vietnam Airlines.</p>
-<p>The post <a href="https://www.securityweek.com/extortion-group-leaks-millions-of-records-from-salesforce-hacks/">Extortion Group Leaks Millions of Records From Salesforce Hacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Gladinet Flaw Exploitation, Attacks on ICS Honeypot, ClayRat Spyware</title>
-		<link>https://www.securityweek.com/in-other-news-gladinet-flaw-exploitation-attacks-on-ics-honeypot-clayrat-spyware/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 14:13:25 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43946</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: US universities targeted by payroll pirates, Zimbra vulnerability exploited, Mic-E-Mouse attack.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-gladinet-flaw-exploitation-attacks-on-ics-honeypot-clayrat-spyware/">In Other News: Gladinet Flaw Exploitation, Attacks on ICS Honeypot, ClayRat Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco, Fortinet, Palo Alto Networks Devices Targeted in Coordinated Campaign</title>
-		<link>https://www.securityweek.com/cisco-fortinet-palo-alto-networks-devices-targeted-in-coordinated-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 12:44:48 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43940</guid>
-
-					<description><![CDATA[<p>GreyNoise has discovered that attacks exploiting Cisco, Fortinet, and Palo Alto Networks vulnerabilities are launched from the same infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-fortinet-palo-alto-networks-devices-targeted-in-coordinated-campaign/">Cisco, Fortinet, Palo Alto Networks Devices Targeted in Coordinated Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RondoDox Botnet Takes ‘Exploit Shotgun’ Approach</title>
-		<link>https://www.securityweek.com/rondodox-botnet-takes-exploit-shotgun-approach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 12:06:03 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[RondoDox]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43939</guid>
-
-					<description><![CDATA[<p>The botnet packs over 50 exploits targeting unpatched routers, DVRs, NVRs, CCTV systems, servers, and other network devices.</p>
-<p>The post <a href="https://www.securityweek.com/rondodox-botnet-takes-exploit-shotgun-approach/">RondoDox Botnet Takes ‘Exploit Shotgun’ Approach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Juniper Networks Patches Critical Junos Space Vulnerabilities</title>
-		<link>https://www.securityweek.com/juniper-networks-patches-critical-junos-space-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 10:27:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper]]></category>
-		<category><![CDATA[Junos OS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43938</guid>
-
-					<description><![CDATA[<p>Patches were rolled out for more than 200 vulnerabilities in Junos Space and Junos Space Security Director, including nine critical-severity flaws.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-critical-junos-space-vulnerabilities/">Juniper Networks Patches Critical Junos Space Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ZDI Drops 13 Unpatched Ivanti Endpoint Manager Vulnerabilities</title>
-		<link>https://www.securityweek.com/zdi-drops-13-unpatched-ivanti-endpoint-manager-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 09:45:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[unpatched]]></category>
-		<category><![CDATA[ZDI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43937</guid>
-
-					<description><![CDATA[<p>The unpatched vulnerabilities allow attackers to execute arbitrary code remotely and escalate their privileges.</p>
-<p>The post <a href="https://www.securityweek.com/zdi-drops-13-unpatched-ivanti-endpoint-manager-vulnerabilities/">ZDI Drops 13 Unpatched Ivanti Endpoint Manager Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Bug Bounty Update: Top Payout $2 Million, $35 Million Paid to Date</title>
-		<link>https://www.securityweek.com/apple-bug-bounty-update-top-payout-now-2-million-35-million-paid-to-date/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 10 Oct 2025 09:15:00 +0000</pubDate>
+		<pubDate>Tue, 14 Oct 2025 11:50:13 +0000</pubDate>
 				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43934</guid>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Pixnapping]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43974</guid>
 
-					<description><![CDATA[<p>Apple has announced significant updates to its bug bounty program, including new categories and target flags.</p>
-<p>The post <a href="https://www.securityweek.com/apple-bug-bounty-update-top-payout-now-2-million-35-million-paid-to-date/">Apple Bug Bounty Update: Top Payout $2 Million, $35 Million Paid to Date</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google has released a partial patch for the Pixnapping attack and is working on an additional fix.</p>
+<p>The post <a href="https://www.securityweek.com/pixnapping-attack-steals-data-from-google-samsung-android-phones/">Pixnapping Attack Steals Data From Google, Samsung Android Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Are Microsoft’s Deputy CISOs a Signpost to the Future?</title>
+		<link>https://www.securityweek.com/ciso-conversations-are-microsofts-deputy-cisos-a-signpost-to-the-future/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43962</guid>
+
+					<description><![CDATA[<p>SecurityWeek talks to Microsoft Deputy CISOs Ann Johnson and Mark Russinovich.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-are-microsofts-deputy-cisos-a-signpost-to-the-future/">CISO Conversations: Are Microsoft’s Deputy CISOs a Signpost to the Future?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RMPocalypse: New Attack Breaks AMD Confidential Computing</title>
+		<link>https://www.securityweek.com/rmpocalypse-new-attack-breaks-amd-confidential-computing/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 10:52:38 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[AMD-SEV]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[CPU attack]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[RMPocalypse]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43971</guid>
+
+					<description><![CDATA[<p>A vulnerability in RMP initialization allows the AMD processor’s x86 cores to maliciously control parts of the initial RMP state.</p>
+<p>The post <a href="https://www.securityweek.com/rmpocalypse-new-attack-breaks-amd-confidential-computing/">RMPocalypse: New Attack Breaks AMD Confidential Computing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Still on Over 40% of Devices as It Reaches End of Support</title>
+		<link>https://www.securityweek.com/windows-10-still-on-over-40-of-devices-as-it-reaches-end-of-support/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 10:00:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 10 EOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43959</guid>
+
+					<description><![CDATA[<p>Users can continue receiving important security updates for Windows 10 by enrolling in the ESU program.</p>
+<p>The post <a href="https://www.securityweek.com/windows-10-still-on-over-40-of-devices-as-it-reaches-end-of-support/">Windows 10 Still on Over 40% of Devices as It Reaches End of Support</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>JPMorgan to Invest Up to $10 Billion in US Companies With Crucial Ties to National Security</title>
+		<link>https://www.securityweek.com/jpmorgan-to-invest-up-to-10-billion-in-us-companies-with-crucial-ties-to-national-security/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 18:18:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43958</guid>
+
+					<description><![CDATA[<p>The investment plan will focus on areas including artificial intelligence, cybersecurity and quantum computing.</p>
+<p>The post <a href="https://www.securityweek.com/jpmorgan-to-invest-up-to-10-billion-in-us-companies-with-crucial-ties-to-national-security/">JPMorgan to Invest Up to $10 Billion in US Companies With Crucial Ties to National Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fighting the Cyber Forever War: Born Defense Blends Investment Strategy With Just War Principles</title>
+		<link>https://www.securityweek.com/fighting-the-cyber-forever-war-born-defense-blends-investment-strategy-with-just-war-principles/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 15:28:01 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Cyberwarfare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43957</guid>
+
+					<description><![CDATA[<p>Emerging from stealth, Born Defense is betting that a new kind of investment model can reshape how the U.S. fights its endless cyber battles.</p>
+<p>The post <a href="https://www.securityweek.com/fighting-the-cyber-forever-war-born-defense-blends-investment-strategy-with-just-war-principles/">Fighting the Cyber Forever War: Born Defense Blends Investment Strategy With Just War Principles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Malicious Code on Unity Website Skims Information From Hundreds of Customers</title>
+		<link>https://www.securityweek.com/malicious-code-on-unity-website-skims-information-from-hundreds-of-customers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 14:30:18 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[skimming]]></category>
+		<category><![CDATA[Unity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43956</guid>
+
+					<description><![CDATA[<p>The video game software development company says the incident impacted users of its SpeedTree website.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-code-on-unity-website-skims-information-from-hundreds-of-customers/">Malicious Code on Unity Website Skims Information From Hundreds of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall SSL VPN Accounts in Attacker Crosshairs</title>
+		<link>https://www.securityweek.com/sonicwall-ssl-vpn-accounts-in-attacker-crosshairs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 13:08:52 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[SSL VPN]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43955</guid>
+
+					<description><![CDATA[<p>Threat actors have rapidly compromised more than 100 SonicWall SSL VPN accounts pertaining to over a dozen entities.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-ssl-vpn-accounts-in-attacker-crosshairs/">SonicWall SSL VPN Accounts in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SimonMed Imaging Data Breach Impacts 1.2 Million</title>
+		<link>https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Oct 2025 12:29:31 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[SimonMed]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43954</guid>
+
+					<description><![CDATA[<p>SimonMed Imaging was targeted by the Medusa ransomware group, which claimed to have stolen 200 Gb of data.</p>
+<p>The post <a href="https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/">SimonMed Imaging Data Breach Impacts 1.2 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
