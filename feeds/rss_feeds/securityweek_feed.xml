@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 14 Oct 2025 11:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Oct 2025 11:23:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,179 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 11:23:06 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43987</guid>
+
+					<description><![CDATA[<p>Over 20 advisories have been published by industrial giants this Patch Tuesday.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/">ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>High-Severity Vulnerabilities Patched by Fortinet and Ivanti</title>
+		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-fortinet-and-ivanti/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 07:45:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43986</guid>
+
+					<description><![CDATA[<p>Fortinet and Ivanti have announced their October 2025 Patch Tuesday updates, which patch many vulnerabilities across their products. </p>
+<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-by-fortinet-and-ivanti/">High-Severity Vulnerabilities Patched by Fortinet and Ivanti</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches Critical Vulnerability in Connect Collaboration Suite</title>
+		<link>https://www.securityweek.com/adobe-patches-critical-vulnerability-in-collaboration-suite/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 04:25:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43984</guid>
+
+					<description><![CDATA[<p>Adobe has published a dozen security advisories detailing over 35 vulnerabilities across its product portfolio.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-vulnerability-in-collaboration-suite/">Adobe Patches Critical Vulnerability in Connect Collaboration Suite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches 173 Vulnerabilities, Including Exploited Windows Flaws</title>
+		<link>https://www.securityweek.com/microsoft-patches-173-vulnerabilities-including-exploited-windows-flaws/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 04:10:17 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43983</guid>
+
+					<description><![CDATA[<p>The tech giant has rolled out fixes for 173 CVEs, including five critical-severity security defects.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-173-vulnerabilities-including-exploited-windows-flaws/">Microsoft Patches 173 Vulnerabilities, Including Exploited Windows Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HyperBunker Raises Seed Funding to Launch Next-Generation Anti-Ransomware Device</title>
+		<link>https://www.securityweek.com/hyperbunker-raises-seed-funding-to-launch-next-generation-anti-ransomware-device/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 15:49:59 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43982</guid>
+
+					<description><![CDATA[<p>Investors are placing bets on a hardware-based approach to data security in a market dominated by software solutions for ransomware resilience.</p>
+<p>The post <a href="https://www.securityweek.com/hyperbunker-raises-seed-funding-to-launch-next-generation-anti-ransomware-device/">HyperBunker Raises Seed Funding to Launch Next-Generation Anti-Ransomware Device</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybereason to be Acquired by MSSP Giant LevelBlue</title>
+		<link>https://www.securityweek.com/cybereason-acquired-by-mssp-giant-levelblue/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 14:53:16 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Cybereason]]></category>
+		<category><![CDATA[LevelBlue]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[MSSP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43981</guid>
+
+					<description><![CDATA[<p>This is LevelBlue’s third acquisition this year, after Trustwave and Aon’s Cybersecurity &#038; IP Litigation Consulting groups.</p>
+<p>The post <a href="https://www.securityweek.com/cybereason-acquired-by-mssp-giant-levelblue/">Cybereason to be Acquired by MSSP Giant LevelBlue</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical Vulnerabilities in NetWeaver, Print Service, SRM</title>
+		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-print-service-srm/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 13:52:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SAP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43980</guid>
+
+					<description><![CDATA[<p>SAP has rolled out additional protections for insecure deserialization bugs resolved in NetWeaver AS Java recently.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-print-service-srm/">SAP Patches Critical Vulnerabilities in NetWeaver, Print Service, SRM</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fraud Prevention Firm Resistant AI Raises $25 Million</title>
+		<link>https://www.securityweek.com/fraud-prevention-firm-resistant-ai-raises-25-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 12:59:15 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Resistant AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43979</guid>
+
+					<description><![CDATA[<p>Resistant AI will use the funding to expand its fraud detection and transaction monitoring offerings to new markets.</p>
+<p>The post <a href="https://www.securityweek.com/fraud-prevention-firm-resistant-ai-raises-25-million/">Fraud Prevention Firm Resistant AI Raises $25 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Harvard Is First Confirmed Victim of Oracle EBS Zero-Day Hack</title>
+		<link>https://www.securityweek.com/harvard-is-first-confirmed-victim-of-oracle-ebs-zero-day-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2025 12:47:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Harvard University]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43976</guid>
+
+					<description><![CDATA[<p>Hackers have posted over 1 Tb of information allegedly stolen from Harvard on the Cl0p data leak website.</p>
+<p>The post <a href="https://www.securityweek.com/harvard-is-first-confirmed-victim-of-oracle-ebs-zero-day-hack/">Harvard Is First Confirmed Victim of Oracle EBS Zero-Day Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Beyond the Black Box: Building Trust and Governance in the Age of AI</title>
 		<link>https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/</link>
 		
@@ -40,180 +213,6 @@
 
 					<description><![CDATA[<p>Balancing innovation with ethical governance is crucial for ensuring fairness, accountability, and public trust in the age of intelligent machines.</p>
 <p>The post <a href="https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/">Beyond the Black Box: Building Trust and Governance in the Age of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pixnapping Attack Steals Data From Google, Samsung Android Phones</title>
-		<link>https://www.securityweek.com/pixnapping-attack-steals-data-from-google-samsung-android-phones/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 11:50:13 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Pixnapping]]></category>
-		<category><![CDATA[Samsung]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43974</guid>
-
-					<description><![CDATA[<p>Google has released a partial patch for the Pixnapping attack and is working on an additional fix.</p>
-<p>The post <a href="https://www.securityweek.com/pixnapping-attack-steals-data-from-google-samsung-android-phones/">Pixnapping Attack Steals Data From Google, Samsung Android Phones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Are Microsoft’s Deputy CISOs a Signpost to the Future?</title>
-		<link>https://www.securityweek.com/ciso-conversations-are-microsofts-deputy-cisos-a-signpost-to-the-future/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43962</guid>
-
-					<description><![CDATA[<p>SecurityWeek talks to Microsoft Deputy CISOs Ann Johnson and Mark Russinovich.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-are-microsofts-deputy-cisos-a-signpost-to-the-future/">CISO Conversations: Are Microsoft’s Deputy CISOs a Signpost to the Future?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RMPocalypse: New Attack Breaks AMD Confidential Computing</title>
-		<link>https://www.securityweek.com/rmpocalypse-new-attack-breaks-amd-confidential-computing/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 10:52:38 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[AMD-SEV]]></category>
-		<category><![CDATA[CPU]]></category>
-		<category><![CDATA[CPU attack]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[RMPocalypse]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43971</guid>
-
-					<description><![CDATA[<p>A vulnerability in RMP initialization allows the AMD processor’s x86 cores to maliciously control parts of the initial RMP state.</p>
-<p>The post <a href="https://www.securityweek.com/rmpocalypse-new-attack-breaks-amd-confidential-computing/">RMPocalypse: New Attack Breaks AMD Confidential Computing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Windows 10 Still on Over 40% of Devices as It Reaches End of Support</title>
-		<link>https://www.securityweek.com/windows-10-still-on-over-40-of-devices-as-it-reaches-end-of-support/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 10:00:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Windows 10]]></category>
-		<category><![CDATA[Windows 10 EOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43959</guid>
-
-					<description><![CDATA[<p>Users can continue receiving important security updates for Windows 10 by enrolling in the ESU program.</p>
-<p>The post <a href="https://www.securityweek.com/windows-10-still-on-over-40-of-devices-as-it-reaches-end-of-support/">Windows 10 Still on Over 40% of Devices as It Reaches End of Support</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>JPMorgan to Invest Up to $10 Billion in US Companies With Crucial Ties to National Security</title>
-		<link>https://www.securityweek.com/jpmorgan-to-invest-up-to-10-billion-in-us-companies-with-crucial-ties-to-national-security/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 18:18:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43958</guid>
-
-					<description><![CDATA[<p>The investment plan will focus on areas including artificial intelligence, cybersecurity and quantum computing.</p>
-<p>The post <a href="https://www.securityweek.com/jpmorgan-to-invest-up-to-10-billion-in-us-companies-with-crucial-ties-to-national-security/">JPMorgan to Invest Up to $10 Billion in US Companies With Crucial Ties to National Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fighting the Cyber Forever War: Born Defense Blends Investment Strategy With Just War Principles</title>
-		<link>https://www.securityweek.com/fighting-the-cyber-forever-war-born-defense-blends-investment-strategy-with-just-war-principles/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 15:28:01 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Cyberwarfare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43957</guid>
-
-					<description><![CDATA[<p>Emerging from stealth, Born Defense is betting that a new kind of investment model can reshape how the U.S. fights its endless cyber battles.</p>
-<p>The post <a href="https://www.securityweek.com/fighting-the-cyber-forever-war-born-defense-blends-investment-strategy-with-just-war-principles/">Fighting the Cyber Forever War: Born Defense Blends Investment Strategy With Just War Principles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Malicious Code on Unity Website Skims Information From Hundreds of Customers</title>
-		<link>https://www.securityweek.com/malicious-code-on-unity-website-skims-information-from-hundreds-of-customers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 14:30:18 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[skimming]]></category>
-		<category><![CDATA[Unity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43956</guid>
-
-					<description><![CDATA[<p>The video game software development company says the incident impacted users of its SpeedTree website.</p>
-<p>The post <a href="https://www.securityweek.com/malicious-code-on-unity-website-skims-information-from-hundreds-of-customers/">Malicious Code on Unity Website Skims Information From Hundreds of Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall SSL VPN Accounts in Attacker Crosshairs</title>
-		<link>https://www.securityweek.com/sonicwall-ssl-vpn-accounts-in-attacker-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 13:08:52 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[SSL VPN]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43955</guid>
-
-					<description><![CDATA[<p>Threat actors have rapidly compromised more than 100 SonicWall SSL VPN accounts pertaining to over a dozen entities.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-ssl-vpn-accounts-in-attacker-crosshairs/">SonicWall SSL VPN Accounts in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SimonMed Imaging Data Breach Impacts 1.2 Million</title>
-		<link>https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 12:29:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[SimonMed]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43954</guid>
-
-					<description><![CDATA[<p>SimonMed Imaging was targeted by the Medusa ransomware group, which claimed to have stolen 200 Gb of data.</p>
-<p>The post <a href="https://www.securityweek.com/simonmed-imaging-data-breach-impacts-1-2-million/">SimonMed Imaging Data Breach Impacts 1.2 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
