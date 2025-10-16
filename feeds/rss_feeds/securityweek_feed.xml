@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 15 Oct 2025 11:23:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Oct 2025 11:57:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking</title>
+		<link>https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 11:57:21 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Fuji Electric]]></category>
+		<category><![CDATA[HMI]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Industrial]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44008</guid>
+
+					<description><![CDATA[<p>Fuji Electric has released patches and Japan’s JPCERT has informed organizations about the vulnerabilities. </p>
+<p>The post <a href="https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/">Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Routers Hacked for Rootkit Deployment</title>
+		<link>https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 11:12:40 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Operation ZeroDisco]]></category>
+		<category><![CDATA[rootkit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44003</guid>
+
+					<description><![CDATA[<p>Threat actors are exploiting CVE-2025-20352, a recent Cisco zero-day, to deploy a rootkit on older networking devices.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/">Cisco Routers Hacked for Rootkit Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin</title>
+		<link>https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 10:56:55 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cambodia]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[Chen Zhi]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Prince Holding Group]]></category>
+		<category><![CDATA[scam]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44002</guid>
+
+					<description><![CDATA[<p>In an indictment, federal prosecutors charged Prince Holding Group chairman Chen Zhi with wire fraud conspiracy and money laundering conspiracy.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/">US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Four-Year Prison Sentence for PowerSchool Hacker</title>
+		<link>https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 09:42:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[PowerSchool]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44000</guid>
+
+					<description><![CDATA[<p>Matthew Lane pleaded guilty in May to extorting two companies after hacking into their networks and stealing information.</p>
+<p>The post <a href="https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/">Four-Year Prison Sentence for PowerSchool Hacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts </title>
+		<link>https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 08:41:27 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[BIG-IP]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[F5]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43999</guid>
+
+					<description><![CDATA[<p>More information has come to light on the cyberattack disclosed this week by F5, including on attribution and potential risks.</p>
+<p>The post <a href="https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/">F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta</title>
+		<link>https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 16:51:14 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[IoT Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43992</guid>
+
+					<description><![CDATA[<p>Premier industrial cybersecurity conference Offers 70+ sessions, five training courses, and and ICS Village CTF competition.</p>
+<p>The post <a href="https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/">SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data</title>
+		<link>https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 14:49:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[BIG-IP]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[F5]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43991</guid>
+
+					<description><![CDATA[<p>F5 shared few details on the threat actor, but the attack profile seems to point to China.</p>
+<p>The post <a href="https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/">F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Fact vs. Fiction &#8211; The Truth About API Security</title>
+		<link>https://www.securityweek.com/webinar-today-fact-vs-fiction-the-truth-about-api-security/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 14:28:55 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43989</guid>
+
+					<description><![CDATA[<p>Get practical guidance to protect APIs against the threats attackers are using right now.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-fact-vs-fiction-the-truth-about-api-security/">Webinar Today: Fact vs. Fiction &#8211; The Truth About API Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Customer Service Firm 5CA Denies Responsibility for Discord Data Breach</title>
+		<link>https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2025 13:10:12 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Discord]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=43988</guid>
+
+					<description><![CDATA[<p>After being named by Discord as the third-party responsible for the breach, 5CA said none of its systems were involved.</p>
+<p>The post <a href="https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/">Customer Service Firm 5CA Denies Responsibility for Discord Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</title>
 		<link>https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/</link>
 		
@@ -41,178 +221,6 @@
 
 					<description><![CDATA[<p>Over 20 advisories have been published by industrial giants this Patch Tuesday.</p>
 <p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/">ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerabilities Patched by Fortinet and Ivanti</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-fortinet-and-ivanti/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 07:45:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43986</guid>
-
-					<description><![CDATA[<p>Fortinet and Ivanti have announced their October 2025 Patch Tuesday updates, which patch many vulnerabilities across their products. </p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-by-fortinet-and-ivanti/">High-Severity Vulnerabilities Patched by Fortinet and Ivanti</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Critical Vulnerability in Connect Collaboration Suite</title>
-		<link>https://www.securityweek.com/adobe-patches-critical-vulnerability-in-collaboration-suite/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 04:25:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43984</guid>
-
-					<description><![CDATA[<p>Adobe has published a dozen security advisories detailing over 35 vulnerabilities across its product portfolio.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-vulnerability-in-collaboration-suite/">Adobe Patches Critical Vulnerability in Connect Collaboration Suite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches 173 Vulnerabilities, Including Exploited Windows Flaws</title>
-		<link>https://www.securityweek.com/microsoft-patches-173-vulnerabilities-including-exploited-windows-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 04:10:17 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43983</guid>
-
-					<description><![CDATA[<p>The tech giant has rolled out fixes for 173 CVEs, including five critical-severity security defects.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-173-vulnerabilities-including-exploited-windows-flaws/">Microsoft Patches 173 Vulnerabilities, Including Exploited Windows Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HyperBunker Raises Seed Funding to Launch Next-Generation Anti-Ransomware Device</title>
-		<link>https://www.securityweek.com/hyperbunker-raises-seed-funding-to-launch-next-generation-anti-ransomware-device/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 15:49:59 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43982</guid>
-
-					<description><![CDATA[<p>Investors are placing bets on a hardware-based approach to data security in a market dominated by software solutions for ransomware resilience.</p>
-<p>The post <a href="https://www.securityweek.com/hyperbunker-raises-seed-funding-to-launch-next-generation-anti-ransomware-device/">HyperBunker Raises Seed Funding to Launch Next-Generation Anti-Ransomware Device</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybereason to be Acquired by MSSP Giant LevelBlue</title>
-		<link>https://www.securityweek.com/cybereason-acquired-by-mssp-giant-levelblue/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 14:53:16 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Cybereason]]></category>
-		<category><![CDATA[LevelBlue]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[MSSP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43981</guid>
-
-					<description><![CDATA[<p>This is LevelBlue’s third acquisition this year, after Trustwave and Aon’s Cybersecurity &#038; IP Litigation Consulting groups.</p>
-<p>The post <a href="https://www.securityweek.com/cybereason-acquired-by-mssp-giant-levelblue/">Cybereason to be Acquired by MSSP Giant LevelBlue</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical Vulnerabilities in NetWeaver, Print Service, SRM</title>
-		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-print-service-srm/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 13:52:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SAP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43980</guid>
-
-					<description><![CDATA[<p>SAP has rolled out additional protections for insecure deserialization bugs resolved in NetWeaver AS Java recently.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-print-service-srm/">SAP Patches Critical Vulnerabilities in NetWeaver, Print Service, SRM</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fraud Prevention Firm Resistant AI Raises $25 Million</title>
-		<link>https://www.securityweek.com/fraud-prevention-firm-resistant-ai-raises-25-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 12:59:15 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Resistant AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43979</guid>
-
-					<description><![CDATA[<p>Resistant AI will use the funding to expand its fraud detection and transaction monitoring offerings to new markets.</p>
-<p>The post <a href="https://www.securityweek.com/fraud-prevention-firm-resistant-ai-raises-25-million/">Fraud Prevention Firm Resistant AI Raises $25 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Harvard Is First Confirmed Victim of Oracle EBS Zero-Day Hack</title>
-		<link>https://www.securityweek.com/harvard-is-first-confirmed-victim-of-oracle-ebs-zero-day-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 12:47:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Harvard University]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43976</guid>
-
-					<description><![CDATA[<p>Hackers have posted over 1 Tb of information allegedly stolen from Harvard on the Cl0p data leak website.</p>
-<p>The post <a href="https://www.securityweek.com/harvard-is-first-confirmed-victim-of-oracle-ebs-zero-day-hack/">Harvard Is First Confirmed Victim of Oracle EBS Zero-Day Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Beyond the Black Box: Building Trust and Governance in the Age of AI</title>
-		<link>https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[governance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43970</guid>
-
-					<description><![CDATA[<p>Balancing innovation with ethical governance is crucial for ensuring fairness, accountability, and public trust in the age of intelligent machines.</p>
-<p>The post <a href="https://www.securityweek.com/beyond-the-black-box-building-trust-and-governance-in-the-age-of-ai/">Beyond the Black Box: Building Trust and Governance in the Age of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
