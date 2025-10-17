@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 16 Oct 2025 11:57:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Oct 2025 11:35:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking</title>
-		<link>https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 11:57:21 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Fuji Electric]]></category>
-		<category><![CDATA[HMI]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Industrial]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44008</guid>
-
-					<description><![CDATA[<p>Fuji Electric has released patches and Japan’s JPCERT has informed organizations about the vulnerabilities. </p>
-<p>The post <a href="https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/">Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Routers Hacked for Rootkit Deployment</title>
-		<link>https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/</link>
+		<title>Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026</title>
+		<link>https://www.securityweek.com/over-3-million-in-prizes-offered-at-pwn2own-automotive-2026/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 11:12:40 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Operation ZeroDisco]]></category>
-		<category><![CDATA[rootkit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44003</guid>
+		<pubDate>Fri, 17 Oct 2025 11:35:14 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[hacking contest]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own Automotive]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44024</guid>
 
-					<description><![CDATA[<p>Threat actors are exploiting CVE-2025-20352, a recent Cisco zero-day, to deploy a rootkit on older networking devices.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/">Cisco Routers Hacked for Rootkit Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Set for January 2026 at Automotive World in Tokyo, the contest will have six categories, including Tesla, infotainment systems, EV chargers, and automotive OSes.</p>
+<p>The post <a href="https://www.securityweek.com/over-3-million-in-prizes-offered-at-pwn2own-automotive-2026/">Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin</title>
-		<link>https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 10:56:55 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cambodia]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[Chen Zhi]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Prince Holding Group]]></category>
-		<category><![CDATA[scam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44002</guid>
-
-					<description><![CDATA[<p>In an indictment, federal prosecutors charged Prince Holding Group chairman Chen Zhi with wire fraud conspiracy and money laundering conspiracy.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/">US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Four-Year Prison Sentence for PowerSchool Hacker</title>
-		<link>https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 09:42:12 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[PowerSchool]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44000</guid>
-
-					<description><![CDATA[<p>Matthew Lane pleaded guilty in May to extorting two companies after hacking into their networks and stealing information.</p>
-<p>The post <a href="https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/">Four-Year Prison Sentence for PowerSchool Hacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts </title>
-		<link>https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/</link>
+		<title>Hackers Steal Sensitive Data From Auction House Sotheby&#8217;s</title>
+		<link>https://www.securityweek.com/hackers-steal-sensitive-data-from-auction-house-sothebys/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 08:41:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[BIG-IP]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43999</guid>
-
-					<description><![CDATA[<p>More information has come to light on the cyberattack disclosed this week by F5, including on attribution and potential risks.</p>
-<p>The post <a href="https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/">F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta</title>
-		<link>https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 16:51:14 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43992</guid>
-
-					<description><![CDATA[<p>Premier industrial cybersecurity conference Offers 70+ sessions, five training courses, and and ICS Village CTF competition.</p>
-<p>The post <a href="https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/">SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data</title>
-		<link>https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 14:49:07 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[BIG-IP]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[data theft]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[source code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43991</guid>
-
-					<description><![CDATA[<p>F5 shared few details on the threat actor, but the attack profile seems to point to China.</p>
-<p>The post <a href="https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/">F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Fact vs. Fiction &#8211; The Truth About API Security</title>
-		<link>https://www.securityweek.com/webinar-today-fact-vs-fiction-the-truth-about-api-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 14:28:55 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43989</guid>
-
-					<description><![CDATA[<p>Get practical guidance to protect APIs against the threats attackers are using right now.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-fact-vs-fiction-the-truth-about-api-security/">Webinar Today: Fact vs. Fiction &#8211; The Truth About API Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Customer Service Firm 5CA Denies Responsibility for Discord Data Breach</title>
-		<link>https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 13:10:12 +0000</pubDate>
+		<pubDate>Fri, 17 Oct 2025 11:17:20 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Discord]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43988</guid>
+		<category><![CDATA[Sotheby's]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44022</guid>
 
-					<description><![CDATA[<p>After being named by Discord as the third-party responsible for the breach, 5CA said none of its systems were involved.</p>
-<p>The post <a href="https://www.securityweek.com/customer-service-firm-5ca-denies-responsibility-for-discord-data-breach/">Customer Service Firm 5CA Denies Responsibility for Discord Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Sotheby's has disclosed a data breach impacting personal information, including SSNs.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-steal-sensitive-data-from-auction-house-sothebys/">Hackers Steal Sensitive Data From Auction House Sotheby&#8217;s</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/</link>
+		<title>&#8216;Highest Ever&#8217; Severity Score Assigned by Microsoft to ASP.NET Core Vulnerability</title>
+		<link>https://www.securityweek.com/highest-ever-severity-score-assigned-by-microsoft-to-asp-net-core-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 10:46:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44020</guid>
+
+					<description><![CDATA[<p>CVE-2025-55315 is an HTTP request smuggling bug leading to information leaks, file content tampering, and server crashes.</p>
+<p>The post <a href="https://www.securityweek.com/highest-ever-severity-score-assigned-by-microsoft-to-asp-net-core-vulnerability/">&#8216;Highest Ever&#8217; Severity Score Assigned by Microsoft to ASP.NET Core Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Prosper Data Breach Impacts 17.6 Million Accounts</title>
+		<link>https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 08:43:01 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[lender]]></category>
+		<category><![CDATA[Prosper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44018</guid>
+
+					<description><![CDATA[<p>Hackers stole names, addresses, dates of birth, email addresses, Social Security numbers, government IDs, and other information.</p>
+<p>The post <a href="https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/">Prosper Data Breach Impacts 17.6 Million Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices</title>
+		<link>https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 11:23:06 +0000</pubDate>
+		<pubDate>Fri, 17 Oct 2025 08:30:09 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=43987</guid>
+		<category><![CDATA[Phoenix Contact]]></category>
+		<category><![CDATA[UPS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44017</guid>
 
-					<description><![CDATA[<p>Over 20 advisories have been published by industrial giants this Patch Tuesday.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-fixes-announced-by-siemens-schneider-rockwell-abb-phoenix-contact/">ICS Patch Tuesday: Fixes Announced by Siemens, Schneider, Rockwell, ABB, Phoenix Contact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>An attacker can exploit the flaws to put devices into a permanent DoS condition that prevents remote restoration.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/">Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gladinet Patches Exploited CentreStack Vulnerability</title>
+		<link>https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 07:51:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Gladinet]]></category>
+		<category><![CDATA[Gladinet CentreStack]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44016</guid>
+
+					<description><![CDATA[<p>The unauthenticated local file inclusion bug allows attackers to retrieve the machine key and execute code remotely via a ViewState deserialization issue.</p>
+<p>The post <a href="https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/">Gladinet Patches Exploited CentreStack Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Revokes Over 200 Certificates to Disrupt Ransomware Campaign</title>
+		<link>https://www.securityweek.com/microsoft-revokes-over-200-certificates-to-disrupt-ransomware-campaign/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 14:42:43 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Rhysida]]></category>
+		<category><![CDATA[Vanilla Tempest]]></category>
+		<category><![CDATA[Vice Society]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44011</guid>
+
+					<description><![CDATA[<p>The tech giant attributed the attacks to Vanilla Tempest, also known as Vice Spider and Vice Society.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-revokes-over-200-certificates-to-disrupt-ransomware-campaign/">Microsoft Revokes Over 200 Certificates to Disrupt Ransomware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AISLE Emerges From Stealth With AI-Based Reasoning System to Remediate Vulnerabilities on the Fly</title>
+		<link>https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 13:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AISLE]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44006</guid>
+
+					<description><![CDATA[<p>AISLE aims to automate the vulnerability remediation process by detecting, exploiting, and patching software vulnerabilities in real time.</p>
+<p>The post <a href="https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/">AISLE Emerges From Stealth With AI-Based Reasoning System to Remediate Vulnerabilities on the Fly</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Matters.AI Raises $6.25 Million to Safeguard Enterprise Data</title>
+		<link>https://www.securityweek.com/matters-ai-raises-6-25-million-to-safeguard-enterprise-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 12:42:08 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Matters.AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44010</guid>
+
+					<description><![CDATA[<p>The company’s AI Security Engineer autonomously keeps enterprise data protected across devices and environments.</p>
+<p>The post <a href="https://www.securityweek.com/matters-ai-raises-6-25-million-to-safeguard-enterprise-data/">Matters.AI Raises $6.25 Million to Safeguard Enterprise Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Exploited Adobe AEM Forms Vulnerability</title>
+		<link>https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2025 12:23:50 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[AEM Forms]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44009</guid>
+
+					<description><![CDATA[<p>A public PoC existed when Adobe patched the Experience Manager Forms (AEM Forms) bug in early August.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/">Organizations Warned of Exploited Adobe AEM Forms Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
