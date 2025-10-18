@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 17 Oct 2025 11:35:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Oct 2025 07:15:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,40 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US</title>
+		<link>https://www.securityweek.com/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 16:23:20 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44028</guid>
+
+					<description><![CDATA[<p>The U.S. is the top target for cyberattacks, with criminals and foreign adversaries targeting companies, governments and organizations.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/">Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach</title>
+		<link>https://www.securityweek.com/in-other-news-crowdstrike-vulnerabilities-cisa-layoffs-mango-data-breach/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 17 Oct 2025 13:43:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44025</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Capita fined £14 million, ICTBroadcast vulnerability exploited, Spyware maker NSO acquired.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-crowdstrike-vulnerabilities-cisa-layoffs-mango-data-breach/">In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026</title>
 		<link>https://www.securityweek.com/over-3-million-in-prizes-offered-at-pwn2own-automotive-2026/</link>
 		
@@ -56,6 +90,7 @@
 		<pubDate>Fri, 17 Oct 2025 11:17:20 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Sotheby's]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44022</guid>
 
@@ -181,47 +216,6 @@
 
 					<description><![CDATA[<p>AISLE aims to automate the vulnerability remediation process by detecting, exploiting, and patching software vulnerabilities in real time.</p>
 <p>The post <a href="https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/">AISLE Emerges From Stealth With AI-Based Reasoning System to Remediate Vulnerabilities on the Fly</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Matters.AI Raises $6.25 Million to Safeguard Enterprise Data</title>
-		<link>https://www.securityweek.com/matters-ai-raises-6-25-million-to-safeguard-enterprise-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 12:42:08 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Matters.AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44010</guid>
-
-					<description><![CDATA[<p>The company’s AI Security Engineer autonomously keeps enterprise data protected across devices and environments.</p>
-<p>The post <a href="https://www.securityweek.com/matters-ai-raises-6-25-million-to-safeguard-enterprise-data/">Matters.AI Raises $6.25 Million to Safeguard Enterprise Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Exploited Adobe AEM Forms Vulnerability</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 12:23:50 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[AEM Forms]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44009</guid>
-
-					<description><![CDATA[<p>A public PoC existed when Adobe patched the Experience Manager Forms (AEM Forms) bug in early August.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/">Organizations Warned of Exploited Adobe AEM Forms Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
