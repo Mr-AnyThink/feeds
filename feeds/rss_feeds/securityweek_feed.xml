@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 18 Oct 2025 07:15:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Oct 2025 09:49:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,86 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks</title>
+		<link>https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 09:49:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[decoder]]></category>
+		<category><![CDATA[Dolby]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44035</guid>
+
+					<description><![CDATA[<p>On Android, the out-of-bounds write issue can be triggered during the processing of media files without user interaction.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/">Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million</title>
+		<link>https://www.securityweek.com/nso-ordered-to-stop-hacking-whatsapp-but-damages-cut-to-4-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 09:42:46 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[nso group]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44034</guid>
+
+					<description><![CDATA[<p>The judge ruled that punitive damages of $167 million awarded by a jury were excessive.</p>
+<p>The post <a href="https://www.securityweek.com/nso-ordered-to-stop-hacking-whatsapp-but-damages-cut-to-4-million/">NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>American Airlines Subsidiary Envoy Air Hit by Oracle Hack</title>
+		<link>https://www.securityweek.com/american-airlines-subsidiary-envoy-air-hit-by-oracle-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 07:40:39 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[American Airlines]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Envoy AIr]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44031</guid>
+
+					<description><![CDATA[<p>Envoy Air, which operates the American Eagle brand, has confirmed that business information was stolen by hackers.</p>
+<p>The post <a href="https://www.securityweek.com/american-airlines-subsidiary-envoy-air-hit-by-oracle-hack/">American Airlines Subsidiary Envoy Air Hit by Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China Accuses US of Cyberattack on National Time Center</title>
+		<link>https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 00:58:39 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NSA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44030</guid>
+
+					<description><![CDATA[<p>The Ministry of State Security alleged that the NSA exploited vulnerabilities in the messaging services of a foreign mobile phone brand to steal sensitive information.</p>
+<p>The post <a href="https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/">China Accuses US of Cyberattack on National Time Center</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US</title>
 		<link>https://www.securityweek.com/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/</link>
 		
@@ -136,86 +216,6 @@
 
 					<description><![CDATA[<p>Hackers stole names, addresses, dates of birth, email addresses, Social Security numbers, government IDs, and other information.</p>
 <p>The post <a href="https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/">Prosper Data Breach Impacts 17.6 Million Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices</title>
-		<link>https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 17 Oct 2025 08:30:09 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Phoenix Contact]]></category>
-		<category><![CDATA[UPS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44017</guid>
-
-					<description><![CDATA[<p>An attacker can exploit the flaws to put devices into a permanent DoS condition that prevents remote restoration.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/">Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gladinet Patches Exploited CentreStack Vulnerability</title>
-		<link>https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Oct 2025 07:51:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Gladinet]]></category>
-		<category><![CDATA[Gladinet CentreStack]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44016</guid>
-
-					<description><![CDATA[<p>The unauthenticated local file inclusion bug allows attackers to retrieve the machine key and execute code remotely via a ViewState deserialization issue.</p>
-<p>The post <a href="https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/">Gladinet Patches Exploited CentreStack Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Revokes Over 200 Certificates to Disrupt Ransomware Campaign</title>
-		<link>https://www.securityweek.com/microsoft-revokes-over-200-certificates-to-disrupt-ransomware-campaign/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 14:42:43 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Rhysida]]></category>
-		<category><![CDATA[Vanilla Tempest]]></category>
-		<category><![CDATA[Vice Society]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44011</guid>
-
-					<description><![CDATA[<p>The tech giant attributed the attacks to Vanilla Tempest, also known as Vice Spider and Vice Society.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-revokes-over-200-certificates-to-disrupt-ransomware-campaign/">Microsoft Revokes Over 200 Certificates to Disrupt Ransomware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AISLE Emerges From Stealth With AI-Based Reasoning System to Remediate Vulnerabilities on the Fly</title>
-		<link>https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AISLE]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44006</guid>
-
-					<description><![CDATA[<p>AISLE aims to automate the vulnerability remediation process by detecting, exploiting, and patching software vulnerabilities in real time.</p>
-<p>The post <a href="https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/">AISLE Emerges From Stealth With AI-Based Reasoning System to Remediate Vulnerabilities on the Fly</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
