@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 21 Oct 2025 12:05:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Oct 2025 12:03:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Dataminr to Acquire ThreatConnect for $290 Million</title>
-		<link>https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 12:05:27 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Dataminr]]></category>
-		<category><![CDATA[ThreatConnect]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44047</guid>
-
-					<description><![CDATA[<p>The goal is to combine Dataminr’s data signals platform with ThreatConnect’s deep internal data capabilities.</p>
-<p>The post <a href="https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/">Dataminr to Acquire ThreatConnect for $290 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Supply Chain Attack Targets VS Code Extensions With &#8216;GlassWorm&#8217; Malware</title>
-		<link>https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/</link>
+		<title>Russian APT Switches to New Backdoor After Malware Exposed by Researchers</title>
+		<link>https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 11:21:17 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[GlassWorm]]></category>
+		<pubDate>Wed, 22 Oct 2025 12:03:06 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[Callisto]]></category>
 		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[VS Code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44046</guid>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Russian APT]]></category>
+		<category><![CDATA[Star Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44065</guid>
 
-					<description><![CDATA[<p>The malware uses invisible Unicode characters to hide its code and blockchain-based infrastructure to prevent takedowns.</p>
-<p>The post <a href="https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/">Supply Chain Attack Targets VS Code Extensions With &#8216;GlassWorm&#8217; Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Star Blizzard started using the NoRobot (BaitSwitch) and MaybeRobot (SimpleFix) malware after public reporting on the LostKeys malware.</p>
+<p>The post <a href="https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/">Russian APT Switches to New Backdoor After Malware Exposed by Researchers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw</title>
-		<link>https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/</link>
+		<title>What Makes a Great Field CXO: Lessons from the Front Lines</title>
+		<link>https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 10:00:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Firebox]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WatchGuard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44045</guid>
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 11:30:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Field CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44064</guid>
 
-					<description><![CDATA[<p>Affecting the Fireware OS iked process, the vulnerability can lead to remote code execution and does not require authentication.</p>
-<p>The post <a href="https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/">Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>If you are recruiting for a Field CISO, Field CTO, etc., or are looking to leverage a resource at your company in one of these roles, what are some things you should be aware of?</p>
+<p>The post <a href="https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/">What Makes a Great Field CXO: Lessons from the Front Lines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People</title>
-		<link>https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 09:56:32 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Myanmar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44044</guid>
-
-					<description><![CDATA[<p>Myanmar is notorious for hosting cyberscam operations responsible for bilking people all over the world. </p>
-<p>The post <a href="https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/">Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Confirms Exploitation of Latest Oracle EBS Vulnerability </title>
-		<link>https://www.securityweek.com/cisa-confirms-exploitation-of-latest-oracle-ebs-vulnerability/</link>
+		<title>Fencing and Pet Company Jewett-Cameron Hit by Ransomware</title>
+		<link>https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 08:41:43 +0000</pubDate>
+		<pubDate>Wed, 22 Oct 2025 11:16:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Jewett-Cameron]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44063</guid>
+
+					<description><![CDATA[<p>Jewett-Cameron Company says hackers stole sensitive information and are threatening to release it unless a ransom is paid.</p>
+<p>The post <a href="https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/">Fencing and Pet Company Jewett-Cameron Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Releases October 2025 Patches</title>
+		<link>https://www.securityweek.com/oracle-releases-october-2025-patches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 10:03:22 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[CVE-2025-61884]]></category>
-		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle CPU]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44062</guid>
+
+					<description><![CDATA[<p>The Critical Patch Update contains 374 new security patches that resolve many vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-releases-october-2025-patches/">Oracle Releases October 2025 Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</title>
+		<link>https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 07:36:32 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44043</guid>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own Ireland]]></category>
+		<category><![CDATA[Pwn2Own Ireland 2025]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44058</guid>
 
-					<description><![CDATA[<p>The cybersecurity agency has added CVE-2025-61884 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-confirms-exploitation-of-latest-oracle-ebs-vulnerability/">CISA Confirms Exploitation of Latest Oracle EBS Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Participants exploited 34 previously unknown vulnerabilities to hack printers, NAS devices, and smart home products.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/">Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>South Korea Seeks to Arrest Dozens of Online Scam Suspects Repatriated From Cambodia</title>
-		<link>https://www.securityweek.com/south-korea-seeks-to-arrest-dozens-of-online-scam-suspects-repatriated-from-cambodia/</link>
+		<title>Gravwell Closes $15.4M Funding Round to Expand Data Analytics and Security Platform</title>
+		<link>https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 18:58:09 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44042</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 16:06:08 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44054</guid>
 
-					<description><![CDATA[<p>South Korea faces public calls to take stronger action to protect its nationals from being forced into overseas online scam centers.</p>
-<p>The post <a href="https://www.securityweek.com/south-korea-seeks-to-arrest-dozens-of-online-scam-suspects-repatriated-from-cambodia/">South Korea Seeks to Arrest Dozens of Online Scam Suspects Repatriated From Cambodia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Series A round was led by Two Bear Capital and included participation from Gula Tech Adventures, Next Frontier Capital, and others.</p>
+<p>The post <a href="https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/">Gravwell Closes $15.4M Funding Round to Expand Data Analytics and Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>SIM Farm Dismantled in Europe, Seven Arrested</title>
-		<link>https://www.securityweek.com/sim-farm-dismantled-in-europe-seven-arrested/</link>
+		<title>SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility</title>
+		<link>https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 15:16:12 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[NetRise]]></category>
+		<category><![CDATA[SBOM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44052</guid>
+
+					<description><![CDATA[<p>NetRise appointed the former CISA Senior Advisor and Strategist as a Strategic Advisor.</p>
+<p>The post <a href="https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/">SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Defakto Raises $30 Million for Non-Human IAM Platform</title>
+		<link>https://www.securityweek.com/defakto-raises-30-million-for-non-human-iam-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 14:41:11 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Defakto]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[IAM]]></category>
+		<category><![CDATA[identity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44051</guid>
+
+					<description><![CDATA[<p>Defakto’s Series B funding, which brings the total raised to $50 million, was led by XYZ Venture Capital.</p>
+<p>The post <a href="https://www.securityweek.com/defakto-raises-30-million-for-non-human-iam-platform/">Defakto Raises $30 Million for Non-Human IAM Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Government, Industrial Servers Targeted in China-Linked &#8216;PassiveNeuron&#8217; Campaign</title>
+		<link>https://www.securityweek.com/government-industrial-servers-targeted-in-china-linked-passiveneuron-campaign/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 12:57:49 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[Europol]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[SIM farm]]></category>
-		<category><![CDATA[SIMCartel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44038</guid>
-
-					<description><![CDATA[<p>The individuals ran a highly sophisticated cybercrime-as-a-service (CaaS) platform that caused roughly €5 million (~$5.8 million) in losses.</p>
-<p>The post <a href="https://www.securityweek.com/sim-farm-dismantled-in-europe-seven-arrested/">SIM Farm Dismantled in Europe, Seven Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lumma Stealer Activity Drops After Doxxing</title>
-		<link>https://www.securityweek.com/lumma-stealer-activity-drops-after-doxxing/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 12:42:47 +0000</pubDate>
+		<pubDate>Tue, 21 Oct 2025 14:34:38 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Lumma Stealer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44037</guid>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Industrial]]></category>
+		<category><![CDATA[PassiveNeuron]]></category>
+		<category><![CDATA[Windows Server]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44050</guid>
 
-					<description><![CDATA[<p>The identities of alleged core members of the Lumma Stealer group were exposed in an underground doxxing campaign.</p>
-<p>The post <a href="https://www.securityweek.com/lumma-stealer-activity-drops-after-doxxing/">Lumma Stealer Activity Drops After Doxxing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A threat actor has been infecting servers of high-profile entities with backdoors to exfiltrate information and deploy additional payloads.</p>
+<p>The post <a href="https://www.securityweek.com/government-industrial-servers-targeted-in-china-linked-passiveneuron-campaign/">Government, Industrial Servers Targeted in China-Linked &#8216;PassiveNeuron&#8217; Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ConnectWise Patches Critical Flaw in Automate RMM Tool</title>
-		<link>https://www.securityweek.com/connectwise-patches-critical-flaw-in-automate-rmm-tool/</link>
+		<title>Veeam to Acquire Data Security Firm Securiti AI for $1.7 Billion</title>
+		<link>https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 12:31:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[ConnectWise]]></category>
-		<category><![CDATA[MitM]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44036</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 13:28:11 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Securiti AI]]></category>
+		<category><![CDATA[Veeam]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44049</guid>
 
-					<description><![CDATA[<p>Attackers could exploit vulnerable deployments to intercept and tamper with communications in certain configurations.</p>
-<p>The post <a href="https://www.securityweek.com/connectwise-patches-critical-flaw-in-automate-rmm-tool/">ConnectWise Patches Critical Flaw in Automate RMM Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks</title>
-		<link>https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 09:49:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[decoder]]></category>
-		<category><![CDATA[Dolby]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44035</guid>
-
-					<description><![CDATA[<p>On Android, the out-of-bounds write issue can be triggered during the processing of media files without user interaction.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/">Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The acquisition will unify data resilience with DSPM, privacy, governance, and AI trust across production and secondary data.</p>
+<p>The post <a href="https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/">Veeam to Acquire Data Security Firm Securiti AI for $1.7 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
