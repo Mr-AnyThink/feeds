@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 22 Oct 2025 12:03:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Oct 2025 11:19:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,170 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vibe Coding’s Real Problem Isn’t Bugs—It’s Judgment</title>
+		<link>https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 11:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44072</guid>
+
+					<description><![CDATA[<p>As AI coding tools flood enterprises with functional but flawed software, researchers urge embedding security checks directly into the AI workflow.</p>
+<p>The post <a href="https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/">Vibe Coding’s Real Problem Isn’t Bugs—It’s Judgment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk</title>
+		<link>https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 11:03:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe Commerce]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[magento]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44077</guid>
+
+					<description><![CDATA[<p>Patched in September, the SessionReaper bug could be exploited without authentication to bypass a security feature.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/">Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BIND Updates Address High-Severity Cache Poisoning Flaws</title>
+		<link>https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 10:10:47 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BIND]]></category>
+		<category><![CDATA[cache poisoning]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[DoS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44076</guid>
+
+					<description><![CDATA[<p>The vulnerabilities allow attackers to predict source ports and query IDs BIND will use, and to inject forged records into the cache.</p>
+<p>The post <a href="https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/">BIND Updates Address High-Severity Cache Poisoning Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lanscope Endpoint Manager Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 09:56:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Lanscope]]></category>
+		<category><![CDATA[Motex]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44075</guid>
+
+					<description><![CDATA[<p>The bug has been exploited in the wild as a zero-day and the US cybersecurity agency CISA has added it to its KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/">Lanscope Endpoint Manager Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</title>
+		<link>https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 09:21:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44074</guid>
+
+					<description><![CDATA[<p>Verizon’s 2025 Mobile Security Index shows that 85% of organizations believe mobile device attacks are on the rise.</p>
+<p>The post <a href="https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/">Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TARmageddon Flaw in Popular Rust Library Leads to RCE</title>
+		<link>https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 15:00:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Rust]]></category>
+		<category><![CDATA[TARmageddon]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44071</guid>
+
+					<description><![CDATA[<p>The vulnerability impacts multiple Rust tar parsers, allowing attackers to smuggle additional archive entries.</p>
+<p>The post <a href="https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/">TARmageddon Flaw in Popular Rust Library Leads to RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerabilities Patched in TP-Link&#8217;s Omada Gateways</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 13:41:21 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Omada]]></category>
+		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44067</guid>
+
+					<description><![CDATA[<p>One of the flaws can be exploited by remote unauthenticated attackers for arbitrary command execution.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/">Critical Vulnerabilities Patched in TP-Link&#8217;s Omada Gateways</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Keycard Emerges From Stealth Mode With $38 Million in Funding</title>
+		<link>https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2025 12:39:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[IAM]]></category>
+		<category><![CDATA[Keycard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44066</guid>
+
+					<description><![CDATA[<p>The company’s IAM platform identifies AI agents, supports assigning permission to them, and tracks all activity.</p>
+<p>The post <a href="https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/">Keycard Emerges From Stealth Mode With $38 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Russian APT Switches to New Backdoor After Malware Exposed by Researchers</title>
 		<link>https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/</link>
 		
@@ -62,165 +226,6 @@
 
 					<description><![CDATA[<p>If you are recruiting for a Field CISO, Field CTO, etc., or are looking to leverage a resource at your company in one of these roles, what are some things you should be aware of?</p>
 <p>The post <a href="https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/">What Makes a Great Field CXO: Lessons from the Front Lines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fencing and Pet Company Jewett-Cameron Hit by Ransomware</title>
-		<link>https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 11:16:17 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Jewett-Cameron]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44063</guid>
-
-					<description><![CDATA[<p>Jewett-Cameron Company says hackers stole sensitive information and are threatening to release it unless a ransom is paid.</p>
-<p>The post <a href="https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/">Fencing and Pet Company Jewett-Cameron Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Releases October 2025 Patches</title>
-		<link>https://www.securityweek.com/oracle-releases-october-2025-patches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 10:03:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle CPU]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44062</guid>
-
-					<description><![CDATA[<p>The Critical Patch Update contains 374 new security patches that resolve many vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-releases-october-2025-patches/">Oracle Releases October 2025 Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</title>
-		<link>https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 07:36:32 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[Pwn2Own Ireland]]></category>
-		<category><![CDATA[Pwn2Own Ireland 2025]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44058</guid>
-
-					<description><![CDATA[<p>Participants exploited 34 previously unknown vulnerabilities to hack printers, NAS devices, and smart home products.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/">Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gravwell Closes $15.4M Funding Round to Expand Data Analytics and Security Platform</title>
-		<link>https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 16:06:08 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44054</guid>
-
-					<description><![CDATA[<p>The Series A round was led by Two Bear Capital and included participation from Gula Tech Adventures, Next Frontier Capital, and others.</p>
-<p>The post <a href="https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/">Gravwell Closes $15.4M Funding Round to Expand Data Analytics and Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility</title>
-		<link>https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 15:16:12 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[NetRise]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44052</guid>
-
-					<description><![CDATA[<p>NetRise appointed the former CISA Senior Advisor and Strategist as a Strategic Advisor.</p>
-<p>The post <a href="https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/">SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Defakto Raises $30 Million for Non-Human IAM Platform</title>
-		<link>https://www.securityweek.com/defakto-raises-30-million-for-non-human-iam-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 14:41:11 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Defakto]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[IAM]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44051</guid>
-
-					<description><![CDATA[<p>Defakto’s Series B funding, which brings the total raised to $50 million, was led by XYZ Venture Capital.</p>
-<p>The post <a href="https://www.securityweek.com/defakto-raises-30-million-for-non-human-iam-platform/">Defakto Raises $30 Million for Non-Human IAM Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Government, Industrial Servers Targeted in China-Linked &#8216;PassiveNeuron&#8217; Campaign</title>
-		<link>https://www.securityweek.com/government-industrial-servers-targeted-in-china-linked-passiveneuron-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 14:34:38 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Industrial]]></category>
-		<category><![CDATA[PassiveNeuron]]></category>
-		<category><![CDATA[Windows Server]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44050</guid>
-
-					<description><![CDATA[<p>A threat actor has been infecting servers of high-profile entities with backdoors to exfiltrate information and deploy additional payloads.</p>
-<p>The post <a href="https://www.securityweek.com/government-industrial-servers-targeted-in-china-linked-passiveneuron-campaign/">Government, Industrial Servers Targeted in China-Linked &#8216;PassiveNeuron&#8217; Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Veeam to Acquire Data Security Firm Securiti AI for $1.7 Billion</title>
-		<link>https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 21 Oct 2025 13:28:11 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Securiti AI]]></category>
-		<category><![CDATA[Veeam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44049</guid>
-
-					<description><![CDATA[<p>The acquisition will unify data resilience with DSPM, privacy, governance, and AI trust across production and secondary data.</p>
-<p>The post <a href="https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/">Veeam to Acquire Data Security Firm Securiti AI for $1.7 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
