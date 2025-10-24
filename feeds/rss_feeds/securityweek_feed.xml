@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 23 Oct 2025 11:19:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Oct 2025 11:19:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,113 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</title>
+		<link>https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 11:19:52 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Toys R Us]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44086</guid>
+
+					<description><![CDATA[<p>The customer information published on the dark web includes names, addresses, phone numbers, and email addresses.</p>
+<p>The post <a href="https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/">Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</title>
+		<link>https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 09:57:30 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[File Explorer]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[NTLM]]></category>
+		<category><![CDATA[preview]]></category>
+		<category><![CDATA[security feature]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44085</guid>
+
+					<description><![CDATA[<p>In files downloaded from the internet, HTML tags referencing external paths could be used to leak NTLM hashes during file previews.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/">Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</title>
+		<link>https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 08:01:42 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<category><![CDATA[Pwn2Own Ireland]]></category>
+		<category><![CDATA[Pwn2Own Ireland 2025]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44084</guid>
+
+					<description><![CDATA[<p>Questions have been raised over the technical viability of the purported WhatsApp exploit, but the researcher says he wants to keep his identity private.</p>
+<p>The post <a href="https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/">Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Government Now Actively Managing Cybercrime Groups: Security Firm</title>
+		<link>https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 14:46:30 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44082</guid>
+
+					<description><![CDATA[<p>The relationship between the Russian government and cybercriminal groups has evolved from passive tolerance.</p>
+<p>The post <a href="https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/">Russian Government Now Actively Managing Cybercrime Groups: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet and Other Browsers at Risk</title>
+		<link>https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 23 Oct 2025 13:05:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[browser]]></category>
+		<category><![CDATA[ChatGPT Atlas]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Perplexity Comet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44079</guid>
+
+					<description><![CDATA[<p>SquareX has shown how malicious browser extensions can impersonate AI sidebar interfaces.</p>
+<p>The post <a href="https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/">AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet and Other Browsers at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vibe Coding’s Real Problem Isn’t Bugs—It’s Judgment</title>
 		<link>https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/</link>
 		
@@ -126,106 +233,6 @@
 
 					<description><![CDATA[<p>Verizon’s 2025 Mobile Security Index shows that 85% of organizations believe mobile device attacks are on the rise.</p>
 <p>The post <a href="https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/">Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TARmageddon Flaw in Popular Rust Library Leads to RCE</title>
-		<link>https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 15:00:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Rust]]></category>
-		<category><![CDATA[TARmageddon]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44071</guid>
-
-					<description><![CDATA[<p>The vulnerability impacts multiple Rust tar parsers, allowing attackers to smuggle additional archive entries.</p>
-<p>The post <a href="https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/">TARmageddon Flaw in Popular Rust Library Leads to RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerabilities Patched in TP-Link&#8217;s Omada Gateways</title>
-		<link>https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 13:41:21 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Omada]]></category>
-		<category><![CDATA[TP-Link]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44067</guid>
-
-					<description><![CDATA[<p>One of the flaws can be exploited by remote unauthenticated attackers for arbitrary command execution.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/">Critical Vulnerabilities Patched in TP-Link&#8217;s Omada Gateways</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Keycard Emerges From Stealth Mode With $38 Million in Funding</title>
-		<link>https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 12:39:16 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[IAM]]></category>
-		<category><![CDATA[Keycard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44066</guid>
-
-					<description><![CDATA[<p>The company’s IAM platform identifies AI agents, supports assigning permission to them, and tracks all activity.</p>
-<p>The post <a href="https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/">Keycard Emerges From Stealth Mode With $38 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian APT Switches to New Backdoor After Malware Exposed by Researchers</title>
-		<link>https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 12:03:06 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Callisto]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Russian APT]]></category>
-		<category><![CDATA[Star Blizzard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44065</guid>
-
-					<description><![CDATA[<p>Star Blizzard started using the NoRobot (BaitSwitch) and MaybeRobot (SimpleFix) malware after public reporting on the LostKeys malware.</p>
-<p>The post <a href="https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/">Russian APT Switches to New Backdoor After Malware Exposed by Researchers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What Makes a Great Field CXO: Lessons from the Front Lines</title>
-		<link>https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Wed, 22 Oct 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Field CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44064</guid>
-
-					<description><![CDATA[<p>If you are recruiting for a Field CISO, Field CTO, etc., or are looking to leverage a resource at your company in one of these roles, what are some things you should be aware of?</p>
-<p>The post <a href="https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/">What Makes a Great Field CXO: Lessons from the Front Lines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
