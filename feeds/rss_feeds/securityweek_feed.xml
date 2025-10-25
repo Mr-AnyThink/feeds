@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 24 Oct 2025 11:19:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Oct 2025 11:40:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,127 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</title>
+		<link>https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2025 11:36:28 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44095</guid>
+
+					<description><![CDATA[<p>WhatsApp told SecurityWeek that the two low-impact vulnerabilities cannot be used for arbitrary code execution. </p>
+<p>The post <a href="https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/">$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks</title>
+		<link>https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Sat, 25 Oct 2025 11:35:58 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[jailbreak]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44094</guid>
+
+					<description><![CDATA[<p>Researchers have discovered that a prompt can be disguised as an url, and accepted by Atlas as an url in the omnibox. </p>
+<p>The post <a href="https://www.securityweek.com/chatgpt-atlas-omnibox-is-vulnerable-to-jailbreaks/">OpenAI Atlas Omnibox Is Vulnerable to Jailbreaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Windows Server WSUS Vulnerability Exploited in the Wild </title>
+		<link>https://www.securityweek.com/critical-windows-server-wsus-vulnerability-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 14:42:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-59287]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows Server]]></category>
+		<category><![CDATA[WSUS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44092</guid>
+
+					<description><![CDATA[<p>CVE-2025-59287 allows a remote, unauthenticated attacker to execute arbitrary code and a PoC exploit is available.</p>
+<p>The post <a href="https://www.securityweek.com/critical-windows-server-wsus-vulnerability-exploited-in-the-wild/">Critical Windows Server WSUS Vulnerability Exploited in the Wild </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Target Perplexity Comet Browser Users</title>
+		<link>https://www.securityweek.com/hackers-target-perplexity-comet-browser-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 13:54:20 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[browser]]></category>
+		<category><![CDATA[Perplexity Comet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44090</guid>
+
+					<description><![CDATA[<p>Shortly after the browser was launched, numerous fraudulent domains and fake applications were discovered.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-target-perplexity-comet-browser-users/">Hackers Target Perplexity Comet Browser Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Aim at European Drone Companies</title>
+		<link>https://www.securityweek.com/north-korean-hackers-aim-at-european-drone-companies/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 13:24:05 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Lazarus]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44089</guid>
+
+					<description><![CDATA[<p>Lazarus has used fake job offers in attacks targeting companies developing UAV technology, for information theft.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-aim-at-european-drone-companies/">North Korean Hackers Aim at European Drone Companies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: iOS 26 Deletes Spyware Evidence, Shadow Escape Attack, Cyber Exec Sold Secrets to Russia</title>
+		<link>https://www.securityweek.com/in-other-news-ios-26-deletes-spyware-evidence-shadow-escape-attack-cyber-exec-sold-secrets-to-russia/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 12:42:43 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44088</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Everest group takes credit for Collins Aerospace hack, Maryland launches VDP, gamers targeted with red teaming tool and RAT.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-ios-26-deletes-spyware-evidence-shadow-escape-attack-cyber-exec-sold-secrets-to-russia/">In Other News: iOS 26 Deletes Spyware Evidence, Shadow Escape Attack, Cyber Exec Sold Secrets to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</title>
 		<link>https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/</link>
 		
@@ -35,6 +156,7 @@
 		<pubDate>Fri, 24 Oct 2025 11:19:52 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Toys R Us]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44086</guid>
 
@@ -107,132 +229,6 @@
 
 					<description><![CDATA[<p>The relationship between the Russian government and cybercriminal groups has evolved from passive tolerance.</p>
 <p>The post <a href="https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/">Russian Government Now Actively Managing Cybercrime Groups: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet and Other Browsers at Risk</title>
-		<link>https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 13:05:18 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[browser]]></category>
-		<category><![CDATA[ChatGPT Atlas]]></category>
-		<category><![CDATA[extension]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Perplexity Comet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44079</guid>
-
-					<description><![CDATA[<p>SquareX has shown how malicious browser extensions can impersonate AI sidebar interfaces.</p>
-<p>The post <a href="https://www.securityweek.com/ai-sidebar-spoofing-puts-chatgpt-atlas-perplexity-comet-and-other-browsers-at-risk/">AI Sidebar Spoofing Puts ChatGPT Atlas, Perplexity Comet and Other Browsers at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vibe Coding’s Real Problem Isn’t Bugs—It’s Judgment</title>
-		<link>https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 11:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Development]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44072</guid>
-
-					<description><![CDATA[<p>As AI coding tools flood enterprises with functional but flawed software, researchers urge embedding security checks directly into the AI workflow.</p>
-<p>The post <a href="https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/">Vibe Coding’s Real Problem Isn’t Bugs—It’s Judgment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk</title>
-		<link>https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 11:03:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe Commerce]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[magento]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44077</guid>
-
-					<description><![CDATA[<p>Patched in September, the SessionReaper bug could be exploited without authentication to bypass a security feature.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/">Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BIND Updates Address High-Severity Cache Poisoning Flaws</title>
-		<link>https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 10:10:47 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BIND]]></category>
-		<category><![CDATA[cache poisoning]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[DoS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44076</guid>
-
-					<description><![CDATA[<p>The vulnerabilities allow attackers to predict source ports and query IDs BIND will use, and to inject forged records into the cache.</p>
-<p>The post <a href="https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/">BIND Updates Address High-Severity Cache Poisoning Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lanscope Endpoint Manager Zero-Day Exploited in the Wild</title>
-		<link>https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 09:56:54 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Lanscope]]></category>
-		<category><![CDATA[Motex]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44075</guid>
-
-					<description><![CDATA[<p>The bug has been exploited in the wild as a zero-day and the US cybersecurity agency CISA has added it to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/">Lanscope Endpoint Manager Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</title>
-		<link>https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 09:21:48 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[Verizon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44074</guid>
-
-					<description><![CDATA[<p>Verizon’s 2025 Mobile Security Index shows that 85% of organizations believe mobile device attacks are on the rise.</p>
-<p>The post <a href="https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/">Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
