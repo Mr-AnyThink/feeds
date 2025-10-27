@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 25 Oct 2025 16:59:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Oct 2025 11:20:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Firefox Extensions Required to Disclose Data Collection Practices</title>
+		<link>https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 11:20:42 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[browser extension]]></category>
+		<category><![CDATA[data collection]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44103</guid>
+
+					<description><![CDATA[<p>All new extensions will be required to declare their data collection practices in their manifest file using a specific key.</p>
+<p>The post <a href="https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/">New Firefox Extensions Required to Disclose Data Collection Practices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Year-Old WordPress Plugin Flaws Exploited to Hack Websites</title>
+		<link>https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 10:46:24 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44102</guid>
+
+					<description><![CDATA[<p>Roughly 9 million exploit attempts were observed this month as mass exploitation of the critical vulnerabilities recommenced.</p>
+<p>The post <a href="https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/">Year-Old WordPress Plugin Flaws Exploited to Hack Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Payments Dropped in Q3 2025: Analysis</title>
+		<link>https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 10:15:37 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ransomware payments]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44100</guid>
+
+					<description><![CDATA[<p>Coveware has attributed the drop to large enterprises increasingly refusing to pay up and smaller amounts paid by mid-market firms.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/">Ransomware Payments Dropped in Q3 2025: Analysis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</title>
+		<link>https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 09:33:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Dante]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Hacking Team]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44099</guid>
+
+					<description><![CDATA[<p>The threat actor behind Operation ForumTroll used the same toolset typically employed in Dante spyware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/">Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</title>
 		<link>https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/</link>
 		
@@ -143,92 +222,6 @@
 
 					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Everest group takes credit for Collins Aerospace hack, Maryland launches VDP, gamers targeted with red teaming tool and RAT.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-ios-26-deletes-spyware-evidence-shadow-escape-attack-cyber-exec-sold-secrets-to-russia/">In Other News: iOS 26 Deletes Spyware Evidence, Shadow Escape Attack, Cyber Exec Sold Secrets to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</title>
-		<link>https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 11:19:52 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Toys R Us]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44086</guid>
-
-					<description><![CDATA[<p>The customer information published on the dark web includes names, addresses, phone numbers, and email addresses.</p>
-<p>The post <a href="https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/">Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</title>
-		<link>https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 09:57:30 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[File Explorer]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[NTLM]]></category>
-		<category><![CDATA[preview]]></category>
-		<category><![CDATA[security feature]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44085</guid>
-
-					<description><![CDATA[<p>In files downloaded from the internet, HTML tags referencing external paths could be used to leak NTLM hashes during file previews.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/">Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</title>
-		<link>https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 08:01:42 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hack]]></category>
-		<category><![CDATA[Pwn2Own 2025]]></category>
-		<category><![CDATA[Pwn2Own Ireland]]></category>
-		<category><![CDATA[Pwn2Own Ireland 2025]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44084</guid>
-
-					<description><![CDATA[<p>Questions have been raised over the technical viability of the purported WhatsApp exploit, but the researcher says he wants to keep his identity private.</p>
-<p>The post <a href="https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/">Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Government Now Actively Managing Cybercrime Groups: Security Firm</title>
-		<link>https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 14:46:30 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44082</guid>
-
-					<description><![CDATA[<p>The relationship between the Russian government and cybercriminal groups has evolved from passive tolerance.</p>
-<p>The post <a href="https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/">Russian Government Now Actively Managing Cybercrime Groups: Security Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
