@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 28 Oct 2025 12:02:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Oct 2025 12:16:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,210 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Industrial Giants Schneider Electric and Emerson Named as Victims of Oracle Hack</title>
-		<link>https://www.securityweek.com/industrial-giants-schneider-electric-and-emerson-named-as-victims-of-oracle-hack/</link>
+		<title>AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</title>
+		<link>https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 12:01:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Emerson]]></category>
-		<category><![CDATA[Industrial]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<category><![CDATA[Schneider Electric]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44109</guid>
-
-					<description><![CDATA[<p>Data allegedly stolen from the companies has been made available for download on the Cl0p ransomware leak website.</p>
-<p>The post <a href="https://www.securityweek.com/industrial-giants-schneider-electric-and-emerson-named-as-victims-of-oracle-hack/">Industrial Giants Schneider Electric and Emerson Named as Victims of Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybercriminals Trade 183 Million Stolen Credentials on Telegram, Dark Forums</title>
-		<link>https://www.securityweek.com/cybercriminals-trade-183-million-stolen-credentials-on-telegram-dark-forums/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 11:11:46 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[credentials]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[password]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44108</guid>
-
-					<description><![CDATA[<p>The email addresses were pulled from various sources and 16.4 million of them were not present in previous data breaches.</p>
-<p>The post <a href="https://www.securityweek.com/cybercriminals-trade-183-million-stolen-credentials-on-telegram-dark-forums/">Cybercriminals Trade 183 Million Stolen Credentials on Telegram, Dark Forums</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Target Swedish Power Grid Operator</title>
-		<link>https://www.securityweek.com/hackers-target-swedish-power-grid-operator/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 10:00:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[electric grid]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[grid]]></category>
-		<category><![CDATA[Svenska kraftnät]]></category>
-		<category><![CDATA[Sweden]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44106</guid>
-
-					<description><![CDATA[<p>The hackers stole information from a file transfer solution and the country’s power supply was not affected.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-swedish-power-grid-operator/">Hackers Target Swedish Power Grid Operator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chainguard Raises $280 Million in Growth Funding</title>
-		<link>https://www.securityweek.com/chainguard-raises-280-million-in-growth-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 15:05:02 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Chainguard]]></category>
+		<pubDate>Wed, 29 Oct 2025 12:16:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44105</guid>
+		<category><![CDATA[Polygraf]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44126</guid>
 
-					<description><![CDATA[<p>Chainguard has raised $636 million in the past six months alone for its software supply chain security solutions. </p>
-<p>The post <a href="https://www.securityweek.com/chainguard-raises-280-million-in-growth-funding/">Chainguard Raises $280 Million in Growth Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Polygraf AI has developed proprietary small language model (SLM) technology designed to help organizations mitigate AI risks.</p>
+<p>The post <a href="https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/">AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Massive China-Linked Smishing Campaign Leveraged 194,000 Domains</title>
-		<link>https://www.securityweek.com/massive-china-linked-smishing-campaign-leveraged-194000-domains/</link>
+		<title>CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution</title>
+		<link>https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 13:28:03 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[smishing]]></category>
-		<category><![CDATA[Smishing Triad]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44104</guid>
-
-					<description><![CDATA[<p>The malicious Smishing Triad domains were used to collect sensitive information, including Social Security numbers.</p>
-<p>The post <a href="https://www.securityweek.com/massive-china-linked-smishing-campaign-leveraged-194000-domains/">Massive China-Linked Smishing Campaign Leveraged 194,000 Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Firefox Extensions Required to Disclose Data Collection Practices</title>
-		<link>https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 11:20:42 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[browser extension]]></category>
-		<category><![CDATA[data collection]]></category>
+		<pubDate>Wed, 29 Oct 2025 11:42:56 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[CyberRidge]]></category>
 		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44103</guid>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[photonic encryption]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44124</guid>
 
-					<description><![CDATA[<p>All new extensions will be required to declare their data collection practices in their manifest file using a specific key.</p>
-<p>The post <a href="https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/">New Firefox Extensions Required to Disclose Data Collection Practices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company has built a plug-and-play photonic layer transmission system that encrypts data in transit to prevent interception.</p>
+<p>The post <a href="https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/">CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Year-Old WordPress Plugin Flaws Exploited to Hack Websites</title>
-		<link>https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/</link>
+		<title>XWiki Vulnerability Exploited in Cryptocurrency Mining Operation</title>
+		<link>https://www.securityweek.com/xwiki-vulnerability-exploited-in-cryptocurrency-mining-operation/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 10:46:24 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<pubDate>Wed, 29 Oct 2025 10:53:42 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[crypto mining]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44102</guid>
+		<category><![CDATA[XWiki]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44123</guid>
 
-					<description><![CDATA[<p>Roughly 9 million exploit attempts were observed this month as mass exploitation of the critical vulnerabilities recommenced.</p>
-<p>The post <a href="https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/">Year-Old WordPress Plugin Flaws Exploited to Hack Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Exploits have been available publicly for over half a year, but the bug was previously targeted only for reconnaissance.</p>
+<p>The post <a href="https://www.securityweek.com/xwiki-vulnerability-exploited-in-cryptocurrency-mining-operation/">XWiki Vulnerability Exploited in Cryptocurrency Mining Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ransomware Payments Dropped in Q3 2025: Analysis</title>
-		<link>https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/</link>
+		<title>Ad and PR Giant Dentsu Says Hackers Stole Merkle Data</title>
+		<link>https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 10:15:37 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[ransomware payments]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44100</guid>
+		<pubDate>Wed, 29 Oct 2025 10:41:52 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Dentsu]]></category>
+		<category><![CDATA[Merkle]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44121</guid>
 
-					<description><![CDATA[<p>Coveware has attributed the drop to large enterprises increasingly refusing to pay up and smaller amounts paid by mid-market firms.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/">Ransomware Payments Dropped in Q3 2025: Analysis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Japan’s Dentsu has disclosed a Merkle data breach impacting clients, suppliers, and employees.</p>
+<p>The post <a href="https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/">Ad and PR Giant Dentsu Says Hackers Stole Merkle Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</title>
-		<link>https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/</link>
+		<title>Chrome to Turn HTTPS on by Default for Public Sites</title>
+		<link>https://www.securityweek.com/chrome-to-turn-https-on-by-default-for-public-sites/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 09:33:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<pubDate>Wed, 29 Oct 2025 09:43:43 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Dante]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hacking Team]]></category>
-		<category><![CDATA[spyware]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44099</guid>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44120</guid>
 
-					<description><![CDATA[<p>The threat actor behind Operation ForumTroll used the same toolset typically employed in Dante spyware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/">Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Starting October 2026, the browser will ask users if they want to access public websites that do not use secure connections.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-to-turn-https-on-by-default-for-public-sites/">Chrome to Turn HTTPS on by Default for Public Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</title>
-		<link>https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/</link>
+		<title>CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 08:24:31 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[DELMIA]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44119</guid>
+
+					<description><![CDATA[<p>Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/">CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs </title>
+		<link>https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 25 Oct 2025 11:36:28 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[fake hack]]></category>
+		<pubDate>Wed, 29 Oct 2025 07:45:11 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[confidential computing]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Pwn2Own]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44095</guid>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[TEE]]></category>
+		<category><![CDATA[TEE.fail]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44117</guid>
 
-					<description><![CDATA[<p>WhatsApp told SecurityWeek that the two low-impact vulnerabilities cannot be used for arbitrary code execution. </p>
-<p>The post <a href="https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/">$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Intel and AMD have published advisories after academics disclosed details of the new TEE.fail attack method.</p>
+<p>The post <a href="https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/">New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</title>
+		<link>https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 17:36:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Myanmar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44115</guid>
+
+					<description><![CDATA[<p>Witnesses on the Thai side of the border reported hearing explosions and seeing smoke coming from the center over the past several nights starting on Friday.</p>
+<p>The post <a href="https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/">Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</title>
+		<link>https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 14:47:41 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[QNAP]]></category>
+		<category><![CDATA[vulnerabiltity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44114</guid>
+
+					<description><![CDATA[<p>The critical-severity flaw allows attackers to smuggle HTTP requests and access sensitive data, modify server files, or cause DoS conditions.</p>
+<p>The post <a href="https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/">QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SimSpace Raises $39 Million for Cyber Range Platform</title>
+		<link>https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 14:26:02 +0000</pubDate>
+				<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[cyber range]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[SimSpace]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44113</guid>
+
+					<description><![CDATA[<p>SimSpace provides realistic cyber ranges where organizations can test attack preparedness and validate defenses.</p>
+<p>The post <a href="https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/">SimSpace Raises $39 Million for Cyber Range Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
