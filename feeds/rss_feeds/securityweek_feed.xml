@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 29 Oct 2025 12:16:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Oct 2025 11:36:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</title>
+		<link>https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 11:36:39 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[hacktivism]]></category>
+		<category><![CDATA[ICS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44131</guid>
+
+					<description><![CDATA[<p>The Canadian Centre for Cyber Security has warned CISOs that hacktivists are increasingly targeting internet-exposed ICS.</p>
+<p>The post <a href="https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/">Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</title>
+		<link>https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 10:59:33 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NPM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44130</guid>
+
+					<description><![CDATA[<p>The packages deployed malicious code harvesting system information, credentials, tokens, API keys, and other sensitive information.</p>
+<p>The post <a href="https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/">136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former US Defense Contractor Executive Admits to Selling Exploits to Russia</title>
+		<link>https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 09:32:10 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Peter Williams]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44129</guid>
+
+					<description><![CDATA[<p>Peter Williams stole trade secrets from his US employer and sold them to a Russian cybersecurity tools broker.</p>
+<p>The post <a href="https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/">Former US Defense Contractor Executive Admits to Selling Exploits to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MITRE Unveils ATT&#038;CK v18 With Updates to Detections, Mobile, ICS</title>
+		<link>https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 13:30:57 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[ATT&CK]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44127</guid>
+
+					<description><![CDATA[<p>MITRE has unveiled the latest version of ATT&#038;CK, with the most significant changes in the defensive part of the framework.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/">MITRE Unveils ATT&#038;CK v18 With Updates to Detections, Mobile, ICS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</title>
 		<link>https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/</link>
 		
@@ -100,6 +177,7 @@
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Dentsu]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Merkle]]></category>
 		<category><![CDATA[Ransomware]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44121</guid>
@@ -146,86 +224,6 @@
 
 					<description><![CDATA[<p>Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/">CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs </title>
-		<link>https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 07:45:11 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[confidential computing]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[TEE]]></category>
-		<category><![CDATA[TEE.fail]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44117</guid>
-
-					<description><![CDATA[<p>Intel and AMD have published advisories after academics disclosed details of the new TEE.fail attack method.</p>
-<p>The post <a href="https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/">New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</title>
-		<link>https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 17:36:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Myanmar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44115</guid>
-
-					<description><![CDATA[<p>Witnesses on the Thai side of the border reported hearing explosions and seeing smoke coming from the center over the past several nights starting on Friday.</p>
-<p>The post <a href="https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/">Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</title>
-		<link>https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 14:47:41 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[ASP.NET]]></category>
-		<category><![CDATA[QNAP]]></category>
-		<category><![CDATA[vulnerabiltity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44114</guid>
-
-					<description><![CDATA[<p>The critical-severity flaw allows attackers to smuggle HTTP requests and access sensitive data, modify server files, or cause DoS conditions.</p>
-<p>The post <a href="https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/">QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SimSpace Raises $39 Million for Cyber Range Platform</title>
-		<link>https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 14:26:02 +0000</pubDate>
-				<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[cyber range]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SimSpace]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44113</guid>
-
-					<description><![CDATA[<p>SimSpace provides realistic cyber ranges where organizations can test attack preparedness and validate defenses.</p>
-<p>The post <a href="https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/">SimSpace Raises $39 Million for Cyber Range Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
