@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 30 Oct 2025 11:36:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Oct 2025 10:57:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog</title>
+		<link>https://www.securityweek.com/cisa-adds-exploited-xwiki-vmware-flaws-to-kev-catalog/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 10:57:42 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[XWiki]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44142</guid>
+
+					<description><![CDATA[<p>Broadcom has updated its advisory on CVE-2025-41244 to mention the vulnerability’s in-the-wild exploitation.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-adds-exploited-xwiki-vmware-flaws-to-kev-catalog/">CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Jamf to Go Private Following $2.2 Billion Acquisition by Francisco Partners</title>
+		<link>https://www.securityweek.com/jamf-to-go-private-following-2-2-billion-acquisition-by-francisco-partners/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 10:43:52 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Francisco Partners]]></category>
+		<category><![CDATA[Jamf]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[private equity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44141</guid>
+
+					<description><![CDATA[<p>The private equity firm will purchase the outstanding shares of Jamf common stock for $13 per share in an all-cash transaction.</p>
+<p>The post <a href="https://www.securityweek.com/jamf-to-go-private-following-2-2-billion-acquisition-by-francisco-partners/">Jamf to Go Private Following $2.2 Billion Acquisition by Francisco Partners</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese APT Exploits Unpatched Windows Flaw in Recent Attacks</title>
+		<link>https://www.securityweek.com/chinese-apt-exploits-unpatched-windows-flaw-in-recent-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 10:30:06 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[LNK]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44139</guid>
+
+					<description><![CDATA[<p>The Windows shortcut vulnerability has been seen in attacks conducted by Mustang Panda to drop the PlugX malware.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-exploits-unpatched-windows-flaw-in-recent-attacks/">Chinese APT Exploits Unpatched Windows Flaw in Recent Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Japan Issues OT Security Guidance for Semiconductor Factories</title>
+		<link>https://www.securityweek.com/japan-issues-ot-security-guidance-for-semiconductor-factories/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 07:54:52 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44137</guid>
+
+					<description><![CDATA[<p>The 130-page document covers several important aspects and it’s available in both Japanese and English.</p>
+<p>The post <a href="https://www.securityweek.com/japan-issues-ot-security-guidance-for-semiconductor-factories/">Japan Issues OT Security Guidance for Semiconductor Factories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spektrum Labs Emerges From Stealth to Help Companies Prove Resilience</title>
+		<link>https://www.securityweek.com/spektrum-labs-emerges-from-stealth-to-help-companies-prove-resilience/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 15:00:50 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Resilience]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[Spektrum Labs]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44135</guid>
+
+					<description><![CDATA[<p>Spektrum Labs has raised $10 million in seed funding for its cyber resilience platform.</p>
+<p>The post <a href="https://www.securityweek.com/spektrum-labs-emerges-from-stealth-to-help-companies-prove-resilience/">Spektrum Labs Emerges From Stealth to Help Companies Prove Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reflectiz Raises $22 Million for Website Security Solution</title>
+		<link>https://www.securityweek.com/reflectiz-raises-22-million-for-website-security-solution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 13:24:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Reflectiz]]></category>
+		<category><![CDATA[web security]]></category>
+		<category><![CDATA[website security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44134</guid>
+
+					<description><![CDATA[<p>The company will expand its product offering, establish global headquarters in Boston, and fuel growth and go-to-market efforts.</p>
+<p>The post <a href="https://www.securityweek.com/reflectiz-raises-22-million-for-website-security-solution/">Reflectiz Raises $22 Million for Website Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>10 Million Impacted by Conduent Data Breach</title>
+		<link>https://www.securityweek.com/millions-impacted-by-conduent-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 13:01:56 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[conduent]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44133</guid>
+
+					<description><![CDATA[<p>The hackers stole names, addresses, dates of birth, Social Security numbers, and health and insurance information.</p>
+<p>The post <a href="https://www.securityweek.com/millions-impacted-by-conduent-data-breach/">10 Million Impacted by Conduent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Major US Telecom Backbone Firm Hacked by Nation-State Actors</title>
+		<link>https://www.securityweek.com/major-us-telecom-backbone-firm-hacked-by-nation-state-actors/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 12:36:23 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Ribbon Communications]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44132</guid>
+
+					<description><![CDATA[<p>Ribbon Communications provides technology for communications networks and its customers include the US government and major telecom firms. </p>
+<p>The post <a href="https://www.securityweek.com/major-us-telecom-backbone-firm-hacked-by-nation-state-actors/">Major US Telecom Backbone Firm Hacked by Nation-State Actors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</title>
 		<link>https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/</link>
 		
@@ -60,170 +225,6 @@
 
 					<description><![CDATA[<p>The packages deployed malicious code harvesting system information, credentials, tokens, API keys, and other sensitive information.</p>
 <p>The post <a href="https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/">136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former US Defense Contractor Executive Admits to Selling Exploits to Russia</title>
-		<link>https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 09:32:10 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Peter Williams]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44129</guid>
-
-					<description><![CDATA[<p>Peter Williams stole trade secrets from his US employer and sold them to a Russian cybersecurity tools broker.</p>
-<p>The post <a href="https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/">Former US Defense Contractor Executive Admits to Selling Exploits to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE Unveils ATT&#038;CK v18 With Updates to Detections, Mobile, ICS</title>
-		<link>https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 13:30:57 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[ATT&CK]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44127</guid>
-
-					<description><![CDATA[<p>MITRE has unveiled the latest version of ATT&#038;CK, with the most significant changes in the defensive part of the framework.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/">MITRE Unveils ATT&#038;CK v18 With Updates to Detections, Mobile, ICS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</title>
-		<link>https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 12:16:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Polygraf]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44126</guid>
-
-					<description><![CDATA[<p>Polygraf AI has developed proprietary small language model (SLM) technology designed to help organizations mitigate AI risks.</p>
-<p>The post <a href="https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/">AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution</title>
-		<link>https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 11:42:56 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[CyberRidge]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[photonic encryption]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44124</guid>
-
-					<description><![CDATA[<p>The company has built a plug-and-play photonic layer transmission system that encrypts data in transit to prevent interception.</p>
-<p>The post <a href="https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/">CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>XWiki Vulnerability Exploited in Cryptocurrency Mining Operation</title>
-		<link>https://www.securityweek.com/xwiki-vulnerability-exploited-in-cryptocurrency-mining-operation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 10:53:42 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[crypto mining]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[XWiki]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44123</guid>
-
-					<description><![CDATA[<p>Exploits have been available publicly for over half a year, but the bug was previously targeted only for reconnaissance.</p>
-<p>The post <a href="https://www.securityweek.com/xwiki-vulnerability-exploited-in-cryptocurrency-mining-operation/">XWiki Vulnerability Exploited in Cryptocurrency Mining Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ad and PR Giant Dentsu Says Hackers Stole Merkle Data</title>
-		<link>https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 10:41:52 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Dentsu]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Merkle]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44121</guid>
-
-					<description><![CDATA[<p>Japan’s Dentsu has disclosed a Merkle data breach impacting clients, suppliers, and employees.</p>
-<p>The post <a href="https://www.securityweek.com/ad-and-pr-giant-dentsu-says-hackers-stole-merkle-data/">Ad and PR Giant Dentsu Says Hackers Stole Merkle Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome to Turn HTTPS on by Default for Public Sites</title>
-		<link>https://www.securityweek.com/chrome-to-turn-https-on-by-default-for-public-sites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 09:43:43 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[HTTPS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44120</guid>
-
-					<description><![CDATA[<p>Starting October 2026, the browser will ask users if they want to access public websites that do not use secure connections.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-to-turn-https-on-by-default-for-public-sites/">Chrome to Turn HTTPS on by Default for Public Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 08:24:31 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[DELMIA]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44119</guid>
-
-					<description><![CDATA[<p>Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/">CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
