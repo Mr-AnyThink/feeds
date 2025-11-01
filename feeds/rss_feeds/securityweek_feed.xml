@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 31 Oct 2025 10:57:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 31 Oct 2025 15:19:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,64 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution</title>
+		<link>https://www.securityweek.com/in-other-news-whatsapp-passkey-encrypted-backups-russia-targets-meduza-malware-new-mastercard-solution/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 15:18:59 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44145</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: several interesting Android malware families, UN cybercrime treaty, criminal complaint against Clearview AI in Europe.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-whatsapp-passkey-encrypted-backups-russia-targets-meduza-malware-new-mastercard-solution/">In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges</title>
+		<link>https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 13:20:42 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Conti]]></category>
+		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[Oleksii Oleksiyovych Lytvynenko]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44144</guid>
+
+					<description><![CDATA[<p>Oleksii Oleksiyovych Lytvynenko is now in the US after being held in custody in Ireland since 2023.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/">Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open VSX Downplays Impact From GlassWorm Campaign</title>
+		<link>https://www.securityweek.com/open-vsx-downplays-impact-from-glassworm-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 12:24:47 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[GlassWorm]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Open VSX]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44143</guid>
+
+					<description><![CDATA[<p>Open VSX fully contained the GlassWorm attacks and says it was not a self-replicating worm in the traditional sense.</p>
+<p>The post <a href="https://www.securityweek.com/open-vsx-downplays-impact-from-glassworm-campaign/">Open VSX Downplays Impact From GlassWorm Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog</title>
 		<link>https://www.securityweek.com/cisa-adds-exploited-xwiki-vmware-flaws-to-kev-catalog/</link>
 		
@@ -166,65 +224,6 @@
 
 					<description><![CDATA[<p>The hackers stole names, addresses, dates of birth, Social Security numbers, and health and insurance information.</p>
 <p>The post <a href="https://www.securityweek.com/millions-impacted-by-conduent-data-breach/">10 Million Impacted by Conduent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Major US Telecom Backbone Firm Hacked by Nation-State Actors</title>
-		<link>https://www.securityweek.com/major-us-telecom-backbone-firm-hacked-by-nation-state-actors/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 12:36:23 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Ribbon Communications]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44132</guid>
-
-					<description><![CDATA[<p>Ribbon Communications provides technology for communications networks and its customers include the US government and major telecom firms. </p>
-<p>The post <a href="https://www.securityweek.com/major-us-telecom-backbone-firm-hacked-by-nation-state-actors/">Major US Telecom Backbone Firm Hacked by Nation-State Actors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</title>
-		<link>https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 11:36:39 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[hacktivism]]></category>
-		<category><![CDATA[ICS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44131</guid>
-
-					<description><![CDATA[<p>The Canadian Centre for Cyber Security has warned CISOs that hacktivists are increasingly targeting internet-exposed ICS.</p>
-<p>The post <a href="https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/">Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</title>
-		<link>https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 10:59:33 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[NPM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44130</guid>
-
-					<description><![CDATA[<p>The packages deployed malicious code harvesting system information, credentials, tokens, API keys, and other sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/">136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
