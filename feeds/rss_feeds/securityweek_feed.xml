@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 31 Oct 2025 15:19:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Nov 2025 10:27:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese APT Uses &#8216;Airstalk&#8217; Malware in Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 10:27:33 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44149</guid>
+
+					<description><![CDATA[<p>PowerShell and .NET variants of the malware abuse AirWatch’s MDM API to establish a C&#038;C communication channel.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/">Chinese APT Uses &#8216;Airstalk&#8217; Malware in Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Pays $100,000 in Rewards for Two Chrome Vulnerabilities</title>
+		<link>https://www.securityweek.com/google-pays-100000-in-rewards-for-two-chrome-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:13:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44147</guid>
+
+					<description><![CDATA[<p>The two bugs are high-severity type confusion and inappropriate implementation issues in the browser’s V8 JavaScript engine.</p>
+<p>The post <a href="https://www.securityweek.com/google-pays-100000-in-rewards-for-two-chrome-vulnerabilities/">Google Pays $100,000 in Rewards for Two Chrome Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution</title>
 		<link>https://www.securityweek.com/in-other-news-whatsapp-passkey-encrypted-backups-russia-targets-meduza-malware-new-mastercard-solution/</link>
 		
@@ -185,45 +223,6 @@
 
 					<description><![CDATA[<p>Spektrum Labs has raised $10 million in seed funding for its cyber resilience platform.</p>
 <p>The post <a href="https://www.securityweek.com/spektrum-labs-emerges-from-stealth-to-help-companies-prove-resilience/">Spektrum Labs Emerges From Stealth to Help Companies Prove Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reflectiz Raises $22 Million for Website Security Solution</title>
-		<link>https://www.securityweek.com/reflectiz-raises-22-million-for-website-security-solution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 13:24:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Reflectiz]]></category>
-		<category><![CDATA[web security]]></category>
-		<category><![CDATA[website security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44134</guid>
-
-					<description><![CDATA[<p>The company will expand its product offering, establish global headquarters in Boston, and fuel growth and go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/reflectiz-raises-22-million-for-website-security-solution/">Reflectiz Raises $22 Million for Website Security Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>10 Million Impacted by Conduent Data Breach</title>
-		<link>https://www.securityweek.com/millions-impacted-by-conduent-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Oct 2025 13:01:56 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[conduent]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44133</guid>
-
-					<description><![CDATA[<p>The hackers stole names, addresses, dates of birth, Social Security numbers, and health and insurance information.</p>
-<p>The post <a href="https://www.securityweek.com/millions-impacted-by-conduent-data-breach/">10 Million Impacted by Conduent Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
