@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 04 Nov 2025 11:07:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Nov 2025 11:53:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Apple Patches 19 WebKit Vulnerabilities </title>
-		<link>https://www.securityweek.com/apple-patches-19-webkit-vulnerabilities/</link>
+		<title>Exploited &#8216;Post SMTP&#8217; Plugin Flaw Exposes WordPress Sites to Takeover </title>
+		<link>https://www.securityweek.com/exploited-post-smtp-plugin-flaw-exposes-wordpress-sites-to-takeover/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Nov 2025 11:07:37 +0000</pubDate>
+		<pubDate>Wed, 05 Nov 2025 11:52:55 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WebKit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44169</guid>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44184</guid>
 
-					<description><![CDATA[<p>Apple has released iOS 26.1 and macOS Tahoe 26.1 with patches for over 100 vulnerabilities, including critical flaws.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-19-webkit-vulnerabilities/">Apple Patches 19 WebKit Vulnerabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The critical vulnerability allows attackers to read arbitrary emails, including password reset messages.</p>
+<p>The post <a href="https://www.securityweek.com/exploited-post-smtp-plugin-flaw-exposes-wordpress-sites-to-takeover/">Exploited &#8216;Post SMTP&#8217; Plugin Flaw Exposes WordPress Sites to Takeover </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Zscaler Acquires AI Security Company SPLX</title>
-		<link>https://www.securityweek.com/zscaler-acquires-ai-security-company-splx/</link>
+		<title>Daylight Raises $33 Million for AI-Powered MDR Platform</title>
+		<link>https://www.securityweek.com/daylight-raises-33-million-for-ai-powered-mdr-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 05 Nov 2025 11:32:35 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Daylight]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[MDR]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44183</guid>
+
+					<description><![CDATA[<p>The funding will fuel the development of Daylight’s security operations platform and the launch of new protection modules.</p>
+<p>The post <a href="https://www.securityweek.com/daylight-raises-33-million-for-ai-powered-mdr-platform/">Daylight Raises $33 Million for AI-Powered MDR Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nikkei Says 17,000 Impacted by Data Breach Stemming From Slack Account Hack</title>
+		<link>https://www.securityweek.com/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 04 Nov 2025 10:19:45 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[SPLX]]></category>
-		<category><![CDATA[SplxAI]]></category>
-		<category><![CDATA[Zscaler]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44168</guid>
+		<pubDate>Wed, 05 Nov 2025 11:24:22 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[Nikkei]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44182</guid>
 
-					<description><![CDATA[<p>SPLX red teaming, asset management, and threat inspection technology will enable Zscaler to expand its Zero Trust Exchange platform.</p>
-<p>The post <a href="https://www.securityweek.com/zscaler-acquires-ai-security-company-splx/">Zscaler Acquires AI Security Company SPLX</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Japanese media giant says compromised Slack credentials were used to steal employee and business partner information. </p>
+<p>The post <a href="https://www.securityweek.com/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/">Nikkei Says 17,000 Impacted by Data Breach Stemming From Slack Account Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Android Update Patches Critical Remote Code Execution Flaw</title>
-		<link>https://www.securityweek.com/android-update-patches-critical-remote-code-execution-flaw/</link>
+		<title>Portal26 Raises $9 Million for Gen-AI Adoption Platform</title>
+		<link>https://www.securityweek.com/portal26-raises-9-million-for-gen-ai-adoption-platform/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 04 Nov 2025 09:24:31 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44167</guid>
-
-					<description><![CDATA[<p>The November 2025 Android patches resolve two vulnerabilities, both in the platform’s System component.</p>
-<p>The post <a href="https://www.securityweek.com/android-update-patches-critical-remote-code-execution-flaw/">Android Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ukrainian Extradited to US Faces Charges in Jabber Zeus Cybercrime Case</title>
-		<link>https://www.securityweek.com/ukrainian-extradited-to-us-faces-charges-in-jabber-zeus-cybercrime-case/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 16:42:32 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[Jabber Zeus]]></category>
-		<category><![CDATA[Yuriy Igorevich Rybtsov]]></category>
-		<category><![CDATA[Zeus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44166</guid>
-
-					<description><![CDATA[<p>Yuriy Igorevich Rybtsov, aka MrICQ, was arrested in Italy and lost his appeal to avoid extradition to the US.</p>
-<p>The post <a href="https://www.securityweek.com/ukrainian-extradited-to-us-faces-charges-in-jabber-zeus-cybercrime-case/">Ukrainian Extradited to US Faces Charges in Jabber Zeus Cybercrime Case</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How Software Development Teams Can Securely and Ethically Deploy AI Tools</title>
-		<link>https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/</link>
-		
-		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 16:00:00 +0000</pubDate>
+		<pubDate>Wed, 05 Nov 2025 10:58:15 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Development]]></category>
-		<category><![CDATA[SDLC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44163</guid>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Portal26]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44181</guid>
 
-					<description><![CDATA[<p>To deploy AI tools securely and ethically, teams must balance innovation with accountability—establishing strong governance, upskilling developers, and enforcing rigorous code reviews.</p>
-<p>The post <a href="https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/">How Software Development Teams Can Securely and Ethically Deploy AI Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The gen-AI adoption management platform will invest the funds in accelerating growth and product innovations.</p>
+<p>The post <a href="https://www.securityweek.com/portal26-raises-9-million-for-gen-ai-adoption-platform/">Portal26 Raises $9 Million for Gen-AI Adoption Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Who is Zico Kolter? A Professor Leads OpenAI Safety Panel With Power to Halt Unsafe AI Releases</title>
-		<link>https://www.securityweek.com/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases/</link>
+		<title>US Sanctions North Korean Bankers Accused of Laundering Stolen Cryptocurrency</title>
+		<link>https://www.securityweek.com/us-sanctions-north-korean-bankers-accused-of-laundering-stolen-cryptocurrency/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 14:21:49 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Zico Kolter]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44155</guid>
+		<pubDate>Wed, 05 Nov 2025 08:27:17 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44180</guid>
 
-					<description><![CDATA[<p>Kolter leads a panel at OpenAI that has the authority to halt the ChatGPT maker’s release of new AI systems if it finds them unsafe. </p>
-<p>The post <a href="https://www.securityweek.com/who-is-zico-kolter-a-professor-leads-openai-safety-panel-with-power-to-halt-unsafe-ai-releases/">Who is Zico Kolter? A Professor Leads OpenAI Safety Panel With Power to Halt Unsafe AI Releases</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The United States has imposed sanctions on a group of bankers, financial institutions and others accused of laundering money from cyber crime schemes.</p>
+<p>The post <a href="https://www.securityweek.com/us-sanctions-north-korean-bankers-accused-of-laundering-stolen-cryptocurrency/">US Sanctions North Korean Bankers Accused of Laundering Stolen Cryptocurrency</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISO Burnout – Epidemic, Endemic, or Simply Inevitable?</title>
-		<link>https://www.securityweek.com/ciso-burnout-epidemic-endemic-or-simply-inevitable/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44156</guid>
-
-					<description><![CDATA[<p>CISO burnout is increasing. Are we simply more aware of the condition? Or have demands on the CISO grown and burnout is now the inevitable result? </p>
-<p>The post <a href="https://www.securityweek.com/ciso-burnout-epidemic-endemic-or-simply-inevitable/">CISO Burnout – Epidemic, Endemic, or Simply Inevitable?</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Claude AI APIs Can Be Abused for Data Exfiltration</title>
-		<link>https://www.securityweek.com/claude-ai-apis-can-be-abused-for-data-exfiltration/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 13:28:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[data theft]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44151</guid>
-
-					<description><![CDATA[<p>An attacker can inject indirect prompts to trick the model into harvesting user data and sending it to the attacker’s account.</p>
-<p>The post <a href="https://www.securityweek.com/claude-ai-apis-can-be-abused-for-data-exfiltration/">Claude AI APIs Can Be Abused for Data Exfiltration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 45 Deals Announced in October 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-45-deals-announced-in-october-2025/</link>
+		<title>CISA Warns of CWP Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/cisa-warns-of-cwp-vulnerability-exploited-in-the-wild/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 12:42:10 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[merger]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44150</guid>
+		<pubDate>Wed, 05 Nov 2025 07:24:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Control Web Panel]]></category>
+		<category><![CDATA[CWP]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44179</guid>
 
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Jamf, LevelBlue, Ping Identity, Twilio, and Veeam Software.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-45-deals-announced-in-october-2025/">Cybersecurity M&#038;A Roundup: 45 Deals Announced in October 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A critical vulnerability in Control Web Panel (CWP), tracked as CVE-2025-48703, allows remote, unauthenticated command execution.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-cwp-vulnerability-exploited-in-the-wild/">CISA Warns of CWP Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chinese APT Uses &#8216;Airstalk&#8217; Malware in Supply Chain Attacks</title>
-		<link>https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/</link>
+		<title>Critical Flaw in Popular React Native NPM Package Exposes Developers to Attacks</title>
+		<link>https://www.securityweek.com/critical-flaw-in-popular-react-native-npm-package-exposes-developers-to-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 16:10:48 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[React Native]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44178</guid>
+
+					<description><![CDATA[<p>Arbitrary command/code execution has been demonstrated through the exploitation of CVE-2025-11953 on Windows, macOS and Linux. </p>
+<p>The post <a href="https://www.securityweek.com/critical-flaw-in-popular-react-native-npm-package-exposes-developers-to-attacks/">Critical Flaw in Popular React Native NPM Package Exposes Developers to Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Transportation Companies Hacked to Steal Cargo</title>
+		<link>https://www.securityweek.com/transportation-companies-hacked-to-steal-cargo/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Nov 2025 10:27:33 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[China APT]]></category>
+		<pubDate>Tue, 04 Nov 2025 14:52:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[cargo]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[freight]]></category>
+		<category><![CDATA[transportation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44176</guid>
+
+					<description><![CDATA[<p>Threat actors engage in elaborate attack chains to infect trucking and logistics companies with remote access tools.</p>
+<p>The post <a href="https://www.securityweek.com/transportation-companies-hacked-to-steal-cargo/">Transportation Companies Hacked to Steal Cargo</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Kunal Agarwal and the DNA of a Hacker</title>
+		<link>https://www.securityweek.com/hacker-conversations-kunal-agarwal-and-the-dna-of-a-hacker/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44164</guid>
+
+					<description><![CDATA[<p>For Agarwal, being a hacker is not what you do, but who you are; that is, someone who always questions the status quo and questions how it could be different.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-kunal-agarwal-and-the-dna-of-a-hacker/">Hacker Conversations: Kunal Agarwal and the DNA of a Hacker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SesameOp Malware Abuses OpenAI API </title>
+		<link>https://www.securityweek.com/sesameop-malware-abuses-openai-api/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 13:38:23 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44149</guid>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[SesameOp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44172</guid>
 
-					<description><![CDATA[<p>PowerShell and .NET variants of the malware abuse AirWatch’s MDM API to establish a C&#038;C communication channel.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/">Chinese APT Uses &#8216;Airstalk&#8217; Malware in Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A component of the newly discovered SesameOp backdoor uses the API to store and relay commands from the C&#038;C server.</p>
+<p>The post <a href="https://www.securityweek.com/sesameop-malware-abuses-openai-api/">SesameOp Malware Abuses OpenAI API </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
