@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 07 Nov 2025 11:17:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Nov 2025 18:27:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests</title>
+		<link>https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2025 16:20:49 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44235</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: rogue ransomware negotiators charged, F5 hack prompts OT security guidance, Germany targets Huawei tech.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/">In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Landfall Android Spyware Targeted Samsung Phones via Zero-Day</title>
+		<link>https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2025 15:29:34 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Landfall]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44234</guid>
+
+					<description><![CDATA[<p>Threat actors exploited CVE-2025-21042 to deliver malware via specially crafted images to users in the Middle East. </p>
+<p>The post <a href="https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/">Landfall Android Spyware Targeted Samsung Phones via Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Radical Empowerment From Your Leadership: Understood by Few, Essential for All</title>
+		<link>https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/</link>
+		
+		<dc:creator><![CDATA[Jennifer Leggio]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44229</guid>
+
+					<description><![CDATA[<p>When leaders redefine power as trust instead of control, teams unlock their potential — and organizations find their edge.</p>
+<p>The post <a href="https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/">Radical Empowerment From Your Leadership: Understood by Few, Essential for All</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Data Exposure Vulnerability Found in Deep Learning Tool Keras</title>
+		<link>https://www.securityweek.com/data-exposure-vulnerability-found-in-deep-learning-tool-keras/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2025 13:41:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Keras]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44226</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2025-12058 and it can be exploited for arbitrary file loading and conducting SSRF attacks.</p>
+<p>The post <a href="https://www.securityweek.com/data-exposure-vulnerability-found-in-deep-learning-tool-keras/">Data Exposure Vulnerability Found in Deep Learning Tool Keras</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ClickFix Attacks Against macOS Users Evolving</title>
+		<link>https://www.securityweek.com/clickfix-attacks-against-macos-users-evolving/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 07 Nov 2025 13:22:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[macOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44222</guid>
+
+					<description><![CDATA[<p>ClickFix prompts typically contain instructions for Windows users, but now they are tailored for macOS and they are getting increasingly convincing.</p>
+<p>The post <a href="https://www.securityweek.com/clickfix-attacks-against-macos-users-evolving/">ClickFix Attacks Against macOS Users Evolving</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>DOJ Antitrust Review Clears Google&#8217;s $32 Billion Acquisition of Wiz</title>
 		<link>https://www.securityweek.com/doj-antitrust-review-clears-googles-32-billion-acquisition-of-wiz/</link>
 		
@@ -125,100 +219,6 @@
 
 					<description><![CDATA[<p>Between 2016 and 2021, the suspects defrauded 4.3 million cardholders in 193 countries of €300 million (~$346 million).</p>
 <p>The post <a href="https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/">18 Arrested in Crackdown on Credit Card Fraud Rings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers Hack ChatGPT Memories and Web Search Features</title>
-		<link>https://www.securityweek.com/researchers-hack-chatgpt-memories-and-web-search-features/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 06 Nov 2025 15:49:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI jailbreak]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44212</guid>
-
-					<description><![CDATA[<p>Tenable researchers discovered seven vulnerabilities, including ones affecting the latest GPT model.</p>
-<p>The post <a href="https://www.securityweek.com/researchers-hack-chatgpt-memories-and-web-search-features/">Researchers Hack ChatGPT Memories and Web Search Features</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Truffle Security Raises $25 Million for Secret Scanning Engine</title>
-		<link>https://www.securityweek.com/truffle-security-raises-25-million-for-secret-scanning-engine/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 06 Nov 2025 14:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[secrets scanning]]></category>
-		<category><![CDATA[secrets sprawl]]></category>
-		<category><![CDATA[Truffle Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44203</guid>
-
-					<description><![CDATA[<p>The investment will fuel the development of Truffle’s enterprise-grade secrets detection, verification, and remediation platform.</p>
-<p>The post <a href="https://www.securityweek.com/truffle-security-raises-25-million-for-secret-scanning-engine/">Truffle Security Raises $25 Million for Secret Scanning Engine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Follow Pragmatic Interventions to Keep Agentic AI in Check</title>
-		<link>https://www.securityweek.com/follow-pragmatic-interventions-to-keep-agentic-ai-in-check/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Thu, 06 Nov 2025 12:45:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[LLMs]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44202</guid>
-
-					<description><![CDATA[<p>Agentic AI speeds operations, but requires clear goals, least privilege, auditability, red‑teaming, and human oversight to manage opacity, misalignment, and misuse.</p>
-<p>The post <a href="https://www.securityweek.com/follow-pragmatic-interventions-to-keep-agentic-ai-in-check/">Follow Pragmatic Interventions to Keep Agentic AI in Check</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist</title>
-		<link>https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 06 Nov 2025 12:11:52 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Balancer]]></category>
-		<category><![CDATA[cryptocurrency heist]]></category>
-		<category><![CDATA[DeFi]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44200</guid>
-
-					<description><![CDATA[<p>Hackers drained more cryptocurrency from Balancer by exploiting a rounding function and performing batch swaps.</p>
-<p>The post <a href="https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/">DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report</title>
-		<link>https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 06 Nov 2025 11:54:11 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Nevada]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44199</guid>
-
-					<description><![CDATA[<p>The ransomware attack discovered in August occurred as early as May when a state employee mistakenly downloaded malicious software.</p>
-<p>The post <a href="https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/">Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
