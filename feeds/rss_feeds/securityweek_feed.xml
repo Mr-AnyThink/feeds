@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 07 Nov 2025 18:27:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Nov 2025 11:46:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,71 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nearly 30 Alleged Victims of Oracle EBS Hack Named on Cl0p Ransomware Site</title>
+		<link>https://www.securityweek.com/nearly-30-alleged-victims-of-oracle-ebs-hack-named-on-cl0p-ransomware-site/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2025 11:46:11 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44240</guid>
+
+					<description><![CDATA[<p>The Cl0p website lists major organizations such as Logitech, The Washington Post, Cox Enterprises, Pan American Silver, LKQ Corporation, and Copeland.</p>
+<p>The post <a href="https://www.securityweek.com/nearly-30-alleged-victims-of-oracle-ebs-hack-named-on-cl0p-ransomware-site/">Nearly 30 Alleged Victims of Oracle EBS Hack Named on Cl0p Ransomware Site</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>QNAP Patches Vulnerabilities Exploited at Pwn2Own Ireland</title>
+		<link>https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own-ireland/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2025 10:55:50 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[NAS]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own 2025]]></category>
+		<category><![CDATA[Pwn2Own Ireland]]></category>
+		<category><![CDATA[QNAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44239</guid>
+
+					<description><![CDATA[<p>Multiple vulnerabilities across QNAP’s portfolio could lead to remote code execution, information disclosure, and denial-of-service (DoS) conditions.</p>
+<p>The post <a href="https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own-ireland/">QNAP Patches Vulnerabilities Exploited at Pwn2Own Ireland</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Australia Sanctions Hackers Supporting North Korea&#8217;s Weapons Program</title>
+		<link>https://www.securityweek.com/australia-sanctions-hackers-supporting-north-koreas-weapons-program/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2025 10:37:19 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44238</guid>
+
+					<description><![CDATA[<p>Australia mirrored the US’s recent sanctions against bankers, financial institutions, and others allegedly involved in laundering funds for North Korea.</p>
+<p>The post <a href="https://www.securityweek.com/australia-sanctions-hackers-supporting-north-koreas-weapons-program/">Australia Sanctions Hackers Supporting North Korea&#8217;s Weapons Program</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests</title>
 		<link>https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/</link>
 		
@@ -53,6 +118,7 @@
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Android malware]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Landfall]]></category>
 		<category><![CDATA[Samsung]]></category>
 		<category><![CDATA[spyware]]></category>
@@ -157,68 +223,6 @@
 
 					<description><![CDATA[<p>The Congressional Budget Office confirmed it had been hacked, potentially disclosing important government data to malicious actors.</p>
 <p>The post <a href="https://www.securityweek.com/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures/">The Congressional Budget Office Was Hacked. It Says It Has Implemented New Security Measures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 142 Update Patches High-Severity Flaws</title>
-		<link>https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Nov 2025 10:35:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44216</guid>
-
-					<description><![CDATA[<p>An out-of-bounds write flaw in WebGPU tracked as CVE-2025-12725 could be exploited for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/">Chrome 142 Update Patches High-Severity Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Destructive Russian Cyberattacks on Ukraine Expand to Grain Sector</title>
-		<link>https://www.securityweek.com/destructive-russian-cyberattacks-on-ukraine-expand-to-grain-sector/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Nov 2025 09:29:31 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[grain]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Sandworm]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<category><![CDATA[wiper]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44214</guid>
-
-					<description><![CDATA[<p>Multiple state-sponsored Russian groups are targeting Ukrainian entities and European countries linked to Ukraine.</p>
-<p>The post <a href="https://www.securityweek.com/destructive-russian-cyberattacks-on-ukraine-expand-to-grain-sector/">Destructive Russian Cyberattacks on Ukraine Expand to Grain Sector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>18 Arrested in Crackdown on Credit Card Fraud Rings</title>
-		<link>https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Nov 2025 09:13:41 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[credit card fraud]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Europol]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44213</guid>
-
-					<description><![CDATA[<p>Between 2016 and 2021, the suspects defrauded 4.3 million cardholders in 193 countries of €300 million (~$346 million).</p>
-<p>The post <a href="https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/">18 Arrested in Crackdown on Credit Card Fraud Rings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
