@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 12 Nov 2025 12:07:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Nov 2025 11:16:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,170 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack</title>
+		<link>https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 11:16:43 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Synnovis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44278</guid>
+
+					<description><![CDATA[<p>The ransomware attack on the pathology services provider disrupted operations at several London hospitals.</p>
+<p>The post <a href="https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/">Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon</title>
+		<link>https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 09:50:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44277</guid>
+
+					<description><![CDATA[<p>Amazon has seen a threat actor exploiting CVE-2025-20337 and CVE-2025-5777, two critical Cisco and Citrix vulnerabilities, as zero-days.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/">Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases</title>
+		<link>https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 05:19:33 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44268</guid>
+
+					<description><![CDATA[<p>Google and Mozilla have released fresh Chrome and Firefox updates that address multiple high-severity security defects.</p>
+<p>The post <a href="https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/">Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China&#8217;s Cyber Silence Is More Worrying Than Russia&#8217;s Noise, Chief Cybersecurity Strategist Says</title>
+		<link>https://www.securityweek.com/chinas-cyber-silence-is-more-worrying-than-russias-noise-chief-cybersecurity-strategist-says/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 16:30:00 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44262</guid>
+
+					<description><![CDATA[<p>NTT’s chief cybersecurity strategist Mihoko Matsubara on the new geopolitics of hacking, the "chicken and egg" problem of 5G, and the AGI threat to society.</p>
+<p>The post <a href="https://www.securityweek.com/chinas-cyber-silence-is-more-worrying-than-russias-noise-chief-cybersecurity-strategist-says/">China&#8217;s Cyber Silence Is More Worrying Than Russia&#8217;s Noise, Chief Cybersecurity Strategist Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How TTP-based Defenses Outperform Traditional IoC Hunting</title>
+		<link>https://www.securityweek.com/how-ttp-based-defenses-outperform-traditional-ioc-hunting/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 15:46:07 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[IOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44273</guid>
+
+					<description><![CDATA[<p>Behavioral detection allows defenders to recognize activity patterns like privilege escalation, credential theft, and lateral movement—often ahead of encryption or data exfiltration.</p>
+<p>The post <a href="https://www.securityweek.com/how-ttp-based-defenses-outperform-traditional-ioc-hunting/">How TTP-based Defenses Outperform Traditional IoC Hunting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: CISO Forum 2025 Virtual Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 14:18:41 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44269</guid>
+
+					<description><![CDATA[<p>From the evolving role of AI to the realities of cloud risk and governance, the CISO Forum Virtual Summit brings together CISOs, researchers, and innovators to share practical insights and strategies.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/">Virtual Event Today: CISO Forum 2025 Virtual Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sweet Security Raises $75 Million for Cloud and AI Security</title>
+		<link>https://www.securityweek.com/sweet-security-raises-75-million-for-cloud-and-ai-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 13:11:05 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Sweet Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44267</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate global expansion and product innovation.</p>
+<p>The post <a href="https://www.securityweek.com/sweet-security-raises-75-million-for-cloud-and-ai-security/">Sweet Security Raises $75 Million for Cloud and AI Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Sues Chinese Cybercriminals Behind &#8216;Lighthouse&#8217; Phishing Kit</title>
+		<link>https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 12:59:33 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Lighthouse]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[smishing]]></category>
+		<category><![CDATA[Smishing Triad]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44266</guid>
+
+					<description><![CDATA[<p>Google is targeting the threat group known as Smishing Triad, which used over 194,000 malicious domains in a campaign. </p>
+<p>The post <a href="https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/">Google Sues Chinese Cybercriminals Behind &#8216;Lighthouse&#8217; Phishing Kit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>High-Severity Vulnerabilities Patched by Ivanti and Zoom</title>
 		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-ivanti-and-zoom/</link>
 		
@@ -62,163 +226,6 @@
 
 					<description><![CDATA[<p>Researchers submitted 107 bug reports during the bugSWAT hacking event at the ESCAL8 conference in New Mexico.</p>
 <p>The post <a href="https://www.securityweek.com/google-paid-out-458000-at-live-hacking-event/">Google Paid Out $458,000 at Live Hacking Event</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chipmaker Patch Tuesday: Over 60 Vulnerabilities Patched by Intel</title>
-		<link>https://www.securityweek.com/chipmaker-patch-tuesday-over-60-vulnerabilities-patched-by-intel/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 10:36:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44260</guid>
-
-					<description><![CDATA[<p>Intel, AMD and Nvidia have published security advisories describing vulnerabilities found recently in their products.</p>
-<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-over-60-vulnerabilities-patched-by-intel/">Chipmaker Patch Tuesday: Over 60 Vulnerabilities Patched by Intel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Rockwell, Aveva, Schneider</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-rockwell-aveva-schneider/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 08:06:33 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44259</guid>
-
-					<description><![CDATA[<p>An Aveva vulnerability also impacts Schneider Electric products and both vendors have published advisories.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-rockwell-aveva-schneider/">ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Rockwell, Aveva, Schneider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches 29 Vulnerabilities</title>
-		<link>https://www.securityweek.com/adobe-patches-29-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 21:20:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44258</guid>
-
-					<description><![CDATA[<p>Adobe has fixed InDesign, InCopy, Photoshop, Illustrator, Pass, Substance 3D Stager, and Format Plugins vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-29-vulnerabilities/">Adobe Patches 29 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Actively Exploited Windows Kernel Zero-Day</title>
-		<link>https://www.securityweek.com/microsoft-patches-actively-exploited-windows-kernel-zero-day/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 21:02:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44257</guid>
-
-					<description><![CDATA[<p>Microsoft’s latest Patch Tuesday updates address more than 60 vulnerabilities in Windows and other products.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-actively-exploited-windows-kernel-zero-day/">Microsoft Patches Actively Exploited Windows Kernel Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tenzai Raises $75 Million in Seed Funding to Build AI-Powered Pentesting Platform</title>
-		<link>https://www.securityweek.com/tenzai-raises-75-million-in-seed-funding-to-build-ai-powered-pentesting-platform/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 20:55:26 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[pentesting]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44256</guid>
-
-					<description><![CDATA[<p>Tel Aviv, Israel based Tenzai has developed an AI-driven platform for penetration testing, which it says can continuously identify and address vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/tenzai-raises-75-million-in-seed-funding-to-build-ai-powered-pentesting-platform/">Tenzai Raises $75 Million in Seed Funding to Build AI-Powered Pentesting Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Triofox Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/critical-triofox-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 15:26:42 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Gladinet]]></category>
-		<category><![CDATA[Triofox]]></category>
-		<category><![CDATA[UNC6485]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44255</guid>
-
-					<description><![CDATA[<p>A threat actor has exploited the issue to create a new administrator account and then used the account to execute remote access tools.</p>
-<p>The post <a href="https://www.securityweek.com/critical-triofox-vulnerability-exploited-in-the-wild/">Critical Triofox Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Firefox Protections Halve the Number of Trackable Users</title>
-		<link>https://www.securityweek.com/new-firefox-protections-halve-the-number-of-trackable-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 14:00:41 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[fingerprint]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[tracking]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44254</guid>
-
-					<description><![CDATA[<p>Mozilla has implemented fresh fingerprinting protections to prevent hidden trackers from identifying Firefox users.</p>
-<p>The post <a href="https://www.securityweek.com/new-firefox-protections-halve-the-number-of-trackable-users/">New Firefox Protections Halve the Number of Trackable Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical Flaws in SQL Anywhere Monitor, Solution Manager</title>
-		<link>https://www.securityweek.com/sap-patches-critical-flaws-in-sql-anywhere-monitor-solution-manager/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 13:36:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44253</guid>
-
-					<description><![CDATA[<p>Hardcoded credentials in SQL Anywhere Monitor could allow attackers to execute arbitrary code on vulnerable deployments.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-flaws-in-sql-anywhere-monitor-solution-manager/">SAP Patches Critical Flaws in SQL Anywhere Monitor, Solution Manager</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
