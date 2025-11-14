@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 13 Nov 2025 11:16:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Nov 2025 12:04:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,210 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack</title>
-		<link>https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/</link>
+		<title>Akira Ransomware Group Made $244 Million in Ransom Proceeds</title>
+		<link>https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 11:16:43 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Synnovis]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44278</guid>
+		<pubDate>Fri, 14 Nov 2025 12:04:12 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Akira]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44300</guid>
 
-					<description><![CDATA[<p>The ransomware attack on the pathology services provider disrupted operations at several London hospitals.</p>
-<p>The post <a href="https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/">Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Akira was seen exploiting SonicWall vulnerabilities and encrypting Nutanix Acropolis Hypervisor (AHV) VM disk files this year.</p>
+<p>The post <a href="https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/">Akira Ransomware Group Made $244 Million in Ransom Proceeds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon</title>
-		<link>https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/</link>
+		<title>Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign </title>
+		<link>https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 09:50:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<pubDate>Fri, 14 Nov 2025 10:40:05 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
 		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44277</guid>
+		<category><![CDATA[Big Red]]></category>
+		<category><![CDATA[IndonesianFoods]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[worm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44299</guid>
 
-					<description><![CDATA[<p>Amazon has seen a threat actor exploiting CVE-2025-20337 and CVE-2025-5777, two critical Cisco and Citrix vulnerabilities, as zero-days.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/">Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A financially motivated threat actor automated the package publishing process in a coordinated tea.xyz token farming campaign.</p>
+<p>The post <a href="https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/">Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases</title>
-		<link>https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 05:19:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44268</guid>
-
-					<description><![CDATA[<p>Google and Mozilla have released fresh Chrome and Firefox updates that address multiple high-severity security defects.</p>
-<p>The post <a href="https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/">Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China&#8217;s Cyber Silence Is More Worrying Than Russia&#8217;s Noise, Chief Cybersecurity Strategist Says</title>
-		<link>https://www.securityweek.com/chinas-cyber-silence-is-more-worrying-than-russias-noise-chief-cybersecurity-strategist-says/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 16:30:00 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cyberwarfare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44262</guid>
-
-					<description><![CDATA[<p>NTT’s chief cybersecurity strategist Mihoko Matsubara on the new geopolitics of hacking, the "chicken and egg" problem of 5G, and the AGI threat to society.</p>
-<p>The post <a href="https://www.securityweek.com/chinas-cyber-silence-is-more-worrying-than-russias-noise-chief-cybersecurity-strategist-says/">China&#8217;s Cyber Silence Is More Worrying Than Russia&#8217;s Noise, Chief Cybersecurity Strategist Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How TTP-based Defenses Outperform Traditional IoC Hunting</title>
-		<link>https://www.securityweek.com/how-ttp-based-defenses-outperform-traditional-ioc-hunting/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 15:46:07 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[IOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44273</guid>
-
-					<description><![CDATA[<p>Behavioral detection allows defenders to recognize activity patterns like privilege escalation, credential theft, and lateral movement—often ahead of encryption or data exfiltration.</p>
-<p>The post <a href="https://www.securityweek.com/how-ttp-based-defenses-outperform-traditional-ioc-hunting/">How TTP-based Defenses Outperform Traditional IoC Hunting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: CISO Forum 2025 Virtual Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 14:18:41 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44269</guid>
-
-					<description><![CDATA[<p>From the evolving role of AI to the realities of cloud risk and governance, the CISO Forum Virtual Summit brings together CISOs, researchers, and innovators to share practical insights and strategies.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/">Virtual Event Today: CISO Forum 2025 Virtual Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sweet Security Raises $75 Million for Cloud and AI Security</title>
-		<link>https://www.securityweek.com/sweet-security-raises-75-million-for-cloud-and-ai-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 13:11:05 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Sweet Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44267</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate global expansion and product innovation.</p>
-<p>The post <a href="https://www.securityweek.com/sweet-security-raises-75-million-for-cloud-and-ai-security/">Sweet Security Raises $75 Million for Cloud and AI Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Sues Chinese Cybercriminals Behind &#8216;Lighthouse&#8217; Phishing Kit</title>
-		<link>https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/</link>
+		<title>Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</title>
+		<link>https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 12:59:33 +0000</pubDate>
+		<pubDate>Fri, 14 Nov 2025 09:35:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AV]]></category>
+		<category><![CDATA[Imunigy360]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[website security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44296</guid>
+
+					<description><![CDATA[<p>A vulnerability in ImunifyAV can be exploited for arbitrary code execution by uploading a malicious file to shared servers.</p>
+<p>The post <a href="https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/">Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</title>
+		<link>https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 08:22:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[espionage]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44293</guid>
+
+					<description><![CDATA[<p>A state-sponsored threat actor manipulated Claude Code to execute cyberattacks on roughly 30 organizations worldwide.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/">Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Says Chinese &#8216;Lighthouse&#8217; Phishing Kit Disrupted Following Lawsuit  </title>
+		<link>https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 07:38:12 +0000</pubDate>
 				<category><![CDATA[Phishing]]></category>
 		<category><![CDATA[China]]></category>
+		<category><![CDATA[disrupted]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Lighthouse]]></category>
-		<category><![CDATA[phishing]]></category>
 		<category><![CDATA[smishing]]></category>
 		<category><![CDATA[Smishing Triad]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44266</guid>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44291</guid>
 
-					<description><![CDATA[<p>Google is targeting the threat group known as Smishing Triad, which used over 194,000 malicious domains in a campaign. </p>
-<p>The post <a href="https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/">Google Sues Chinese Cybercriminals Behind &#8216;Lighthouse&#8217; Phishing Kit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The cybercriminals informed customers that their cloud server was shut down due to complaints.</p>
+<p>The post <a href="https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/">Google Says Chinese &#8216;Lighthouse&#8217; Phishing Kit Disrupted Following Lawsuit  </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>High-Severity Vulnerabilities Patched by Ivanti and Zoom</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-by-ivanti-and-zoom/</link>
+		<title>ChatGPT Vulnerability Exposed Underlying Cloud Infrastructure</title>
+		<link>https://www.securityweek.com/chatgpt-vulnerability-exposed-underlying-cloud-infrastructure/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 12:07:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 15:40:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[SSRF]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zoom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44265</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44287</guid>
 
-					<description><![CDATA[<p>Ivanti and Zoom resolved security defects that could lead to arbitrary file writes, elevation of privilege, code execution, and information disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-by-ivanti-and-zoom/">High-Severity Vulnerabilities Patched by Ivanti and Zoom</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A researcher found a way to exploit an SSRF vulnerability related to custom GPTs to obtain an Azure access token. </p>
+<p>The post <a href="https://www.securityweek.com/chatgpt-vulnerability-exposed-underlying-cloud-infrastructure/">ChatGPT Vulnerability Exposed Underlying Cloud Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Paid Out $458,000 at Live Hacking Event</title>
-		<link>https://www.securityweek.com/google-paid-out-458000-at-live-hacking-event/</link>
+		<title>1,000+ Servers Hit in Law Enforcement Takedown of Rhadamanthys, VenomRAT, Elysium</title>
+		<link>https://www.securityweek.com/1000-servers-hit-in-law-enforcement-takedown-of-rhadamanthys-venomrat-elysium/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 15:15:00 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Elysium]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Rhadamanthys]]></category>
+		<category><![CDATA[takedown]]></category>
+		<category><![CDATA[VenomRAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44285</guid>
+
+					<description><![CDATA[<p>An individual believed to have been involved in the operation of VenomRAT was arrested recently in Greece.</p>
+<p>The post <a href="https://www.securityweek.com/1000-servers-hit-in-law-enforcement-takedown-of-rhadamanthys-venomrat-elysium/">1,000+ Servers Hit in Law Enforcement Takedown of Rhadamanthys, VenomRAT, Elysium</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Updates Guidance on Patching Cisco Devices Targeted in China-Linked Attacks</title>
+		<link>https://www.securityweek.com/cisa-updates-guidance-on-patching-cisco-devices-targeted-in-china-linked-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 11:37:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[bugSWAT]]></category>
-		<category><![CDATA[ESCAL8]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[hacking competition]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44264</guid>
+		<pubDate>Thu, 13 Nov 2025 15:05:20 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44288</guid>
 
-					<description><![CDATA[<p>Researchers submitted 107 bug reports during the bugSWAT hacking event at the ESCAL8 conference in New Mexico.</p>
-<p>The post <a href="https://www.securityweek.com/google-paid-out-458000-at-live-hacking-event/">Google Paid Out $458,000 at Live Hacking Event</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Federal agencies have reported as ‘patched’ ASA or FTD devices running software versions vulnerable to attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-updates-guidance-on-patching-cisco-devices-targeted-in-china-linked-attacks/">CISA Updates Guidance on Patching Cisco Devices Targeted in China-Linked Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: The Future of Industrial Network Security</title>
+		<link>https://www.securityweek.com/webinar-today-the-future-of-industrial-network-security/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 14:00:20 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44283</guid>
+
+					<description><![CDATA[<p>Join us as speakers from Cisco outline important steps industrial organizations can take to safeguard operations, achieve compliance, and enable sustainable growth.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-the-future-of-industrial-network-security/">Webinar Today: The Future of Industrial Network Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tens of Thousands of Malicious NPM Packages Distribute Self-Replicating Worm</title>
+		<link>https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 13:11:17 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Big Red]]></category>
+		<category><![CDATA[IndonesianFoods]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[worm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44281</guid>
+
+					<description><![CDATA[<p>The spam campaign is likely orchestrated by an Indonesian threat actor, based on code comments and the packages’ random names.</p>
+<p>The post <a href="https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/">Tens of Thousands of Malicious NPM Packages Distribute Self-Replicating Worm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
