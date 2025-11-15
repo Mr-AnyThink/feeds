@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 14 Nov 2025 12:04:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Nov 2025 20:17:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,124 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability</title>
+		<link>https://www.securityweek.com/fortinet-confirms-active-exploitation-of-critical-fortiweb-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 20:17:24 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2025-64446]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44314</guid>
+
+					<description><![CDATA[<p>Security firms say the flaw has been actively exploited for weeks, even as Fortinet quietly shipped fixes and CISA added the bug to its KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-confirms-active-exploitation-of-critical-fortiweb-vulnerability/">Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CYBERCOM 2.0: Pentagon Unveils Plan to Fix Cyber Talent Shortfalls</title>
+		<link>https://www.securityweek.com/cybercom-2-0-pentagon-unveils-plan-to-fix-cyber-talent-shortfalls/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 18:03:06 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Cybercom]]></category>
+		<category><![CDATA[CYBERCOM 2.0]]></category>
+		<category><![CDATA[Department of War]]></category>
+		<category><![CDATA[DOW]]></category>
+		<category><![CDATA[Pentagon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44313</guid>
+
+					<description><![CDATA[<p>The goal is to produce a cyber force capable of defeating threats posed by major adversaries such as China.</p>
+<p>The post <a href="https://www.securityweek.com/cybercom-2-0-pentagon-unveils-plan-to-fix-cyber-talent-shortfalls/">CYBERCOM 2.0: Pentagon Unveils Plan to Fix Cyber Talent Shortfalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch on Demand: CISO Forum 2025 Virtual Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 17:06:45 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44269</guid>
+
+					<description><![CDATA[<p>The CISO Forum Virtual Summit brought together CISOs, researchers, and innovators to share practical insights and strategies.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/">Watch on Demand: CISO Forum 2025 Virtual Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty</title>
+		<link>https://www.securityweek.com/in-other-news-deepwatch-layoffs-macos-vulnerability-amazon-ai-bug-bounty/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44306</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: EchoGram attack undermines AI guardrails, Asahi brewer still crippled after ransomware attack, Sora 2 system prompt uncovered.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-deepwatch-layoffs-macos-vulnerability-amazon-ai-bug-bounty/">In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Checkout.com Discloses Data Breach After Extortion Attempt</title>
+		<link>https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 13:14:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Checkout]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransom]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44305</guid>
+
+					<description><![CDATA[<p>The information was stolen from a legacy cloud file storage system, not from its payment processing platform.</p>
+<p>The post <a href="https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/">Checkout.com Discloses Data Breach After Extortion Attempt</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack</title>
+		<link>https://www.securityweek.com/washington-post-says-nearly-10000-employees-impacted-by-oracle-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2025 12:40:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[The Washington Post]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44301</guid>
+
+					<description><![CDATA[<p>The media company admitted that cybercriminals attempted to extort a payment after stealing personal information. </p>
+<p>The post <a href="https://www.securityweek.com/washington-post-says-nearly-10000-employees-impacted-by-oracle-hack/">Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Akira Ransomware Group Made $244 Million in Ransom Proceeds</title>
 		<link>https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/</link>
 		
@@ -99,139 +217,11 @@
 		<category><![CDATA[China APT]]></category>
 		<category><![CDATA[Claude]]></category>
 		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44293</guid>
 
 					<description><![CDATA[<p>A state-sponsored threat actor manipulated Claude Code to execute cyberattacks on roughly 30 organizations worldwide.</p>
 <p>The post <a href="https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/">Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Says Chinese &#8216;Lighthouse&#8217; Phishing Kit Disrupted Following Lawsuit  </title>
-		<link>https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 07:38:12 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[smishing]]></category>
-		<category><![CDATA[Smishing Triad]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44291</guid>
-
-					<description><![CDATA[<p>The cybercriminals informed customers that their cloud server was shut down due to complaints.</p>
-<p>The post <a href="https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/">Google Says Chinese &#8216;Lighthouse&#8217; Phishing Kit Disrupted Following Lawsuit  </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ChatGPT Vulnerability Exposed Underlying Cloud Infrastructure</title>
-		<link>https://www.securityweek.com/chatgpt-vulnerability-exposed-underlying-cloud-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 15:40:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[SSRF]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44287</guid>
-
-					<description><![CDATA[<p>A researcher found a way to exploit an SSRF vulnerability related to custom GPTs to obtain an Azure access token. </p>
-<p>The post <a href="https://www.securityweek.com/chatgpt-vulnerability-exposed-underlying-cloud-infrastructure/">ChatGPT Vulnerability Exposed Underlying Cloud Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1,000+ Servers Hit in Law Enforcement Takedown of Rhadamanthys, VenomRAT, Elysium</title>
-		<link>https://www.securityweek.com/1000-servers-hit-in-law-enforcement-takedown-of-rhadamanthys-venomrat-elysium/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 15:15:00 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Elysium]]></category>
-		<category><![CDATA[Europol]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Rhadamanthys]]></category>
-		<category><![CDATA[takedown]]></category>
-		<category><![CDATA[VenomRAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44285</guid>
-
-					<description><![CDATA[<p>An individual believed to have been involved in the operation of VenomRAT was arrested recently in Greece.</p>
-<p>The post <a href="https://www.securityweek.com/1000-servers-hit-in-law-enforcement-takedown-of-rhadamanthys-venomrat-elysium/">1,000+ Servers Hit in Law Enforcement Takedown of Rhadamanthys, VenomRAT, Elysium</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Updates Guidance on Patching Cisco Devices Targeted in China-Linked Attacks</title>
-		<link>https://www.securityweek.com/cisa-updates-guidance-on-patching-cisco-devices-targeted-in-china-linked-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 15:05:20 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44288</guid>
-
-					<description><![CDATA[<p>Federal agencies have reported as ‘patched’ ASA or FTD devices running software versions vulnerable to attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-updates-guidance-on-patching-cisco-devices-targeted-in-china-linked-attacks/">CISA Updates Guidance on Patching Cisco Devices Targeted in China-Linked Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: The Future of Industrial Network Security</title>
-		<link>https://www.securityweek.com/webinar-today-the-future-of-industrial-network-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 14:00:20 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44283</guid>
-
-					<description><![CDATA[<p>Join us as speakers from Cisco outline important steps industrial organizations can take to safeguard operations, achieve compliance, and enable sustainable growth.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-the-future-of-industrial-network-security/">Webinar Today: The Future of Industrial Network Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tens of Thousands of Malicious NPM Packages Distribute Self-Replicating Worm</title>
-		<link>https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 13:11:17 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Big Red]]></category>
-		<category><![CDATA[IndonesianFoods]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[worm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44281</guid>
-
-					<description><![CDATA[<p>The spam campaign is likely orchestrated by an Indonesian threat actor, based on code comments and the packages’ random names.</p>
-<p>The post <a href="https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/">Tens of Thousands of Malicious NPM Packages Distribute Self-Replicating Worm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
