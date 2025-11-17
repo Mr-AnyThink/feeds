@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 14 Nov 2025 20:17:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Nov 2025 11:10:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</title>
+		<link>https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 11:10:44 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Logitech]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44320</guid>
+
+					<description><![CDATA[<p>Logitech was listed on the Cl0p ransomware leak website in early November, but its disclosure does not mention Oracle.</p>
+<p>The post <a href="https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/">Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Widespread Exploitation of XWiki Vulnerability Observed</title>
+		<link>https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 11:06:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[XWiki]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44319</guid>
+
+					<description><![CDATA[<p>The exploitation of the recent XWiki vulnerability has expanded to botnets, cryptocurrency miners, scanners, and custom tools.</p>
+<p>The post <a href="https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/">Widespread Exploitation of XWiki Vulnerability Observed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability</title>
 		<link>https://www.securityweek.com/fortinet-confirms-active-exploitation-of-critical-fortiweb-vulnerability/</link>
 		
@@ -178,50 +219,6 @@
 
 					<description><![CDATA[<p>A financially motivated threat actor automated the package publishing process in a coordinated tea.xyz token farming campaign.</p>
 <p>The post <a href="https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/">Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</title>
-		<link>https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 09:35:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AV]]></category>
-		<category><![CDATA[Imunigy360]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[website security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44296</guid>
-
-					<description><![CDATA[<p>A vulnerability in ImunifyAV can be exploited for arbitrary code execution by uploading a malicious file to shared servers.</p>
-<p>The post <a href="https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/">Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</title>
-		<link>https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 08:22:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44293</guid>
-
-					<description><![CDATA[<p>A state-sponsored threat actor manipulated Claude Code to execute cyberattacks on roughly 30 organizations worldwide.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/">Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
