@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 17 Nov 2025 11:10:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 07:21:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chrome 142 Update Patches Exploited Zero-Day</title>
+		<link>https://www.securityweek.com/chrome-142-update-patches-exploited-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 07:21:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44327</guid>
+
+					<description><![CDATA[<p>The flaw was reported by Google's Threat Analysis Group and was likely exploited by a commercial spyware vendor.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-142-update-patches-exploited-zero-day/">Chrome 142 Update Patches Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iranian Hackers Target Defense and Government Officials in Ongoing Campaign</title>
+		<link>https://www.securityweek.com/iranian-hackers-target-defense-and-government-officials-in-ongoing-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 14:30:02 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT42]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[SpearSpecter]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44325</guid>
+
+					<description><![CDATA[<p>The state-sponsored APT has been targeting the victims’ family members to increase pressure on their targets.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-hackers-target-defense-and-government-officials-in-ongoing-campaign/">Iranian Hackers Target Defense and Government Officials in Ongoing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoorDash Says Personal Information Stolen in Data Breach</title>
+		<link>https://www.securityweek.com/doordash-says-personal-information-stolen-in-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 13:00:21 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DoorDash]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44323</guid>
+
+					<description><![CDATA[<p>Names, addresses, email addresses, and phone numbers were compromised after an employee fell for a social engineering attack.</p>
+<p>The post <a href="https://www.securityweek.com/doordash-says-personal-information-stolen-in-data-breach/">DoorDash Says Personal Information Stolen in Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5 Plead Guilty in US to Helping North Korean IT Workers</title>
+		<link>https://www.securityweek.com/5-plead-guilty-in-us-to-helping-north-korean-it-workers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 12:42:46 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44322</guid>
+
+					<description><![CDATA[<p>Audricus Phagnasay, Jason Salazar, Alexander Paul Travis, Erick Ntekereze, and Oleksandr Didenko have pleaded guilty.</p>
+<p>The post <a href="https://www.securityweek.com/5-plead-guilty-in-us-to-helping-north-korean-it-workers/">5 Plead Guilty in US to Helping North Korean IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</title>
 		<link>https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/</link>
 		
@@ -140,85 +218,6 @@
 
 					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: EchoGram attack undermines AI guardrails, Asahi brewer still crippled after ransomware attack, Sora 2 system prompt uncovered.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-deepwatch-layoffs-macos-vulnerability-amazon-ai-bug-bounty/">In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Checkout.com Discloses Data Breach After Extortion Attempt</title>
-		<link>https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 13:14:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Checkout]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransom]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44305</guid>
-
-					<description><![CDATA[<p>The information was stolen from a legacy cloud file storage system, not from its payment processing platform.</p>
-<p>The post <a href="https://www.securityweek.com/checkout-com-discloses-data-breach-after-extortion-attempt/">Checkout.com Discloses Data Breach After Extortion Attempt</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack</title>
-		<link>https://www.securityweek.com/washington-post-says-nearly-10000-employees-impacted-by-oracle-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 12:40:04 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[The Washington Post]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44301</guid>
-
-					<description><![CDATA[<p>The media company admitted that cybercriminals attempted to extort a payment after stealing personal information. </p>
-<p>The post <a href="https://www.securityweek.com/washington-post-says-nearly-10000-employees-impacted-by-oracle-hack/">Washington Post Says Nearly 10,000 Employees Impacted by Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Akira Ransomware Group Made $244 Million in Ransom Proceeds</title>
-		<link>https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 12:04:12 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Akira]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44300</guid>
-
-					<description><![CDATA[<p>Akira was seen exploiting SonicWall vulnerabilities and encrypting Nutanix Acropolis Hypervisor (AHV) VM disk files this year.</p>
-<p>The post <a href="https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/">Akira Ransomware Group Made $244 Million in Ransom Proceeds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign </title>
-		<link>https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 10:40:05 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[Big Red]]></category>
-		<category><![CDATA[IndonesianFoods]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[worm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44299</guid>
-
-					<description><![CDATA[<p>A financially motivated threat actor automated the package publishing process in a coordinated tea.xyz token farming campaign.</p>
-<p>The post <a href="https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/">Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
