@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 18 Nov 2025 07:21:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Nov 2025 12:08:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chrome 142 Update Patches Exploited Zero-Day</title>
-		<link>https://www.securityweek.com/chrome-142-update-patches-exploited-zero-day/</link>
+		<title>AI Is Supercharging Phishing: Here’s How to Fight Back</title>
+		<link>https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 07:21:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44327</guid>
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44354</guid>
 
-					<description><![CDATA[<p>The flaw was reported by Google's Threat Analysis Group and was likely exploited by a commercial spyware vendor.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-142-update-patches-exploited-zero-day/">Chrome 142 Update Patches Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AI has given cybercriminals the ability to operate like Fortune‑500‑scale marketing departments—except their product is account takeover, data theft, and identity fraud. </p>
+<p>The post <a href="https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/">AI Is Supercharging Phishing: Here’s How to Fight Back</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iranian Hackers Target Defense and Government Officials in Ongoing Campaign</title>
-		<link>https://www.securityweek.com/iranian-hackers-target-defense-and-government-officials-in-ongoing-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 14:30:02 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT42]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[SpearSpecter]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44325</guid>
-
-					<description><![CDATA[<p>The state-sponsored APT has been targeting the victims’ family members to increase pressure on their targets.</p>
-<p>The post <a href="https://www.securityweek.com/iranian-hackers-target-defense-and-government-officials-in-ongoing-campaign/">Iranian Hackers Target Defense and Government Officials in Ongoing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DoorDash Says Personal Information Stolen in Data Breach</title>
-		<link>https://www.securityweek.com/doordash-says-personal-information-stolen-in-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 13:00:21 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DoorDash]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44323</guid>
-
-					<description><![CDATA[<p>Names, addresses, email addresses, and phone numbers were compromised after an employee fell for a social engineering attack.</p>
-<p>The post <a href="https://www.securityweek.com/doordash-says-personal-information-stolen-in-data-breach/">DoorDash Says Personal Information Stolen in Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>5 Plead Guilty in US to Helping North Korean IT Workers</title>
-		<link>https://www.securityweek.com/5-plead-guilty-in-us-to-helping-north-korean-it-workers/</link>
+		<title>Largest Azure DDoS Attack Powered by Aisuru Botnet</title>
+		<link>https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 12:42:46 +0000</pubDate>
+		<pubDate>Wed, 19 Nov 2025 11:06:54 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44322</guid>
+		<category><![CDATA[Azure]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44352</guid>
 
-					<description><![CDATA[<p>Audricus Phagnasay, Jason Salazar, Alexander Paul Travis, Erick Ntekereze, and Oleksandr Didenko have pleaded guilty.</p>
-<p>The post <a href="https://www.securityweek.com/5-plead-guilty-in-us-to-helping-north-korean-it-workers/">5 Plead Guilty in US to Helping North Korean IT Workers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft said the DDoS attack was aimed at an endpoint in Australia and reached 15.72 Tbps and 3.64 Bpps.</p>
+<p>The post <a href="https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/">Largest Azure DDoS Attack Powered by Aisuru Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</title>
-		<link>https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 11:10:44 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Logitech]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44320</guid>
-
-					<description><![CDATA[<p>Logitech was listed on the Cl0p ransomware leak website in early November, but its disclosure does not mention Oracle.</p>
-<p>The post <a href="https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/">Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Widespread Exploitation of XWiki Vulnerability Observed</title>
-		<link>https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/</link>
+		<title>Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week</title>
+		<link>https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 11:06:37 +0000</pubDate>
+		<pubDate>Wed, 19 Nov 2025 09:46:51 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[XWiki]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44319</guid>
-
-					<description><![CDATA[<p>The exploitation of the recent XWiki vulnerability has expanded to botnets, cryptocurrency miners, scanners, and custom tools.</p>
-<p>The post <a href="https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/">Widespread Exploitation of XWiki Vulnerability Observed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability</title>
-		<link>https://www.securityweek.com/fortinet-confirms-active-exploitation-of-critical-fortiweb-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 20:17:24 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2025-64446]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44314</guid>
+		<category><![CDATA[FortiWeb]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44350</guid>
 
-					<description><![CDATA[<p>Security firms say the flaw has been actively exploited for weeks, even as Fortinet quietly shipped fixes and CISA added the bug to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-confirms-active-exploitation-of-critical-fortiweb-vulnerability/">Fortinet Confirms Active Exploitation of Critical FortiWeb Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>An OS command injection flaw, the exploited zero-day allows attackers to execute arbitrary code on the underlying system.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/">Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CYBERCOM 2.0: Pentagon Unveils Plan to Fix Cyber Talent Shortfalls</title>
-		<link>https://www.securityweek.com/cybercom-2-0-pentagon-unveils-plan-to-fix-cyber-talent-shortfalls/</link>
+		<title>Microsoft Unveils Security Enhancements for Identity, Defense, Compliance</title>
+		<link>https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 18:03:06 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Cybercom]]></category>
-		<category><![CDATA[CYBERCOM 2.0]]></category>
-		<category><![CDATA[Department of War]]></category>
-		<category><![CDATA[DOW]]></category>
-		<category><![CDATA[Pentagon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44313</guid>
+		<pubDate>Wed, 19 Nov 2025 07:54:20 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Entra]]></category>
+		<category><![CDATA[Intune]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Microsoft Defender]]></category>
+		<category><![CDATA[Purview]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44348</guid>
 
-					<description><![CDATA[<p>The goal is to produce a cyber force capable of defeating threats posed by major adversaries such as China.</p>
-<p>The post <a href="https://www.securityweek.com/cybercom-2-0-pentagon-unveils-plan-to-fix-cyber-talent-shortfalls/">CYBERCOM 2.0: Pentagon Unveils Plan to Fix Cyber Talent Shortfalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft announced new security capabilities for Defender, Sentinel, Copilot, Intune, Purview, and Entra. </p>
+<p>The post <a href="https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/">Microsoft Unveils Security Enhancements for Identity, Defense, Compliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Watch on Demand: CISO Forum 2025 Virtual Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/</link>
+		<title>Cloudflare Outage Not Caused by Cyberattack</title>
+		<link>https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 17:06:45 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 18:09:57 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[disruption]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44269</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44345</guid>
 
-					<description><![CDATA[<p>The CISO Forum Virtual Summit brought together CISOs, researchers, and innovators to share practical insights and strategies.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-ciso-forum-2025-virtual-summit/">Watch on Demand: CISO Forum 2025 Virtual Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Major online services such as ChatGPT, X, and Shopify were disrupted in a global Cloudflare outage on Nov. 18th, as well as transit and city services. </p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/">Cloudflare Outage Not Caused by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty</title>
-		<link>https://www.securityweek.com/in-other-news-deepwatch-layoffs-macos-vulnerability-amazon-ai-bug-bounty/</link>
+		<title>MI5 Warns Lawmakers That Chinese Spies Are Trying to Reach Them via LinkedIn</title>
+		<link>https://www.securityweek.com/mi5-warns-lawmakers-that-chinese-spies-are-trying-to-reach-them-via-linkedin/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 16:24:56 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44341</guid>
+
+					<description><![CDATA[<p>Britain’s domestic intelligence agency warned that Chinese nationals were ”using LinkedIn profiles to conduct outreach at scale” on behalf of the Chinese Ministry of State Security.</p>
+<p>The post <a href="https://www.securityweek.com/mi5-warns-lawmakers-that-chinese-spies-are-trying-to-reach-them-via-linkedin/">MI5 Warns Lawmakers That Chinese Spies Are Trying to Reach Them via LinkedIn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta Paid Out $4 Million via Bug Bounty Program in 2025</title>
+		<link>https://www.securityweek.com/meta-paid-out-4-million-via-bug-bounty-program-in-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44336</guid>
+
+					<description><![CDATA[<p>The total amount of money given to bug bounty hunters by the social media giant has reached $25 million.</p>
+<p>The post <a href="https://www.securityweek.com/meta-paid-out-4-million-via-bug-bounty-program-in-2025/">Meta Paid Out $4 Million via Bug Bounty Program in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Protecting What WAFs and Gateways Can’t See &#8211; Register</title>
+		<link>https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 14 Nov 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44306</guid>
+		<pubDate>Tue, 18 Nov 2025 15:01:29 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44338</guid>
 
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: EchoGram attack undermines AI guardrails, Asahi brewer still crippled after ransomware attack, Sora 2 system prompt uncovered.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-deepwatch-layoffs-macos-vulnerability-amazon-ai-bug-bounty/">In Other News: Deepwatch Layoffs, macOS Vulnerability, Amazon AI Bug Bounty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Learn why legacy approaches fail to stop modern API threats and show how dedicated API security delivers the visibility, protection, and automation needed to defend against today’s evolving risks.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/">Webinar Today: Protecting What WAFs and Gateways Can’t See &#8211; Register</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apono Raises $34 Million for Cloud Identity Management Platform</title>
+		<link>https://www.securityweek.com/apono-raises-34-million-for-cloud-identity-management-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 14:48:17 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Apono]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[identity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44337</guid>
+
+					<description><![CDATA[<p>The company will use the investment to accelerate product development, expand go-to-market operations, and hire new talent.</p>
+<p>The post <a href="https://www.securityweek.com/apono-raises-34-million-for-cloud-identity-management-platform/">Apono Raises $34 Million for Cloud Identity Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nudge Security Raises $22.5 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/nudge-security-raises-22-5-million-in-series-a-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 14:40:44 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Nudge Security]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44335</guid>
+
+					<description><![CDATA[<p>The fresh investment will be used to accelerate product innovation and to expand the company’s go-to-market efforts.</p>
+<p>The post <a href="https://www.securityweek.com/nudge-security-raises-22-5-million-in-series-a-funding/">Nudge Security Raises $22.5 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
