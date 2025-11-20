@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 19 Nov 2025 12:08:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Nov 2025 11:52:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,187 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</title>
+		<link>https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 11:52:50 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[enumeration]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44371</guid>
+
+					<description><![CDATA[<p>Researchers demonstrated a now-patched vulnerability that could have been used to enumerate all WhatsApp accounts.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/">Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent 7-Zip Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 10:41:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[7-Zip]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44367</guid>
+
+					<description><![CDATA[<p>A proof-of-concept (PoC) exploit targeting the high-severity remote code execution (RCE) bug exists.</p>
+<p>The post <a href="https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/">Recent 7-Zip Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarWinds Patches Three Critical Serv-U Vulnerabilities</title>
+		<link>https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 07:25:39 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44366</guid>
+
+					<description><![CDATA[<p>SolarWinds Serv-U is affected by vulnerabilities that can be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/">SolarWinds Patches Three Critical Serv-U Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal</title>
+		<link>https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 02:18:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44365</guid>
+
+					<description><![CDATA[<p>The move to acquire Chronosphere is the latest of several acquisitions in recent years and follows a massive $25 billion deal to acquire CyberArk.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/">Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Details Iran&#8217;s Cyber-Enabled Kinetic Attacks Linking Digital Spying to Physical Strikes</title>
+		<link>https://www.securityweek.com/amazon-details-irans-cyber-enabled-kinetic-attacks-linking-digital-spying-to-physical-strikes/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 18:15:00 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[kinetic]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44362</guid>
+
+					<description><![CDATA[<p>Amazon threat intelligence experts have documented two cases in which Iran leveraged hacking to prepare for kinetic attacks.</p>
+<p>The post <a href="https://www.securityweek.com/amazon-details-irans-cyber-enabled-kinetic-attacks-linking-digital-spying-to-physical-strikes/">Amazon Details Iran&#8217;s Cyber-Enabled Kinetic Attacks Linking Digital Spying to Physical Strikes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Secure.com Raises $4.5 Million for Agentic Security</title>
+		<link>https://www.securityweek.com/secure-com-raises-4-5-million-for-agentic-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 18:03:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Secure.com]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44363</guid>
+
+					<description><![CDATA[<p>The cybersecurity company has launched Digital Security Teammate (DST), AI agents that investigate, triage, and escalate incidents when needed.</p>
+<p>The post <a href="https://www.securityweek.com/secure-com-raises-4-5-million-for-agentic-security/">Secure.com Raises $4.5 Million for Agentic Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch Now: Protecting What WAFs and Gateways Can’t See &#8211; Register</title>
+		<link>https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 15:27:59 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44338</guid>
+
+					<description><![CDATA[<p>Learn why legacy approaches fail to stop modern API threats and show how dedicated API security delivers the visibility, protection, and automation needed to defend against today’s evolving risks.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/">Watch Now: Protecting What WAFs and Gateways Can’t See &#8211; Register</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mate Emerges From Stealth Mode With $15.5 Million in Seed Funding</title>
+		<link>https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 13:57:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mate]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44360</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the funds to expand its engineering team, extend collaborations, and get ready for enterprise rollout.</p>
+<p>The post <a href="https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/">Mate Emerges From Stealth Mode With $15.5 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign</title>
+		<link>https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 19 Nov 2025 13:23:41 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ray]]></category>
+		<category><![CDATA[ShadowRay]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44359</guid>
+
+					<description><![CDATA[<p>Threat actors are abusing Ray’s lack of authentication to compromise exposed clusters and deploy LLM-generated payloads and cryptocurrency miners.</p>
+<p>The post <a href="https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/">Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AI Is Supercharging Phishing: Here’s How to Fight Back</title>
 		<link>https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/</link>
 		
@@ -41,182 +222,6 @@
 
 					<description><![CDATA[<p>AI has given cybercriminals the ability to operate like Fortune‑500‑scale marketing departments—except their product is account takeover, data theft, and identity fraud. </p>
 <p>The post <a href="https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/">AI Is Supercharging Phishing: Here’s How to Fight Back</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Largest Azure DDoS Attack Powered by Aisuru Botnet</title>
-		<link>https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 11:06:54 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Azure]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44352</guid>
-
-					<description><![CDATA[<p>Microsoft said the DDoS attack was aimed at an endpoint in Australia and reached 15.72 Tbps and 3.64 Bpps.</p>
-<p>The post <a href="https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/">Largest Azure DDoS Attack Powered by Aisuru Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week</title>
-		<link>https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 09:46:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[FortiWeb]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44350</guid>
-
-					<description><![CDATA[<p>An OS command injection flaw, the exploited zero-day allows attackers to execute arbitrary code on the underlying system.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/">Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Unveils Security Enhancements for Identity, Defense, Compliance</title>
-		<link>https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 07:54:20 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[Entra]]></category>
-		<category><![CDATA[Intune]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Microsoft Defender]]></category>
-		<category><![CDATA[Purview]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44348</guid>
-
-					<description><![CDATA[<p>Microsoft announced new security capabilities for Defender, Sentinel, Copilot, Intune, Purview, and Entra. </p>
-<p>The post <a href="https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/">Microsoft Unveils Security Enhancements for Identity, Defense, Compliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudflare Outage Not Caused by Cyberattack</title>
-		<link>https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 18:09:57 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44345</guid>
-
-					<description><![CDATA[<p>Major online services such as ChatGPT, X, and Shopify were disrupted in a global Cloudflare outage on Nov. 18th, as well as transit and city services. </p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/">Cloudflare Outage Not Caused by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MI5 Warns Lawmakers That Chinese Spies Are Trying to Reach Them via LinkedIn</title>
-		<link>https://www.securityweek.com/mi5-warns-lawmakers-that-chinese-spies-are-trying-to-reach-them-via-linkedin/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 16:24:56 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[China]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44341</guid>
-
-					<description><![CDATA[<p>Britain’s domestic intelligence agency warned that Chinese nationals were ”using LinkedIn profiles to conduct outreach at scale” on behalf of the Chinese Ministry of State Security.</p>
-<p>The post <a href="https://www.securityweek.com/mi5-warns-lawmakers-that-chinese-spies-are-trying-to-reach-them-via-linkedin/">MI5 Warns Lawmakers That Chinese Spies Are Trying to Reach Them via LinkedIn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta Paid Out $4 Million via Bug Bounty Program in 2025</title>
-		<link>https://www.securityweek.com/meta-paid-out-4-million-via-bug-bounty-program-in-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44336</guid>
-
-					<description><![CDATA[<p>The total amount of money given to bug bounty hunters by the social media giant has reached $25 million.</p>
-<p>The post <a href="https://www.securityweek.com/meta-paid-out-4-million-via-bug-bounty-program-in-2025/">Meta Paid Out $4 Million via Bug Bounty Program in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Protecting What WAFs and Gateways Can’t See &#8211; Register</title>
-		<link>https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 15:01:29 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44338</guid>
-
-					<description><![CDATA[<p>Learn why legacy approaches fail to stop modern API threats and show how dedicated API security delivers the visibility, protection, and automation needed to defend against today’s evolving risks.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/">Webinar Today: Protecting What WAFs and Gateways Can’t See &#8211; Register</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apono Raises $34 Million for Cloud Identity Management Platform</title>
-		<link>https://www.securityweek.com/apono-raises-34-million-for-cloud-identity-management-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 14:48:17 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Apono]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44337</guid>
-
-					<description><![CDATA[<p>The company will use the investment to accelerate product development, expand go-to-market operations, and hire new talent.</p>
-<p>The post <a href="https://www.securityweek.com/apono-raises-34-million-for-cloud-identity-management-platform/">Apono Raises $34 Million for Cloud Identity Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nudge Security Raises $22.5 Million in Series A Funding</title>
-		<link>https://www.securityweek.com/nudge-security-raises-22-5-million-in-series-a-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 14:40:44 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Nudge Security]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44335</guid>
-
-					<description><![CDATA[<p>The fresh investment will be used to accelerate product innovation and to expand the company’s go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/nudge-security-raises-22-5-million-in-series-a-funding/">Nudge Security Raises $22.5 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
