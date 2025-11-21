@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 20 Nov 2025 11:52:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Nov 2025 11:36:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,193 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese Cyberspies Deploy &#8216;BadAudio&#8217; Malware via Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/chinese-cyberspies-deploy-badaudio-malware-via-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 11:36:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[BadAudio]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44380</guid>
+
+					<description><![CDATA[<p>APT24 has been relying on various techniques to drop the BadAudio downloader and then deploy additional payloads.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-cyberspies-deploy-badaudio-malware-via-supply-chain-attacks/">Chinese Cyberspies Deploy &#8216;BadAudio&#8217; Malware via Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SquareX and Perplexity Quarrel Over Alleged Comet Browser Vulnerability</title>
+		<link>https://www.securityweek.com/squarex-and-perplexity-quarrel-over-alleged-comet-browser-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 11:15:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[browser]]></category>
+		<category><![CDATA[Comet]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Perplexity]]></category>
+		<category><![CDATA[SquareX]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44379</guid>
+
+					<description><![CDATA[<p>SquareX claims to have found a way to abuse a hidden Comet API to execute local commands, but Perplexity says the research is fake.</p>
+<p>The post <a href="https://www.securityweek.com/squarex-and-perplexity-quarrel-over-alleged-comet-browser-vulnerability/">SquareX and Perplexity Quarrel Over Alleged Comet Browser Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Runlayer Emerges From Stealth Mode With $11 Million in Funding</title>
+		<link>https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 10:36:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[MCP]]></category>
+		<category><![CDATA[Runlayer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44378</guid>
+
+					<description><![CDATA[<p>The company has operated in stealth mode for four months and has signed dozens of customers, including eight unicorns.</p>
+<p>The post <a href="https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/">Runlayer Emerges From Stealth Mode With $11 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Salesforce Instances Hacked via Gainsight Integrations</title>
+		<link>https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 09:38:19 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Gainsight]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44377</guid>
+
+					<description><![CDATA[<p>The infamous ShinyHunters hackers have targeted customer-managed Gainsight-published applications to steal data from Salesforce instances.</p>
+<p>The post <a href="https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/">Salesforce Instances Hacked via Gainsight Integrations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island</title>
+		<link>https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 22:14:56 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44376</guid>
+
+					<description><![CDATA[<p>Thailand’s Cyber Crime Investigation Bureau said an FBI tip that the “world-class hacker” was traveling to Thailand led to his arrest in Phuket.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/">Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</title>
+		<link>https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 15:39:24 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android trojan]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[mobile malware]]></category>
+		<category><![CDATA[Sturnus]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44375</guid>
+
+					<description><![CDATA[<p>The Android malware is in development and appears to be mainly aimed at users in Europe.</p>
+<p>The post <a href="https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/">New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Doppel Raises $70 Million at $600 Million Valuation</title>
+		<link>https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 14:05:06 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Doppel]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44374</guid>
+
+					<description><![CDATA[<p>The AI-native social engineering defense (SED) platform will accelerate product innovation and expand its offerings.</p>
+<p>The post <a href="https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/">Doppel Raises $70 Million at $600 Million Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 50,000 Asus Routers Hacked in &#8216;Operation WrtHug&#8217;</title>
+		<link>https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 13:30:20 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Asus]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Operation WrtHug]]></category>
+		<category><![CDATA[router]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44373</guid>
+
+					<description><![CDATA[<p>A Chinese threat actor is exploiting known vulnerabilities in discontinued Asus devices in an Operational Relay Box (ORB) facilitation campaign.</p>
+<p>The post <a href="https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/">Over 50,000 Asus Routers Hacked in &#8216;Operation WrtHug&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US and Allies Sanction Russian Bulletproof Hosting Service Providers</title>
+		<link>https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 20 Nov 2025 12:53:26 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[bulletproof hosting]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44372</guid>
+
+					<description><![CDATA[<p>Media Land, Hypercore, and their leadership and employees are allegedly connected to various cybercriminal activities.</p>
+<p>The post <a href="https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/">US and Allies Sanction Russian Bulletproof Hosting Service Providers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</title>
 		<link>https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/</link>
 		
@@ -43,185 +230,6 @@
 
 					<description><![CDATA[<p>Researchers demonstrated a now-patched vulnerability that could have been used to enumerate all WhatsApp accounts.</p>
 <p>The post <a href="https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/">Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent 7-Zip Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 10:41:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[7-Zip]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44367</guid>
-
-					<description><![CDATA[<p>A proof-of-concept (PoC) exploit targeting the high-severity remote code execution (RCE) bug exists.</p>
-<p>The post <a href="https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/">Recent 7-Zip Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SolarWinds Patches Three Critical Serv-U Vulnerabilities</title>
-		<link>https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 07:25:39 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44366</guid>
-
-					<description><![CDATA[<p>SolarWinds Serv-U is affected by vulnerabilities that can be exploited for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/">SolarWinds Patches Three Critical Serv-U Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal</title>
-		<link>https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 02:18:00 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44365</guid>
-
-					<description><![CDATA[<p>The move to acquire Chronosphere is the latest of several acquisitions in recent years and follows a massive $25 billion deal to acquire CyberArk.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/">Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon Details Iran&#8217;s Cyber-Enabled Kinetic Attacks Linking Digital Spying to Physical Strikes</title>
-		<link>https://www.securityweek.com/amazon-details-irans-cyber-enabled-kinetic-attacks-linking-digital-spying-to-physical-strikes/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 18:15:00 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[cyberwarfare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[kinetic]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44362</guid>
-
-					<description><![CDATA[<p>Amazon threat intelligence experts have documented two cases in which Iran leveraged hacking to prepare for kinetic attacks.</p>
-<p>The post <a href="https://www.securityweek.com/amazon-details-irans-cyber-enabled-kinetic-attacks-linking-digital-spying-to-physical-strikes/">Amazon Details Iran&#8217;s Cyber-Enabled Kinetic Attacks Linking Digital Spying to Physical Strikes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Secure.com Raises $4.5 Million for Agentic Security</title>
-		<link>https://www.securityweek.com/secure-com-raises-4-5-million-for-agentic-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 18:03:50 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Secure.com]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44363</guid>
-
-					<description><![CDATA[<p>The cybersecurity company has launched Digital Security Teammate (DST), AI agents that investigate, triage, and escalate incidents when needed.</p>
-<p>The post <a href="https://www.securityweek.com/secure-com-raises-4-5-million-for-agentic-security/">Secure.com Raises $4.5 Million for Agentic Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch Now: Protecting What WAFs and Gateways Can’t See &#8211; Register</title>
-		<link>https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 15:27:59 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44338</guid>
-
-					<description><![CDATA[<p>Learn why legacy approaches fail to stop modern API threats and show how dedicated API security delivers the visibility, protection, and automation needed to defend against today’s evolving risks.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-protecting-what-wafs-and-gateways-cant-see-register/">Watch Now: Protecting What WAFs and Gateways Can’t See &#8211; Register</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mate Emerges From Stealth Mode With $15.5 Million in Seed Funding</title>
-		<link>https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 13:57:34 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mate]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44360</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will use the funds to expand its engineering team, extend collaborations, and get ready for enterprise rollout.</p>
-<p>The post <a href="https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/">Mate Emerges From Stealth Mode With $15.5 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign</title>
-		<link>https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 13:23:41 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ray]]></category>
-		<category><![CDATA[ShadowRay]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44359</guid>
-
-					<description><![CDATA[<p>Threat actors are abusing Ray’s lack of authentication to compromise exposed clusters and deploy LLM-generated payloads and cryptocurrency miners.</p>
-<p>The post <a href="https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/">Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Is Supercharging Phishing: Here’s How to Fight Back</title>
-		<link>https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 12:00:00 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44354</guid>
-
-					<description><![CDATA[<p>AI has given cybercriminals the ability to operate like Fortune‑500‑scale marketing departments—except their product is account takeover, data theft, and identity fraud. </p>
-<p>The post <a href="https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/">AI Is Supercharging Phishing: Here’s How to Fight Back</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
