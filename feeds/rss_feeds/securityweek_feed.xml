@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 21 Nov 2025 11:36:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 Nov 2025 06:32:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</title>
+		<link>https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 15:30:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44387</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: surge in Palo Alto Networks scanning, WEL Companies data breach impacts 120,000 people, AI second-order prompt injection attack.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/">In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 13:46:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44386</guid>
+
+					<description><![CDATA[<p>CVE-2025-61757 is an unauthenticated remote code execution vulnerability affecting Oracle Identity Manager.</p>
+<p>The post <a href="https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/">Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise</title>
+		<link>https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 13:29:44 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[electric grid]]></category>
+		<category><![CDATA[GridEx]]></category>
+		<category><![CDATA[power]]></category>
+		<category><![CDATA[power grid]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44384</guid>
+
+					<description><![CDATA[<p>The number of participants in the cyber and physical grid security exercise increased by nearly 50% compared to two years ago. </p>
+<p>The post <a href="https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/">Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance</title>
+		<link>https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 12:27:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DoS]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44381</guid>
+
+					<description><![CDATA[<p>The vulnerabilities could be exploited to cause a denial-of-service (DoS) condition, execute arbitrary code, or access arbitrary files and directories.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/">SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese Cyberspies Deploy &#8216;BadAudio&#8217; Malware via Supply Chain Attacks</title>
 		<link>https://www.securityweek.com/chinese-cyberspies-deploy-badaudio-malware-via-supply-chain-attacks/</link>
 		
@@ -149,87 +228,6 @@
 
 					<description><![CDATA[<p>The Android malware is in development and appears to be mainly aimed at users in Europe.</p>
 <p>The post <a href="https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/">New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Doppel Raises $70 Million at $600 Million Valuation</title>
-		<link>https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 14:05:06 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Doppel]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[social engineering]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44374</guid>
-
-					<description><![CDATA[<p>The AI-native social engineering defense (SED) platform will accelerate product innovation and expand its offerings.</p>
-<p>The post <a href="https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/">Doppel Raises $70 Million at $600 Million Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 50,000 Asus Routers Hacked in &#8216;Operation WrtHug&#8217;</title>
-		<link>https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 13:30:20 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Asus]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Operation WrtHug]]></category>
-		<category><![CDATA[router]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44373</guid>
-
-					<description><![CDATA[<p>A Chinese threat actor is exploiting known vulnerabilities in discontinued Asus devices in an Operational Relay Box (ORB) facilitation campaign.</p>
-<p>The post <a href="https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/">Over 50,000 Asus Routers Hacked in &#8216;Operation WrtHug&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US and Allies Sanction Russian Bulletproof Hosting Service Providers</title>
-		<link>https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 12:53:26 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[bulletproof hosting]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44372</guid>
-
-					<description><![CDATA[<p>Media Land, Hypercore, and their leadership and employees are allegedly connected to various cybercriminal activities.</p>
-<p>The post <a href="https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/">US and Allies Sanction Russian Bulletproof Hosting Service Providers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</title>
-		<link>https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 11:52:50 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[enumeration]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44371</guid>
-
-					<description><![CDATA[<p>Researchers demonstrated a now-patched vulnerability that could have been used to enumerate all WhatsApp accounts.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/">Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
