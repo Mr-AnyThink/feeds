@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 22 Nov 2025 06:32:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Nov 2025 12:14:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,67 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Spanish Airline Iberia Notifies Customers of Data Breach</title>
+		<link>https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 12:14:46 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[airline]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Iberia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44394</guid>
+
+					<description><![CDATA[<p>The company has notified its customers of the incident roughly a week after a threat actor claimed the theft of 77GB of data from Iberia’s systems.</p>
+<p>The post <a href="https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/">Spanish Airline Iberia Notifies Customers of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>146,000 Impacted by Delta Dental of Virginia Data Breach</title>
+		<link>https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 11:40:35 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DDVA]]></category>
+		<category><![CDATA[Delta Dental of Virginia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44393</guid>
+
+					<description><![CDATA[<p>Names, Social Security numbers, ID numbers, and health information were stolen from a compromised email account.</p>
+<p>The post <a href="https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/">146,000 Impacted by Delta Dental of Virginia Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</title>
+		<link>https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 10:52:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[Cox]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44391</guid>
+
+					<description><![CDATA[<p>More than 1.6 Tb of data allegedly stolen from Cox was made public by the hackers.</p>
+<p>The post <a href="https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/">Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</title>
 		<link>https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/</link>
 		
@@ -171,63 +232,6 @@
 
 					<description><![CDATA[<p>The company has operated in stealth mode for four months and has signed dozens of customers, including eight unicorns.</p>
 <p>The post <a href="https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/">Runlayer Emerges From Stealth Mode With $11 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Salesforce Instances Hacked via Gainsight Integrations</title>
-		<link>https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 09:38:19 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Gainsight]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44377</guid>
-
-					<description><![CDATA[<p>The infamous ShinyHunters hackers have targeted customer-managed Gainsight-published applications to steal data from Salesforce instances.</p>
-<p>The post <a href="https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/">Salesforce Instances Hacked via Gainsight Integrations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island</title>
-		<link>https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 22:14:56 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44376</guid>
-
-					<description><![CDATA[<p>Thailand’s Cyber Crime Investigation Bureau said an FBI tip that the “world-class hacker” was traveling to Thailand led to his arrest in Phuket.</p>
-<p>The post <a href="https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/">Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</title>
-		<link>https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Nov 2025 15:39:24 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android trojan]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[mobile malware]]></category>
-		<category><![CDATA[Sturnus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44375</guid>
-
-					<description><![CDATA[<p>The Android malware is in development and appears to be mainly aimed at users in Europe.</p>
-<p>The post <a href="https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/">New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
