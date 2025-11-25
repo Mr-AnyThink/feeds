@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 24 Nov 2025 12:14:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Nov 2025 12:12:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,149 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Major US Banks Impacted by SitusAMC Hack</title>
+		<link>https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 12:12:39 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[SitusAMC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44409</guid>
+
+					<description><![CDATA[<p>Hackers stole corporate data such as accounting records and legal agreements, but did not deploy file-encrypting ransomware.</p>
+<p>The post <a href="https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/">Major US Banks Impacted by SitusAMC Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>640 NPM Packages Infected in New &#8216;Shai-Hulud&#8217; Supply Chain Attack</title>
+		<link>https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 10:45:46 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[Shai-Hulud]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44408</guid>
+
+					<description><![CDATA[<p>The new self-replicating worm iteration has destructive capabilities, erasing home directory contents if it cannot spread to more repositories.</p>
+<p>The post <a href="https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/">640 NPM Packages Infected in New &#8216;Shai-Hulud&#8217; Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canon Says Subsidiary Impacted by Oracle EBS Hack </title>
+		<link>https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 07:22:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Canon]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44404</guid>
+
+					<description><![CDATA[<p>More than 100 alleged victims of the Oracle EBS campaign have been added to the Cl0p ransomware website.</p>
+<p>The post <a href="https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/">Canon Says Subsidiary Impacted by Oracle EBS Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 15:37:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44402</guid>
+
+					<description><![CDATA[<p>CISA has added CVE-2025-61757 to its Known Exploited Vulnerabilities (KEV) catalog. </p>
+<p>The post <a href="https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/">CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CrowdStrike Insider Helped Hackers Falsely Claim System Breach</title>
+		<link>https://www.securityweek.com/crowdstrike-insider-helped-hackers-falsely-claim-system-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 15:25:38 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fired]]></category>
+		<category><![CDATA[insider]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44401</guid>
+
+					<description><![CDATA[<p>The company has confirmed that it terminated an insider who shared screenshots of his computer with cybercriminals.</p>
+<p>The post <a href="https://www.securityweek.com/crowdstrike-insider-helped-hackers-falsely-claim-system-breach/">CrowdStrike Insider Helped Hackers Falsely Claim System Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Highlights Security Risks Introduced by New Agentic AI Feature</title>
+		<link>https://www.securityweek.com/microsoft-highlights-security-risks-introduced-by-new-agentic-ai-feature/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 13:32:39 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44398</guid>
+
+					<description><![CDATA[<p>Without proper security controls, AI agents could perform malicious actions, such as data exfiltration and malware installation.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-highlights-security-risks-introduced-by-new-agentic-ai-feature/">Microsoft Highlights Security Risks Introduced by New Agentic AI Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mazda Says No Data Leakage or Operational Impact From Oracle Hack</title>
+		<link>https://www.securityweek.com/mazda-says-no-data-leakage-or-operational-impact-from-oracle-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 12:42:27 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mazda]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44396</guid>
+
+					<description><![CDATA[<p>The Cl0p ransomware group has listed Mazda and Mazda USA as victims of the Oracle EBS campaign on its leak website.</p>
+<p>The post <a href="https://www.securityweek.com/mazda-says-no-data-leakage-or-operational-impact-from-oracle-hack/">Mazda Says No Data Leakage or Operational Impact From Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Spanish Airline Iberia Notifies Customers of Data Breach</title>
 		<link>https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/</link>
 		
@@ -83,155 +226,6 @@
 
 					<description><![CDATA[<p>More than 1.6 Tb of data allegedly stolen from Cox was made public by the hackers.</p>
 <p>The post <a href="https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/">Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</title>
-		<link>https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 15:30:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44387</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: surge in Palo Alto Networks scanning, WEL Companies data breach impacts 120,000 people, AI second-order prompt injection attack.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/">In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</title>
-		<link>https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 13:46:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44386</guid>
-
-					<description><![CDATA[<p>CVE-2025-61757 is an unauthenticated remote code execution vulnerability affecting Oracle Identity Manager.</p>
-<p>The post <a href="https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/">Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise</title>
-		<link>https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 13:29:44 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[electric grid]]></category>
-		<category><![CDATA[GridEx]]></category>
-		<category><![CDATA[power]]></category>
-		<category><![CDATA[power grid]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44384</guid>
-
-					<description><![CDATA[<p>The number of participants in the cyber and physical grid security exercise increased by nearly 50% compared to two years ago. </p>
-<p>The post <a href="https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/">Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance</title>
-		<link>https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 12:27:31 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DoS]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44381</guid>
-
-					<description><![CDATA[<p>The vulnerabilities could be exploited to cause a denial-of-service (DoS) condition, execute arbitrary code, or access arbitrary files and directories.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/">SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Cyberspies Deploy &#8216;BadAudio&#8217; Malware via Supply Chain Attacks</title>
-		<link>https://www.securityweek.com/chinese-cyberspies-deploy-badaudio-malware-via-supply-chain-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 11:36:29 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[BadAudio]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44380</guid>
-
-					<description><![CDATA[<p>APT24 has been relying on various techniques to drop the BadAudio downloader and then deploy additional payloads.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-cyberspies-deploy-badaudio-malware-via-supply-chain-attacks/">Chinese Cyberspies Deploy &#8216;BadAudio&#8217; Malware via Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SquareX and Perplexity Quarrel Over Alleged Comet Browser Vulnerability</title>
-		<link>https://www.securityweek.com/squarex-and-perplexity-quarrel-over-alleged-comet-browser-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 11:15:18 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[browser]]></category>
-		<category><![CDATA[Comet]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Perplexity]]></category>
-		<category><![CDATA[SquareX]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44379</guid>
-
-					<description><![CDATA[<p>SquareX claims to have found a way to abuse a hidden Comet API to execute local commands, but Perplexity says the research is fake.</p>
-<p>The post <a href="https://www.securityweek.com/squarex-and-perplexity-quarrel-over-alleged-comet-browser-vulnerability/">SquareX and Perplexity Quarrel Over Alleged Comet Browser Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Runlayer Emerges From Stealth Mode With $11 Million in Funding</title>
-		<link>https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 21 Nov 2025 10:36:26 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[MCP]]></category>
-		<category><![CDATA[Runlayer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44378</guid>
-
-					<description><![CDATA[<p>The company has operated in stealth mode for four months and has signed dozens of customers, including eight unicorns.</p>
-<p>The post <a href="https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/">Runlayer Emerges From Stealth Mode With $11 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
