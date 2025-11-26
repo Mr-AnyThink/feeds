@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 25 Nov 2025 12:12:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Nov 2025 11:38:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Major US Banks Impacted by SitusAMC Hack</title>
-		<link>https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/</link>
+		<title>Cybersecurity Is Now a Core Business Discipline</title>
+		<link>https://www.securityweek.com/cybersecurity-is-now-a-core-business-discipline/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 12:12:39 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[bank]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[SitusAMC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44409</guid>
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44420</guid>
 
-					<description><![CDATA[<p>Hackers stole corporate data such as accounting records and legal agreements, but did not deploy file-encrypting ransomware.</p>
-<p>The post <a href="https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/">Major US Banks Impacted by SitusAMC Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Boardroom conversations about cyber can no longer be siloed apart from strategy, operations, or geopolitics.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-is-now-a-core-business-discipline/">Cybersecurity Is Now a Core Business Discipline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>640 NPM Packages Infected in New &#8216;Shai-Hulud&#8217; Supply Chain Attack</title>
-		<link>https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 10:45:46 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44408</guid>
-
-					<description><![CDATA[<p>The new self-replicating worm iteration has destructive capabilities, erasing home directory contents if it cannot spread to more repositories.</p>
-<p>The post <a href="https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/">640 NPM Packages Infected in New &#8216;Shai-Hulud&#8217; Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canon Says Subsidiary Impacted by Oracle EBS Hack </title>
-		<link>https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/</link>
+		<title>Ransomware Attack Disrupts Local Emergency Alert System Across US</title>
+		<link>https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 07:22:04 +0000</pubDate>
+		<pubDate>Wed, 26 Nov 2025 11:38:07 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Canon]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44404</guid>
-
-					<description><![CDATA[<p>More than 100 alleged victims of the Oracle EBS campaign have been added to the Cl0p ransomware website.</p>
-<p>The post <a href="https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/">Canon Says Subsidiary Impacted by Oracle EBS Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 15:37:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44402</guid>
-
-					<description><![CDATA[<p>CISA has added CVE-2025-61757 to its Known Exploited Vulnerabilities (KEV) catalog. </p>
-<p>The post <a href="https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/">CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CrowdStrike Insider Helped Hackers Falsely Claim System Breach</title>
-		<link>https://www.securityweek.com/crowdstrike-insider-helped-hackers-falsely-claim-system-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 15:25:38 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[fake hack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[fired]]></category>
-		<category><![CDATA[insider]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44401</guid>
-
-					<description><![CDATA[<p>The company has confirmed that it terminated an insider who shared screenshots of his computer with cybercriminals.</p>
-<p>The post <a href="https://www.securityweek.com/crowdstrike-insider-helped-hackers-falsely-claim-system-breach/">CrowdStrike Insider Helped Hackers Falsely Claim System Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Highlights Security Risks Introduced by New Agentic AI Feature</title>
-		<link>https://www.securityweek.com/microsoft-highlights-security-risks-introduced-by-new-agentic-ai-feature/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 13:32:39 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[security]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44398</guid>
-
-					<description><![CDATA[<p>Without proper security controls, AI agents could perform malicious actions, such as data exfiltration and malware installation.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-highlights-security-risks-introduced-by-new-agentic-ai-feature/">Microsoft Highlights Security Risks Introduced by New Agentic AI Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mazda Says No Data Leakage or Operational Impact From Oracle Hack</title>
-		<link>https://www.securityweek.com/mazda-says-no-data-leakage-or-operational-impact-from-oracle-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 12:42:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mazda]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44396</guid>
-
-					<description><![CDATA[<p>The Cl0p ransomware group has listed Mazda and Mazda USA as victims of the Oracle EBS campaign on its leak website.</p>
-<p>The post <a href="https://www.securityweek.com/mazda-says-no-data-leakage-or-operational-impact-from-oracle-hack/">Mazda Says No Data Leakage or Operational Impact From Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spanish Airline Iberia Notifies Customers of Data Breach</title>
-		<link>https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 12:14:46 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Iberia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44394</guid>
-
-					<description><![CDATA[<p>The company has notified its customers of the incident roughly a week after a threat actor claimed the theft of 77GB of data from Iberia’s systems.</p>
-<p>The post <a href="https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/">Spanish Airline Iberia Notifies Customers of Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>146,000 Impacted by Delta Dental of Virginia Data Breach</title>
-		<link>https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 11:40:35 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DDVA]]></category>
-		<category><![CDATA[Delta Dental of Virginia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44393</guid>
-
-					<description><![CDATA[<p>Names, Social Security numbers, ID numbers, and health information were stolen from a compromised email account.</p>
-<p>The post <a href="https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/">146,000 Impacted by Delta Dental of Virginia Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</title>
-		<link>https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 10:52:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[Cox]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
 		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44391</guid>
+		<category><![CDATA[CodeRED]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[emergency alert system]]></category>
+		<category><![CDATA[Inc Ransom]]></category>
+		<category><![CDATA[OnSolve]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44434</guid>
 
-					<description><![CDATA[<p>More than 1.6 Tb of data allegedly stolen from Cox was made public by the hackers.</p>
-<p>The post <a href="https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/">Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The OnSolve CodeRED platform has been targeted by the Inc Ransom ransomware group, resulting in disruptions and a data breach.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/">Ransomware Attack Disrupts Local Emergency Alert System Across US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Opti Raises $20 Million for Identity Security Platform</title>
+		<link>https://www.securityweek.com/opti-raises-20-million-for-identity-security-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 09:42:01 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[IAM]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[Opti]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44432</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup plans to use the seed funding to accelerate product expansion and global growth.</p>
+<p>The post <a href="https://www.securityweek.com/opti-raises-20-million-for-identity-security-platform/">Opti Raises $20 Million for Identity Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dartmouth College Confirms Data Theft in Oracle Hack</title>
+		<link>https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 08:09:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44424</guid>
+
+					<description><![CDATA[<p>Dartmouth College has disclosed a data breach after cybercriminals leaked over 226 Gb of files stolen from the university.</p>
+<p>The post <a href="https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/">Dartmouth College Confirms Data Theft in Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Hackers Target US Engineering Firm Because of Work Done for Ukrainian Sister City</title>
+		<link>https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 00:28:40 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[Arctic Wolf]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44419</guid>
+
+					<description><![CDATA[<p>The attack on the engineering firm was identified by Arctic Wolf in September before it could disrupt the engineering company’s operations or spread further.</p>
+<p>The post <a href="https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/">Russian Hackers Target US Engineering Firm Because of Work Done for Ukrainian Sister City</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Spyware Targeting Messaging App Users</title>
+		<link>https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 18:11:46 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[spyware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44418</guid>
+
+					<description><![CDATA[<p>CISA has described the techniques used by attackers and pointed out that the focus is on high-value individuals.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/">CISA Warns of Spyware Targeting Messaging App Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Agent Security Firm Vijil Raises $17 Million</title>
+		<link>https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 18:01:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Vijil]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44417</guid>
+
+					<description><![CDATA[<p>Focusing on improving the resilience of AI agents, the startup will use the funding to accelerate deployments of its platform.</p>
+<p>The post <a href="https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/">AI Agent Security Firm Vijil Raises $17 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alumni, Student, and Staff Information Stolen From Harvard University</title>
+		<link>https://www.securityweek.com/alumni-student-and-staff-information-stolen-from-harvard-university/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 14:15:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Harvard]]></category>
+		<category><![CDATA[Harvard University]]></category>
+		<category><![CDATA[university]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44412</guid>
+
+					<description><![CDATA[<p>A phone phishing attack led to the compromise of a system containing information about alumni, donors, students, staff, and other individuals.</p>
+<p>The post <a href="https://www.securityweek.com/alumni-student-and-staff-information-stolen-from-harvard-university/">Alumni, Student, and Staff Information Stolen From Harvard University</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fluent Bit Vulnerabilities Expose Cloud Services to Takeover</title>
+		<link>https://www.securityweek.com/fluent-bit-vulnerabilities-expose-cloud-services-to-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 13:45:15 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Fluent Bit]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44411</guid>
+
+					<description><![CDATA[<p>Five flaws in the open source tool may lead to path traversal attacks, remote code execution, denial-of-service, and tag manipulation.</p>
+<p>The post <a href="https://www.securityweek.com/fluent-bit-vulnerabilities-expose-cloud-services-to-takeover/">Fluent Bit Vulnerabilities Expose Cloud Services to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WormGPT 4 and KawaiiGPT: New Dark LLMs Boost Cybercrime Automation</title>
+		<link>https://www.securityweek.com/wormgpt-4-and-kawaiigpt-new-dark-llms-boost-cybercrime-automation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 13:35:19 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44410</guid>
+
+					<description><![CDATA[<p>Palo Alto Networks has conducted an analysis of malicious LLMs that help threat actors with phishing, malware development, and reconnaissance. </p>
+<p>The post <a href="https://www.securityweek.com/wormgpt-4-and-kawaiigpt-new-dark-llms-boost-cybercrime-automation/">WormGPT 4 and KawaiiGPT: New Dark LLMs Boost Cybercrime Automation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
