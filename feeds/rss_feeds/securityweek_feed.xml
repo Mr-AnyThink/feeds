@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 26 Nov 2025 11:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Nov 2025 12:12:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,91 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI User Data Exposed in Mixpanel Hack</title>
+		<link>https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2025 12:09:24 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Mixpanel]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44441</guid>
+
+					<description><![CDATA[<p>Multiple Mixpanel customers were impacted by a recent cyberattack targeting the product analytics company. </p>
+<p>The post <a href="https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/">OpenAI User Data Exposed in Mixpanel Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Clover Security Raises $36 Million to Secure Software by Design</title>
+		<link>https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 14:08:01 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Clover Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44439</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup embeds AI agents into widely used tools to identify design flaws and eliminate them early.</p>
+<p>The post <a href="https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/">Clover Security Raises $36 Million to Secure Software by Design</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Account Takeover Fraud Caused $262 Million in Losses in 2025: FBI</title>
+		<link>https://www.securityweek.com/account-takeover-fraud-caused-262-million-in-losses-in-2025-fbi/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 13:23:38 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[account takeover]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44438</guid>
+
+					<description><![CDATA[<p>Cybercriminals impersonating financial institutions have targeted individuals, businesses, and organizations of different sizes.</p>
+<p>The post <a href="https://www.securityweek.com/account-takeover-fraud-caused-262-million-in-losses-in-2025-fbi/">Account Takeover Fraud Caused $262 Million in Losses in 2025: FBI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Thousands of Secrets Leaked on Code Formatting Platforms</title>
+		<link>https://www.securityweek.com/thousands-of-secrets-leaked-on-code-formatting-platforms/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 12:58:18 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[code formatting]]></category>
+		<category><![CDATA[CodeBeautify]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[JSONFormatter]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44437</guid>
+
+					<description><![CDATA[<p>JSONFormatter and CodeBeautify users exposed credentials, authentication keys, configuration information, private keys, and other secrets.</p>
+<p>The post <a href="https://www.securityweek.com/thousands-of-secrets-leaked-on-code-formatting-platforms/">Thousands of Secrets Leaked on Code Formatting Platforms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cybersecurity Is Now a Core Business Discipline</title>
 		<link>https://www.securityweek.com/cybersecurity-is-now-a-core-business-discipline/</link>
 		
@@ -56,6 +141,7 @@
 		<category><![CDATA[CodeRED]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[emergency alert system]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Inc Ransom]]></category>
 		<category><![CDATA[OnSolve]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44434</guid>
@@ -139,84 +225,6 @@
 
 					<description><![CDATA[<p>CISA has described the techniques used by attackers and pointed out that the focus is on high-value individuals.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/">CISA Warns of Spyware Targeting Messaging App Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Agent Security Firm Vijil Raises $17 Million</title>
-		<link>https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 18:01:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Vijil]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44417</guid>
-
-					<description><![CDATA[<p>Focusing on improving the resilience of AI agents, the startup will use the funding to accelerate deployments of its platform.</p>
-<p>The post <a href="https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/">AI Agent Security Firm Vijil Raises $17 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alumni, Student, and Staff Information Stolen From Harvard University</title>
-		<link>https://www.securityweek.com/alumni-student-and-staff-information-stolen-from-harvard-university/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 14:15:04 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Harvard]]></category>
-		<category><![CDATA[Harvard University]]></category>
-		<category><![CDATA[university]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44412</guid>
-
-					<description><![CDATA[<p>A phone phishing attack led to the compromise of a system containing information about alumni, donors, students, staff, and other individuals.</p>
-<p>The post <a href="https://www.securityweek.com/alumni-student-and-staff-information-stolen-from-harvard-university/">Alumni, Student, and Staff Information Stolen From Harvard University</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fluent Bit Vulnerabilities Expose Cloud Services to Takeover</title>
-		<link>https://www.securityweek.com/fluent-bit-vulnerabilities-expose-cloud-services-to-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 13:45:15 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[cloud]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[Fluent Bit]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44411</guid>
-
-					<description><![CDATA[<p>Five flaws in the open source tool may lead to path traversal attacks, remote code execution, denial-of-service, and tag manipulation.</p>
-<p>The post <a href="https://www.securityweek.com/fluent-bit-vulnerabilities-expose-cloud-services-to-takeover/">Fluent Bit Vulnerabilities Expose Cloud Services to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WormGPT 4 and KawaiiGPT: New Dark LLMs Boost Cybercrime Automation</title>
-		<link>https://www.securityweek.com/wormgpt-4-and-kawaiigpt-new-dark-llms-boost-cybercrime-automation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Nov 2025 13:35:19 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44410</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has conducted an analysis of malicious LLMs that help threat actors with phishing, malware development, and reconnaissance. </p>
-<p>The post <a href="https://www.securityweek.com/wormgpt-4-and-kawaiigpt-new-dark-llms-boost-cybercrime-automation/">WormGPT 4 and KawaiiGPT: New Dark LLMs Boost Cybercrime Automation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
