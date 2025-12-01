@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 28 Nov 2025 14:40:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Dec 2025 11:07:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,56 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack</title>
+		<link>https://www.securityweek.com/cisa-warns-of-scadabr-vulnerability-after-hacktivist-ics-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 11:06:58 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[HMI]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OpenPLC]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[ScadaBR]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44455</guid>
+
+					<description><![CDATA[<p>CISA has added CVE-2021-26829 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-scadabr-vulnerability-after-hacktivist-ics-attack/">CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights</title>
+		<link>https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 09:03:07 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[evil twin]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Michale Clapsis]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<category><![CDATA[wireless]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44454</guid>
+
+					<description><![CDATA[<p>Michael Clapsis has been sentenced to 7 years and 4 months in prison for stealing sensitive information.</p>
+<p>The post <a href="https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/">Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>French Soccer Federation Hit by Cyberattack, Member Data Stolen</title>
 		<link>https://www.securityweek.com/french-soccer-federation-hit-by-cyberattack-member-data-stolen/</link>
 		
@@ -177,50 +227,6 @@
 
 					<description><![CDATA[<p>Boardroom conversations about cyber can no longer be siloed apart from strategy, operations, or geopolitics.</p>
 <p>The post <a href="https://www.securityweek.com/cybersecurity-is-now-a-core-business-discipline/">Cybersecurity Is Now a Core Business Discipline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Attack Disrupts Local Emergency Alert System Across US</title>
-		<link>https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Nov 2025 11:38:07 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[CodeRED]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[emergency alert system]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Inc Ransom]]></category>
-		<category><![CDATA[OnSolve]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44434</guid>
-
-					<description><![CDATA[<p>The OnSolve CodeRED platform has been targeted by the Inc Ransom ransomware group, resulting in disruptions and a data breach.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/">Ransomware Attack Disrupts Local Emergency Alert System Across US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Opti Raises $20 Million for Identity Security Platform</title>
-		<link>https://www.securityweek.com/opti-raises-20-million-for-identity-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 26 Nov 2025 09:42:01 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[IAM]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[Opti]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44432</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup plans to use the seed funding to accelerate product expansion and global growth.</p>
-<p>The post <a href="https://www.securityweek.com/opti-raises-20-million-for-identity-security-platform/">Opti Raises $20 Million for Identity Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
