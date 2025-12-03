@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 02 Dec 2025 12:17:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Dec 2025 12:18:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.3</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal </title>
+		<link>https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 12:01:59 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[ServiceNow]]></category>
+		<category><![CDATA[Veza Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44496</guid>
+
+					<description><![CDATA[<p>Veza Security was recently valued at more than $800 million after raising $108 million in Series D funding.</p>
+<p>The post <a href="https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/">ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Penn and Phoenix Universities Disclose Data Breach After Oracle Hack</title>
+		<link>https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 11:30:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<category><![CDATA[university]]></category>
+		<category><![CDATA[University of Pennsylvania]]></category>
+		<category><![CDATA[University of Phoenix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44489</guid>
+
+					<description><![CDATA[<p>The University of Pennsylvania and the University of Phoenix confirm that they are victims of the recent Oracle EBS hacking campaign.</p>
+<p>The post <a href="https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/">Penn and Phoenix Universities Disclose Data Breach After Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities </title>
+		<link>https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[re:Invent 2025]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44486</guid>
+
+					<description><![CDATA[<p>AWS and cybersecurity vendors have made several announcements at the cloud giant’s re:Invent 2025 event. </p>
+<p>The post <a href="https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/">re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Silently Mitigated Exploited LNK Vulnerability</title>
+		<link>https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 10:50:31 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LNK]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44493</guid>
+
+					<description><![CDATA[<p>Windows now displays in the properties tab of LNK files critical information that could reveal malicious code.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/">Microsoft Silently Mitigated Exploited LNK Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 143 Patches High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 08:48:33 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44487</guid>
+
+					<description><![CDATA[<p>Chrome 143 stable was released with patches for 13 vulnerabilities, including a high-severity flaw in the V8 JavaScript engine.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/">Chrome 143 Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zafran Security Raises $60 Million in Series C Funding</title>
+		<link>https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2025 16:49:10 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Zafran Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44484</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate product innovation and global expansion.</p>
+<p>The post <a href="https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/">Zafran Security Raises $60 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</title>
+		<link>https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[Management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44370</guid>
+
+					<description><![CDATA[<p>When familiar security concepts carry unfamiliar meanings for different audiences, teams talk past each other without even realizing it. This silent disconnect weakens communication, clarity, and outcomes.</p>
+<p>The post <a href="https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/">The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors</title>
+		<link>https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2025 13:48:47 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[browser extension]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Edge]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44470</guid>
+
+					<description><![CDATA[<p>The extensions were seen profiling users, reading cookie data to create unique identifiers, and executing payloads with browser API access.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/">Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Saporo Raises $8 Million for Identity Security Platform</title>
 		<link>https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/</link>
 		
@@ -62,175 +223,6 @@
 
 					<description><![CDATA[<p>The Codex CLI vulnerability tracked as CVE-2025-61260 can be exploited for command execution.</p>
 <p>The post <a href="https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/">Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Personal Information of 33.7 Million Stolen From Coupang</title>
-		<link>https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 10:38:59 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Coupang]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[South Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44466</guid>
-
-					<description><![CDATA[<p>Names, addresses, email addresses, and phone numbers were compromised in a five-month-long data breach.</p>
-<p>The post <a href="https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/">Personal Information of 33.7 Million Stolen From Coupang</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android&#8217;s December 2025 Updates Patch Two Zero-Days</title>
-		<link>https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 09:36:46 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44465</guid>
-
-					<description><![CDATA[<p>Google warns that two out of the 107 vulnerabilities patched in Android this month have been exploited in limited, targeted attacks.</p>
-<p>The post <a href="https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/">Android&#8217;s December 2025 Updates Patch Two Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Facial Recognition’s Trust Problem</title>
-		<link>https://www.securityweek.com/facial-recognitions-trust-problem/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 16:00:00 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Facial Recognition]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44460</guid>
-
-					<description><![CDATA[<p>Two technologies — one for public safety, one for controlled entry — show why trust in facial recognition must be earned, not assumed.</p>
-<p>The post <a href="https://www.securityweek.com/facial-recognitions-trust-problem/">Facial Recognition’s Trust Problem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown</title>
-		<link>https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 15:37:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[Cryptomixer]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[mixer]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44462</guid>
-
-					<description><![CDATA[<p>Cryptomixer was targeted by law enforcement in Operation Olympia for facilitating cybercrime and money laundering. </p>
-<p>The post <a href="https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/">$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Albiriox Android Malware Developed by Russian Cybercriminals</title>
-		<link>https://www.securityweek.com/new-albiriox-android-malware-developed-by-russian-cybercriminals/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 14:31:12 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Albiriox]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[Android trojan]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44457</guid>
-
-					<description><![CDATA[<p>Albiriox is a banking trojan offered under a malware-as-a-service model for $720 per month.</p>
-<p>The post <a href="https://www.securityweek.com/new-albiriox-android-malware-developed-by-russian-cybercriminals/">New Albiriox Android Malware Developed by Russian Cybercriminals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack</title>
-		<link>https://www.securityweek.com/cisa-warns-of-scadabr-vulnerability-after-hacktivist-ics-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 11:06:58 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HMI]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OpenPLC]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[ScadaBR]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44455</guid>
-
-					<description><![CDATA[<p>CISA has added CVE-2021-26829 to its Known Exploited Vulnerabilities (KEV) catalog.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-scadabr-vulnerability-after-hacktivist-ics-attack/">CISA Warns of ScadaBR Vulnerability After Hacktivist ICS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights</title>
-		<link>https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 01 Dec 2025 09:03:07 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[evil twin]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Michale Clapsis]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[Wi-Fi]]></category>
-		<category><![CDATA[wireless]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44454</guid>
-
-					<description><![CDATA[<p>Michael Clapsis has been sentenced to 7 years and 4 months in prison for stealing sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/">Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>French Soccer Federation Hit by Cyberattack, Member Data Stolen</title>
-		<link>https://www.securityweek.com/french-soccer-federation-hit-by-cyberattack-member-data-stolen/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 28 Nov 2025 14:39:14 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44451</guid>
-
-					<description><![CDATA[<p>According to the federation, the unauthorized access was carried out using a compromised account.</p>
-<p>The post <a href="https://www.securityweek.com/french-soccer-federation-hit-by-cyberattack-member-data-stolen/">French Soccer Federation Hit by Cyberattack, Member Data Stolen</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
