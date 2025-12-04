@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 03 Dec 2025 12:18:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Dec 2025 11:58:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Personal Information Compromised in Freedom Mobile Data Breach</title>
+		<link>https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 11:58:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Freedom Mobile]]></category>
+		<category><![CDATA[telecom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44514</guid>
+
+					<description><![CDATA[<p>Freedom Mobile says hackers stole customers’ personal information from its account management platform.</p>
+<p>The post <a href="https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/">Personal Information Compromised in Freedom Mobile Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Marquis Data Breach Impacts Over 780,000 People</title>
+		<link>https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 11:13:42 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Marquis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44513</guid>
+
+					<description><![CDATA[<p>The compromised personal and financial information includes names, addresses, Social Security numbers, and card numbers.</p>
+<p>The post <a href="https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/">Marquis Data Breach Impacts Over 780,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability</title>
+		<link>https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 10:06:35 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44511</guid>
+
+					<description><![CDATA[<p>A researcher has pointed out that only instances using a newer feature are impacted by CVE-2025-55182.</p>
+<p>The post <a href="https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/">React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Niobium Raises $23 Million for FHE Hardware Acceleration</title>
+		<link>https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 14:03:05 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[FHE]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Niobium]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44503</guid>
+
+					<description><![CDATA[<p>The startup will invest the funds in accelerating development of its second-generation fully homomorphic encryption (FHE) platforms.</p>
+<p>The post <a href="https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/">Niobium Raises $23 Million for FHE Hardware Acceleration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical King Addons Vulnerability Exploited to Hack WordPress Sites</title>
+		<link>https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 13:36:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44502</guid>
+
+					<description><![CDATA[<p>A critical-severity vulnerability in the King Addons for Elementor plugin for WordPress has been exploited to take over websites.</p>
+<p>The post <a href="https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/">Critical King Addons Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims</title>
+		<link>https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2025 12:24:28 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Arizona]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Temu]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44498</guid>
+
+					<description><![CDATA[<p>Arizona is the latest state to sue Temu and its parent company PDD Holdings over allegations that the Chinese online retailer is stealing customers’ data.</p>
+<p>The post <a href="https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/">Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal </title>
 		<link>https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/</link>
 		
@@ -108,121 +227,6 @@
 
 					<description><![CDATA[<p>Windows now displays in the properties tab of LNK files critical information that could reveal malicious code.</p>
 <p>The post <a href="https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/">Microsoft Silently Mitigated Exploited LNK Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 143 Patches High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 08:48:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44487</guid>
-
-					<description><![CDATA[<p>Chrome 143 stable was released with patches for 13 vulnerabilities, including a high-severity flaw in the V8 JavaScript engine.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/">Chrome 143 Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zafran Security Raises $60 Million in Series C Funding</title>
-		<link>https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 16:49:10 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Zafran Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44484</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate product innovation and global expansion.</p>
-<p>The post <a href="https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/">Zafran Security Raises $60 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</title>
-		<link>https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 14:30:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[Management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44370</guid>
-
-					<description><![CDATA[<p>When familiar security concepts carry unfamiliar meanings for different audiences, teams talk past each other without even realizing it. This silent disconnect weakens communication, clarity, and outcomes.</p>
-<p>The post <a href="https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/">The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors</title>
-		<link>https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 13:48:47 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[browser extension]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Edge]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44470</guid>
-
-					<description><![CDATA[<p>The extensions were seen profiling users, reading cookie data to create unique identifiers, and executing payloads with browser API access.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/">Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Saporo Raises $8 Million for Identity Security Platform</title>
-		<link>https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 12:17:09 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[Saporo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44469</guid>
-
-					<description><![CDATA[<p>The Swiss cybersecurity firm will scale its R&#038;D, sales and marketing teams as it pursues expansion across Europe.</p>
-<p>The post <a href="https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/">Saporo Raises $8 Million for Identity Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</title>
-		<link>https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 12:02:32 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Codex CLI]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44468</guid>
-
-					<description><![CDATA[<p>The Codex CLI vulnerability tracked as CVE-2025-61260 can be exploited for command execution.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/">Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
