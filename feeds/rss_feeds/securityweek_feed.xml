@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 04 Dec 2025 11:58:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Dec 2025 11:02:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,201 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Personal Information Compromised in Freedom Mobile Data Breach</title>
-		<link>https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/</link>
+		<title>Lumia Security Raises $18 Million for AI Security and Governance</title>
+		<link>https://www.securityweek.com/lumia-security-raises-18-million-for-ai-security-and-governance/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 11:58:49 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Freedom Mobile]]></category>
-		<category><![CDATA[telecom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44514</guid>
+		<pubDate>Fri, 05 Dec 2025 11:02:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Lumia Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44546</guid>
 
-					<description><![CDATA[<p>Freedom Mobile says hackers stole customers’ personal information from its account management platform.</p>
-<p>The post <a href="https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/">Personal Information Compromised in Freedom Mobile Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup will invest in expanding its engineering and research teams, deepening product integrations, and scaling go-to-market efforts.</p>
+<p>The post <a href="https://www.securityweek.com/lumia-security-raises-18-million-for-ai-security-and-governance/">Lumia Security Raises $18 Million for AI Security and Governance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Marquis Data Breach Impacts Over 780,000 People</title>
-		<link>https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 11:13:42 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Marquis]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44513</guid>
-
-					<description><![CDATA[<p>The compromised personal and financial information includes names, addresses, Social Security numbers, and card numbers.</p>
-<p>The post <a href="https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/">Marquis Data Breach Impacts Over 780,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability</title>
-		<link>https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/</link>
+		<title>Aisuru Botnet Powers Record DDoS Attack Peaking at 29 Tbps</title>
+		<link>https://www.securityweek.com/aisuru-botnet-powers-record-ddos-attack-peaking-at-29-tbps/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 10:06:35 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[React]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44511</guid>
+		<pubDate>Fri, 05 Dec 2025 10:43:48 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Aisuru]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[DDoS record]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44542</guid>
 
-					<description><![CDATA[<p>A researcher has pointed out that only instances using a newer feature are impacted by CVE-2025-55182.</p>
-<p>The post <a href="https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/">React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cloudflare recently mitigated a new record-breaking Aisuru attack that peaked at 14.1 Bpps.</p>
+<p>The post <a href="https://www.securityweek.com/aisuru-botnet-powers-record-ddos-attack-peaking-at-29-tbps/">Aisuru Botnet Powers Record DDoS Attack Peaking at 29 Tbps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Niobium Raises $23 Million for FHE Hardware Acceleration</title>
-		<link>https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/</link>
+		<title>Helmet Security Emerges From Stealth Mode With $9 Million in Funding</title>
+		<link>https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 14:03:05 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[FHE]]></category>
+		<pubDate>Fri, 05 Dec 2025 09:45:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Niobium]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44503</guid>
+		<category><![CDATA[Helmet Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44540</guid>
 
-					<description><![CDATA[<p>The startup will invest the funds in accelerating development of its second-generation fully homomorphic encryption (FHE) platforms.</p>
-<p>The post <a href="https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/">Niobium Raises $23 Million for FHE Hardware Acceleration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Helmet Security has built an end-to-end platform that secures the infrastructure for agentic AI communication.</p>
+<p>The post <a href="https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/">Helmet Security Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Critical King Addons Vulnerability Exploited to Hack WordPress Sites</title>
-		<link>https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/</link>
+		<title>Chinese Hackers Exploiting React2Shell Vulnerability</title>
+		<link>https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 13:36:57 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 07:33:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React2Shell]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44502</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44533</guid>
 
-					<description><![CDATA[<p>A critical-severity vulnerability in the King Addons for Elementor plugin for WordPress has been exploited to take over websites.</p>
-<p>The post <a href="https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/">Critical King Addons Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>AWS has seen multiple China-linked threat groups attempting to exploit the React vulnerability CVE-2025-55182.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/">Chinese Hackers Exploiting React2Shell Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims</title>
-		<link>https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/</link>
+		<title>India Rolls Back Order to Preinstall Cybersecurity App on Smartphones</title>
+		<link>https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 12:24:28 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Arizona]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[data theft]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Temu]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44498</guid>
+		<pubDate>Thu, 04 Dec 2025 19:10:17 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44528</guid>
 
-					<description><![CDATA[<p>Arizona is the latest state to sue Temu and its parent company PDD Holdings over allegations that the Chinese online retailer is stealing customers’ data.</p>
-<p>The post <a href="https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/">Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Ministry of Communications on had asked smartphone makers to install the government’s “Sanchar Saathi” app within 90 days and to prevent users from disabling it. </p>
+<p>The post <a href="https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/">India Rolls Back Order to Preinstall Cybersecurity App on Smartphones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal </title>
-		<link>https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/</link>
+		<title>Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 12:01:59 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[ServiceNow]]></category>
-		<category><![CDATA[Veza Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44496</guid>
+		<pubDate>Thu, 04 Dec 2025 17:48:42 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44527</guid>
 
-					<description><![CDATA[<p>Veza Security was recently valued at more than $800 million after raising $108 million in Series D funding.</p>
-<p>The post <a href="https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/">ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Arctic Wolf, Bugcrowd, Huntress, Palo Alto Networks, and Zscaler.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/">Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Penn and Phoenix Universities Disclose Data Breach After Oracle Hack</title>
-		<link>https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/</link>
+		<title>Agentic Security Firm 7AI Raises $130 Million</title>
+		<link>https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 11:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<category><![CDATA[university]]></category>
-		<category><![CDATA[University of Pennsylvania]]></category>
-		<category><![CDATA[University of Phoenix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44489</guid>
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 15:18:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[7AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Cybereason]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44525</guid>
 
-					<description><![CDATA[<p>The University of Pennsylvania and the University of Phoenix confirm that they are victims of the recent Oracle EBS hacking campaign.</p>
-<p>The post <a href="https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/">Penn and Phoenix Universities Disclose Data Breach After Oracle Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Established in 2024 by Cybereason co-founders Lior Div and Yonatan Striem-Amit, the company has raised a total of $166 million in funding.</p>
+<p>The post <a href="https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/">Agentic Security Firm 7AI Raises $130 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities </title>
-		<link>https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[re:Invent 2025]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44486</guid>
-
-					<description><![CDATA[<p>AWS and cybersecurity vendors have made several announcements at the cloud giant’s re:Invent 2025 event. </p>
-<p>The post <a href="https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/">re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Silently Mitigated Exploited LNK Vulnerability</title>
-		<link>https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/</link>
+		<title>Inotiv Says Personal Information Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/inotiv-says-personal-information-stolen-in-ransomware-attack/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Dec 2025 10:50:31 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[LNK]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44493</guid>
+		<pubDate>Thu, 04 Dec 2025 15:02:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Inotiv]]></category>
+		<category><![CDATA[pharma]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44523</guid>
 
-					<description><![CDATA[<p>Windows now displays in the properties tab of LNK files critical information that could reveal malicious code.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/">Microsoft Silently Mitigated Exploited LNK Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers stole the names, addresses, Social Security numbers, and financial and medical information of 9,542 people.</p>
+<p>The post <a href="https://www.securityweek.com/inotiv-says-personal-information-stolen-in-ransomware-attack/">Inotiv Says Personal Information Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reporters Without Borders Targeted by Russian Hackers</title>
+		<link>https://www.securityweek.com/reporters-without-borders-targeted-by-russian-hackers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 14:15:14 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[Reporters Without Borders]]></category>
+		<category><![CDATA[RSF]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Star Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44520</guid>
+
+					<description><![CDATA[<p>The state-sponsored hackers relied on phishing emails to deliver a malicious payload to Reporters Without Borders (RSF).</p>
+<p>The post <a href="https://www.securityweek.com/reporters-without-borders-targeted-by-russian-hackers/">Reporters Without Borders Targeted by Russian Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Global Cyber Agencies Issue AI Security Guidance for Critical Infrastructure OT</title>
+		<link>https://www.securityweek.com/global-cyber-agencies-issue-ai-security-guidance-for-critical-infrastructure-ot/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 13:18:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ICS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44517</guid>
+
+					<description><![CDATA[<p>The 25-page document outlines four principles for securely integrating AI with operational technology.</p>
+<p>The post <a href="https://www.securityweek.com/global-cyber-agencies-issue-ai-security-guidance-for-critical-infrastructure-ot/">Global Cyber Agencies Issue AI Security Guidance for Critical Infrastructure OT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
