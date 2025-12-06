@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 05 Dec 2025 11:02:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Dec 2025 15:19:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor</title>
+		<link>https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 15:45:00 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44551</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Akamai patches HTTP smuggling vulnerability, Claude Skills used to execute ransomware, PickleScan flaws.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/">In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloudflare Outage Caused by React2Shell Mitigations</title>
+		<link>https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 15:12:59 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[outage]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React2Shell]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44550</guid>
+
+					<description><![CDATA[<p>The critical React vulnerability has been exploited in the wild by Chinese and other threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/">Cloudflare Outage Caused by React2Shell Mitigations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Imper.ai Emerges From Stealth Mode With $28 Million in Funding</title>
+		<link>https://www.securityweek.com/imper-ai-emerges-from-stealth-mode-with-28-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 14:29:52 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Deepfake]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Imper.ai]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44549</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup detects impersonation risk in real-time, across video, phone, and chat communication.</p>
+<p>The post <a href="https://www.securityweek.com/imper-ai-emerges-from-stealth-mode-with-28-million-in-funding/">Imper.ai Emerges From Stealth Mode With $28 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Organizations Warned of Chinese Malware Used for Long-Term Persistence</title>
+		<link>https://www.securityweek.com/us-organizations-warned-of-chinese-malware-used-for-long-term-persistence/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 14:15:19 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[BrickStorm]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Warp Panda]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44548</guid>
+
+					<description><![CDATA[<p>Warp Panda has been using the BrickStorm, Junction, and GuestConduit malware in attacks against US organizations.</p>
+<p>The post <a href="https://www.securityweek.com/us-organizations-warned-of-chinese-malware-used-for-long-term-persistence/">US Organizations Warned of Chinese Malware Used for Long-Term Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Lumia Security Raises $18 Million for AI Security and Governance</title>
 		<link>https://www.securityweek.com/lumia-security-raises-18-million-for-ai-security-and-governance/</link>
 		
@@ -141,88 +220,6 @@
 
 					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Arctic Wolf, Bugcrowd, Huntress, Palo Alto Networks, and Zscaler.</p>
 <p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/">Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Agentic Security Firm 7AI Raises $130 Million</title>
-		<link>https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 15:18:04 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[7AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Cybereason]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44525</guid>
-
-					<description><![CDATA[<p>Established in 2024 by Cybereason co-founders Lior Div and Yonatan Striem-Amit, the company has raised a total of $166 million in funding.</p>
-<p>The post <a href="https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/">Agentic Security Firm 7AI Raises $130 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Inotiv Says Personal Information Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/inotiv-says-personal-information-stolen-in-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 15:02:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Inotiv]]></category>
-		<category><![CDATA[pharma]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44523</guid>
-
-					<description><![CDATA[<p>Hackers stole the names, addresses, Social Security numbers, and financial and medical information of 9,542 people.</p>
-<p>The post <a href="https://www.securityweek.com/inotiv-says-personal-information-stolen-in-ransomware-attack/">Inotiv Says Personal Information Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reporters Without Borders Targeted by Russian Hackers</title>
-		<link>https://www.securityweek.com/reporters-without-borders-targeted-by-russian-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 14:15:14 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Reporters Without Borders]]></category>
-		<category><![CDATA[RSF]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Star Blizzard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44520</guid>
-
-					<description><![CDATA[<p>The state-sponsored hackers relied on phishing emails to deliver a malicious payload to Reporters Without Borders (RSF).</p>
-<p>The post <a href="https://www.securityweek.com/reporters-without-borders-targeted-by-russian-hackers/">Reporters Without Borders Targeted by Russian Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Global Cyber Agencies Issue AI Security Guidance for Critical Infrastructure OT</title>
-		<link>https://www.securityweek.com/global-cyber-agencies-issue-ai-security-guidance-for-critical-infrastructure-ot/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 13:18:04 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ICS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44517</guid>
-
-					<description><![CDATA[<p>The 25-page document outlines four principles for securely integrating AI with operational technology.</p>
-<p>The post <a href="https://www.securityweek.com/global-cyber-agencies-issue-ai-security-guidance-for-critical-infrastructure-ot/">Global Cyber Agencies Issue AI Security Guidance for Critical Infrastructure OT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
