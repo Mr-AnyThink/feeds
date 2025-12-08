@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 05 Dec 2025 15:19:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Dec 2025 12:20:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ransomware Payments Surpassed $4.5 Billion: US Treasury</title>
+		<link>https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 12:20:23 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ransomware payments]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[US Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44557</guid>
+
+					<description><![CDATA[<p>Ransomware payments reached the highest level in 2023, at $1.1 billion paid in 1,512 reported incidents.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/">Ransomware Payments Surpassed $4.5 Billion: US Treasury</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Apache Tika Vulnerability Leads to XXE Injection</title>
+		<link>https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 10:43:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apache]]></category>
+		<category><![CDATA[Apache Tika]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44555</guid>
+
+					<description><![CDATA[<p>The bug allows attackers to carry out XML External Entity (XXE) injection attacks via crafted XFA files inside PDF files.</p>
+<p>The post <a href="https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/">Critical Apache Tika Vulnerability Leads to XXE Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of React2Shell Surges</title>
+		<link>https://www.securityweek.com/exploitation-of-react2shell-surges/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 09:43:11 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React2Shell]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44554</guid>
+
+					<description><![CDATA[<p>An increasing number of threat actors have been attempting to exploit the React vulnerability CVE-2025-55182 in their attacks.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-react2shell-surges/">Exploitation of React2Shell Surges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor</title>
 		<link>https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/</link>
 		
@@ -163,63 +223,6 @@
 
 					<description><![CDATA[<p>Helmet Security has built an end-to-end platform that secures the infrastructure for agentic AI communication.</p>
 <p>The post <a href="https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/">Helmet Security Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hackers Exploiting React2Shell Vulnerability</title>
-		<link>https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 07:33:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[React]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44533</guid>
-
-					<description><![CDATA[<p>AWS has seen multiple China-linked threat groups attempting to exploit the React vulnerability CVE-2025-55182.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/">Chinese Hackers Exploiting React2Shell Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>India Rolls Back Order to Preinstall Cybersecurity App on Smartphones</title>
-		<link>https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 19:10:17 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[India]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44528</guid>
-
-					<description><![CDATA[<p>The Ministry of Communications on had asked smartphone makers to install the government’s “Sanchar Saathi” app within 90 days and to prevent users from disabling it. </p>
-<p>The post <a href="https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/">India Rolls Back Order to Preinstall Cybersecurity App on Smartphones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Dec 2025 17:48:42 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44527</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Arctic Wolf, Bugcrowd, Huntress, Palo Alto Networks, and Zscaler.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/">Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
