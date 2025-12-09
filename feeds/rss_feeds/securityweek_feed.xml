@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 08 Dec 2025 12:20:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Dec 2025 12:20:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity </title>
+		<link>https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 12:20:42 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Hornetsecurity]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[MSP]]></category>
+		<category><![CDATA[Proofpoint]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44569</guid>
+
+					<description><![CDATA[<p>Enterprise cybersecurity giant Proofpoint has completed the acquisition of Germany-based Microsoft 365 security solutions provider Hornetsecurity. Financial details were not officially disclosed when news of the transaction came to light, but it was reported that Proofpoint would be paying $1 billion for its European competitor. SecurityWeek learned at the time that the deal size well [&#8230;]</p>
+<p>The post <a href="https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/">Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New &#8216;Broadside&#8217; Botnet Poses Risk to Shipping Companies</title>
+		<link>https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 11:48:07 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[Broadside]]></category>
+		<category><![CDATA[DVR]]></category>
+		<category><![CDATA[IoT botnet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44568</guid>
+
+					<description><![CDATA[<p>The botnet attempts to steal credentials from infected TBK DVR devices, in addition to abusing them to launch DDoS attacks.</p>
+<p>The post <a href="https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/">New &#8216;Broadside&#8217; Botnet Poses Risk to Shipping Companies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Equixly Raises $11 Million for AI-Powered API Penetration Testing</title>
+		<link>https://www.securityweek.com/equixly-raises-11-million-for-ai-powered-api-penetration-testing/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[Equixly]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[penetration testing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44567</guid>
+
+					<description><![CDATA[<p>The Italian startup will use the investment to build proprietary AI models, accelerate global expansion, and hire new talent.</p>
+<p>The post <a href="https://www.securityweek.com/equixly-raises-11-million-for-ai-powered-api-penetration-testing/">Equixly Raises $11 Million for AI-Powered API Penetration Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 300,000 Individuals Impacted by Vitas Hospice Data Breach</title>
+		<link>https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 09:41:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Vitas]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44566</guid>
+
+					<description><![CDATA[<p>Vitas, the largest for-profit hospice chain in the United States, discovered a cybersecurity intrusion in October.</p>
+<p>The post <a href="https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/">Over 300,000 Individuals Impacted by Vitas Hospice Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Fortifies Chrome Agentic AI Against Indirect Prompt Injection Attacks</title>
+		<link>https://www.securityweek.com/google-fortifies-chrome-agentic-ai-against-indirect-prompt-injection-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 18:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44565</guid>
+
+					<description><![CDATA[<p>Chrome’s new agentic browsing protections include user alignment critic, expanded origin-isolation capabilities, and user confirmations.</p>
+<p>The post <a href="https://www.securityweek.com/google-fortifies-chrome-agentic-ai-against-indirect-prompt-injection-attacks/">Google Fortifies Chrome Agentic AI Against Indirect Prompt Injection Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Keith McCammon, CSO and Co-founder at Red Canary</title>
+		<link>https://www.securityweek.com/ciso-conversations-keith-mccammon-cso-and-co-founder-at-red-canary/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Red Canary]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44556</guid>
+
+					<description><![CDATA[<p>From a basement computer lab to the C-Suite: How Keith McCammon built his career and Red Canary with zero formal training.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-keith-mccammon-cso-and-co-founder-at-red-canary/">CISO Conversations: Keith McCammon, CSO and Co-founder at Red Canary</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Resemble AI Raises $13 Million for AI Threat Detection</title>
+		<link>https://www.securityweek.com/resemble-ai-raises-13-million-for-ai-threat-prevention/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 14:32:33 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Resemble]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44562</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate product development and fuel global expansion.</p>
+<p>The post <a href="https://www.securityweek.com/resemble-ai-raises-13-million-for-ai-threat-prevention/">Resemble AI Raises $13 Million for AI Threat Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tri-Century Eye Care Data Breach Impacts 200,000 Individuals</title>
+		<link>https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 12:45:59 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Tri-Century Eye Care]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44558</guid>
+
+					<description><![CDATA[<p>Tri-Century Eye Care was targeted recently by the Pear ransomware group, which claimed to have stolen over 3 Tb of data. </p>
+<p>The post <a href="https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/">Tri-Century Eye Care Data Breach Impacts 200,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ransomware Payments Surpassed $4.5 Billion: US Treasury</title>
 		<link>https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/</link>
 		
@@ -61,168 +222,6 @@
 
 					<description><![CDATA[<p>The bug allows attackers to carry out XML External Entity (XXE) injection attacks via crafted XFA files inside PDF files.</p>
 <p>The post <a href="https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/">Critical Apache Tika Vulnerability Leads to XXE Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of React2Shell Surges</title>
-		<link>https://www.securityweek.com/exploitation-of-react2shell-surges/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 09:43:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[React]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44554</guid>
-
-					<description><![CDATA[<p>An increasing number of threat actors have been attempting to exploit the React vulnerability CVE-2025-55182 in their attacks.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-react2shell-surges/">Exploitation of React2Shell Surges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor</title>
-		<link>https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 15:45:00 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44551</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Akamai patches HTTP smuggling vulnerability, Claude Skills used to execute ransomware, PickleScan flaws.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/">In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudflare Outage Caused by React2Shell Mitigations</title>
-		<link>https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 15:12:59 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[outage]]></category>
-		<category><![CDATA[React]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44550</guid>
-
-					<description><![CDATA[<p>The critical React vulnerability has been exploited in the wild by Chinese and other threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/">Cloudflare Outage Caused by React2Shell Mitigations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Imper.ai Emerges From Stealth Mode With $28 Million in Funding</title>
-		<link>https://www.securityweek.com/imper-ai-emerges-from-stealth-mode-with-28-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 14:29:52 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Deepfake]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Imper.ai]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44549</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup detects impersonation risk in real-time, across video, phone, and chat communication.</p>
-<p>The post <a href="https://www.securityweek.com/imper-ai-emerges-from-stealth-mode-with-28-million-in-funding/">Imper.ai Emerges From Stealth Mode With $28 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Organizations Warned of Chinese Malware Used for Long-Term Persistence</title>
-		<link>https://www.securityweek.com/us-organizations-warned-of-chinese-malware-used-for-long-term-persistence/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 14:15:19 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[BrickStorm]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Warp Panda]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44548</guid>
-
-					<description><![CDATA[<p>Warp Panda has been using the BrickStorm, Junction, and GuestConduit malware in attacks against US organizations.</p>
-<p>The post <a href="https://www.securityweek.com/us-organizations-warned-of-chinese-malware-used-for-long-term-persistence/">US Organizations Warned of Chinese Malware Used for Long-Term Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lumia Security Raises $18 Million for AI Security and Governance</title>
-		<link>https://www.securityweek.com/lumia-security-raises-18-million-for-ai-security-and-governance/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 11:02:08 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Lumia Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44546</guid>
-
-					<description><![CDATA[<p>The startup will invest in expanding its engineering and research teams, deepening product integrations, and scaling go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/lumia-security-raises-18-million-for-ai-security-and-governance/">Lumia Security Raises $18 Million for AI Security and Governance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aisuru Botnet Powers Record DDoS Attack Peaking at 29 Tbps</title>
-		<link>https://www.securityweek.com/aisuru-botnet-powers-record-ddos-attack-peaking-at-29-tbps/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 10:43:48 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Aisuru]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Cloudflare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[DDoS record]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44542</guid>
-
-					<description><![CDATA[<p>Cloudflare recently mitigated a new record-breaking Aisuru attack that peaked at 14.1 Bpps.</p>
-<p>The post <a href="https://www.securityweek.com/aisuru-botnet-powers-record-ddos-attack-peaking-at-29-tbps/">Aisuru Botnet Powers Record DDoS Attack Peaking at 29 Tbps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Helmet Security Emerges From Stealth Mode With $9 Million in Funding</title>
-		<link>https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 09:45:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Helmet Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44540</guid>
-
-					<description><![CDATA[<p>Helmet Security has built an end-to-end platform that secures the infrastructure for agentic AI communication.</p>
-<p>The post <a href="https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/">Helmet Security Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
