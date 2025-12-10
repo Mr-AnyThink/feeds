@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 09 Dec 2025 12:20:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Dec 2025 11:54:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity </title>
-		<link>https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/</link>
+		<title>Ivanti EPM Update Patches Critical Remote Code Execution Flaw</title>
+		<link>https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 11:53:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44592</guid>
+
+					<description><![CDATA[<p>The XSS vulnerability could allow remote attackers to execute arbitrary JavaScript code with administrator privileges.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/">Ivanti EPM Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical Vulnerabilities With December 2025 Security Updates</title>
+		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 11:08:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44591</guid>
+
+					<description><![CDATA[<p>Affecting Solution Manager, Commerce Cloud, and jConnect SDK, the bugs could lead to code injection and remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/">SAP Patches Critical Vulnerabilities With December 2025 Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 12:20:42 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Hornetsecurity]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Microsoft 365]]></category>
-		<category><![CDATA[MSP]]></category>
-		<category><![CDATA[Proofpoint]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44569</guid>
+		<pubDate>Wed, 10 Dec 2025 09:45:32 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44590</guid>
 
-					<description><![CDATA[<p>Enterprise cybersecurity giant Proofpoint has completed the acquisition of Germany-based Microsoft 365 security solutions provider Hornetsecurity. Financial details were not officially disclosed when news of the transaction came to light, but it was reported that Proofpoint would be paying $1 billion for its European competitor. SecurityWeek learned at the time that the deal size well [&#8230;]</p>
-<p>The post <a href="https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/">Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Dozens of vulnerabilities have been patched by the industrial giants across their products.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New &#8216;Broadside&#8217; Botnet Poses Risk to Shipping Companies</title>
-		<link>https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 11:48:07 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Broadside]]></category>
-		<category><![CDATA[DVR]]></category>
-		<category><![CDATA[IoT botnet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44568</guid>
-
-					<description><![CDATA[<p>The botnet attempts to steal credentials from infected TBK DVR devices, in addition to abusing them to launch DDoS attacks.</p>
-<p>The post <a href="https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/">New &#8216;Broadside&#8217; Botnet Poses Risk to Shipping Companies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Equixly Raises $11 Million for AI-Powered API Penetration Testing</title>
-		<link>https://www.securityweek.com/equixly-raises-11-million-for-ai-powered-api-penetration-testing/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[Equixly]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[penetration testing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44567</guid>
-
-					<description><![CDATA[<p>The Italian startup will use the investment to build proprietary AI models, accelerate global expansion, and hire new talent.</p>
-<p>The post <a href="https://www.securityweek.com/equixly-raises-11-million-for-ai-powered-api-penetration-testing/">Equixly Raises $11 Million for AI-Powered API Penetration Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 300,000 Individuals Impacted by Vitas Hospice Data Breach</title>
-		<link>https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/</link>
+		<title>Intel, AMD Processors Affected by PCIe Vulnerabilities</title>
+		<link>https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 09:41:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Vitas]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44566</guid>
-
-					<description><![CDATA[<p>Vitas, the largest for-profit hospice chain in the United States, discovered a cybersecurity intrusion in October.</p>
-<p>The post <a href="https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/">Over 300,000 Individuals Impacted by Vitas Hospice Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Fortifies Chrome Agentic AI Against Indirect Prompt Injection Attacks</title>
-		<link>https://www.securityweek.com/google-fortifies-chrome-agentic-ai-against-indirect-prompt-injection-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 18:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[prompt injection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44565</guid>
-
-					<description><![CDATA[<p>Chrome’s new agentic browsing protections include user alignment critic, expanded origin-isolation capabilities, and user confirmations.</p>
-<p>The post <a href="https://www.securityweek.com/google-fortifies-chrome-agentic-ai-against-indirect-prompt-injection-attacks/">Google Fortifies Chrome Agentic AI Against Indirect Prompt Injection Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Keith McCammon, CSO and Co-founder at Red Canary</title>
-		<link>https://www.securityweek.com/ciso-conversations-keith-mccammon-cso-and-co-founder-at-red-canary/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 15:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO]]></category>
+		<pubDate>Wed, 10 Dec 2025 08:02:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[CPU]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Red Canary]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44556</guid>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[PCI Express]]></category>
+		<category><![CDATA[PCIe]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44587</guid>
 
-					<description><![CDATA[<p>From a basement computer lab to the C-Suite: How Keith McCammon built his career and Red Canary with zero formal training.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-keith-mccammon-cso-and-co-founder-at-red-canary/">CISO Conversations: Keith McCammon, CSO and Co-founder at Red Canary</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The PCIe flaws, found by Intel employees, can be exploited for information disclosure, escalation of privilege, or DoS.</p>
+<p>The post <a href="https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/">Intel, AMD Processors Affected by PCIe Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Resemble AI Raises $13 Million for AI Threat Detection</title>
-		<link>https://www.securityweek.com/resemble-ai-raises-13-million-for-ai-threat-prevention/</link>
+		<title>UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare</title>
+		<link>https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 02:31:12 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44586</guid>
+
+					<description><![CDATA[<p>Britain and its allies face escalating “hybrid threats … designed to weaken critical national infrastructure, undermine our interests and interfere in our democracies.”</p>
+<p>The post <a href="https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/">UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches Nearly 140 Vulnerabilities</title>
+		<link>https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 14:32:33 +0000</pubDate>
+		<pubDate>Tue, 09 Dec 2025 20:35:49 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44585</guid>
+
+					<description><![CDATA[<p>The Experience Manager security update resolves 117 vulnerabilities, including 116 identified as cross-site scripting (XSS) bugs.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/">Adobe Patches Nearly 140 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches 57 Vulnerabilities, Three Zero-Days</title>
+		<link>https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 20:29:08 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44584</guid>
+
+					<description><![CDATA[<p>Microsoft has addressed a Windows vulnerability exploited as zero-day that allows attackers to obtain System privileges.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/">Microsoft Patches 57 Vulnerabilities, Three Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Names New Operating CISOs in Strategic Move to Strengthen Cyberdefense</title>
+		<link>https://www.securityweek.com/microsoft-names-new-operating-cisos-in-strategic-move-to-strengthen-cyber-defense/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 20:02:11 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44580</guid>
+
+					<description><![CDATA[<p>Promotions across Microsoft’s security organization reinforce the company’s shift toward AI-driven defense and tighter operational oversight under Global CISO Igor Tsyganskiy.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-names-new-operating-cisos-in-strategic-move-to-strengthen-cyber-defense/">Microsoft Names New Operating CISOs in Strategic Move to Strengthen Cyberdefense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Prime Security Raises $20 Million to Build Agentic Security Architect</title>
+		<link>https://www.securityweek.com/prime-security-raises-20-million-to-build-agentic-security-architect/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 17:15:18 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Resemble]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44562</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44579</guid>
 
-					<description><![CDATA[<p>The cybersecurity startup will use the investment to accelerate product development and fuel global expansion.</p>
-<p>The post <a href="https://www.securityweek.com/resemble-ai-raises-13-million-for-ai-threat-prevention/">Resemble AI Raises $13 Million for AI Threat Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The AI-powered platform autonomously conducts security design reviews and proactively identifies design flaws across development work.</p>
+<p>The post <a href="https://www.securityweek.com/prime-security-raises-20-million-to-build-agentic-security-architect/">Prime Security Raises $20 Million to Build Agentic Security Architect</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Tri-Century Eye Care Data Breach Impacts 200,000 Individuals</title>
-		<link>https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/</link>
+		<title>Webinar Today: Inside the First 72 hours of a Cyber Event</title>
+		<link>https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 12:45:59 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Tri-Century Eye Care]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44558</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 16:16:17 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44577</guid>
 
-					<description><![CDATA[<p>Tri-Century Eye Care was targeted recently by the Pear ransomware group, which claimed to have stolen over 3 Tb of data. </p>
-<p>The post <a href="https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/">Tri-Century Eye Care Data Breach Impacts 200,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Payments Surpassed $4.5 Billion: US Treasury</title>
-		<link>https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 12:20:23 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[ransomware payments]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[US Treasury]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44557</guid>
-
-					<description><![CDATA[<p>Ransomware payments reached the highest level in 2023, at $1.1 billion paid in 1,512 reported incidents.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/">Ransomware Payments Surpassed $4.5 Billion: US Treasury</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Apache Tika Vulnerability Leads to XXE Injection</title>
-		<link>https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 10:43:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache]]></category>
-		<category><![CDATA[Apache Tika]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44555</guid>
-
-					<description><![CDATA[<p>The bug allows attackers to carry out XML External Entity (XXE) injection attacks via crafted XFA files inside PDF files.</p>
-<p>The post <a href="https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/">Critical Apache Tika Vulnerability Leads to XXE Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Learn how GRC and SOC teams can turn shared threat intelligence into faster action, clearer communication, and stronger organizational resilience.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/">Webinar Today: Inside the First 72 hours of a Cyber Event</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
