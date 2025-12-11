@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 10 Dec 2025 11:54:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Dec 2025 12:12:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,182 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Wide Range of Malware Delivered in React2Shell Attacks</title>
+		<link>https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2025 12:12:17 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[React2Shell]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44611</guid>
+
+					<description><![CDATA[<p>Cybersecurity companies have been seeing a wide range of malware being delivered in attacks exploiting the critical React vulnerability dubbed React2Shell. A researcher discovered recently that React, the popular open source library for creating application user interfaces, is affected by a critical vulnerability that can be exploited for unauthenticated remote code execution via specially crafted [&#8230;]</p>
+<p>The post <a href="https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/">Wide Range of Malware Delivered in React2Shell Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unpatched Gogs Zero-Day Exploited for Months</title>
+		<link>https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2025 12:01:28 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Gogs]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44610</guid>
+
+					<description><![CDATA[<p>The exploited flaw allows attackers to overwrite files outside the repository, leading to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/">Unpatched Gogs Zero-Day Exploited for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>IBM Patches Over 100 Vulnerabilities</title>
+		<link>https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2025 10:23:28 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[IBM]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44608</guid>
+
+					<description><![CDATA[<p>Most of the 100 vulnerabilities resolved this week, including critical flaws, were in third-party dependencies.</p>
+<p>The post <a href="https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/">IBM Patches Over 100 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Patches Mysterious Chrome Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 11 Dec 2025 07:43:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44604</guid>
+
+					<description><![CDATA[<p>The Chrome zero-day does not have a CVE and it's unclear who reported it and which browser component it affects.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/">Google Patches Mysterious Chrome Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Israeli Cybersecurity Funding Hits $4.4 Billion Record High</title>
+		<link>https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 15:38:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[YL Ventures]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44597</guid>
+
+					<description><![CDATA[<p>Over the past decade, overall funding in Israeli cybersecurity companies has increased by more than 500%, according to YL Ventures. </p>
+<p>The post <a href="https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/">Israeli Cybersecurity Funding Hits $4.4 Billion Record High</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Cyber AI &#038; Automation Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 15:14:25 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44599</guid>
+
+					<description><![CDATA[<p>Join to access sessions aimed at educating, inspiring, and provoking new ways of thinking about the hype and promise surrounding AI-powered enterprise security solutions and the threats posed by adversarial use of AI.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/">Virtual Event Today: Cyber AI &amp; Automation Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Indicts Extradited Ukrainian on Charges of Aiding Russian Hacking Groups</title>
+		<link>https://www.securityweek.com/us-indicts-extradited-ukrainian-on-charges-of-aiding-russian-hacking-groups/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 13:51:18 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[hacktivists]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<category><![CDATA[Victoria Dubranova]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44596</guid>
+
+					<description><![CDATA[<p>Victoria Dubranova faces over 25 years in prison for links to Russia-backed CARR and NoName hacktivist groups.</p>
+<p>The post <a href="https://www.securityweek.com/us-indicts-extradited-ukrainian-on-charges-of-aiding-russian-hacking-groups/">US Indicts Extradited Ukrainian on Charges of Aiding Russian Hacking Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Patches Gemini Enterprise Vulnerability Exposing Corporate Data </title>
+		<link>https://www.securityweek.com/google-patches-gemini-enterprise-vulnerability-exposing-corporate-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 12:53:17 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini Enterprise]]></category>
+		<category><![CDATA[GeminiJack]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44594</guid>
+
+					<description><![CDATA[<p>GeminiJack is a zero-click Gemini attack that could have been exploited using specially crafted emails, calendar invites, or documents.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-gemini-enterprise-vulnerability-exposing-corporate-data/">Google Patches Gemini Enterprise Vulnerability Exposing Corporate Data </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches Critical Authentication Bypass Vulnerabilities</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2025 12:39:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44593</guid>
+
+					<description><![CDATA[<p>The two security defects impact FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager with FortiCloud SSO login authentication enabled.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/">Fortinet Patches Critical Authentication Bypass Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ivanti EPM Update Patches Critical Remote Code Execution Flaw</title>
 		<link>https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/</link>
 		
@@ -40,179 +216,6 @@
 
 					<description><![CDATA[<p>The XSS vulnerability could allow remote attackers to execute arbitrary JavaScript code with administrator privileges.</p>
 <p>The post <a href="https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/">Ivanti EPM Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical Vulnerabilities With December 2025 Security Updates</title>
-		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 11:08:55 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44591</guid>
-
-					<description><![CDATA[<p>Affecting Solution Manager, Commerce Cloud, and jConnect SDK, the bugs could lead to code injection and remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/">SAP Patches Critical Vulnerabilities With December 2025 Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 09:45:32 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44590</guid>
-
-					<description><![CDATA[<p>Dozens of vulnerabilities have been patched by the industrial giants across their products.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Intel, AMD Processors Affected by PCIe Vulnerabilities</title>
-		<link>https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 08:02:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[CPU]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[PCI Express]]></category>
-		<category><![CDATA[PCIe]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44587</guid>
-
-					<description><![CDATA[<p>The PCIe flaws, found by Intel employees, can be exploited for information disclosure, escalation of privilege, or DoS.</p>
-<p>The post <a href="https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/">Intel, AMD Processors Affected by PCIe Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare</title>
-		<link>https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 02:31:12 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44586</guid>
-
-					<description><![CDATA[<p>Britain and its allies face escalating “hybrid threats … designed to weaken critical national infrastructure, undermine our interests and interfere in our democracies.”</p>
-<p>The post <a href="https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/">UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Nearly 140 Vulnerabilities</title>
-		<link>https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 20:35:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44585</guid>
-
-					<description><![CDATA[<p>The Experience Manager security update resolves 117 vulnerabilities, including 116 identified as cross-site scripting (XSS) bugs.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/">Adobe Patches Nearly 140 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches 57 Vulnerabilities, Three Zero-Days</title>
-		<link>https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 20:29:08 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44584</guid>
-
-					<description><![CDATA[<p>Microsoft has addressed a Windows vulnerability exploited as zero-day that allows attackers to obtain System privileges.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/">Microsoft Patches 57 Vulnerabilities, Three Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Names New Operating CISOs in Strategic Move to Strengthen Cyberdefense</title>
-		<link>https://www.securityweek.com/microsoft-names-new-operating-cisos-in-strategic-move-to-strengthen-cyber-defense/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 20:02:11 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44580</guid>
-
-					<description><![CDATA[<p>Promotions across Microsoft’s security organization reinforce the company’s shift toward AI-driven defense and tighter operational oversight under Global CISO Igor Tsyganskiy.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-names-new-operating-cisos-in-strategic-move-to-strengthen-cyber-defense/">Microsoft Names New Operating CISOs in Strategic Move to Strengthen Cyberdefense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prime Security Raises $20 Million to Build Agentic Security Architect</title>
-		<link>https://www.securityweek.com/prime-security-raises-20-million-to-build-agentic-security-architect/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 17:15:18 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44579</guid>
-
-					<description><![CDATA[<p>The AI-powered platform autonomously conducts security design reviews and proactively identifies design flaws across development work.</p>
-<p>The post <a href="https://www.securityweek.com/prime-security-raises-20-million-to-build-agentic-security-architect/">Prime Security Raises $20 Million to Build Agentic Security Architect</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Inside the First 72 hours of a Cyber Event</title>
-		<link>https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 09 Dec 2025 16:16:17 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44577</guid>
-
-					<description><![CDATA[<p>Learn how GRC and SOC teams can turn shared threat intelligence into faster action, clearer communication, and stronger organizational resilience.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/">Webinar Today: Inside the First 72 hours of a Cyber Event</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
