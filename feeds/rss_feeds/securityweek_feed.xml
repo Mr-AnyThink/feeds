@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 11 Dec 2025 12:12:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Dec 2025 12:13:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,194 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Wide Range of Malware Delivered in React2Shell Attacks</title>
-		<link>https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 12:12:17 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44611</guid>
-
-					<description><![CDATA[<p>Cybersecurity companies have been seeing a wide range of malware being delivered in attacks exploiting the critical React vulnerability dubbed React2Shell. A researcher discovered recently that React, the popular open source library for creating application user interfaces, is affected by a critical vulnerability that can be exploited for unauthenticated remote code execution via specially crafted [&#8230;]</p>
-<p>The post <a href="https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/">Wide Range of Malware Delivered in React2Shell Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unpatched Gogs Zero-Day Exploited for Months</title>
-		<link>https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/</link>
+		<title>Recent GeoServer Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 12:01:28 +0000</pubDate>
+		<pubDate>Fri, 12 Dec 2025 12:13:10 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Gogs]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44610</guid>
-
-					<description><![CDATA[<p>The exploited flaw allows attackers to overwrite files outside the repository, leading to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/">Unpatched Gogs Zero-Day Exploited for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IBM Patches Over 100 Vulnerabilities</title>
-		<link>https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 10:23:28 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[IBM]]></category>
-		<category><![CDATA[patches]]></category>
+		<category><![CDATA[GeoServer]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44608</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44635</guid>
 
-					<description><![CDATA[<p>Most of the 100 vulnerabilities resolved this week, including critical flaws, were in third-party dependencies.</p>
-<p>The post <a href="https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/">IBM Patches Over 100 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Because user input is not sufficiently sanitized, attackers could exploit the flaw to define external entities within an XML request.</p>
+<p>The post <a href="https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/">Recent GeoServer Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Patches Mysterious Chrome Zero-Day Exploited in the Wild</title>
-		<link>https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/</link>
+		<title>MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</title>
+		<link>https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 07:43:22 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 12:00:01 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CWE Top 25]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44632</guid>
+
+					<description><![CDATA[<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Bug Bounty Program Expanded to Third-Party Code</title>
+		<link>https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 11:01:04 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44604</guid>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44630</guid>
 
-					<description><![CDATA[<p>The Chrome zero-day does not have a CVE and it's unclear who reported it and which browser component it affects.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/">Google Patches Mysterious Chrome Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/">Microsoft Bug Bounty Program Expanded to Third-Party Code</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Israeli Cybersecurity Funding Hits $4.4 Billion Record High</title>
-		<link>https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/</link>
+		<title>Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</title>
+		<link>https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 15:38:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[YL Ventures]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44597</guid>
+		<pubDate>Fri, 12 Dec 2025 10:50:41 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Notepad++]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[updater]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44628</guid>
 
-					<description><![CDATA[<p>Over the past decade, overall funding in Israeli cybersecurity companies has increased by more than 500%, according to YL Ventures. </p>
-<p>The post <a href="https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/">Israeli Cybersecurity Funding Hits $4.4 Billion Record High</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Notepad++ found a vulnerability in the way the software updater authenticates update files. </p>
+<p>The post <a href="https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/">Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Virtual Event Today: Cyber AI &#038; Automation Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/</link>
+		<title>$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</title>
+		<link>https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 07:41:41 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[hacking competition]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zeroday.Cloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44625</guid>
+
+					<description><![CDATA[<p>Participants earned rewards at the hacking competition for Grafana, Linux Kernel, Redis, MariaDB, and PostgreSQL vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/">$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Signs Executive Order to Block State AI Regulations</title>
+		<link>https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 02:44:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Regulations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44623</guid>
+
+					<description><![CDATA[<p>Members of Congress from both parties have pushed for more regulations on AI, saying there is not enough oversight for the powerful technology.</p>
+<p>The post <a href="https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/">Trump Signs Executive Order to Block State AI Regulations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Event Today: Cyber AI &#038; Automation Summit Day 2</title>
+		<link>https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 15:14:25 +0000</pubDate>
+		<pubDate>Thu, 11 Dec 2025 15:55:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Event]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44599</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44618</guid>
 
-					<description><![CDATA[<p>Join to access sessions aimed at educating, inspiring, and provoking new ways of thinking about the hype and promise surrounding AI-powered enterprise security solutions and the threats posed by adversarial use of AI.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/">Virtual Event Today: Cyber AI &amp; Automation Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Day two of the Cyber AI &#038; Automation Summit kicks off at 11AM ET. If you weren't able to attend yesterday, all Day One sessions are already available on-demand.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/">Virtual Event Today: Cyber AI &amp; Automation Summit Day 2</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Indicts Extradited Ukrainian on Charges of Aiding Russian Hacking Groups</title>
-		<link>https://www.securityweek.com/us-indicts-extradited-ukrainian-on-charges-of-aiding-russian-hacking-groups/</link>
+		<title>Former Accenture Employee Charged Over Cybersecurity Fraud</title>
+		<link>https://www.securityweek.com/former-accenture-employee-charged-over-cybersecurity-fraud/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 13:51:18 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
+		<pubDate>Thu, 11 Dec 2025 14:09:28 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
 		<category><![CDATA[charged]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[hacktivists]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<category><![CDATA[Victoria Dubranova]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44596</guid>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Danielle Hillmer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44615</guid>
 
-					<description><![CDATA[<p>Victoria Dubranova faces over 25 years in prison for links to Russia-backed CARR and NoName hacktivist groups.</p>
-<p>The post <a href="https://www.securityweek.com/us-indicts-extradited-ukrainian-on-charges-of-aiding-russian-hacking-groups/">US Indicts Extradited Ukrainian on Charges of Aiding Russian Hacking Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Danielle Hillmer allegedly concealed the fact that her employer’s cloud platform did not meet DoD requirements.</p>
+<p>The post <a href="https://www.securityweek.com/former-accenture-employee-charged-over-cybersecurity-fraud/">Former Accenture Employee Charged Over Cybersecurity Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Patches Gemini Enterprise Vulnerability Exposing Corporate Data </title>
-		<link>https://www.securityweek.com/google-patches-gemini-enterprise-vulnerability-exposing-corporate-data/</link>
+		<title>MITRE Posts Results of 2025 ATT&#038;CK Enterprise Evaluations</title>
+		<link>https://www.securityweek.com/mitre-posts-results-of-2025-attck-enterprise-evaluations/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 12:53:17 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Gemini Enterprise]]></category>
-		<category><![CDATA[GeminiJack]]></category>
-		<category><![CDATA[prompt injection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44594</guid>
+		<pubDate>Thu, 11 Dec 2025 13:50:44 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[assessment]]></category>
+		<category><![CDATA[evaluation]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<category><![CDATA[MITRE ATT&CK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44614</guid>
 
-					<description><![CDATA[<p>GeminiJack is a zero-click Gemini attack that could have been exploited using specially crafted emails, calendar invites, or documents.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-gemini-enterprise-vulnerability-exposing-corporate-data/">Google Patches Gemini Enterprise Vulnerability Exposing Corporate Data </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Eleven companies took part in the evaluations and several have boasted 100% detection and coverage rates. </p>
+<p>The post <a href="https://www.securityweek.com/mitre-posts-results-of-2025-attck-enterprise-evaluations/">MITRE Posts Results of 2025 ATT&amp;CK Enterprise Evaluations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Fortinet Patches Critical Authentication Bypass Vulnerabilities</title>
-		<link>https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/</link>
+		<title>Pierce County Library Data Breach Impacts 340,000</title>
+		<link>https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 12:39:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44593</guid>
+		<pubDate>Thu, 11 Dec 2025 13:00:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[PCLS]]></category>
+		<category><![CDATA[Pierce County Library]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44612</guid>
 
-					<description><![CDATA[<p>The two security defects impact FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager with FortiCloud SSO login authentication enabled.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/">Fortinet Patches Critical Authentication Bypass Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti EPM Update Patches Critical Remote Code Execution Flaw</title>
-		<link>https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 11:53:55 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44592</guid>
-
-					<description><![CDATA[<p>The XSS vulnerability could allow remote attackers to execute arbitrary JavaScript code with administrator privileges.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/">Ivanti EPM Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>In April 2025, hackers stole personal information belonging to patrons and employees and their family members.</p>
+<p>The post <a href="https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/">Pierce County Library Data Breach Impacts 340,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
