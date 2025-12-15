@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 12 Dec 2025 18:17:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Dec 2025 11:50:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,104 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Soverli Raises $2.6 Million for Secure Smartphone OS</title>
+		<link>https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 11:50:02 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Soverli]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44652</guid>
+
+					<description><![CDATA[<p>The sovereign smartphone OS runs along Android or iOS, allowing users to switch between secure, isolated environments.</p>
+<p>The post <a href="https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/">Soverli Raises $2.6 Million for Secure Smartphone OS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian Patches Critical Apache Tika Flaw</title>
+		<link>https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 11:00:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44650</guid>
+
+					<description><![CDATA[<p>Atlassian has released software updates for Bamboo, Bitbucket, Confluence, Crowd, Fisheye/Crucible, and Jira.</p>
+<p>The post <a href="https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/">Atlassian Patches Critical Apache Tika Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Third DraftKings Hacker Pleads Guilty</title>
+		<link>https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 10:31:54 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[credential stuffing]]></category>
+		<category><![CDATA[DraftKings]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44649</guid>
+
+					<description><![CDATA[<p>Nathan Austad admitted in court to launching a credential stuffing attack against a fantasy sports and betting website.</p>
+<p>The post <a href="https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/">Third DraftKings Hacker Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>700Credit Data Breach Impacts 5.8 Million Individuals</title>
+		<link>https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 09:21:39 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[700Credit]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44648</guid>
+
+					<description><![CDATA[<p>Hackers stole names, addresses, dates of birth, and Social Security numbers from the credit report and identity verification services provider.</p>
+<p>The post <a href="https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/">700Credit Data Breach Impacts 5.8 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw</title>
+		<link>https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2025 08:47:26 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[WebKit]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44647</guid>
+
+					<description><![CDATA[<p>Apple has released macOS and iOS updates to patch two WebKit zero-days exploited in an “extremely sophisticated” attack.</p>
+<p>The post <a href="https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/">Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy</title>
 		<link>https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/</link>
 		
@@ -116,106 +214,6 @@
 
 					<description><![CDATA[<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>
 <p>The post <a href="https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Bug Bounty Program Expanded to Third-Party Code</title>
-		<link>https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 11:01:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44630</guid>
-
-					<description><![CDATA[<p>All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/">Microsoft Bug Bounty Program Expanded to Third-Party Code</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</title>
-		<link>https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 10:50:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Notepad++]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[updater]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44628</guid>
-
-					<description><![CDATA[<p>Notepad++ found a vulnerability in the way the software updater authenticates update files. </p>
-<p>The post <a href="https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/">Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</title>
-		<link>https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 07:41:41 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[hacking competition]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zeroday.Cloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44625</guid>
-
-					<description><![CDATA[<p>Participants earned rewards at the hacking competition for Grafana, Linux Kernel, Redis, MariaDB, and PostgreSQL vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/">$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Signs Executive Order to Block State AI Regulations</title>
-		<link>https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 02:44:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Regulations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44623</guid>
-
-					<description><![CDATA[<p>Members of Congress from both parties have pushed for more regulations on AI, saying there is not enough oversight for the powerful technology.</p>
-<p>The post <a href="https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/">Trump Signs Executive Order to Block State AI Regulations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Cyber AI &#038; Automation Summit Day 2</title>
-		<link>https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 15:55:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Event]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44618</guid>
-
-					<description><![CDATA[<p>Day two of the Cyber AI &#038; Automation Summit kicks off at 11AM ET. If you weren't able to attend yesterday, all Day One sessions are already available on-demand.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/">Virtual Event Today: Cyber AI &amp; Automation Summit Day 2</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
