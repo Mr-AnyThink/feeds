@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 16 Dec 2025 11:39:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Dec 2025 12:13:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>JumpCloud Remote Assist Vulnerability Can Expose Systems to Takeover</title>
-		<link>https://www.securityweek.com/jumpcloud-remote-assist-vulnerability-can-expose-systems-to-takeover/</link>
+		<title>Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking</title>
+		<link>https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Dec 2025 11:39:54 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[JumpCloud]]></category>
-		<category><![CDATA[JumpCloud Remote Assist]]></category>
-		<category><![CDATA[privilege escalation]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44660</guid>
-
-					<description><![CDATA[<p>The issue allows attackers to write arbitrary data to any file, or delete arbitrary files to obtain System privileges.</p>
-<p>The post <a href="https://www.securityweek.com/jumpcloud-remote-assist-vulnerability-can-expose-systems-to-takeover/">JumpCloud Remote Assist Vulnerability Can Expose Systems to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>User Data Compromised in SoundCloud Hack </title>
-		<link>https://www.securityweek.com/user-data-compromised-in-soundcloud-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 16 Dec 2025 10:47:58 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[SoundCloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44658</guid>
-
-					<description><![CDATA[<p>SoundCloud said the information of 20% of users was accessed by hackers who breached its systems.</p>
-<p>The post <a href="https://www.securityweek.com/user-data-compromised-in-soundcloud-hack/">User Data Compromised in SoundCloud Hack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In-the-Wild Exploitation of Fresh Fortinet Flaws Begins</title>
-		<link>https://www.securityweek.com/in-the-wild-exploitation-of-fresh-fortinet-flaws-begins/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 16 Dec 2025 09:27:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44657</guid>
-
-					<description><![CDATA[<p>Threat actors are exploiting the two critical authentication bypass vulnerabilities against FortiGate appliances.</p>
-<p>The post <a href="https://www.securityweek.com/in-the-wild-exploitation-of-fresh-fortinet-flaws-begins/">In-the-Wild Exploitation of Fresh Fortinet Flaws Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow</title>
-		<link>https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 17:28:17 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Wed, 17 Dec 2025 12:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Risk Management]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Deepfake]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44656</guid>
+		<category><![CDATA[identity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44680</guid>
 
-					<description><![CDATA[<p>AI can be used by extremist groups to pump out propaganda or deepfakes at scale, widening their reach and expanding their influence.</p>
-<p>The post <a href="https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/">Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment.</p>
+<p>The post <a href="https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/">Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Sees 5 Chinese Groups Exploiting React2Shell for Malware Delivery</title>
-		<link>https://www.securityweek.com/google-sees-5-chinese-groups-exploiting-react2shell-for-malware-delivery/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 13:48:37 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[React]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44655</guid>
-
-					<description><![CDATA[<p>Google has also mentioned seeing React2Shell attacks conducted by Iranian threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/google-sees-5-chinese-groups-exploiting-react2shell-for-malware-delivery/">Google Sees 5 Chinese Groups Exploiting React2Shell for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Soverli Raises $2.6 Million for Secure Smartphone OS</title>
-		<link>https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/</link>
+		<title>Adaptive Security Raises $81 Million in Series B Funding</title>
+		<link>https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 11:50:02 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
+		<pubDate>Wed, 17 Dec 2025 11:18:29 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[Adaptive Security]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[Soverli]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44652</guid>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44696</guid>
 
-					<description><![CDATA[<p>The sovereign smartphone OS runs along Android or iOS, allowing users to switch between secure, isolated environments.</p>
-<p>The post <a href="https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/">Soverli Raises $2.6 Million for Secure Smartphone OS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million.</p>
+<p>The post <a href="https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/">Adaptive Security Raises $81 Million in Series B Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Atlassian Patches Critical Apache Tika Flaw</title>
-		<link>https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/</link>
+		<title>GhostPoster Firefox Extensions Hide Malware in Icons</title>
+		<link>https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 11:00:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44650</guid>
+		<pubDate>Wed, 17 Dec 2025 10:40:19 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[GhostPoster]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44694</guid>
 
-					<description><![CDATA[<p>Atlassian has released software updates for Bamboo, Bitbucket, Confluence, Crowd, Fisheye/Crucible, and Jira.</p>
-<p>The post <a href="https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/">Atlassian Patches Critical Apache Tika Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware hijacks purchase commissions, tracks users, removes security headers, injects hidden iframes, and bypasses CAPTCHA.</p>
+<p>The post <a href="https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/">GhostPoster Firefox Extensions Hide Malware in Icons</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Third DraftKings Hacker Pleads Guilty</title>
-		<link>https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 10:31:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[credential stuffing]]></category>
-		<category><![CDATA[DraftKings]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44649</guid>
-
-					<description><![CDATA[<p>Nathan Austad admitted in court to launching a credential stuffing attack against a fantasy sports and betting website.</p>
-<p>The post <a href="https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/">Third DraftKings Hacker Pleads Guilty</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>700Credit Data Breach Impacts 5.8 Million Individuals</title>
-		<link>https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 09:21:39 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[700Credit]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44648</guid>
-
-					<description><![CDATA[<p>Hackers stole names, addresses, dates of birth, and Social Security numbers from the credit report and identity verification services provider.</p>
-<p>The post <a href="https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/">700Credit Data Breach Impacts 5.8 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw</title>
-		<link>https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/</link>
+		<title>Auto Parts Giant LKQ Confirms Oracle EBS Breach</title>
+		<link>https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 15 Dec 2025 08:47:26 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[WebKit]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44647</guid>
+		<pubDate>Wed, 17 Dec 2025 09:11:03 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[LKQ]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44693</guid>
 
-					<description><![CDATA[<p>Apple has released macOS and iOS updates to patch two WebKit zero-days exploited in an “extremely sophisticated” attack.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/">Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>LKQ said the personal information of thousands of individuals was compromised as a result of the hacker attack.</p>
+<p>The post <a href="https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/">Auto Parts Giant LKQ Confirms Oracle EBS Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dux Emerges From Stealth Mode With $9 Million in Funding</title>
+		<link>https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 17 Dec 2025 07:17:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Dux]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[seed funding]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44692</guid>
+
+					<description><![CDATA[<p>The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets.</p>
+<p>The post <a href="https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/">Dux Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>From Open Source to OpenAI: The Evolution of Third-Party Risk</title>
+		<link>https://www.securityweek.com/from-open-source-to-openai-the-evolution-of-third-party-risk/</link>
+		
+		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 18:00:00 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44677</guid>
+
+					<description><![CDATA[<p>From open source libraries to AI-powered coding assistants, speed-driven development is introducing new third-party risks that threat actors are increasingly exploiting.</p>
+<p>The post <a href="https://www.securityweek.com/from-open-source-to-openai-the-evolution-of-third-party-risk/">From Open Source to OpenAI: The Evolution of Third-Party Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Communities – Cybersecurity’s Secret Weapon</title>
+		<link>https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 15:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44666</guid>
+
+					<description><![CDATA[<p>Closed CISO communities act as an information exchange, advice center, pressure valve, and safe haven from critical oversight.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/">CISO Communities – Cybersecurity’s Secret Weapon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>700,000 Records Compromised in Askul Ransomware Attack</title>
+		<link>https://www.securityweek.com/700000-records-compromised-in-askul-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 14:26:25 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Askul]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Japan]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44667</guid>
+
+					<description><![CDATA[<p>The e-commerce and logistics company was targeted by the RansomHouse ransomware group in October. </p>
+<p>The post <a href="https://www.securityweek.com/700000-records-compromised-in-askul-ransomware-attack/">700,000 Records Compromised in Askul Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Echo Raises $35 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/echo-raises-35-million-in-series-a-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 14:01:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[container]]></category>
+		<category><![CDATA[Echo]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Series A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44664</guid>
+
+					<description><![CDATA[<p>The fresh investment comes less than six months after the startup’s seed funding announcement.</p>
+<p>The post <a href="https://www.securityweek.com/echo-raises-35-million-in-series-a-funding/">Echo Raises $35 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Verisoul Raises $8.8 Million for Fraud Prevention</title>
+		<link>https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 16 Dec 2025 14:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Verisoul]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44662</guid>
+
+					<description><![CDATA[<p>The company plans to accelerate product development, scale go-to-market efforts, and hire new talent.</p>
+<p>The post <a href="https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/">Verisoul Raises $8.8 Million for Fraud Prevention</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
