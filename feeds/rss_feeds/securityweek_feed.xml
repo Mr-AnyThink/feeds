@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 19 Dec 2025 19:14:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Dec 2025 12:15:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,89 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gambit Cyber Raises $3.4 Million in Seed Funding</title>
+		<link>https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 12:15:28 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Gambit Cyber]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44749</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the funds to accelerate platform improvements, global expansion, and partnerships.</p>
+<p>The post <a href="https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/">Gambit Cyber Raises $3.4 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US</title>
+		<link>https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 10:56:32 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Artem Stryzhak]]></category>
+		<category><![CDATA[Nefilim]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44747</guid>
+
+					<description><![CDATA[<p>Artem Stryzhak pleaded guilty to conspiracy to commit computer fraud after he was extradited earlier this year.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/">Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WatchGuard Patches Firebox Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 09:44:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Firebox]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[WatchGuard]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44744</guid>
+
+					<description><![CDATA[<p>The critical-severity bug in the Fireware OS’s iked process leads to unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/">WatchGuard Patches Firebox Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports</title>
+		<link>https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 09:01:16 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[UK government]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44743</guid>
+
+					<description><![CDATA[<p>The British government is investigating a “cyber incident” following news reports that hackers linked to China have gained access to thousands of confidential documents.</p>
+<p>The post <a href="https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/">UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Thailand Conference Launches International Initiative to Fight Online Scams</title>
 		<link>https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/</link>
 		
@@ -136,89 +219,6 @@
 
 					<description><![CDATA[<p>The hacking group has been using Group Policy to deploy cyberespionage tools on governmental networks.</p>
 <p>The post <a href="https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/">Chinese APT &#8216;LongNosedGoblin&#8217; Targeting Asian Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Docker Makes 1,000 Hardened Images Free and Open Source</title>
-		<link>https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 13:33:57 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[container]]></category>
-		<category><![CDATA[DHI]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[images]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44728</guid>
-
-					<description><![CDATA[<p>Millions of developers can now use the secure, production-ready images made by Docker.</p>
-<p>The post <a href="https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/">Docker Makes 1,000 Hardened Images Free and Open Source</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator</title>
-		<link>https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 13:03:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[E-Note]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[money laundering]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44727</guid>
-
-					<description><![CDATA[<p>The exchange has been allegedly involved in laundering money for ransomware groups and other transnational cybercriminal organizations.</p>
-<p>The post <a href="https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/">US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>University of Sydney Data Breach Affects 27,000 Individuals </title>
-		<link>https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 11:59:57 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[university]]></category>
-		<category><![CDATA[University of Sydney]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44726</guid>
-
-					<description><![CDATA[<p>Downloaded from a code library, the information pertains to current and former staff and affiliates, and to alumni and students.</p>
-<p>The post <a href="https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/">University of Sydney Data Breach Affects 27,000 Individuals </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Kimwolf&#8217; Android Botnet Ensnares 1.8 Million Devices</title>
-		<link>https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 11:48:49 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android botnet]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Kimwolf]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44724</guid>
-
-					<description><![CDATA[<p>Linked to the Aisuru IoT botnet, Kimwolf was seen launching over 1.7 billion DDoS attack commands and increasing its C&#038;C domain’s popularity.</p>
-<p>The post <a href="https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/">&#8216;Kimwolf&#8217; Android Botnet Ensnares 1.8 Million Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
