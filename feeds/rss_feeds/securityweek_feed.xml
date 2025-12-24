@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 23 Dec 2025 12:17:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Dec 2025 14:48:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>ServiceNow to Acquire Armis for $7.75 Billion in Cash</title>
+		<link>https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 23 Dec 2025 14:28:42 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Armis]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ServiceNow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44770</guid>
+
+					<description><![CDATA[<p>Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million.</p>
+<p>The post <a href="https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/">ServiceNow to Acquire Armis for $7.75 Billion in Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nissan Confirms Impact From Red Hat Data Breach</title>
+		<link>https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Dec 2025 12:26:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Nissan]]></category>
+		<category><![CDATA[red hat]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44769</guid>
+
+					<description><![CDATA[<p>The personal information of 21,000 customers was stolen after hackers compromised Red Hat’s GitLab instances.</p>
+<p>The post <a href="https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/">Nissan Confirms Impact From Red Hat Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</title>
 		<link>https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/</link>
 		
@@ -193,43 +232,6 @@
 
 					<description><![CDATA[<p>The Department of Justice charged 54 individuals, including leaders and members of the Venezuelan crime syndicate Tren de Aragua.</p>
 <p>The post <a href="https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/">ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MacSync macOS Malware Distributed via Signed Swift Application</title>
-		<link>https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Dec 2025 13:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Mac malware]]></category>
-		<category><![CDATA[MacSync Stealer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44748</guid>
-
-					<description><![CDATA[<p>A recent MacSync Stealer version no longer requires users to directly interact with the terminal for execution.</p>
-<p>The post <a href="https://www.securityweek.com/macsync-macos-malware-distributed-via-signed-swift-application/">MacSync macOS Malware Distributed via Signed Swift Application</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gambit Cyber Raises $3.4 Million in Seed Funding</title>
-		<link>https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Dec 2025 12:15:28 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Gambit Cyber]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44749</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will use the funds to accelerate platform improvements, global expansion, and partnerships.</p>
-<p>The post <a href="https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/">Gambit Cyber Raises $3.4 Million in Seed Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
