@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 23 Dec 2025 14:48:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Dec 2025 14:35:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Pro-Russian Hackers Claim Cyberattack on French Postal Service</title>
+		<link>https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 24 Dec 2025 14:35:05 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44772</guid>
+
+					<description><![CDATA[<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>
+<p>The post <a href="https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ServiceNow to Acquire Armis for $7.75 Billion in Cash</title>
 		<link>https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/</link>
 		
@@ -207,31 +227,6 @@
 
 					<description><![CDATA[<p>Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm.</p>
 <p>The post <a href="https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/">Rising Tides: When Cybersecurity Becomes Personal &#8211; Inside the Work of an OSINT Investigator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</title>
-		<link>https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 22 Dec 2025 13:53:02 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[ATM]]></category>
-		<category><![CDATA[ATM jackpotting]]></category>
-		<category><![CDATA[ATM malware]]></category>
-		<category><![CDATA[charges]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Ploutus]]></category>
-		<category><![CDATA[Tren de Aragua]]></category>
-		<category><![CDATA[Venezuela]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44750</guid>
-
-					<description><![CDATA[<p>The Department of Justice charged 54 individuals, including leaders and members of the Venezuelan crime syndicate Tren de Aragua.</p>
-<p>The post <a href="https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/">ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
