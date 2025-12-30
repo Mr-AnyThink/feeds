@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 29 Dec 2025 12:13:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Dec 2025 10:08:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,85 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</title>
+		<link>https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2025 10:08:45 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[HoneyMyte]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Mustang Panda]]></category>
+		<category><![CDATA[rootkit]]></category>
+		<category><![CDATA[ToneShell]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44788</guid>
+
+					<description><![CDATA[<p>The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/">Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Korean Air Data Compromised in Oracle EBS Hack</title>
+		<link>https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2025 08:50:15 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[airline]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Korean Air]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44786</guid>
+
+					<description><![CDATA[<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>
+<p>The post <a href="https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</title>
+		<link>https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 29 Dec 2025 15:40:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Sax]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44785</guid>
+
+					<description><![CDATA[<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>
+<p>The post <a href="https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Warns of New Attacks Exploiting Old Vulnerability</title>
+		<link>https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 29 Dec 2025 12:52:49 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44783</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</title>
 		<link>https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/</link>
 		
@@ -73,6 +152,7 @@
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[EmEditor]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[infostealer]]></category>
 		<category><![CDATA[malware]]></category>
 		<category><![CDATA[supply chain attack]]></category>
@@ -93,6 +173,7 @@
 		<pubDate>Mon, 29 Dec 2025 09:54:15 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[MongoBleed]]></category>
 		<category><![CDATA[MongoDB]]></category>
 		<category><![CDATA[vulnerability]]></category>
@@ -141,86 +222,6 @@
 
 					<description><![CDATA[<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>
 <p>The post <a href="https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ServiceNow to Acquire Armis for $7.75 Billion in Cash</title>
-		<link>https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 23 Dec 2025 14:28:42 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Armis]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ServiceNow]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44770</guid>
-
-					<description><![CDATA[<p>Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million.</p>
-<p>The post <a href="https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/">ServiceNow to Acquire Armis for $7.75 Billion in Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nissan Confirms Impact From Red Hat Data Breach</title>
-		<link>https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 23 Dec 2025 12:26:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Nissan]]></category>
-		<category><![CDATA[red hat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44769</guid>
-
-					<description><![CDATA[<p>The personal information of 21,000 customers was stolen after hackers compromised Red Hat’s GitLab instances.</p>
-<p>The post <a href="https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/">Nissan Confirms Impact From Red Hat Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</title>
-		<link>https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 23 Dec 2025 12:15:29 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[password]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[seized]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44767</guid>
-
-					<description><![CDATA[<p>The cybercriminals attempted to steal $28 million from compromised bank accounts through phishing.</p>
-<p>The post <a href="https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/">Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</title>
-		<link>https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 23 Dec 2025 10:52:05 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[NPM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44766</guid>
-
-					<description><![CDATA[<p>The package provides legitimate functionality to evade detection, while stealing users’ data and deploying a backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/">NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
