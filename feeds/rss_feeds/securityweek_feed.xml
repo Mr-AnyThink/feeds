@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 30 Dec 2025 10:08:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Dec 2025 12:00:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist</title>
+		<link>https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2025 11:58:51 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[Shai-Hulud]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[Trust Wallet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44797</guid>
+
+					<description><![CDATA[<p>The worm exposed Trust Wallet’s Developer GitHub secrets, allowing attackers to publish a backdoor extension and steal funds from 2,520 wallets.</p>
+<p>The post <a href="https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/">Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>European Space Agency Confirms Breach After Hacker Offers to Sell Data</title>
+		<link>https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2025 09:35:22 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ESA]]></category>
+		<category><![CDATA[European Space Agency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[space]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44791</guid>
+
+					<description><![CDATA[<p>The European Space Agency is conducting an investigation and says external science servers have been compromised.</p>
+<p>The post <a href="https://www.securityweek.com/european-space-agency-confirms-breach-after-hacker-offers-to-sell-data/">European Space Agency Confirms Breach After Hacker Offers to Sell Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025</title>
+		<link>https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 30 Dec 2025 12:29:26 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44789</guid>
+
+					<description><![CDATA[<p>The total disclosed value for all the cybersecurity M&#038;A deals announced in 2025 exceeded $84 billion.</p>
+<p>The post <a href="https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/">8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</title>
 		<link>https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/</link>
 		
@@ -160,68 +224,6 @@
 
 					<description><![CDATA[<p>The ‘download’ button on the official EmEditor website served a malicious installer.</p>
 <p>The post <a href="https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fresh MongoDB Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 09:54:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[MongoBleed]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44776</guid>
-
-					<description><![CDATA[<p>Dubbed MongoBleed, the high-severity flaw allows unauthenticated, remote attackers to leak sensitive information from MongoDB servers.</p>
-<p>The post <a href="https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/">Fresh MongoDB Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak</title>
-		<link>https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 09:30:11 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Conde Nast]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Wired]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44774</guid>
-
-					<description><![CDATA[<p>A hacker named Lovely made public 2.3 million records representing Wired subscriber information.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/">Hacker Claims Theft of 40 Million Condé Nast Records After Wired Data Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pro-Russian Hackers Claim Cyberattack on French Postal Service</title>
-		<link>https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 24 Dec 2025 14:35:05 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44772</guid>
-
-					<description><![CDATA[<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>
-<p>The post <a href="https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
