@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 31 Dec 2025 12:00:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jan 2026 12:08:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,87 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</title>
+		<link>https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2026 12:08:33 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Alphv]]></category>
+		<category><![CDATA[blackcat]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44803</guid>
+
+					<description><![CDATA[<p>Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group.</p>
+<p>The post <a href="https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/">Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RondoDox Botnet Exploiting React2Shell Vulnerability</title>
+		<link>https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2026 11:12:02 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[React2Shell]]></category>
+		<category><![CDATA[RondoDox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44801</guid>
+
+					<description><![CDATA[<p>In December, the botnet’s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers.</p>
+<p>The post <a href="https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/">RondoDox Botnet Exploiting React2Shell Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Covenant Health Data Breach Impacts 478,000 Individuals</title>
+		<link>https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2026 10:20:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Covenant Health]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44799</guid>
+
+					<description><![CDATA[<p>The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025. </p>
+<p>The post <a href="https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/">Covenant Health Data Breach Impacts 478,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe ColdFusion Servers Targeted in Coordinated Campaign</title>
+		<link>https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2026 10:11:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe ColdFusion]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[initial access]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44798</guid>
+
+					<description><![CDATA[<p>GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/">Adobe ColdFusion Servers Targeted in Coordinated Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist</title>
 		<link>https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/</link>
 		
@@ -36,6 +117,7 @@
 				<category><![CDATA[Application Security]]></category>
 		<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Shai-Hulud]]></category>
 		<category><![CDATA[Supply Chain]]></category>
 		<category><![CDATA[supply chain attack]]></category>
@@ -147,83 +229,6 @@
 
 					<description><![CDATA[<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>
 <p>The post <a href="https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Warns of New Attacks Exploiting Old Vulnerability</title>
-		<link>https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 12:52:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44783</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</title>
-		<link>https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 12:13:11 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Coupang]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44782</guid>
-
-					<description><![CDATA[<p>The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident.</p>
-<p>The post <a href="https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/">Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>22 Million Affected by Aflac Data Breach</title>
-		<link>https://www.securityweek.com/22-million-affected-by-aflac-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 11:57:08 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Aflac]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[insurance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44780</guid>
-
-					<description><![CDATA[<p>Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac’s systems.</p>
-<p>The post <a href="https://www.securityweek.com/22-million-affected-by-aflac-data-breach/">22 Million Affected by Aflac Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Infostealer Malware Delivered in EmEditor Supply Chain Attack</title>
-		<link>https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 11:21:22 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[EmEditor]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44777</guid>
-
-					<description><![CDATA[<p>The ‘download’ button on the official EmEditor website served a malicious installer.</p>
-<p>The post <a href="https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
