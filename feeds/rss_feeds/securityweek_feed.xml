@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 03 Jan 2026 10:57:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jan 2026 12:02:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes</title>
+		<link>https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2026 12:01:59 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fingerprint]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44813</guid>
+
+					<description><![CDATA[<p>WhatsApp device fingerprinting can be useful in the delivery of sophisticated spyware, but impact is very limited without a zero-day.</p>
+<p>The post <a href="https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/">Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests</title>
 		<link>https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/</link>
 		
@@ -55,6 +76,7 @@
 		<category><![CDATA[Tracking & Law Enforcement]]></category>
 		<category><![CDATA[Alphv]]></category>
 		<category><![CDATA[blackcat]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[plead guilty]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=44803</guid>
 
@@ -208,27 +230,6 @@
 
 					<description><![CDATA[<p>The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor.</p>
 <p>The post <a href="https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/">Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Korean Air Data Compromised in Oracle EBS Hack</title>
-		<link>https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 30 Dec 2025 08:50:15 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[airline]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Korean Air]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44786</guid>
-
-					<description><![CDATA[<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>
-<p>The post <a href="https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
