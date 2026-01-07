@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 06 Jan 2026 11:24:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Jan 2026 11:29:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks</title>
+		<link>https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2026 11:29:23 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[misconfiguration]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[spoofing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44844</guid>
+
+					<description><![CDATA[<p>Threat actors spoof legitimate domains to make their phishing emails appear to have been sent internally.</p>
+<p>The post <a href="https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/">Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking</title>
+		<link>https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44833</guid>
+
+					<description><![CDATA[<p>From dismantling online games as a child to uncovering real-world vulnerabilities, Katie Paxton-Fear explains how autism, curiosity, and a rejection of ambiguity shaped her path into ethical hacking.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/">Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses</title>
+		<link>https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/</link>
+		
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 14:45:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Resilience]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44837</guid>
+
+					<description><![CDATA[<p>We can’t outpace the adversary by trying to stop every attack, but we can outlast them by engineering systems and culture to take a punch and try to quickly rebound.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/">Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers Trap Scattered Lapsus$ Hunters in Honeypot</title>
+		<link>https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 14:03:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[honeypot]]></category>
+		<category><![CDATA[Resecurity]]></category>
+		<category><![CDATA[Scattered Lapsus$ Hunters]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44835</guid>
+
+					<description><![CDATA[<p>Using fake accounts and synthetic data to lure the hackers, the researchers gathered information on their servers.</p>
+<p>The post <a href="https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/">Researchers Trap Scattered Lapsus$ Hunters in Honeypot</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Dolby Vulnerability Patched in Android</title>
+		<link>https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 13:50:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Dolby]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44832</guid>
+
+					<description><![CDATA[<p>The flaw is tracked as CVE-2025-54957 and its existence came to light in October 2025 after it was discovered by Google researchers.</p>
+<p>The post <a href="https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/">Critical Dolby Vulnerability Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sophisticated ClickFix Campaign Targeting Hospitality Sector</title>
+		<link>https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 13:24:20 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[BSOD]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[DCrat]]></category>
+		<category><![CDATA[hospitality]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44830</guid>
+
+					<description><![CDATA[<p>Fake Booking reservation cancellations and fake BSODs trick victims into executing malicious code leading to RAT infections.</p>
+<p>The post <a href="https://www.securityweek.com/sophisticated-clickfix-campaign-targeting-hospitality-sector/">Sophisticated ClickFix Campaign Targeting Hospitality Sector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dozens of Major Data Breaches Linked to Single Threat Actor</title>
+		<link>https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Jan 2026 12:29:24 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Sentap]]></category>
+		<category><![CDATA[Zestix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44829</guid>
+
+					<description><![CDATA[<p>The initial access broker (IAB) relies on credentials exfiltrated using information stealers to hack organizations.</p>
+<p>The post <a href="https://www.securityweek.com/dozens-of-major-data-breaches-linked-to-single-threat-actor/">Dozens of Major Data Breaches Linked to Single Threat Actor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>NordVPN Denies Breach After Hacker Leaks Data</title>
 		<link>https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/</link>
 		
@@ -76,142 +217,6 @@
 
 					<description><![CDATA[<p>Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels.</p>
 <p>The post <a href="https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/">Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Brightspeed Investigating Cyberattack</title>
-		<link>https://www.securityweek.com/brightspeed-investigating-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 17:43:13 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Brightspeed]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44820</guid>
-
-					<description><![CDATA[<p>The hacking group Crimson Collective has claimed the theft of personal information pertaining to over 1 million Brightspeed customers.</p>
-<p>The post <a href="https://www.securityweek.com/brightspeed-investigating-cyberattack/">Brightspeed Investigating Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sedgwick Confirms Cyberattack on Government Subsidiary</title>
-		<link>https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 17:25:51 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Sedgwick]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44819</guid>
-
-					<description><![CDATA[<p>Hackers have compromised a file transfer system at Sedgwick’s subsidiary that serves government agencies.</p>
-<p>The post <a href="https://www.securityweek.com/sedgwick-confirms-cyberattack-on-government-subsidiary/">Sedgwick Confirms Cyberattack on Government Subsidiary</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries</title>
-		<link>https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 15:13:38 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44817</guid>
-
-					<description><![CDATA[<p>With 24 new vulnerabilities known to be exploited by ransomware groups, the list now includes 1,484 software and hardware flaws.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-kev-catalog-expanded-20-in-2025-topping-1480-entries/">CISA KEV Catalog Expanded 20% in 2025, Topping 1,480 Entries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kimwolf Android Botnet Grows Through Residential Proxy Networks</title>
-		<link>https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 12:48:08 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Kimwolf]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44816</guid>
-
-					<description><![CDATA[<p>The 2-million-device-strong botnet allows monetization through DDoS attacks, app installs, and the selling of proxy bandwidth.</p>
-<p>The post <a href="https://www.securityweek.com/kimwolf-android-botnet-grows-through-residential-proxy-networks/">Kimwolf Android Botnet Grows Through Residential Proxy Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes</title>
-		<link>https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 05 Jan 2026 12:01:59 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[fingerprint]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44813</guid>
-
-					<description><![CDATA[<p>WhatsApp device fingerprinting can be useful in the delivery of sophisticated spyware, but impact is very limited without a zero-day.</p>
-<p>The post <a href="https://www.securityweek.com/researcher-spotlights-whatsapp-metadata-leak-as-meta-begins-rolling-out-fixes/">Researcher Spotlights WhatsApp Metadata Leak as Meta Begins Rolling Out Fixes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests</title>
-		<link>https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 03 Jan 2026 10:46:09 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[HieFo Corp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44812</guid>
-
-					<description><![CDATA[<p>The deal involved aerospace and defense specialist Emcore Corp. selling its computer chips and wafer fabrication operation.</p>
-<p>The post <a href="https://www.securityweek.com/president-trump-orders-divestment-in-2-9-million-chips-deal-to-protect-us-security-interests/">President Trump Orders Divestment in $2.9 Million Chips Deal to Protect US Security Interests</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</title>
-		<link>https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 02 Jan 2026 12:08:33 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Alphv]]></category>
-		<category><![CDATA[blackcat]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44803</guid>
-
-					<description><![CDATA[<p>Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group.</p>
-<p>The post <a href="https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/">Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
