@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 09 Jan 2026 12:06:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Jan 2026 15:58:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,122 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k</title>
+		<link>https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 15:58:37 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44889</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Jaguar Land Rover sales crash, hundreds of gen-AI data policy violations, and Chinese cyberattacks against Taiwan intensified.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/">In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tim Kosiba Named NSA Deputy Director</title>
+		<link>https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 15:18:50 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NSA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44886</guid>
+
+					<description><![CDATA[<p>Kosiba, a veteran of the Intelligence Community with over 30 years of federal service, returns to the agency as its most senior civilian leader. </p>
+<p>The post <a href="https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/">Tim Kosiba Named NSA Deputy Director</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes</title>
+		<link>https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 14:56:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Kimsuky]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[QR code]]></category>
+		<category><![CDATA[quishing]]></category>
+		<category><![CDATA[spear-phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44884</guid>
+
+					<description><![CDATA[<p>The North Korean state-sponsored espionage group Kimsuky has targeted government organizations, think tanks, and academic institutions.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/">FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trend Micro Patches Critical Code Execution Flaw in Apex Central</title>
+		<link>https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 14:01:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apex]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44882</guid>
+
+					<description><![CDATA[<p>Tenable has released PoC code and technical details after the vendor announced the availability of patches for three vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/">Trend Micro Patches Critical Code Execution Flaw in Apex Central</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over</title>
+		<link>https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 13:41:50 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44881</guid>
+
+					<description><![CDATA[<p>The Emergency Directives were retired because they achieved objectives or targeted vulnerabilities included in the KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/">CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;ZombieAgent&#8217; Attack Let Researchers Take Over ChatGPT</title>
+		<link>https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 12:41:40 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI hack]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[ZombieAgent]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44876</guid>
+
+					<description><![CDATA[<p>Radware bypassed ChatGPT’s protections to exfiltrate user data and implant a persistent logic into the agent’s long-term memory.</p>
+<p>The post <a href="https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/">&#8216;ZombieAgent&#8217; Attack Let Researchers Take Over ChatGPT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>377,000 Impacted by Data Breach at Texas Gas Station Firm</title>
 		<link>https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/</link>
 		
@@ -100,121 +216,6 @@
 
 					<description><![CDATA[<p>The deal aims to bolster CrowdStrike's Falcon platform with "continuous identity" protection to secure human and AI-driven access in real-time.</p>
 <p>The post <a href="https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/">CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blackbird.AI Raises $28 Million for Narrative Intelligence Platform</title>
-		<link>https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 15:16:35 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Blackbird.AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[misinformation]]></category>
-		<category><![CDATA[narrative intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44864</guid>
-
-					<description><![CDATA[<p>The company will use the funds to enhance its AI-based narrative intelligence technology platform and accelerate go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/">Blackbird.AI Raises $28 Million for Narrative Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyera Raises $400 Million at $9 Billion Valuation</title>
-		<link>https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 15:01:33 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Cyera]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44863</guid>
-
-					<description><![CDATA[<p>The New York-based data security company has tripled its valuation in just one year. </p>
-<p>The post <a href="https://www.securityweek.com/cyera-raises-400-million-at-9-billion-valuation/">Cyera Raises $400 Million at $9 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rethinking Security for Agentic AI</title>
-		<link>https://www.securityweek.com/rethinking-security-for-agentic-ai/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44860</guid>
-
-					<description><![CDATA[<p>When software can think and act on its own, security strategies must shift from static policy enforcement to real-time behavioral governance.</p>
-<p>The post <a href="https://www.securityweek.com/rethinking-security-for-agentic-ai/">Rethinking Security for Agentic AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Patched in jsPDF</title>
-		<link>https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 13:17:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[jsPDF]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44859</guid>
-
-					<description><![CDATA[<p>The bug can allow attackers to read arbitrary files from the system, potentially exposing configurations and credentials.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/">Critical Vulnerability Patched in jsPDF</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Exposes n8n Instances to Takeover Attacks</title>
-		<link>https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 13:11:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[n8n]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44858</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-21858 (CVSS score 10), the bug enables remote code execution without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/">Critical Vulnerability Exposes n8n Instances to Takeover Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking</title>
-		<link>https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 12:41:07 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[IoT security]]></category>
-		<category><![CDATA[wheelchair]]></category>
-		<category><![CDATA[WHILL]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44854</guid>
-
-					<description><![CDATA[<p>CISA advisory warns that unauthenticated Bluetooth access in WHILL devices allows for unauthorized movement.</p>
-<p>The post <a href="https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/">Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
