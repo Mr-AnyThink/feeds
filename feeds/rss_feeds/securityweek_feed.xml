@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 13 Jan 2026 12:20:47 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jan 2026 11:49:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>SAP&#8217;s January 2026 Security Updates Patch Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/</link>
+		<title>WitnessAI Raises $58 Million for AI Security Platform</title>
+		<link>https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 13 Jan 2026 12:20:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SAP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44923</guid>
-
-					<description><![CDATA[<p>SAP has released 17 security notes, including four that address critical SQL injection, RCE, and code injection vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/saps-january-2026-security-updates-patch-critical-vulnerabilities/">SAP&#8217;s January 2026 Security Updates Patch Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dutch Port Hacker Sentenced to Prison</title>
-		<link>https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 13 Jan 2026 11:50:23 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[port]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44922</guid>
-
-					<description><![CDATA[<p>The 44-year-old individual planted remote access malware on a logistics firm’s systems, with help from employees.</p>
-<p>The post <a href="https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/">Dutch Port Hacker Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Spanish Energy Company Endesa Hacked</title>
-		<link>https://www.securityweek.com/spanish-energy-company-endesa-hacked/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 13 Jan 2026 10:40:57 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Endesa]]></category>
-		<category><![CDATA[Spain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44921</guid>
-
-					<description><![CDATA[<p>Hackers stole complete customer information, including contact details, national identity numbers, and payment details.</p>
-<p>The post <a href="https://www.securityweek.com/spanish-energy-company-endesa-hacked/">Spanish Energy Company Endesa Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF </title>
-		<link>https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 13 Jan 2026 08:16:57 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[WEF]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44917</guid>
-
-					<description><![CDATA[<p>Ransomware remains the biggest concern for CISOs in 2026, according to WEF’s Global Cybersecurity Outlook 2026 report.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/">Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44901</guid>
-
-					<description><![CDATA[<p>Here we examine the CISO Outlook for 2026, with the purpose of evaluating what is happening now and preparing leaders for what lies ahead in 2026 and beyond.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/">Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Instagram Fixes Password Reset Vulnerability Amid User Data Leak</title>
-		<link>https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 14:13:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Instagram]]></category>
-		<category><![CDATA[password reset]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44904</guid>
-
-					<description><![CDATA[<p>The social media platform confirmed that the issue allowed third parties to send password reset emails to Instagram users.</p>
-<p>The post <a href="https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/">Instagram Fixes Password Reset Vulnerability Amid User Data Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russia&#8217;s APT28 Targeting Energy Research, Defense Collaboration Entities</title>
-		<link>https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 12:23:13 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44903</guid>
-
-					<description><![CDATA[<p>APT28 was seen impersonating popular webmail and VPN services, including Microsoft OWA, Google, and Sophos VPN portals.</p>
-<p>The post <a href="https://www.securityweek.com/russias-apt28-targeting-energy-research-defense-collaboration-entities/">Russia&#8217;s APT28 Targeting Energy Research, Defense Collaboration Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LLMs in Attacker Crosshairs, Warns Threat Intel Firm</title>
-		<link>https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 11:53:02 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44902</guid>
-
-					<description><![CDATA[<p>Threat actors are hunting for misconfigured proxy servers to gain access to APIs for various LLMs.</p>
-<p>The post <a href="https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/">LLMs in Attacker Crosshairs, Warns Threat Intel Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU Sets February Deadline for Verdict on Google&#8217;s $32B Wiz Acquisition</title>
-		<link>https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 10:37:12 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[antitrust]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Wiz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44898</guid>
-
-					<description><![CDATA[<p>The record-breaking deal has already received a green light from the US government.</p>
-<p>The post <a href="https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/">EU Sets February Deadline for Verdict on Google&#8217;s $32B Wiz Acquisition</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Torq Raises $140 Million at $1.2 Billion Valuation</title>
-		<link>https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 08:26:15 +0000</pubDate>
+		<pubDate>Wed, 14 Jan 2026 11:49:40 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SOC]]></category>
-		<category><![CDATA[Torq]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44897</guid>
+		<category><![CDATA[WitnessAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44953</guid>
 
-					<description><![CDATA[<p>The company will use the investment to accelerate platform adoption and expansion into the federal market.</p>
-<p>The post <a href="https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/">Torq Raises $140 Million at $1.2 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company will use the fresh investment to accelerate its global go-to-market and product expansion.</p>
+<p>The post <a href="https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/">WitnessAI Raises $58 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Robo-Advisor Betterment Discloses Data Breach</title>
+		<link>https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 10:50:45 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Betterment]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44952</guid>
+
+					<description><![CDATA[<p>A threat actor breached Betterment’s systems, accessed customer information, and sent scam crypto-related messages.</p>
+<p>The post <a href="https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/">Robo-Advisor Betterment Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 09:56:38 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44951</guid>
+
+					<description><![CDATA[<p>Exploitable without authentication, the two security defects could lead to configuration leak and code execution.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/">Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 09:50:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44950</guid>
+
+					<description><![CDATA[<p>The two browser updates resolve 26 security defects, including bugs that could be exploited for code execution.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/">Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities</title>
+		<link>https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 21:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44941</guid>
+
+					<description><![CDATA[<p>Two vulnerabilities patched this month by Microsoft were disclosed publicly before fixes were released.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/">Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million</title>
+		<link>https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 20:42:29 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44944</guid>
+
+					<description><![CDATA[<p>News of the move to acquire Seraphic comes less than a week after CrowdStrike announced an agreement to acquire identity security startup SGNL for $740 million.</p>
+<p>The post <a href="https://www.securityweek.com/crowdstrike-to-acquire-browser-security-firm-seraphic-for-420-million/">CrowdStrike to Acquire Browser Security Firm Seraphic for $420 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches Critical Apache Tika Bug in ColdFusion</title>
+		<link>https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 19:54:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[patched]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44942</guid>
+
+					<description><![CDATA[<p>Adobe has released patches for 25 vulnerabilities across its products, including a critical Apache Tika flaw in ColdFusion.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/">Adobe Patches Critical Apache Tika Bug in ColdFusion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GoBruteforcer Botnet Targeting Crypto, Blockchain Projects</title>
+		<link>https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 17:21:53 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[GoBruteforcer]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44938</guid>
+
+					<description><![CDATA[<p>The botnet’s propagation is fueled by the AI-generated server deployments that use weak credentials, and legacy web stacks.</p>
+<p>The post <a href="https://www.securityweek.com/gobruteforcer-botnet-targeting-crypto-blockchain-projects/">GoBruteforcer Botnet Targeting Crypto, Blockchain Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>After Goldman, JPMorgan Discloses Law Firm Data Breach</title>
+		<link>https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 17:09:13 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Fried Frank]]></category>
+		<category><![CDATA[Goldman Sachs]]></category>
+		<category><![CDATA[JPMorgan]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44935</guid>
+
+					<description><![CDATA[<p>The law firm Fried Frank seems to be informing high-profile clients about a recent data security incident. </p>
+<p>The post <a href="https://www.securityweek.com/after-goldman-jpmorgan-discloses-law-firm-data-breach/">After Goldman, JPMorgan Discloses Law Firm Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2026: External Attack Surface Management</title>
+		<link>https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 17:00:29 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[attack surface management]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=44927</guid>
+
+					<description><![CDATA[<p>AI will assist companies in finding their external attack surface, but it will also assist bad actors in locating and attacking the weak points.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-external-attack-surface-management/">Cyber Insights 2026: External Attack Surface Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
