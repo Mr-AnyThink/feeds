@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 17 Jan 2026 11:59:18 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jan 2026 11:11:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</title>
+		<link>https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 11:08:26 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[CrashFix]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45018</guid>
+
+					<description><![CDATA[<p>Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/">Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>42,000 Impacted by Ingram Micro Ransomware Attack</title>
+		<link>https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 10:51:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Ingram Micro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45017</guid>
+
+					<description><![CDATA[<p>The compromised personal information includes names, dates of birth, Social Security numbers, and employment-related data.</p>
+<p>The post <a href="https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/">42,000 Impacted by Ingram Micro Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System</title>
 		<link>https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/</link>
 		
@@ -133,6 +171,7 @@
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[CyberInsights2025]]></category>
 		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[social engineering]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45002</guid>
 
@@ -178,46 +217,6 @@
 
 					<description><![CDATA[<p>China has more than 5,000 cybersecurity companies and all the top 20 firms are working with the government. </p>
 <p>The post <a href="https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/">Cybersecurity Firms React to China&#8217;s Reported Software Ban</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Vulnerability Exploited by Chinese Hackers</title>
-		<link>https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 09:43:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45001</guid>
-
-					<description><![CDATA[<p>UAT-9686 exploited the bug to deploy the AquaShell backdoor on Cisco appliances with certain ports open to the internet.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/">Cisco Patches Vulnerability Exploited by Chinese Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former CISA Director Jen Easterly Appointed CEO of RSAC</title>
-		<link>https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 07:54:57 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[appointed]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Jen Easterly]]></category>
-		<category><![CDATA[RSA Conference]]></category>
-		<category><![CDATA[RSAC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=44998</guid>
-
-					<description><![CDATA[<p>Easterly will be leading the world-renowned cybersecurity conference and other RSAC programs.</p>
-<p>The post <a href="https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/">Former CISA Director Jen Easterly Appointed CEO of RSAC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
