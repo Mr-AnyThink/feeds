@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 19 Jan 2026 11:11:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Jan 2026 12:09:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,152 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>APT-Grade PDFSider Malware Used by Ransomware Groups</title>
+		<link>https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2026 12:09:44 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[DLL hijacking]]></category>
+		<category><![CDATA[DLL sideloading]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PDFSider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45035</guid>
+
+					<description><![CDATA[<p>Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading.</p>
+<p>The post <a href="https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/">APT-Grade PDFSider Malware Used by Ransomware Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Weaponized Invite Enabled Calendar Data Theft via Google Gemini</title>
+		<link>https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2026 10:59:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[calendar]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45034</guid>
+
+					<description><![CDATA[<p>A simple payload allowed attackers to create a new event leaking summaries of the victim’s private meetings.</p>
+<p>The post <a href="https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/">Weaponized Invite Enabled Calendar Data Theft via Google Gemini</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</title>
+		<link>https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 14:39:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45033</guid>
+
+					<description><![CDATA[<p>The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices.</p>
+<p>The post <a href="https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/">TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks</title>
+		<link>https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 13:48:43 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[initial access broker]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45032</guid>
+
+					<description><![CDATA[<p>Operating as an access broker, the defendant sold unauthorized access to compromised networks to an undercover agent.</p>
+<p>The post <a href="https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/">Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;SolyxImmortal&#8217; Information Stealer Emerges</title>
+		<link>https://www.securityweek.com/solyximmortal-information-stealer-emerges/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 13:35:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[SolyxImmortal]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45031</guid>
+
+					<description><![CDATA[<p>The information stealer abuses legitimate APIs and libraries to exfiltrate data to Discord webhooks.</p>
+<p>The post <a href="https://www.securityweek.com/solyximmortal-information-stealer-emerges/">&#8216;SolyxImmortal&#8217; Information Stealer Emerges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2026: Information Sharing</title>
+		<link>https://www.securityweek.com/cyber-insights-2026-information-sharing/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[information sharing]]></category>
+		<category><![CDATA[ISAC]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45020</guid>
+
+					<description><![CDATA[<p>Information sharing is necessary for efficient cybersecurity, and is widespread; but never quite perfect in practice.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-information-sharing/">Cyber Insights 2026: Information Sharing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Reports Reinforce Cyberattack&#8217;s Role in Maduro Capture Blackout</title>
+		<link>https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 12:26:38 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[blackout]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[power grid]]></category>
+		<category><![CDATA[power outage]]></category>
+		<category><![CDATA[Venezuela]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45023</guid>
+
+					<description><![CDATA[<p>US officials told The New York Times that cyberattacks were used to turn off the lights in Caracas and disrupt air defense radars.</p>
+<p>The post <a href="https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/">New Reports Reinforce Cyberattack&#8217;s Role in Maduro Capture Blackout</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</title>
 		<link>https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/</link>
 		
@@ -78,145 +224,6 @@
 
 					<description><![CDATA[<p>Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court’s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs.</p>
 <p>The post <a href="https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/">Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia&#8217;s Polish Grid Attack</title>
-		<link>https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 16:14:58 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45013</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: BodySnatcher agentic AI hijacking, Telegram IP exposure, shipping systems hacked by researcher.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/">In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia&#8217;s Polish Grid Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Monnai Raises $12 Million for Identity and Risk Data Infrastructure</title>
-		<link>https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 14:51:53 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Monnai]]></category>
-		<category><![CDATA[risk management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45012</guid>
-
-					<description><![CDATA[<p>The company will use the investment to accelerate the adoption of its solution among financial institutions and digital businesses.</p>
-<p>The post <a href="https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/">Monnai Raises $12 Million for Identity and Risk Data Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Project Eleven Raises $20 Million for Post-Quantum Security</title>
-		<link>https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 14:21:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Project Eleven]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45011</guid>
-
-					<description><![CDATA[<p>The startup is building the necessary infrastructure and tools to help organizations transition to post-quantum computing.</p>
-<p>The post <a href="https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/">Project Eleven Raises $20 Million for Post-Quantum Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>750,000 Impacted by Data Breach at Canadian Investment Watchdog</title>
-		<link>https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 12:34:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Canada]]></category>
-		<category><![CDATA[CIRO]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45010</guid>
-
-					<description><![CDATA[<p>The incident impacted the personal information of CIRO member firms and their registered employees.</p>
-<p>The post <a href="https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/">750,000 Impacted by Data Breach at Canadian Investment Watchdog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: Social Engineering</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-social-engineering/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[social engineering]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45002</guid>
-
-					<description><![CDATA[<p>We've known that social engineering would get AI wings. Now, at the beginning of 2026, we are learning just how high those wings can soar.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-social-engineering/">Cyber Insights 2026: Social Engineering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking</title>
-		<link>https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 11:50:01 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Bluetooth]]></category>
-		<category><![CDATA[headphone]]></category>
-		<category><![CDATA[WhisperPair]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45003</guid>
-
-					<description><![CDATA[<p>The critical issue impacts Bluetooth audio accessories with improper Google Fast Pair implementations.</p>
-<p>The post <a href="https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/">WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity Firms React to China&#8217;s Reported Software Ban</title>
-		<link>https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 11:25:26 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[ban]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45000</guid>
-
-					<description><![CDATA[<p>China has more than 5,000 cybersecurity companies and all the top 20 firms are working with the government. </p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/">Cybersecurity Firms React to China&#8217;s Reported Software Ban</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
