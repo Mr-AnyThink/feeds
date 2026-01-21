@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 20 Jan 2026 12:09:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jan 2026 12:11:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>MITRE Launches New Security Framework for Embedded Systems </title>
+		<link>https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 12:11:46 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[embedded]]></category>
+		<category><![CDATA[ESTM]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45058</guid>
+
+					<description><![CDATA[<p>The Embedded Systems Threat Matrix (ESTM) aims to help organizations protect critical embedded systems. </p>
+<p>The post <a href="https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/">MITRE Launches New Security Framework for Embedded Systems </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2026: API Security &#8211; Harder to Secure, Impossible to Ignore</title>
+		<link>https://www.securityweek.com/cyber-insights-2026-api-security/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[API security]]></category>
+		<category><![CDATA[CyberInsights2025]]></category>
+		<category><![CDATA[CyberInsights2026]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45046</guid>
+
+					<description><![CDATA[<p>API cybersecurity will be a ping pong ball, battered between the rackets of AI-assisted attackers and AI-assisted defenders.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-api-security/">Cyber Insights 2026: API Security &#8211; Harder to Secure, Impossible to Ignore</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure</title>
+		<link>https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 11:41:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[MCP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45050</guid>
+
+					<description><![CDATA[<p>Impacting Anthropic’s official MCP server, the vulnerabilities can be exploited through prompt injections.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/">Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle&#8217;s First 2026 CPU Delivers 337 New Security Patches</title>
+		<link>https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 10:46:56 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle CPU]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45045</guid>
+
+					<description><![CDATA[<p>Oracle’s January 2026 CPU resolves roughly 230 unique vulnerabilities across more than 30 products.</p>
+<p>The post <a href="https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/">Oracle&#8217;s First 2026 CPU Delivers 337 New Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Analysis of 6 Billion Passwords Shows Stagnant User Behavior</title>
+		<link>https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 09:12:02 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45043</guid>
+
+					<description><![CDATA[<p>The most common stolen passwords in 2025 were 123456, admin, and password, according to a Specops study.</p>
+<p>The post <a href="https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/">Analysis of 6 Billion Passwords Shows Stagnant User Behavior</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China</title>
+		<link>https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2026 19:53:27 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Huawei]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45038</guid>
+
+					<description><![CDATA[<p>Under the new rules, measures for 5G cybersecurity would become mandatory.</p>
+<p>The post <a href="https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/">EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chainlit Vulnerabilities May Leak Sensitive Information</title>
+		<link>https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2026 14:13:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Chainlit]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45036</guid>
+
+					<description><![CDATA[<p>The two bugs, an arbitrary file read and an SSRF bug, can be exploited without user interaction to leak credentials, databases, and other data.</p>
+<p>The post <a href="https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/">Chainlit Vulnerabilities May Leak Sensitive Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>APT-Grade PDFSider Malware Used by Ransomware Groups</title>
 		<link>https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/</link>
 		
@@ -81,149 +222,6 @@
 
 					<description><![CDATA[<p>The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices.</p>
 <p>The post <a href="https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/">TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks</title>
-		<link>https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 13:48:43 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[initial access broker]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45032</guid>
-
-					<description><![CDATA[<p>Operating as an access broker, the defendant sold unauthorized access to compromised networks to an undercover agent.</p>
-<p>The post <a href="https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/">Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;SolyxImmortal&#8217; Information Stealer Emerges</title>
-		<link>https://www.securityweek.com/solyximmortal-information-stealer-emerges/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 13:35:09 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SolyxImmortal]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45031</guid>
-
-					<description><![CDATA[<p>The information stealer abuses legitimate APIs and libraries to exfiltrate data to Discord webhooks.</p>
-<p>The post <a href="https://www.securityweek.com/solyximmortal-information-stealer-emerges/">&#8216;SolyxImmortal&#8217; Information Stealer Emerges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: Information Sharing</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-information-sharing/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 13:30:00 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[information sharing]]></category>
-		<category><![CDATA[ISAC]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45020</guid>
-
-					<description><![CDATA[<p>Information sharing is necessary for efficient cybersecurity, and is widespread; but never quite perfect in practice.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-information-sharing/">Cyber Insights 2026: Information Sharing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Reports Reinforce Cyberattack&#8217;s Role in Maduro Capture Blackout</title>
-		<link>https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 12:26:38 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[blackout]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[power grid]]></category>
-		<category><![CDATA[power outage]]></category>
-		<category><![CDATA[Venezuela]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45023</guid>
-
-					<description><![CDATA[<p>US officials told The New York Times that cyberattacks were used to turn off the lights in Caracas and disrupt air defense radars.</p>
-<p>The post <a href="https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/">New Reports Reinforce Cyberattack&#8217;s Role in Maduro Capture Blackout</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</title>
-		<link>https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 11:08:26 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[CrashFix]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45018</guid>
-
-					<description><![CDATA[<p>Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware.</p>
-<p>The post <a href="https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/">Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>42,000 Impacted by Ingram Micro Ransomware Attack</title>
-		<link>https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 10:51:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Ingram Micro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45017</guid>
-
-					<description><![CDATA[<p>The compromised personal information includes names, dates of birth, Social Security numbers, and employment-related data.</p>
-<p>The post <a href="https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/">42,000 Impacted by Ingram Micro Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System</title>
-		<link>https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 17 Jan 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45015</guid>
-
-					<description><![CDATA[<p>Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court’s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs.</p>
-<p>The post <a href="https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/">Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court’s Filing System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
