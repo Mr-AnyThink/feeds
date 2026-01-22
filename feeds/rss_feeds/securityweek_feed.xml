@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 21 Jan 2026 12:11:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Jan 2026 12:10:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,200 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>MITRE Launches New Security Framework for Embedded Systems </title>
-		<link>https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/</link>
+		<title>New Wave of Attacks Targeting FortiGate Firewalls</title>
+		<link>https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 12:11:46 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[embedded]]></category>
-		<category><![CDATA[ESTM]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45058</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 12:10:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[FortiGate]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[patch bypass]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45073</guid>
 
-					<description><![CDATA[<p>The Embedded Systems Threat Matrix (ESTM) aims to help organizations protect critical embedded systems. </p>
-<p>The post <a href="https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/">MITRE Launches New Security Framework for Embedded Systems </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers bypass the FortiCloud SSO login authentication to create new accounts and change device configurations.</p>
+<p>The post <a href="https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/">New Wave of Attacks Targeting FortiGate Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyber Insights 2026: API Security &#8211; Harder to Secure, Impossible to Ignore</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-api-security/</link>
+		<title>Claroty Raises $150 Million in Series F Funding</title>
+		<link>https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 11:58:28 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Claroty]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[valuation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45072</guid>
+
+					<description><![CDATA[<p>Claroty has raised a total of roughly $900 million and its valuation has reportedly reached $3 billion.</p>
+<p>The post <a href="https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/">Claroty Raises $150 Million in Series F Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Furl Raises $10 Million for Autonomous Vulnerability Remediation</title>
+		<link>https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 11:07:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Furl]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45071</guid>
+
+					<description><![CDATA[<p>The startup will use the new funding to accelerate product development and deepen remediation capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/">Furl Raises $10 Million for Autonomous Vulnerability Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian, GitLab, Zoom Release Security Patches</title>
+		<link>https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 09:39:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[GitLab]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45070</guid>
+
+					<description><![CDATA[<p>Fixes were rolled out for over two dozen vulnerabilities, including critical- and high-severity bugs.</p>
+<p>The post <a href="https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/">Atlassian, GitLab, Zoom Release Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Targeting Cisco Unified CM Zero-Day </title>
+		<link>https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 08:52:24 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45069</guid>
+
+					<description><![CDATA[<p>Cisco has released patches for CVE-2026-20045, a critical vulnerability that can be exploited for unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/">Hackers Targeting Cisco Unified CM Zero-Day </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training</title>
+		<link>https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 16:18:08 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[CyberNut]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[K-12]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45067</guid>
+
+					<description><![CDATA[<p>CyberNut emerged from stealth in May 2024 with $800k in pre-seed funding for its cybersecurity platform.</p>
+<p>The post <a href="https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/">CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Asymmetric Security Emerges From Stealth With $4.2 Million in Funding</title>
+		<link>https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 15:18:17 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Asymmetric Security]]></category>
+		<category><![CDATA[forensics]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45066</guid>
+
+					<description><![CDATA[<p>The startup’s platform leverages AI to automate forensic investigations, accelerating incident response.</p>
+<p>The post <a href="https://www.securityweek.com/asymmetric-security-emerges-from-stealth-with-4-2-million-in-funding/">Asymmetric Security Emerges From Stealth With $4.2 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>aiFWall Emerges From Stealth With an AI Firewall</title>
+		<link>https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[API security]]></category>
-		<category><![CDATA[CyberInsights2025]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45046</guid>
-
-					<description><![CDATA[<p>API cybersecurity will be a ping pong ball, battered between the rackets of AI-assisted attackers and AI-assisted defenders.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-api-security/">Cyber Insights 2026: API Security &#8211; Harder to Secure, Impossible to Ignore</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure</title>
-		<link>https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 11:41:55 +0000</pubDate>
+		<pubDate>Wed, 21 Jan 2026 14:09:42 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[MCP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45050</guid>
-
-					<description><![CDATA[<p>Impacting Anthropic’s official MCP server, the vulnerabilities can be exploited through prompt injections.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/">Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle&#8217;s First 2026 CPU Delivers 337 New Security Patches</title>
-		<link>https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 10:46:56 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle CPU]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45045</guid>
-
-					<description><![CDATA[<p>Oracle’s January 2026 CPU resolves roughly 230 unique vulnerabilities across more than 30 products.</p>
-<p>The post <a href="https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/">Oracle&#8217;s First 2026 CPU Delivers 337 New Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Analysis of 6 Billion Passwords Shows Stagnant User Behavior</title>
-		<link>https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 21 Jan 2026 09:12:02 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[password]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45043</guid>
-
-					<description><![CDATA[<p>The most common stolen passwords in 2025 were 123456, admin, and password, according to a Specops study.</p>
-<p>The post <a href="https://www.securityweek.com/analysis-of-6-billion-passwords-shows-stagnant-user-behavior/">Analysis of 6 Billion Passwords Shows Stagnant User Behavior</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China</title>
-		<link>https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 19:53:27 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
 		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[Europe]]></category>
-		<category><![CDATA[Huawei]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45038</guid>
-
-					<description><![CDATA[<p>Under the new rules, measures for 5G cybersecurity would become mandatory.</p>
-<p>The post <a href="https://www.securityweek.com/eu-plans-phase-out-of-high-risk-telecom-suppliers-in-proposals-seen-as-targeting-china/">EU Plans Phase Out of High Risk Telecom Suppliers, in Proposals Seen as Targeting China</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chainlit Vulnerabilities May Leak Sensitive Information</title>
-		<link>https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 14:13:54 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chainlit]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45036</guid>
+		<category><![CDATA[firewall]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45061</guid>
 
-					<description><![CDATA[<p>The two bugs, an arbitrary file read and an SSRF bug, can be exploited without user interaction to leak credentials, databases, and other data.</p>
-<p>The post <a href="https://www.securityweek.com/chainlit-vulnerabilities-may-leak-sensitive-information/">Chainlit Vulnerabilities May Leak Sensitive Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>aiFWall is a firewall protection for AI deployments built to use AI to improve its own performance.</p>
+<p>The post <a href="https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/">aiFWall Emerges From Stealth With an AI Firewall</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>APT-Grade PDFSider Malware Used by Ransomware Groups</title>
-		<link>https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 12:09:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[DLL hijacking]]></category>
-		<category><![CDATA[DLL sideloading]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PDFSider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45035</guid>
-
-					<description><![CDATA[<p>Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading.</p>
-<p>The post <a href="https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/">APT-Grade PDFSider Malware Used by Ransomware Groups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Weaponized Invite Enabled Calendar Data Theft via Google Gemini</title>
-		<link>https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 10:59:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[calendar]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45034</guid>
-
-					<description><![CDATA[<p>A simple payload allowed attackers to create a new event leaking summaries of the victim’s private meetings.</p>
-<p>The post <a href="https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/">Weaponized Invite Enabled Calendar Data Theft via Google Gemini</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</title>
-		<link>https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/</link>
+		<title>LastPass Users Targeted With Backup-Themed Phishing Emails</title>
+		<link>https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Jan 2026 14:39:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[camera]]></category>
-		<category><![CDATA[TP-Link]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45033</guid>
+		<pubDate>Wed, 21 Jan 2026 13:47:02 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45063</guid>
 
-					<description><![CDATA[<p>The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices.</p>
-<p>The post <a href="https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/">TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Threat actors may have wanted to take advantage of the holiday weekend in the United States to increase their chances of success.</p>
+<p>The post <a href="https://www.securityweek.com/lastpass-users-targeted-with-backup-themed-phishing-emails/">LastPass Users Targeted With Backup-Themed Phishing Emails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Target macOS Developers via Malicious VS Code Projects</title>
+		<link>https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 13:20:11 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[VS Code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45060</guid>
+
+					<description><![CDATA[<p>The hackers trick victims into accessing GitHub or GitLab repositories that are opened using Visual Studio Code.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/">North Korean Hackers Target macOS Developers via Malicious VS Code Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
