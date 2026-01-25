@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 24 Jan 2026 08:45:48 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Jan 2026 18:14:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,6 +37,7 @@
 		<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Nike]]></category>
 		<category><![CDATA[WorldLeaks]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45110</guid>
