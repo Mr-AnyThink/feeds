@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 26 Jan 2026 12:22:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Jan 2026 10:37:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,88 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Organizations Warned of Exploited Linux Vulnerabilities</title>
+		<link>https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 10:37:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45137</guid>
+
+					<description><![CDATA[<p>The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/">Organizations Warned of Exploited Linux Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</title>
+		<link>https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 08:41:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Office]]></category>
+		<category><![CDATA[security bypass]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45135</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features. </p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/">Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms</title>
+		<link>https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 16:11:08 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[door hack]]></category>
+		<category><![CDATA[Dormakaba]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45133</guid>
+
+					<description><![CDATA[<p>More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems.</p>
+<p>The post <a href="https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/">Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Upwind Raises $250 Million at $1.5 Billion Valuation</title>
+		<link>https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2026 14:41:11 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Upwind]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45132</guid>
+
+					<description><![CDATA[<p>The CNAPP company will use the fresh investment to scale its runtime-first cloud security offering across data, AI and code.</p>
+<p>The post <a href="https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/">Upwind Raises $250 Million at $1.5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Crunchbase Confirms Data Breach After Hacking Claims</title>
 		<link>https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/</link>
 		
@@ -151,85 +233,6 @@
 
 					<description><![CDATA[<p>The critical-severity vulnerability can be exploited via crafted network packets for remote code execution.</p>
 <p>The post <a href="https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/">2024 VMware Flaw Now in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nike Probing Potential Security Incident as Hackers Threaten to Leak Data</title>
-		<link>https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 24 Jan 2026 08:45:43 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Nike]]></category>
-		<category><![CDATA[WorldLeaks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45110</guid>
-
-					<description><![CDATA[<p>The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant’s systems.</p>
-<p>The post <a href="https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/">Nike Probing Potential Security Incident as Hackers Threaten to Leak Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices</title>
-		<link>https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 Jan 2026 14:00:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[FortiCloud]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[SSO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45104</guid>
-
-					<description><![CDATA[<p>Similar to recent FortiCloud single sign-on (SSO) login vulnerabilities, the attacks bypass authentication.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/">Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice</title>
-		<link>https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 23 Jan 2026 13:53:29 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45103</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Cloudflare WAF bypass, Canonical Snap Store abused for malware delivery, Curl terminating bug bounty program</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/">In Other News: €1.2B GDPR Fines, Net-NTLMv1 Rainbow Tables, Rockwell Security Notice</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Phishers Abuse SharePoint in New Campaign Targeting Energy Sector</title>
-		<link>https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 23 Jan 2026 13:19:11 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45101</guid>
-
-					<description><![CDATA[<p>Threat actors are leveraging the file-sharing service for payload delivery in AitM phishing and BEC attacks.</p>
-<p>The post <a href="https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/">Phishers Abuse SharePoint in New Campaign Targeting Energy Sector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
