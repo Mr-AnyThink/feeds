@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 27 Jan 2026 10:37:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Jan 2026 10:08:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,211 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Organizations Warned of Exploited Linux Vulnerabilities</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/</link>
+		<title>WhatsApp Boosts Account Security for At-Risk Individuals</title>
+		<link>https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 10:37:02 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45137</guid>
+		<pubDate>Wed, 28 Jan 2026 10:08:21 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45160</guid>
 
-					<description><![CDATA[<p>The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/">Organizations Warned of Exploited Linux Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>New Strict Account Settings allow users to block attachments and media and silence calls from unknown people.</p>
+<p>The post <a href="https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/">WhatsApp Boosts Account Security for At-Risk Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</title>
-		<link>https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/</link>
+		<title>US Charges 31 More Defendants in Massive ATM Hacking Probe</title>
+		<link>https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 08:41:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Office]]></category>
-		<category><![CDATA[security bypass]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45135</guid>
+		<pubDate>Wed, 28 Jan 2026 09:27:41 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[ATM]]></category>
+		<category><![CDATA[ATM jackpotting]]></category>
+		<category><![CDATA[charged]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45159</guid>
 
-					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features. </p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/">Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A total of 87 individuals, mostly Venezuelan nationals, have been charged for their role in the ATM jackpotting scheme.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/">US Charges 31 More Defendants in Massive ATM Hacking Probe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms</title>
-		<link>https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/</link>
+		<title>APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability</title>
+		<link>https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 16:11:08 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2026 09:17:54 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[door hack]]></category>
-		<category><![CDATA[Dormakaba]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45133</guid>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[WinRAR]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45158</guid>
 
-					<description><![CDATA[<p>More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems.</p>
-<p>The post <a href="https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/">Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Russian and Chinese state-sponsored threat actors have been exploiting CVE-2025-8088 since July 2025.</p>
+<p>The post <a href="https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/">APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Upwind Raises $250 Million at $1.5 Billion Valuation</title>
-		<link>https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 14:41:11 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Upwind]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45132</guid>
-
-					<description><![CDATA[<p>The CNAPP company will use the fresh investment to scale its runtime-first cloud security offering across data, AI and code.</p>
-<p>The post <a href="https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/">Upwind Raises $250 Million at $1.5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Crunchbase Confirms Data Breach After Hacking Claims</title>
-		<link>https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/</link>
+		<title>Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems</title>
+		<link>https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 12:22:02 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Crunchbase]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45126</guid>
+		<pubDate>Wed, 28 Jan 2026 08:23:13 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Indurex]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45157</guid>
 
-					<description><![CDATA[<p>Crunchbase was targeted alongside SoundCloud and Betterment in a ShinyHunters campaign.</p>
-<p>The post <a href="https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/">Crunchbase Confirms Data Breach After Hacking Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Indurex was founded by Jalal Bouhdada, who previously led industrial cybersecurity company Applied Risk.</p>
+<p>The post <a href="https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/">Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyber Insights 2026: Threat Hunting in an Age of Automation and AI</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/</link>
+		<title>Fortinet Patches Exploited FortiCloud SSO Authentication Bypass</title>
+		<link>https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2026 08:05:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45156</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-24858, the bug allows attackers to log into devices registered to other FortiCloud accounts.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/">Fortinet Patches Exploited FortiCloud SSO Authentication Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>High-Severity Remote Code Execution Vulnerability Patched in OpenSSL</title>
+		<link>https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2026 07:36:01 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[OpenSSL]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45154</guid>
+
+					<description><![CDATA[<p>A total of 12 vulnerabilities have been fixed in OpenSSL, all discovered by a single cybersecurity firm.</p>
+<p>The post <a href="https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/">High-Severity Remote Code Execution Vulnerability Patched in OpenSSL</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Memcyco Raises $37 Million for Anti-Impersonation Technology</title>
+		<link>https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 15:37:39 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Memcyco]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45148</guid>
+
+					<description><![CDATA[<p>The startup will use the investment to fuel global expansion of its agentless platform, including in Latin America.</p>
+<p>The post <a href="https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/">Memcyco Raises $37 Million for Anti-Impersonation Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 100 Organizations Targeted in ShinyHunters Phishing Campaign</title>
+		<link>https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 14:57:09 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[vishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45147</guid>
+
+					<description><![CDATA[<p>Domains set up by the threat actor suggest attacks aimed at Atlassian, Canva, Epic Games, HubSpot, Moderna, ZoomInfo, and WeWork.</p>
+<p>The post <a href="https://www.securityweek.com/over-100-organizations-targeted-in-shinyhunters-phishing-campaign/">Over 100 Organizations Targeted in ShinyHunters Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;PackageGate&#8217; Flaws Open JavaScript Ecosystem to Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 13:43:32 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45145</guid>
+
+					<description><![CDATA[<p>The protections against NPM supply chain attacks could be bypassed, leading to arbitrary code execution.</p>
+<p>The post <a href="https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/">&#8216;PackageGate&#8217; Flaws Open JavaScript Ecosystem to Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI</title>
+		<link>https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+		<pubDate>Tue, 27 Jan 2026 12:30:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Threat Hunting]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45117</guid>
-
-					<description><![CDATA[<p>Understanding how threat hunting differs from reactive security provides a deeper understanding of the role, while hinting at how it will evolve in the future.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-threat-hunting-in-an-age-of-automation-and-ai/">Cyber Insights 2026: Threat Hunting in an Age of Automation and AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Stanley&#8217; Malware Toolkit Enables Phishing via Website Spoofing</title>
-		<link>https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 11:44:38 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[spoofing]]></category>
-		<category><![CDATA[Stanley]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45124</guid>
-
-					<description><![CDATA[<p>Priced $2,000 - $6,000 on a cybercrime forum, the MaaS toolkit promises publication on the Chrome Web Store.</p>
-<p>The post <a href="https://www.securityweek.com/stanley-malware-toolkit-enables-phishing-via-website-spoofing/">&#8216;Stanley&#8217; Malware Toolkit Enables Phishing via Website Spoofing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok Finalizes a Deal to Form a New American Entity</title>
-		<link>https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 11:29:23 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[ByteDance]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[deal]]></category>
-		<category><![CDATA[national security]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45120</guid>
-
-					<description><![CDATA[<p>TikTok has finalized a deal to create a new American entity, avoiding the looming threat of a ban in the United States.</p>
-<p>The post <a href="https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/">TikTok Finalizes a Deal to Form a New American Entity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid</title>
-		<link>https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 08:55:29 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial General Intelligence]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Poland]]></category>
-		<category><![CDATA[power grid]]></category>
-		<category><![CDATA[Sandworm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45116</guid>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45138</guid>
 
-					<description><![CDATA[<p>10 years after disrupting the Ukrainian power grid, the APT targeted Poland with data-wiping malware.</p>
-<p>The post <a href="https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/">Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>2024 VMware Flaw Now in Attackers&#8217; Crosshairs</title>
-		<link>https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 05:28:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45115</guid>
-
-					<description><![CDATA[<p>The critical-severity vulnerability can be exploited via crafted network packets for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/">2024 VMware Flaw Now in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Quantum computers are coming, with a potential computing power almost beyond comprehension.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/">Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
