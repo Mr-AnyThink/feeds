@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 29 Jan 2026 11:26:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jan 2026 12:29:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,129 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hugging Face Abused to Deploy Android RAT</title>
+		<link>https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 10:56:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android trojan]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45194</guid>
+
+					<description><![CDATA[<p>Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository.</p>
+<p>The post <a href="https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/">Hugging Face Abused to Deploy Android RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</title>
+		<link>https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 09:35:06 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[electric grid]]></category>
+		<category><![CDATA[Electrum]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Poland]]></category>
+		<category><![CDATA[power grid]]></category>
+		<category><![CDATA[RTU]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Sandworm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45193</guid>
+
+					<description><![CDATA[<p>Sandworm/Electrum hackers targeted communication and control systems at 30 sites.</p>
+<p>The post <a href="https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/">ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Patches Exploited EPMM Zero-Days</title>
+		<link>https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 08:32:35 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[EPMM]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45192</guid>
+
+					<description><![CDATA[<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</title>
+		<link>https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2026 15:01:24 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[LLMjacking]]></category>
+		<category><![CDATA[Operation Bizarre Bazaar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45191</guid>
+
+					<description><![CDATA[<p>An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization.</p>
+<p>The post <a href="https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/">LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>N8n Vulnerabilities Could Lead to Remote Code Execution</title>
+		<link>https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2026 14:51:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[n8n]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45190</guid>
+
+					<description><![CDATA[<p>The two bugs impacted n8n’s sandbox mechanism and could be exploited via weaknesses in the AST sanitization logic.</p>
+<p>The post <a href="https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/">N8n Vulnerabilities Could Lead to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarWinds Patches Critical Web Help Desk Vulnerabilities</title>
+		<link>https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2026 13:18:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45189</guid>
+
+					<description><![CDATA[<p>The four critical flaws could be exploited without authentication for remote code execution or authentication bypass.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/">SolarWinds Patches Critical Web Help Desk Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cyber Insights 2026: Zero Trust and Following the Path</title>
 		<link>https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/</link>
 		
@@ -36,6 +159,7 @@
 				<category><![CDATA[Network Security]]></category>
 		<category><![CDATA[Security Infrastructure]]></category>
 		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Zero Trust]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45179</guid>
 
@@ -105,117 +229,6 @@
 
 					<description><![CDATA[<p>Malicious attacks are increasing in frequency, sophistication and damage. Defenders need to find and harden system weaknesses before attackers can attack them.</p>
 <p>The post <a href="https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/">Cyber Insights 2026: Offensive Security; Where It Is and Where It&#8217;s Going</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mesh Security Raises $12 Million for CSMA Platform</title>
-		<link>https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 14:26:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45165</guid>
-
-					<description><![CDATA[<p>The investment will allow Mesh to advance its autonomous, agentic capabilities, and scale sales and customer support efforts.</p>
-<p>The post <a href="https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/">Mesh Security Raises $12 Million for CSMA Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why We Can&#8217;t Let AI Take the Wheel of Cyber Defense</title>
-		<link>https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45166</guid>
-
-					<description><![CDATA[<p>The fastest way to squander the promise of AI is to mistake automation for assurance, and novelty for resilience.</p>
-<p>The post <a href="https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/">Why We Can&#8217;t Let AI Take the Wheel of Cyber Defense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach</title>
-		<link>https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[appsec]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45164</guid>
-
-					<description><![CDATA[<p>Rein aims to close the production visibility gap by stopping attacks inside the application runtime.</p>
-<p>The post <a href="https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/">Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp Boosts Account Security for At-Risk Individuals</title>
-		<link>https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 10:08:21 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45160</guid>
-
-					<description><![CDATA[<p>New Strict Account Settings allow users to block attachments and media and silence calls from unknown people.</p>
-<p>The post <a href="https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/">WhatsApp Boosts Account Security for At-Risk Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Charges 31 More Defendants in Massive ATM Hacking Probe</title>
-		<link>https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 09:27:41 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[ATM]]></category>
-		<category><![CDATA[ATM jackpotting]]></category>
-		<category><![CDATA[charged]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45159</guid>
-
-					<description><![CDATA[<p>A total of 87 individuals, mostly Venezuelan nationals, have been charged for their role in the ATM jackpotting scheme.</p>
-<p>The post <a href="https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/">US Charges 31 More Defendants in Massive ATM Hacking Probe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability</title>
-		<link>https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 09:17:54 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[WinRAR]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45158</guid>
-
-					<description><![CDATA[<p>Russian and Chinese state-sponsored threat actors have been exploiting CVE-2025-8088 since July 2025.</p>
-<p>The post <a href="https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/">APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
