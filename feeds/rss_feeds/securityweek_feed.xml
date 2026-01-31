@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 30 Jan 2026 12:29:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Jan 2026 10:49:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Paid for Being Jailed, Google&#8217;s $68M Settlement, CISA Chief&#8217;s ChatGPT Leak</title>
+		<link>https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 17:49:31 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45200</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Apple updates platform security guide, LastPass detects new phishing wave, CISA withdraws from RSA Conference.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/">In Other News: Paid for Being Jailed, Google&#8217;s $68M Settlement, CISA Chief&#8217;s ChatGPT Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aisy Launches Out of Stealth to Transform Vulnerability Management</title>
+		<link>https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 15:00:46 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Aisy]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[prioritization]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45199</guid>
+
+					<description><![CDATA[<p>Aisy has emerged from stealth mode with $2.3 million in seed funding for its AI-assisted platform.</p>
+<p>The post <a href="https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/">Aisy Launches Out of Stealth to Transform Vulnerability Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>175,000 Exposed Ollama Hosts Could Enable LLM Abuse</title>
+		<link>https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 14:34:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[exposed]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[Ollama]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45198</guid>
+
+					<description><![CDATA[<p>Among them, 23,000 hosts were persistently responsible for the majority of activity observed over 293 days of scanning.</p>
+<p>The post <a href="https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/">175,000 Exposed Ollama Hosts Could Enable LLM Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>White House Scraps &#8216;Burdensome&#8217; Software Security Rules </title>
+		<link>https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2026 12:31:25 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[SBOM]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45195</guid>
+
+					<description><![CDATA[<p>Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. </p>
+<p>The post <a href="https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/">White House Scraps &#8216;Burdensome&#8217; Software Security Rules </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hugging Face Abused to Deploy Android RAT</title>
 		<link>https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/</link>
 		
@@ -56,6 +133,7 @@
 				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[electric grid]]></category>
 		<category><![CDATA[Electrum]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[Poland]]></category>
 		<category><![CDATA[power grid]]></category>
@@ -145,90 +223,6 @@
 
 					<description><![CDATA[<p>The four critical flaws could be exploited without authentication for remote code execution or authentication bypass.</p>
 <p>The post <a href="https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/">SolarWinds Patches Critical Web Help Desk Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: Zero Trust and Following the Path</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45179</guid>
-
-					<description><![CDATA[<p>Zero Trust is not a thing; it is an idea. It is not a product; it is a concept – it is a destination that has no precise route and may never be reached. </p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-zero-trust-and-following-the-path/">Cyber Insights 2026: Zero Trust and Following the Path</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Disrupts IPIDEA Proxy Network </title>
-		<link>https://www.securityweek.com/google-disrupts-ipidea-proxy-network/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 11:26:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[IPIDEA]]></category>
-		<category><![CDATA[proxy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45187</guid>
-
-					<description><![CDATA[<p>One of the largest residential proxy networks, IPIDEA enrolled devices through SDKs for mobile and desktop.</p>
-<p>The post <a href="https://www.securityweek.com/google-disrupts-ipidea-proxy-network/">Google Disrupts IPIDEA Proxy Network </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense</title>
-		<link>https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 07:41:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[alliance]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Google Cloud]]></category>
-		<category><![CDATA[PwC]]></category>
-		<category><![CDATA[Security Operations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45178</guid>
-
-					<description><![CDATA[<p>The announcement comes just weeks after Palo Alto Networks and Google Cloud announced a multibillion-dollar AI and cloud security deal.</p>
-<p>The post <a href="https://www.securityweek.com/pwc-and-google-cloud-ink-400-million-deal-to-scale-ai-powered-defense/">PwC and Google Cloud Ink $400 Million Deal to Scale AI-Powered Defense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: Offensive Security; Where It Is and Where It&#8217;s Going</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<category><![CDATA[Red Team]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45167</guid>
-
-					<description><![CDATA[<p>Malicious attacks are increasing in frequency, sophistication and damage. Defenders need to find and harden system weaknesses before attackers can attack them.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/">Cyber Insights 2026: Offensive Security; Where It Is and Where It&#8217;s Going</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
