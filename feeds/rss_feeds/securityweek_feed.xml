@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 31 Jan 2026 10:49:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Jan 2026 10:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>eScan Antivirus Delivers Malware in Supply Chain Attack</title>
+		<link>https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 31 Jan 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[antivirus]]></category>
+		<category><![CDATA[eScan]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45202</guid>
+
+					<description><![CDATA[<p>Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers.</p>
+<p>The post <a href="https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/">eScan Antivirus Delivers Malware in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Paid for Being Jailed, Google&#8217;s $68M Settlement, CISA Chief&#8217;s ChatGPT Leak</title>
 		<link>https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/</link>
 		
@@ -205,24 +228,6 @@
 
 					<description><![CDATA[<p>The two bugs impacted n8n’s sandbox mechanism and could be exploited via weaknesses in the AST sanitization logic.</p>
 <p>The post <a href="https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/">N8n Vulnerabilities Could Lead to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SolarWinds Patches Critical Web Help Desk Vulnerabilities</title>
-		<link>https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 13:18:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45189</guid>
-
-					<description><![CDATA[<p>The four critical flaws could be exploited without authentication for remote code execution or authentication bypass.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-patches-critical-web-help-desk-vulnerabilities/">SolarWinds Patches Critical Web Help Desk Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
