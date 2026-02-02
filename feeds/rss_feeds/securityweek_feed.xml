@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 31 Jan 2026 10:51:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Feb 2026 11:46:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,100 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</title>
+		<link>https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45203</guid>
+
+					<description><![CDATA[<p>Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve.</p>
+<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/">Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 1,400 MongoDB Databases Ransacked by Threat Actor</title>
+		<link>https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 11:45:56 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[MongoDB]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45212</guid>
+
+					<description><![CDATA[<p>Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor.</p>
+<p>The post <a href="https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/">Over 1,400 MongoDB Databases Ransacked by Threat Actor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Moves Closer to Disabling NTLM</title>
+		<link>https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 11:31:40 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[authentication]]></category>
+		<category><![CDATA[NTLM]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45211</guid>
+
+					<description><![CDATA[<p>The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/">Microsoft Moves Closer to Disabling NTLM</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</title>
+		<link>https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 10:35:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45210</guid>
+
+					<description><![CDATA[<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region.</p>
+<p>The post <a href="https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</title>
+		<link>https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 09:18:18 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Notepad++]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45207</guid>
+
+					<description><![CDATA[<p>The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers.</p>
+<p>The post <a href="https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/">Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>eScan Antivirus Delivers Malware in Supply Chain Attack</title>
 		<link>https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/</link>
 		
@@ -122,112 +216,6 @@
 
 					<description><![CDATA[<p>Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. </p>
 <p>The post <a href="https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/">White House Scraps &#8216;Burdensome&#8217; Software Security Rules </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face Abused to Deploy Android RAT</title>
-		<link>https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 10:56:57 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android trojan]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45194</guid>
-
-					<description><![CDATA[<p>Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository.</p>
-<p>The post <a href="https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/">Hugging Face Abused to Deploy Android RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</title>
-		<link>https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 09:35:06 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[electric grid]]></category>
-		<category><![CDATA[Electrum]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Poland]]></category>
-		<category><![CDATA[power grid]]></category>
-		<category><![CDATA[RTU]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Sandworm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45193</guid>
-
-					<description><![CDATA[<p>Sandworm/Electrum hackers targeted communication and control systems at 30 sites.</p>
-<p>The post <a href="https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/">ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti Patches Exploited EPMM Zero-Days</title>
-		<link>https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 08:32:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[EPMM]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45192</guid>
-
-					<description><![CDATA[<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</title>
-		<link>https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 15:01:24 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[LLMjacking]]></category>
-		<category><![CDATA[Operation Bizarre Bazaar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45191</guid>
-
-					<description><![CDATA[<p>An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization.</p>
-<p>The post <a href="https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/">LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>N8n Vulnerabilities Could Lead to Remote Code Execution</title>
-		<link>https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 14:51:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[n8n]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45190</guid>
-
-					<description><![CDATA[<p>The two bugs impacted n8n’s sandbox mechanism and could be exploited via weaknesses in the AST sanitization logic.</p>
-<p>The post <a href="https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/">N8n Vulnerabilities Could Lead to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
