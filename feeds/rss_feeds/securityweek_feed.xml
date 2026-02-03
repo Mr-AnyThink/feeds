@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 02 Feb 2026 11:46:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Feb 2026 12:18:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,130 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hackers Leak 5.1 Million Panera Bread Records</title>
+		<link>https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 12:16:31 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Panera Bread]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45222</guid>
+
+					<description><![CDATA[<p>ShinyHunters has claimed the theft of 14 million records from the US bakery-cafe chain’s systems.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/">Hackers Leak 5.1 Million Panera Bread Records</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russia&#8217;s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability </title>
+		<link>https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 11:22:52 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Office]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45221</guid>
+
+					<description><![CDATA[<p>The attacks targeting Europe were analyzed by Ukraine’s CERT-UA and the cybersecurity company Zscaler.</p>
+<p>The post <a href="https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/">Russia&#8217;s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kasada Raises $20 Million for Anti-Bot Expansion</title>
+		<link>https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Bots]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Kasada]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45219</guid>
+
+					<description><![CDATA[<p>The company will invest in market expansion and accelerating product capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/">Kasada Raises $20 Million for Anti-Bot Expansion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ShinyHunters-Branded Extortion Activity Expands, Escalates</title>
+		<link>https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 15:28:16 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[SSO]]></category>
+		<category><![CDATA[vishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45215</guid>
+
+					<description><![CDATA[<p>Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment.</p>
+<p>The post <a href="https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/">ShinyHunters-Branded Extortion Activity Expands, Escalates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack</title>
+		<link>https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 14:12:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[GlassWorm]]></category>
+		<category><![CDATA[Mac malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45214</guid>
+
+					<description><![CDATA[<p>A hacker published malicious versions of four established VS Code extensions to distribute a GlassWorm malware loader.</p>
+<p>The post <a href="https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/">Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities</title>
+		<link>https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 13:50:53 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Poland]]></category>
+		<category><![CDATA[power grid]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45213</guid>
+
+					<description><![CDATA[<p>Poland’s CERT has published a report on the recent attack, providing new details on targeted ICS and attribution.</p>
+<p>The post <a href="https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/">Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</title>
 		<link>https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/</link>
 		
@@ -36,6 +160,7 @@
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[CyberInsights2026]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[malware]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45203</guid>
 
@@ -97,125 +222,6 @@
 
 					<description><![CDATA[<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region.</p>
 <p>The post <a href="https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</title>
-		<link>https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 09:18:18 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Notepad++]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45207</guid>
-
-					<description><![CDATA[<p>The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers.</p>
-<p>The post <a href="https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/">Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>eScan Antivirus Delivers Malware in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 31 Jan 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[antivirus]]></category>
-		<category><![CDATA[eScan]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45202</guid>
-
-					<description><![CDATA[<p>Hackers compromised a MicroWorld Technologies update server and fed a malicious file to eScan customers.</p>
-<p>The post <a href="https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/">eScan Antivirus Delivers Malware in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Paid for Being Jailed, Google&#8217;s $68M Settlement, CISA Chief&#8217;s ChatGPT Leak</title>
-		<link>https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 17:49:31 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45200</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Apple updates platform security guide, LastPass detects new phishing wave, CISA withdraws from RSA Conference.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/">In Other News: Paid for Being Jailed, Google&#8217;s $68M Settlement, CISA Chief&#8217;s ChatGPT Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aisy Launches Out of Stealth to Transform Vulnerability Management</title>
-		<link>https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 15:00:46 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Aisy]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[prioritization]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45199</guid>
-
-					<description><![CDATA[<p>Aisy has emerged from stealth mode with $2.3 million in seed funding for its AI-assisted platform.</p>
-<p>The post <a href="https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/">Aisy Launches Out of Stealth to Transform Vulnerability Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>175,000 Exposed Ollama Hosts Could Enable LLM Abuse</title>
-		<link>https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 14:34:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[exposed]]></category>
-		<category><![CDATA[LLM]]></category>
-		<category><![CDATA[Ollama]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45198</guid>
-
-					<description><![CDATA[<p>Among them, 23,000 hosts were persistently responsible for the majority of activity observed over 293 days of scanning.</p>
-<p>The post <a href="https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/">175,000 Exposed Ollama Hosts Could Enable LLM Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>White House Scraps &#8216;Burdensome&#8217; Software Security Rules </title>
-		<link>https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 12:31:25 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45195</guid>
-
-					<description><![CDATA[<p>Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations. </p>
-<p>The post <a href="https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/">White House Scraps &#8216;Burdensome&#8217; Software Security Rules </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
