@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 03 Feb 2026 12:18:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Feb 2026 12:07:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,188 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Orion Raises $32 Million for Data Security</title>
+		<link>https://www.securityweek.com/orion-raises-32-million-for-data-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 12:07:13 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Orion]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45242</guid>
+
+					<description><![CDATA[<p>The startup will use the funding to accelerate product development and go-to-market operations.</p>
+<p>The post <a href="https://www.securityweek.com/orion-raises-32-million-for-data-security/">Orion Raises $32 Million for Data Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft</title>
+		<link>https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 11:34:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Ask Gordon]]></category>
+		<category><![CDATA[Docker]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45241</guid>
+
+					<description><![CDATA[<p>The critical vulnerability exists in the contextual trust in MCP Gateway architecture, as instructions are passed without validation.</p>
+<p>The post <a href="https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/">DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks</title>
+		<link>https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 10:00:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[React2Shell]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45237</guid>
+
+					<description><![CDATA[<p>Two IP addresses accounted for the majority of the 1.4 million exploitation attempts observed over the past week.</p>
+<p>The post <a href="https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/">Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fresh SolarWinds Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 09:50:56 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45236</guid>
+
+					<description><![CDATA[<p>The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/">Fresh SolarWinds Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks</title>
+		<link>https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2026 08:43:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ClawHub]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Moltbook]]></category>
+		<category><![CDATA[OpenClaw]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45234</guid>
+
+					<description><![CDATA[<p>Wiz and Permiso have analyzed the AI agent social network and found serious security issues and threats.</p>
+<p>The post <a href="https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/">Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RADICL Raises $31 Million for vSOC</title>
+		<link>https://www.securityweek.com/radicl-raises-31-million-for-vsoc/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 15:32:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[RADICL]]></category>
+		<category><![CDATA[vSOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45225</guid>
+
+					<description><![CDATA[<p>The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC).</p>
+<p>The post <a href="https://www.securityweek.com/radicl-raises-31-million-for-vsoc/">RADICL Raises $31 Million for vSOC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RapidFort Raises $42M to Automate Software Supply Chain Security</title>
+		<link>https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 14:41:18 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45227</guid>
+
+					<description><![CDATA[<p>The company will use the latest capital to scale its go-to-market efforts and expand its platform’s capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/">RapidFort Raises $42M to Automate Software Supply Chain Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical React Native Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45220</guid>
+
+					<description><![CDATA[<p>Albeit mainly considered a theoretical risk, the flaw has been exploited to disable protections and deliver malware.</p>
+<p>The post <a href="https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/">Critical React Native Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant </title>
+		<link>https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 13:44:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Moltbot]]></category>
+		<category><![CDATA[OpenClaw]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45226</guid>
+
+					<description><![CDATA[<p>OpenClaw (aka Moltbot and Clawdbot) is vulnerable to one-click remote code execution attacks.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/">Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hackers Leak 5.1 Million Panera Bread Records</title>
 		<link>https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/</link>
 		
@@ -36,192 +218,13 @@
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Panera Bread]]></category>
 		<category><![CDATA[ShinyHunters]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45222</guid>
 
 					<description><![CDATA[<p>ShinyHunters has claimed the theft of 14 million records from the US bakery-cafe chain’s systems.</p>
 <p>The post <a href="https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/">Hackers Leak 5.1 Million Panera Bread Records</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russia&#8217;s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability </title>
-		<link>https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 11:22:52 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Office]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45221</guid>
-
-					<description><![CDATA[<p>The attacks targeting Europe were analyzed by Ukraine’s CERT-UA and the cybersecurity company Zscaler.</p>
-<p>The post <a href="https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/">Russia&#8217;s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kasada Raises $20 Million for Anti-Bot Expansion</title>
-		<link>https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Bots]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Kasada]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45219</guid>
-
-					<description><![CDATA[<p>The company will invest in market expansion and accelerating product capabilities.</p>
-<p>The post <a href="https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/">Kasada Raises $20 Million for Anti-Bot Expansion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ShinyHunters-Branded Extortion Activity Expands, Escalates</title>
-		<link>https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 15:28:16 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[SSO]]></category>
-		<category><![CDATA[vishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45215</guid>
-
-					<description><![CDATA[<p>Hackers rely on evolved vishing and login harvesting to compromise SSO credentials for unauthorized MFA enrollment.</p>
-<p>The post <a href="https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/">ShinyHunters-Branded Extortion Activity Expands, Escalates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack</title>
-		<link>https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 14:12:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[GlassWorm]]></category>
-		<category><![CDATA[Mac malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45214</guid>
-
-					<description><![CDATA[<p>A hacker published malicious versions of four established VS Code extensions to distribute a GlassWorm malware loader.</p>
-<p>The post <a href="https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/">Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities</title>
-		<link>https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 13:50:53 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Poland]]></category>
-		<category><![CDATA[power grid]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45213</guid>
-
-					<description><![CDATA[<p>Poland’s CERT has published a report on the recent attack, providing new details on targeted ICS and attribution.</p>
-<p>The post <a href="https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/">Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45203</guid>
-
-					<description><![CDATA[<p>Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/">Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 1,400 MongoDB Databases Ransacked by Threat Actor</title>
-		<link>https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 11:45:56 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[MongoDB]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45212</guid>
-
-					<description><![CDATA[<p>Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor.</p>
-<p>The post <a href="https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/">Over 1,400 MongoDB Databases Ransacked by Threat Actor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Moves Closer to Disabling NTLM</title>
-		<link>https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 11:31:40 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[authentication]]></category>
-		<category><![CDATA[NTLM]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45211</guid>
-
-					<description><![CDATA[<p>The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/">Microsoft Moves Closer to Disabling NTLM</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</title>
-		<link>https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 02 Feb 2026 10:35:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Japan]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45210</guid>
-
-					<description><![CDATA[<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China’s influence grows in the region.</p>
-<p>The post <a href="https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
