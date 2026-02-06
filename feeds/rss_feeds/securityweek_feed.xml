@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 05 Feb 2026 12:30:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Feb 2026 12:00:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,213 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</title>
-		<link>https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/</link>
+		<title>Flickr Security Incident Tied to Third-Party Email System</title>
+		<link>https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 12:29:34 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Italy]]></category>
-		<category><![CDATA[Olympics]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45254</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 12:00:34 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45297</guid>
 
-					<description><![CDATA[<p>Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington.</p>
-<p>The post <a href="https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/">Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>
+<p>The post <a href="https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</title>
-		<link>https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/</link>
+		<title>Living off the AI: The Next Evolution of Attacker Tradecraft</title>
+		<link>https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 12:18:55 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[loader]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SystemBC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45253</guid>
-
-					<description><![CDATA[<p>The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic.</p>
-<p>The post <a href="https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/">SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical N8n Sandbox Escape Could Lead to Server Compromise</title>
-		<link>https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 11:23:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[n8n]]></category>
-		<category><![CDATA[sandbox escape]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45250</guid>
+		<category><![CDATA[MCP]]></category>
+		<category><![CDATA[vibe coding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45282</guid>
 
-					<description><![CDATA[<p>The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets.</p>
-<p>The post <a href="https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/">Critical N8n Sandbox Escape Could Lead to Server Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>
+<p>The post <a href="https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</title>
-		<link>https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/</link>
+		<title>In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</title>
+		<link>https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[rootkit]]></category>
-		<category><![CDATA[Shadow Campaigns]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45248</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45296</guid>
 
-					<description><![CDATA[<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>
-<p>The post <a href="https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cisco, F5 Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/</link>
+		<title>Airrived Emerges From Stealth With $6.1 Million in Funding</title>
+		<link>https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 05 Feb 2026 09:54:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45249</guid>
-
-					<description><![CDATA[<p>The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/">Cisco, F5 Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation</title>
-		<link>https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 14:27:13 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
+		<pubDate>Fri, 06 Feb 2026 09:40:59 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Airrived]]></category>
 		<category><![CDATA[funding]]></category>
-		<category><![CDATA[TRM Labs]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45246</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45293</guid>
 
-					<description><![CDATA[<p>The Series C funding will enable the company to expand its AI capabilities for disrupting criminal networks.</p>
-<p>The post <a href="https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/">Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>
+<p>The post <a href="https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vulnerabilities Allowed Full Compromise of Google Looker Instances</title>
-		<link>https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/</link>
+		<title>&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</title>
+		<link>https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 08:50:46 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AitM]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[DKnife]]></category>
+		<category><![CDATA[framework]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45292</guid>
+
+					<description><![CDATA[<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>
+<p>The post <a href="https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</title>
+		<link>https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 13:41:08 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
+		<pubDate>Fri, 06 Feb 2026 08:19:03 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[DOE]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[Laws]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45291</guid>
+
+					<description><![CDATA[<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>
+<p>The post <a href="https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</title>
+		<link>https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 07:50:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SmarterMail]]></category>
+		<category><![CDATA[SmarterTools]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45289</guid>
+
+					<description><![CDATA[<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>
+<p>The post <a href="https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</title>
+		<link>https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 05:28:39 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Google Looker]]></category>
-		<category><![CDATA[LookOut]]></category>
+		<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45244</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45287</guid>
 
-					<description><![CDATA[<p>The flaws dubbed LookOut can be exploited for remote code execution and data exfiltration. </p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/">Vulnerabilities Allowed Full Compromise of Google Looker Instances</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyber Insights 2026: Cyberwar and Rising Nation State Threats</title>
-		<link>https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/</link>
-					<comments>https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/#respond</comments>
+		<title>Zscaler Acquires Browser Security Firm SquareX </title>
+		<link>https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CyberInsights2026]]></category>
-		<category><![CDATA[cyberwar]]></category>
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2026 02:48:22 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Acquisition]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[geopolitical]]></category>
-		<category><![CDATA[Geopolitics]]></category>
-		<category><![CDATA[nation state]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45239</guid>
+		<category><![CDATA[Zscaler]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45285</guid>
 
-					<description><![CDATA[<p>While both cyberwar and cyberwarfare will increase through 2026, cyberwarfare is likely to increase more dramatically. We hope it will never boil over – but we should be aware of the possibility and its consequences.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/">Cyber Insights 2026: Cyberwar and Rising Nation State Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. </p>
+<p>The post <a href="https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/">Zscaler Acquires Browser Security Firm SquareX </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Varonis Acquisition of AllTrue.ai Valued at $150 Million</title>
-		<link>https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/</link>
+		<title>Substack Discloses Security Incident After Hacker Leaks Data</title>
+		<link>https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 12:39:56 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AllTrue]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[Varonis]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45243</guid>
+		<pubDate>Thu, 05 Feb 2026 15:13:55 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Substack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45263</guid>
 
-					<description><![CDATA[<p>The data security firm has acquired the AI trust, risk, and security management company to expand its capabilities. </p>
-<p>The post <a href="https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/">Varonis Acquisition of AllTrue.ai Valued at $150 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Orion Raises $32 Million for Data Security</title>
-		<link>https://www.securityweek.com/orion-raises-32-million-for-data-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Feb 2026 12:07:13 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Orion]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45242</guid>
-
-					<description><![CDATA[<p>The startup will use the funding to accelerate product development and go-to-market operations.</p>
-<p>The post <a href="https://www.securityweek.com/orion-raises-32-million-for-data-security/">Orion Raises $32 Million for Data Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers.</p>
+<p>The post <a href="https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/">Substack Discloses Security Incident After Hacker Leaks Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
