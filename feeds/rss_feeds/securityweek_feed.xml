@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 06 Feb 2026 12:00:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Feb 2026 06:19:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -153,6 +153,7 @@
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[SmarterMail]]></category>
 		<category><![CDATA[SmarterTools]]></category>
 		<category><![CDATA[vulnerability]]></category>
