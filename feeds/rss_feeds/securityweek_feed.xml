@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 07 Feb 2026 06:19:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Feb 2026 12:02:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</title>
+		<link>https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 12:02:24 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SmarterMail]]></category>
+		<category><![CDATA[SmarterTools]]></category>
+		<category><![CDATA[Warlock]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45305</guid>
+
+					<description><![CDATA[<p>SmarterTools says customers were impacted after hackers compromised a data center used for quality control testing.</p>
+<p>The post <a href="https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/">SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</title>
+		<link>https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 09:10:25 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[KEVology]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45303</guid>
+
+					<description><![CDATA[<p>The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it.</p>
+<p>The post <a href="https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/">New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>European Commission Investigating Cyberattack</title>
+		<link>https://www.securityweek.com/european-commission-investigating-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 08:06:54 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[CERT-EU]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[European Comission]]></category>
+		<category><![CDATA[European Union]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45302</guid>
+
+					<description><![CDATA[<p>The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management.</p>
+<p>The post <a href="https://www.securityweek.com/european-commission-investigating-cyberattack/">European Commission Investigating Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Organizations Urged to Replace Discontinued Edge Devices</title>
 		<link>https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/</link>
 		
@@ -55,6 +117,7 @@
 		<pubDate>Fri, 06 Feb 2026 12:00:34 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Flickr]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45297</guid>
 
@@ -159,69 +222,6 @@
 
 					<description><![CDATA[<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>
 <p>The post <a href="https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 07:50:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SmarterMail]]></category>
-		<category><![CDATA[SmarterTools]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45289</guid>
-
-					<description><![CDATA[<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>
-<p>The post <a href="https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</title>
-		<link>https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 05:28:39 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45287</guid>
-
-					<description><![CDATA[<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zscaler Acquires Browser Security Firm SquareX </title>
-		<link>https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 02:48:22 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Zscaler]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45285</guid>
-
-					<description><![CDATA[<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers. </p>
-<p>The post <a href="https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/">Zscaler Acquires Browser Security Firm SquareX </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
