@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 09 Feb 2026 12:02:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Feb 2026 11:24:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9</generator>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BeyondTrust Patches Critical RCE Vulnerability</title>
+		<link>https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 11:24:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[RCE]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45323</guid>
+
+					<description><![CDATA[<p>Affecting both RS and PRA, the bug can be exploited remotely via crafted requests without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/">BeyondTrust Patches Critical RCE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms</title>
+		<link>https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 10:09:46 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Singapore]]></category>
+		<category><![CDATA[telecom]]></category>
+		<category><![CDATA[UNC3886]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45319</guid>
+
+					<description><![CDATA[<p>China-linked UNC3886 targeted all four major telecom providers, but did not disrupt services or access customer information.</p>
+<p>The post <a href="https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/">Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool </title>
+		<link>https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 07:27:03 +0000</pubDate>
+				<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[open source tool]]></category>
+		<category><![CDATA[Quantickle]]></category>
+		<category><![CDATA[RSAC]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<category><![CDATA[visualization]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45312</guid>
+
+					<description><![CDATA[<p>Quantickle is a browser-based tool designed for creating visual representations of threat research.</p>
+<p>The post <a href="https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/">RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk </title>
+		<link>https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 17:25:48 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Lema AI]]></category>
+		<category><![CDATA[third-party risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45311</guid>
+
+					<description><![CDATA[<p>The funding was raised over Series A and seed funding rounds for its supply chain security solution.</p>
+<p>The post <a href="https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/">Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter</title>
+		<link>https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 14:38:17 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45309</guid>
+
+					<description><![CDATA[<p>As only data exfiltration for extortion no longer delivers ROI, ransomware gangs may increasingly encrypting data for additional leverage.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/">Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats</title>
+		<link>https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 13:56:46 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Outtake]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45308</guid>
+
+					<description><![CDATA[<p>The Series B funding round brings the cybersecurity startup’s total raised to $60 million.</p>
+<p>The post <a href="https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/">Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 34 Deals Announced in January 2026</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 13:23:57 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45307</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by CrowdStrike, Infoblox, JumpCloud, LevelBlue, OneSpan, and Radware.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/">Cybersecurity M&#038;A Roundup: 34 Deals Announced in January 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent SolarWinds Flaws Potentially Exploited as Zero-Days</title>
+		<link>https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2026 12:42:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45306</guid>
+
+					<description><![CDATA[<p>Vulnerable SolarWinds Web Help Desk instances were exploited in December 2025 for initial access.</p>
+<p>The post <a href="https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/">Recent SolarWinds Flaws Potentially Exploited as Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</title>
 		<link>https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/</link>
 		
@@ -35,6 +192,7 @@
 		<pubDate>Mon, 09 Feb 2026 12:02:24 +0000</pubDate>
 				<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[SmarterMail]]></category>
 		<category><![CDATA[SmarterTools]]></category>
 		<category><![CDATA[Warlock]]></category>
@@ -56,172 +214,13 @@
 				<category><![CDATA[Risk Management]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[KEVology]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45303</guid>
 
 					<description><![CDATA[<p>The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it.</p>
 <p>The post <a href="https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/">New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>European Commission Investigating Cyberattack</title>
-		<link>https://www.securityweek.com/european-commission-investigating-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 08:06:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[CERT-EU]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[European Comission]]></category>
-		<category><![CDATA[European Union]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45302</guid>
-
-					<description><![CDATA[<p>The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management.</p>
-<p>The post <a href="https://www.securityweek.com/european-commission-investigating-cyberattack/">European Commission Investigating Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Urged to Replace Discontinued Edge Devices</title>
-		<link>https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 07 Feb 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[edge device]]></category>
-		<category><![CDATA[Government]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45301</guid>
-
-					<description><![CDATA[<p>Edge devices that are no longer supported have been targeted in attacks by state-sponsored hackers, the US says.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/">Organizations Urged to Replace Discontinued Edge Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Flickr Security Incident Tied to Third-Party Email System</title>
-		<link>https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 12:00:34 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Flickr]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45297</guid>
-
-					<description><![CDATA[<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>
-<p>The post <a href="https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Living off the AI: The Next Evolution of Attacker Tradecraft</title>
-		<link>https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[MCP]]></category>
-		<category><![CDATA[vibe coding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45282</guid>
-
-					<description><![CDATA[<p>Living off the AI isn’t a hypothetical but a natural continuation of the tradecraft we’ve all been defending against, now mapped onto assistants, agents, and MCP. </p>
-<p>The post <a href="https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</title>
-		<link>https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45296</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Airrived Emerges From Stealth With $6.1 Million in Funding</title>
-		<link>https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 09:40:59 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Airrived]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45293</guid>
-
-					<description><![CDATA[<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>
-<p>The post <a href="https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</title>
-		<link>https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 08:50:46 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AitM]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[DKnife]]></category>
-		<category><![CDATA[framework]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45292</guid>
-
-					<description><![CDATA[<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>
-<p>The post <a href="https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</title>
-		<link>https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 08:19:03 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[bill]]></category>
-		<category><![CDATA[DOE]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Government Policy]]></category>
-		<category><![CDATA[Laws]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45291</guid>
-
-					<description><![CDATA[<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>
-<p>The post <a href="https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
