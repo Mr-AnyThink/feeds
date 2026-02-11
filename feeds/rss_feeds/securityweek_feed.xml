@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 10 Feb 2026 11:24:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 12:14:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>BeyondTrust Patches Critical RCE Vulnerability</title>
-		<link>https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Feb 2026 11:24:02 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[RCE]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45323</guid>
-
-					<description><![CDATA[<p>Affecting both RS and PRA, the bug can be exploited remotely via crafted requests without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/">BeyondTrust Patches Critical RCE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms</title>
-		<link>https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Feb 2026 10:09:46 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[telecom]]></category>
-		<category><![CDATA[UNC3886]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45319</guid>
-
-					<description><![CDATA[<p>China-linked UNC3886 targeted all four major telecom providers, but did not disrupt services or access customer information.</p>
-<p>The post <a href="https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/">Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool </title>
-		<link>https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 10 Feb 2026 07:27:03 +0000</pubDate>
-				<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[open source tool]]></category>
-		<category><![CDATA[Quantickle]]></category>
-		<category><![CDATA[RSAC]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<category><![CDATA[visualization]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45312</guid>
-
-					<description><![CDATA[<p>Quantickle is a browser-based tool designed for creating visual representations of threat research.</p>
-<p>The post <a href="https://www.securityweek.com/rsac-releases-quantickle-open-source-threat-intelligence-visualization-tool/">RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk </title>
-		<link>https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 17:25:48 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Lema AI]]></category>
-		<category><![CDATA[third-party risk management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45311</guid>
-
-					<description><![CDATA[<p>The funding was raised over Series A and seed funding rounds for its supply chain security solution.</p>
-<p>The post <a href="https://www.securityweek.com/lema-ai-emerges-from-stealth-with-24-million-to-tackle-third-party-risk/">Lema AI Emerges From Stealth With $24 Million to Tackle Third-Party Risk </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter</title>
-		<link>https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 14:38:17 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45309</guid>
-
-					<description><![CDATA[<p>As only data exfiltration for extortion no longer delivers ROI, ransomware gangs may increasingly encrypting data for additional leverage.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/">Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats</title>
-		<link>https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 13:56:46 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Outtake]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45308</guid>
-
-					<description><![CDATA[<p>The Series B funding round brings the cybersecurity startup’s total raised to $60 million.</p>
-<p>The post <a href="https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/">Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 34 Deals Announced in January 2026</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 13:23:57 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45307</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by CrowdStrike, Infoblox, JumpCloud, LevelBlue, OneSpan, and Radware.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/">Cybersecurity M&#038;A Roundup: 34 Deals Announced in January 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent SolarWinds Flaws Potentially Exploited as Zero-Days</title>
-		<link>https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 12:42:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45306</guid>
-
-					<description><![CDATA[<p>Vulnerable SolarWinds Web Help Desk instances were exploited in December 2025 for initial access.</p>
-<p>The post <a href="https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/">Recent SolarWinds Flaws Potentially Exploited as Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</title>
-		<link>https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 12:02:24 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SmarterMail]]></category>
-		<category><![CDATA[SmarterTools]]></category>
-		<category><![CDATA[Warlock]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45305</guid>
-
-					<description><![CDATA[<p>SmarterTools says customers were impacted after hackers compromised a data center used for quality control testing.</p>
-<p>The post <a href="https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/">SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</title>
-		<link>https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/</link>
+		<title>Hacker Conversations: Professional Hacker Douglas Day</title>
+		<link>https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 09:10:25 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[KEVology]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45303</guid>
+		<pubDate>Wed, 11 Feb 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45342</guid>
 
-					<description><![CDATA[<p>The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it.</p>
-<p>The post <a href="https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/">New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Day became a professional hacker by choice. But that doesn’t mean he isn’t a natural hacker. </p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/">Hacker Conversations: Professional Hacker Douglas Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025</title>
+		<link>https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 12:14:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45345</guid>
+
+					<description><![CDATA[<p>It also fixed a high-severity authentication bypass that could be exploited remotely without authentication to obtain credentials.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/">Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD</title>
+		<link>https://www.securityweek.com/chipmaker-patch-tuesday-over-80-vulnerabilities-addressed-by-intel-and-amd/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45341</guid>
+
+					<description><![CDATA[<p>More than two dozen advisories have been published by the chip giants for vulnerabilities found recently in their products.</p>
+<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-over-80-vulnerabilities-addressed-by-intel-and-amd/">Chipmaker Patch Tuesday: Over 80 Vulnerabilities Addressed by Intel and AMD</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 09:39:41 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45340</guid>
+
+					<description><![CDATA[<p>The bugs could be exploited without authentication for command execution and authentication bypass.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities/">Fortinet Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google-Intel Security Audit Reveals Severe TDX Vulnerability Allowing Full Compromise</title>
+		<link>https://www.securityweek.com/google-intel-security-audit-reveals-severe-tdx-vulnerability-allowing-full-compromise/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 08:41:31 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Intel TDX]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45339</guid>
+
+					<description><![CDATA[<p>Dozens of vulnerabilities, bugs, and potential improvements have been identified by the tech giants’ security teams.</p>
+<p>The post <a href="https://www.securityweek.com/google-intel-security-audit-reveals-severe-tdx-vulnerability-allowing-full-compromise/">Google-Intel Security Audit Reveals Severe TDX Vulnerability Allowing Full Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Aveva, Phoenix Contact</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 07:42:01 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45338</guid>
+
+					<description><![CDATA[<p>Several vulnerabilities have been patched and mitigated across the industrial giants’ products.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/">ICS Patch Tuesday: Vulnerabilities Addressed by Siemens, Schneider, Aveva, Phoenix Contact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates</title>
+		<link>https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 19:29:28 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45335</guid>
+
+					<description><![CDATA[<p>Microsoft’s Patch Tuesday updates fix roughly 60 vulnerabilities found in the company’s products.</p>
+<p>The post <a href="https://www.securityweek.com/6-actively-exploited-zero-days-patched-by-microsoft-with-february-2026-updates/">6 Actively Exploited Zero-Days Patched by Microsoft With February 2026 Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EU Unconditionally Approves Google&#8217;s $32B Acquisition of Wiz</title>
+		<link>https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 18:00:36 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[antitrust]]></category>
+		<category><![CDATA[approved]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[European Comission]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45334</guid>
+
+					<description><![CDATA[<p>The European Commission’s ruling is based on extensive feedback from customers and rival cloud security and infrastructure vendors.</p>
+<p>The post <a href="https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/">EU Unconditionally Approves Google&#8217;s $32B Acquisition of Wiz</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps</title>
+		<link>https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 17:36:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45333</guid>
+
+					<description><![CDATA[<p>The company has fixed several critical vulnerabilities that can be exploited for arbitrary code execution.</p>
+<p>The post <a href="https://www.securityweek.com/patch-tuesday-adobe-fixes-44-vulnerabilities-in-creative-apps/">Patch Tuesday: Adobe Fixes 44 Vulnerabilities in Creative Apps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reco Raises $30 Million to Enhance AI SaaS Security</title>
+		<link>https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 17:08:24 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Reco]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45310</guid>
+
+					<description><![CDATA[<p>This investment comes less than 10 months after Reco’s last raise, bringing total funding to $85 million.</p>
+<p>The post <a href="https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/">Reco Raises $30 Million to Enhance AI SaaS Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
