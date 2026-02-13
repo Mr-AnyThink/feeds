@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 12 Feb 2026 12:23:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Feb 2026 12:02:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</title>
+		<link>https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 12:02:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Odido]]></category>
+		<category><![CDATA[telecom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45371</guid>
+
+					<description><![CDATA[<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>
+<p>The post <a href="https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</title>
+		<link>https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 11:01:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45370</guid>
+
+					<description><![CDATA[<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>
+<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 10:36:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Notepad++]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45369</guid>
+
+					<description><![CDATA[<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 145 Patches 11 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 08:18:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45368</guid>
+
+					<description><![CDATA[<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</title>
+		<link>https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 06:49:26 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacking competition]]></category>
+		<category><![CDATA[Tianfu Cup]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45367</guid>
+
+					<description><![CDATA[<p>Rewards for exploits are reportedly much smaller than in the contest’s glory days.</p>
+<p>The post <a href="https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/">China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</title>
+		<link>https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/</link>
+		
+		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2026 16:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[SDLC]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45366</guid>
+
+					<description><![CDATA[<p>Developers must view AI as a collaborator to be closely monitored, rather than an autonomous entity to be unleashed. Without such a mindset, crippling tech debt is inevitable.</p>
+<p>The post <a href="https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/">How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ApolloMD Data Breach Impacts 626,000 Individuals</title>
 		<link>https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/</link>
 		
@@ -77,6 +197,7 @@
 		<category><![CDATA[China]]></category>
 		<category><![CDATA[defense]]></category>
 		<category><![CDATA[defense industrial base]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[Russia]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45362</guid>
@@ -102,121 +223,6 @@
 
 					<description><![CDATA[<p>The company will use the investment to scale operations and deepen intelligence and automation.</p>
 <p>The post <a href="https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/">Nucleus Raises $20 Million for Exposure Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Patches iOS Zero-Day Exploited in &#8216;Extremely Sophisticated Attack&#8217;</title>
-		<link>https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 07:48:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45359</guid>
-
-					<description><![CDATA[<p>Impacting the ‘dyld’ system component, the memory corruption issue can be exploited for arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/">Apple Patches iOS Zero-Day Exploited in &#8216;Extremely Sophisticated Attack&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack</title>
-		<link>https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 19:50:13 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Government]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45357</guid>
-
-					<description><![CDATA[<p>Officials said data will now be classified as one of four categories: “public,” “sensitive,” “confidential” or “restricted.” </p>
-<p>The post <a href="https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/">Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Identity Under Attack &#8211; Strengthen Your Identity Defenses</title>
-		<link>https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 15:05:53 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45353</guid>
-
-					<description><![CDATA[<p>Gain practical insights on balancing security, user experience, and operational efficiency while staying ahead of increasingly sophisticated threats.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/">Webinar Today: Identity Under Attack &#8211; Strengthen Your Identity Defenses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security</title>
-		<link>https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 14:11:38 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[GitGuardian]]></category>
-		<category><![CDATA[secrets sprawl]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45351</guid>
-
-					<description><![CDATA[<p>The secrets security company has raised more than $100 million since its creation in 2017.</p>
-<p>The post <a href="https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/">GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Conduent Breach Hits Volvo Group: Nearly 17,000 Employees&#8217; Data Exposed</title>
-		<link>https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 13:41:10 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[conduent]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Volvo]]></category>
-		<category><![CDATA[Volvo Group]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45350</guid>
-
-					<description><![CDATA[<p>The Conduent data breach affects at least 25 million individuals, up from 10 million estimated a few months ago. </p>
-<p>The post <a href="https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/">Conduent Breach Hits Volvo Group: Nearly 17,000 Employees&#8217; Data Exposed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zast.AI Raises $6 Million for AI-Powered Code Security</title>
-		<link>https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 13:29:21 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45349</guid>
-
-					<description><![CDATA[<p>The startup relies on AI agents to identify software vulnerabilities and validate them before reporting.</p>
-<p>The post <a href="https://www.securityweek.com/zast-ai-raises-6-million-for-ai-powered-code-security/">Zast.AI Raises $6 Million for AI-Powered Code Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
