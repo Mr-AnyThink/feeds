@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Feb 2026 12:02:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Feb 2026 15:04:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</title>
+		<link>https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45378</guid>
+
+					<description><![CDATA[<p>With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft.</p>
+<p>The post <a href="https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/">Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</title>
+		<link>https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 15:01:16 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45377</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/">In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</title>
+		<link>https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 12:35:11 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[Cyata]]></category>
+		<category><![CDATA[Cyclops]]></category>
+		<category><![CDATA[Rotate]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45373</guid>
+
+					<description><![CDATA[<p>Check Point has acquired Israeli cybersecurity companies Cyata, Cyclops, and Rotate.</p>
+<p>The post <a href="https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/">Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</title>
 		<link>https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/</link>
 		
@@ -55,6 +115,7 @@
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[BeyondTrust]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45370</guid>
 
@@ -161,68 +222,6 @@
 
 					<description><![CDATA[<p>The company says hackers stole the personal information of patients of affiliated physicians and practices.</p>
 <p>The post <a href="https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/">ApolloMD Data Breach Impacts 626,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft to Enable &#8216;Windows Baseline Security&#8217; With New Runtime Integrity Safeguards</title>
-		<link>https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 11:27:30 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[integrity]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Windows security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45364</guid>
-
-					<description><![CDATA[<p>Windows will have runtime safeguards enabled by default, ensuring that only properly signed software runs.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/">Microsoft to Enable &#8216;Windows Baseline Security&#8217; With New Runtime Integrity Safeguards</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns</title>
-		<link>https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 11:12:46 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[defense]]></category>
-		<category><![CDATA[defense industrial base]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45362</guid>
-
-					<description><![CDATA[<p>Threat actors from Russia, China, North Korea and Iran have been observed launching attacks.</p>
-<p>The post <a href="https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/">Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nucleus Raises $20 Million for Exposure Management</title>
-		<link>https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 09:09:02 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Nucleus Security]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45361</guid>
-
-					<description><![CDATA[<p>The company will use the investment to scale operations and deepen intelligence and automation.</p>
-<p>The post <a href="https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/">Nucleus Raises $20 Million for Exposure Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
