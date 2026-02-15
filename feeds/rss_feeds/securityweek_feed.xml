@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Feb 2026 15:04:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Feb 2026 07:20:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -38,6 +38,7 @@
 		<category><![CDATA[data leak]]></category>
 		<category><![CDATA[data theft]]></category>
 		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[malware]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45378</guid>
 
