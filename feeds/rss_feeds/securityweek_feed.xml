@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 15 Feb 2026 07:20:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Feb 2026 11:56:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,68 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft Warns of ClickFix Attack Abusing DNS Lookups</title>
+		<link>https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 11:56:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[ModeloRAT]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45383</guid>
+
+					<description><![CDATA[<p>Attackers are using DNS requests to deliver a RAT named ModeloRAT to targeted users.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/">Microsoft Warns of ClickFix Attack Abusing DNS Lookups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash</title>
+		<link>https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 11:40:34 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[Flock Safety]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Ring]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45381</guid>
+
+					<description><![CDATA[<p>Amazon’s smart doorbell maker Ring has terminated a partnership with police surveillance tech company Flock Safety.</p>
+<p>The post <a href="https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/">Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Patches First Actively Exploited Chrome Zero-Day of 2026</title>
+		<link>https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 07:54:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45380</guid>
+
+					<description><![CDATA[<p>A Chrome 145 update fixes CVE-2026-2441, a vulnerability that can likely be exploited for arbitrary code execution.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/">Google Patches First Actively Exploited Chrome Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</title>
 		<link>https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/</link>
 		
@@ -162,67 +224,6 @@
 
 					<description><![CDATA[<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>
 <p>The post <a href="https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</title>
-		<link>https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 06:49:26 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacking competition]]></category>
-		<category><![CDATA[Tianfu Cup]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45367</guid>
-
-					<description><![CDATA[<p>Rewards for exploits are reportedly much smaller than in the contest’s glory days.</p>
-<p>The post <a href="https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/">China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</title>
-		<link>https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/</link>
-		
-		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 16:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[SDLC]]></category>
-		<category><![CDATA[Software]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45366</guid>
-
-					<description><![CDATA[<p>Developers must view AI as a collaborator to be closely monitored, rather than an autonomous entity to be unleashed. Without such a mindset, crippling tech debt is inevitable.</p>
-<p>The post <a href="https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/">How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ApolloMD Data Breach Impacts 626,000 Individuals</title>
-		<link>https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 12:23:33 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[ApolloMD]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45365</guid>
-
-					<description><![CDATA[<p>The company says hackers stole the personal information of patients of affiliated physicians and practices.</p>
-<p>The post <a href="https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/">ApolloMD Data Breach Impacts 626,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
