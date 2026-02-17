@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 16 Feb 2026 11:56:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Feb 2026 11:49:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,116 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>3 Threat Groups Started Targeting ICS/OT in 2025: Dragos </title>
+		<link>https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 11:05:26 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Azurite]]></category>
+		<category><![CDATA[Dragos]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Industrial]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Pyroxene]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Sylvanite]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45393</guid>
+
+					<description><![CDATA[<p>Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report.</p>
+<p>The post <a href="https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/">3 Threat Groups Started Targeting ICS/OT in 2025: Dragos </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Password Managers Vulnerable to Vault Compromise Under Malicious Server</title>
+		<link>https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 09:30:46 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[1Password]]></category>
+		<category><![CDATA[Bitwarden]]></category>
+		<category><![CDATA[Dashlane]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[password manager]]></category>
+		<category><![CDATA[zero knowledge encryption]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45391</guid>
+
+					<description><![CDATA[<p>Researchers at ETH Zurich have tested the security of Bitwarden, LastPass, Dashlane, and 1Password password managers.</p>
+<p>The post <a href="https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/">Password Managers Vulnerable to Vault Compromise Under Malicious Server</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches</title>
+		<link>https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 15:09:13 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Dior]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[Louis Vuitton]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[South Korea]]></category>
+		<category><![CDATA[Tiffany]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45388</guid>
+
+					<description><![CDATA[<p>Luxury brands were among the dozens of major companies whose Salesforce instances were targeted by Scattered LAPSUS$ Hunters.</p>
+<p>The post <a href="https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/">Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security</title>
+		<link>https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 13:50:36 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45387</guid>
+
+					<description><![CDATA[<p>The latest Android version continues to improve security and privacy, according to its developers.</p>
+<p>The post <a href="https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/">Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Navigates DHS Shutdown With Reduced Staff</title>
+		<link>https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 13:49:03 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[DHS]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45386</guid>
+
+					<description><![CDATA[<p>CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/">CISA Navigates DHS Shutdown With Reduced Staff</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft Warns of ClickFix Attack Abusing DNS Lookups</title>
 		<link>https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/</link>
 		
@@ -124,106 +234,6 @@
 
 					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities at 277 water systems, DoD employee acting as money mule, 200 airports exposed by flaw.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-google-looks-at-ai-abuse-trump-pauses-china-bans-disneys-2-7m-fine/">In Other News: Google Looks at AI Abuse, Trump Pauses China Bans, Disney&#8217;s $2.7M Fine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</title>
-		<link>https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 12:35:11 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Check Point]]></category>
-		<category><![CDATA[Cyata]]></category>
-		<category><![CDATA[Cyclops]]></category>
-		<category><![CDATA[Rotate]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45373</guid>
-
-					<description><![CDATA[<p>Check Point has acquired Israeli cybersecurity companies Cyata, Cyclops, and Rotate.</p>
-<p>The post <a href="https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/">Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</title>
-		<link>https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 12:02:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Odido]]></category>
-		<category><![CDATA[telecom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45371</guid>
-
-					<description><![CDATA[<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>
-<p>The post <a href="https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</title>
-		<link>https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 11:01:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45370</guid>
-
-					<description><![CDATA[<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 10:36:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Notepad++]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45369</guid>
-
-					<description><![CDATA[<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 145 Patches 11 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Feb 2026 08:18:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45368</guid>
-
-					<description><![CDATA[<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
