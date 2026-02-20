@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 19 Feb 2026 12:25:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Feb 2026 12:29:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,128 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>BeyondTrust Vulnerability Exploited in Ransomware Attacks</title>
+		<link>https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 12:29:46 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BeyondTrust]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45439</guid>
+
+					<description><![CDATA[<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>
+<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</title>
+		<link>https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 11:05:26 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[ATM]]></category>
+		<category><![CDATA[ATM jackpotting]]></category>
+		<category><![CDATA[FBI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45438</guid>
+
+					<description><![CDATA[<p>The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/">FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chip Testing Giant Advantest Hit by Ransomware</title>
+		<link>https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 09:31:29 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Advantest]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45436</guid>
+
+					<description><![CDATA[<p>The company is investigating whether any customer or employee data was stolen by hackers.</p>
+<p>The post <a href="https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/">Chip Testing Giant Advantest Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</title>
+		<link>https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 07:06:15 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PromptSpy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45434</guid>
+
+					<description><![CDATA[<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>
+<p>The post <a href="https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>French Government Says 1.2 Million Bank Accounts Exposed in Breach</title>
+		<link>https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 15:02:58 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[France]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45433</guid>
+
+					<description><![CDATA[<p>The Ministry of Economy reported discovering unauthorized access to the national bank account registry FICOBA.</p>
+<p>The post <a href="https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/">French Government Says 1.2 Million Bank Accounts Exposed in Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nearly 1 Million User Records Compromised in Figure Data Breach</title>
+		<link>https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 13:19:08 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Figure]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45428</guid>
+
+					<description><![CDATA[<p>The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company.</p>
+<p>The post <a href="https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/">Nearly 1 Million User Records Compromised in Figure Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</title>
 		<link>https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/</link>
 		
@@ -78,6 +200,7 @@
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[open source tool]]></category>
 		<category><![CDATA[OpenClaw]]></category>
 		<category><![CDATA[SecureClaw]]></category>
@@ -106,137 +229,6 @@
 
 					<description><![CDATA[<p>The cyberattack disrupted information and booking systems and lasted for several hours. </p>
 <p>The post <a href="https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/">German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Keenadu Android Malware Found on Thousands of Devices</title>
-		<link>https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 15:41:25 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Keenadu]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45420</guid>
-
-					<description><![CDATA[<p>The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.</p>
-<p>The post <a href="https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/">New Keenadu Android Malware Found on Thousands of Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cogent Security Raises $42 Million for AI-Driven Vulnerability Management</title>
-		<link>https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 14:47:07 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Cogent Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Series A]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45419</guid>
-
-					<description><![CDATA[<p>The Series A funding round, led by Bain Capital, brings the total raised by Cogent to $53 million.</p>
-<p>The post <a href="https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/">Cogent Security Raises $42 Million for AI-Driven Vulnerability Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration</title>
-		<link>https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 13:16:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apryse]]></category>
-		<category><![CDATA[Foxit]]></category>
-		<category><![CDATA[PDF]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45416</guid>
-
-					<description><![CDATA[<p>Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/">Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5</title>
-		<link>https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 10:26:03 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[TeamT5]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45415</guid>
-
-					<description><![CDATA[<p>The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/">CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</title>
-		<link>https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 08:24:46 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Koi]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45414</guid>
-
-					<description><![CDATA[<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</title>
-		<link>https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Feb 2026 07:09:01 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[UNC6201]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45412</guid>
-
-					<description><![CDATA[<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>
-<p>The post <a href="https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
