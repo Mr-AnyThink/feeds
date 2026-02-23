@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 21 Feb 2026 09:57:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Feb 2026 12:17:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,125 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Autonomous AI Agents Provide New Class of Supply Chain Attack</title>
+		<link>https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45455</guid>
+
+					<description><![CDATA[<p>While this campaign targets crypto wallets and steals money, the methodology has far wider potential that could be used by other attackers. </p>
+<p>The post <a href="https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/">Autonomous AI Agents Provide New Class of Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Romanian Hacker Pleads Guilty to Selling Access to US State Network</title>
+		<link>https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 11:53:35 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[plead guilty]]></category>
+		<category><![CDATA[Romania]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45457</guid>
+
+					<description><![CDATA[<p>Catalin Dragomir admitted in a US court to selling access to an Oregon state government office’s network.</p>
+<p>The post <a href="https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/">Romanian Hacker Pleads Guilty to Selling Access to US State Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS</title>
+		<link>https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 11:34:35 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[FortiGate]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45454</guid>
+
+					<description><![CDATA[<p>Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices.</p>
+<p>The post <a href="https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/">Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent RoundCube Webmail Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 10:47:45 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Roundcube]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45452</guid>
+
+					<description><![CDATA[<p>Patched in December 2025, the exploited flaw leads to XSS attacks via the animate tags in SVG documents.</p>
+<p>The post <a href="https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/">Recent RoundCube Webmail Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mississippi Hospital System Closes All Clinics After Ransomware Attack</title>
+		<link>https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 10:29:13 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[University of Mississippi Medical Center]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45451</guid>
+
+					<description><![CDATA[<p>A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures.</p>
+<p>The post <a href="https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/">Mississippi Hospital System Closes All Clinics After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PayPal Data Breach Led to Fraudulent Transactions</title>
+		<link>https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 09:13:25 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45449</guid>
+
+					<description><![CDATA[<p>PayPal blamed an application error for the exposure of customer personal information for nearly 6 months. </p>
+<p>The post <a href="https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/">PayPal Data Breach Led to Fraudulent Transactions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical Grandstream Phone Vulnerability Exposes Calls to Interception</title>
 		<link>https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/</link>
 		
@@ -103,131 +222,6 @@
 
 					<description><![CDATA[<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>
 <p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</title>
-		<link>https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 11:05:26 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[ATM]]></category>
-		<category><![CDATA[ATM jackpotting]]></category>
-		<category><![CDATA[FBI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45438</guid>
-
-					<description><![CDATA[<p>The FBI has confirmed that the Ploutus malware, which has been around for over a decade, is still being used in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/">FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chip Testing Giant Advantest Hit by Ransomware</title>
-		<link>https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 09:31:29 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Advantest]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45436</guid>
-
-					<description><![CDATA[<p>The company is investigating whether any customer or employee data was stolen by hackers.</p>
-<p>The post <a href="https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/">Chip Testing Giant Advantest Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</title>
-		<link>https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 07:06:15 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PromptSpy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45434</guid>
-
-					<description><![CDATA[<p>The malware leverages Gemini to analyze on-screen elements and ensure that it remains on the device even after a reboot.</p>
-<p>The post <a href="https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/">PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>French Government Says 1.2 Million Bank Accounts Exposed in Breach</title>
-		<link>https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 15:02:58 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[bank]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[France]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45433</guid>
-
-					<description><![CDATA[<p>The Ministry of Economy reported discovering unauthorized access to the national bank account registry FICOBA.</p>
-<p>The post <a href="https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/">French Government Says 1.2 Million Bank Accounts Exposed in Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nearly 1 Million User Records Compromised in Figure Data Breach</title>
-		<link>https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 13:19:08 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Figure]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45428</guid>
-
-					<description><![CDATA[<p>The blockchain-based lender has confirmed a data breach after ShinyHunters leaked over 2GB of data allegedly stolen from the company.</p>
-<p>The post <a href="https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/">Nearly 1 Million User Records Compromised in Figure Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</title>
-		<link>https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 12:23:41 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[PAM]]></category>
-		<category><![CDATA[privileged access management]]></category>
-		<category><![CDATA[Venice Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45427</guid>
-
-					<description><![CDATA[<p>Formerly named Valkyrie, the company’s funding includes $25 million raised in a Series A round. </p>
-<p>The post <a href="https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
