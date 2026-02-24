@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 23 Feb 2026 12:17:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Feb 2026 12:26:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,116 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GitHub Issues Abused in Copilot Attack Leading to Repository Takeover</title>
+		<link>https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 12:26:53 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<category><![CDATA[RoguePilot]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45468</guid>
+
+					<description><![CDATA[<p>Attackers can inject malicious instructions in a GitHub Issue that are automatically processed by Copilot when launching a Codespace from that issue.</p>
+<p>The post <a href="https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/">GitHub Issues Abused in Copilot Attack Leading to Repository Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs</title>
+		<link>https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 12:00:51 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[Taiwan]]></category>
+		<category><![CDATA[TeamT5]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45466</guid>
+
+					<description><![CDATA[<p>The vulnerability in TeamT5 ThreatSonar Anti-Ransomware was recently added to CISA’s KEV catalog.</p>
+<p>The post <a href="https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/">Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anonymous Fénix Members Arrested in Spain</title>
+		<link>https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 10:05:57 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Anonymous]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[hacktivism]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Spain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45465</guid>
+
+					<description><![CDATA[<p>The group’s administrator and moderator were arrested last year, and two other members were arrested this month.</p>
+<p>The post <a href="https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/">Anonymous Fénix Members Arrested in Spain</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach</title>
+		<link>https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 15:35:32 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Catalyst]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Vikor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45462</guid>
+
+					<description><![CDATA[<p>The Everest ransomware group has taken credit for a hacker attack on Vikor Scientific, now called Vanta Diagnostics.</p>
+<p>The post <a href="https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/">US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud</title>
+		<link>https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Feb 2026 13:38:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[laptop farm]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[Ukraine]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45461</guid>
+
+					<description><![CDATA[<p>Oleksandr Didenko sold the stolen identities of US citizens, allowing North Koreans to get hired using freelance work platforms.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/">Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Autonomous AI Agents Provide New Class of Supply Chain Attack</title>
 		<link>https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/</link>
 		
@@ -75,6 +185,7 @@
 				<category><![CDATA[Network Security]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[firewall]]></category>
 		<category><![CDATA[FortiGate]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45454</guid>
@@ -121,107 +232,6 @@
 
 					<description><![CDATA[<p>A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures.</p>
 <p>The post <a href="https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/">Mississippi Hospital System Closes All Clinics After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PayPal Data Breach Led to Fraudulent Transactions</title>
-		<link>https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 09:13:25 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[PayPal]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45449</guid>
-
-					<description><![CDATA[<p>PayPal blamed an application error for the exposure of customer personal information for nearly 6 months. </p>
-<p>The post <a href="https://www.securityweek.com/paypal-data-breach-led-to-fraudulent-transactions/">PayPal Data Breach Led to Fraudulent Transactions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Grandstream Phone Vulnerability Exposes Calls to Interception</title>
-		<link>https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 21 Feb 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[call interception]]></category>
-		<category><![CDATA[eavesdrop]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Grandstream]]></category>
-		<category><![CDATA[phone]]></category>
-		<category><![CDATA[VoIP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45447</guid>
-
-					<description><![CDATA[<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges. </p>
-<p>The post <a href="https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>NIST’s Quantum Breakthrough: Single Photons Produced on a Chip</title>
-		<link>https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 15:48:12 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NIST]]></category>
-		<category><![CDATA[PQC]]></category>
-		<category><![CDATA[QKD]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45442</guid>
-
-					<description><![CDATA[<p>NIST’s single photon chip will likely make QKD an option for a wider range of companies. </p>
-<p>The post <a href="https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/">NIST’s Quantum Breakthrough: Single Photons Produced on a Chip</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</title>
-		<link>https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 15:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45440</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Axonius lays off employees, Abu Dhabi conference data leak, HackerOne addresses AI concerns.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-surge-european-parliament-bans-ai/">In Other News: Ransomware Shuts US Clinics, ICS Vulnerability Surge, European Parliament Bans AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BeyondTrust Vulnerability Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 12:29:46 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BeyondTrust]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45439</guid>
-
-					<description><![CDATA[<p>CISA has updated its KEV entry for CVE-2026-1731 to alert organizations of exploitation in ransomware attacks.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-vulnerability-exploited-in-ransomware-attacks/">BeyondTrust Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
