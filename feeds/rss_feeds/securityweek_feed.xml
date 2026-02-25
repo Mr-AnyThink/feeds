@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 24 Feb 2026 12:26:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Feb 2026 11:52:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,210 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>GitHub Issues Abused in Copilot Attack Leading to Repository Takeover</title>
-		<link>https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/</link>
+		<title>Over 12 Million Users Impacted by CarGurus Data Breach</title>
+		<link>https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 12:26:53 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copilot]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[prompt injection]]></category>
-		<category><![CDATA[RoguePilot]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45468</guid>
-
-					<description><![CDATA[<p>Attackers can inject malicious instructions in a GitHub Issue that are automatically processed by Copilot when launching a Codespace from that issue.</p>
-<p>The post <a href="https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/">GitHub Issues Abused in Copilot Attack Leading to Repository Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs</title>
-		<link>https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 12:00:51 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[Taiwan]]></category>
-		<category><![CDATA[TeamT5]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45466</guid>
-
-					<description><![CDATA[<p>The vulnerability in TeamT5 ThreatSonar Anti-Ransomware was recently added to CISA’s KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/taiwan-security-firm-confirms-flaw-flagged-by-cisa-likely-exploited-by-chinese-apt/">Taiwan Security Firm Confirms Flaw Flagged by CISA Likely Exploited by Chinese APTs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anonymous Fénix Members Arrested in Spain</title>
-		<link>https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 10:05:57 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Anonymous]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[hacktivism]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Spain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45465</guid>
-
-					<description><![CDATA[<p>The group’s administrator and moderator were arrested last year, and two other members were arrested this month.</p>
-<p>The post <a href="https://www.securityweek.com/anonymous-fenix-members-arrested-in-spain/">Anonymous Fénix Members Arrested in Spain</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach</title>
-		<link>https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 15:35:32 +0000</pubDate>
+		<pubDate>Wed, 25 Feb 2026 12:30:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Catalyst]]></category>
+		<category><![CDATA[CarGurus]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Vikor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45462</guid>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45485</guid>
 
-					<description><![CDATA[<p>The Everest ransomware group has taken credit for a hacker attack on Vikor Scientific, now called Vanta Diagnostics.</p>
-<p>The post <a href="https://www.securityweek.com/us-healthcare-diagnostic-firm-says-140000-affected-by-data-breach/">US Healthcare Diagnostic Firm Says 140,000 Affected by Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>
+<p>The post <a href="https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/">Over 12 Million Users Impacted by CarGurus Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud</title>
-		<link>https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/</link>
+		<title>SecurityWeek Report: 426 Cybersecurity M&#038;A Deals Announced in 2025</title>
+		<link>https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[cybersecurity M&A]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Mergers]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45267</guid>
+
+					<description><![CDATA[<p>SecurityWeek’s M&#038;A data indicates that today's market is more disciplined, and it seems to favor GRC, data protection, and identity.</p>
+<p>The post <a href="https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/">SecurityWeek Report: 426 Cybersecurity M&amp;A Deals Announced in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site</title>
+		<link>https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 11:35:48 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[Wynn Resorts]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45481</guid>
+
+					<description><![CDATA[<p>The high-end casino and hotel operator has admitted that employee data was stolen by ShinyHunters.</p>
+<p>The post <a href="https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/">Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Astelia Raises $35 Million for Exposure Management</title>
+		<link>https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 13:38:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[laptop farm]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45461</guid>
+		<pubDate>Wed, 25 Feb 2026 10:38:33 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Astelia]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45480</guid>
 
-					<description><![CDATA[<p>Oleksandr Didenko sold the stolen identities of US citizens, allowing North Koreans to get hired using freelance work platforms.</p>
-<p>The post <a href="https://www.securityweek.com/ukrainian-gets-5-years-in-us-prison-for-aiding-north-korean-it-fraud/">Ukrainian Gets 5 Years in US Prison for Aiding North Korean IT Fraud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company will expand its AI-based analysis capabilities, grow its employee base, and scale deployments.</p>
+<p>The post <a href="https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/">Astelia Raises $35 Million for Exposure Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Autonomous AI Agents Provide New Class of Supply Chain Attack</title>
-		<link>https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45455</guid>
-
-					<description><![CDATA[<p>While this campaign targets crypto wallets and steals money, the methodology has far wider potential that could be used by other attackers. </p>
-<p>The post <a href="https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/">Autonomous AI Agents Provide New Class of Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Romanian Hacker Pleads Guilty to Selling Access to US State Network</title>
-		<link>https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 11:53:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[Romania]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45457</guid>
-
-					<description><![CDATA[<p>Catalin Dragomir admitted in a US court to selling access to an Oregon state government office’s network.</p>
-<p>The post <a href="https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/">Romanian Hacker Pleads Guilty to Selling Access to US State Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS</title>
-		<link>https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 11:34:35 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[FortiGate]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45454</guid>
-
-					<description><![CDATA[<p>Threat actors relying on AI have been exploiting exposed ports and weak credentials to take over FortiGate devices.</p>
-<p>The post <a href="https://www.securityweek.com/hundreds-of-fortigate-firewalls-hacked-in-ai-powered-attacks-aws/">Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent RoundCube Webmail Vulnerability Exploited in Attacks</title>
-		<link>https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 10:47:45 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Roundcube]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45452</guid>
-
-					<description><![CDATA[<p>Patched in December 2025, the exploited flaw leads to XSS attacks via the animate tags in SVG documents.</p>
-<p>The post <a href="https://www.securityweek.com/recent-roundcube-webmail-vulnerability-exploited-in-attacks/">Recent RoundCube Webmail Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mississippi Hospital System Closes All Clinics After Ransomware Attack</title>
-		<link>https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/</link>
+		<title>Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</title>
+		<link>https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 10:29:13 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[University of Mississippi Medical Center]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45451</guid>
+		<pubDate>Wed, 25 Feb 2026 10:04:16 +0000</pubDate>
+				<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[child safety]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[Reddit]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45478</guid>
 
-					<description><![CDATA[<p>A ransomware attack forced the University of Mississippi Medical Center to close all of its roughly three dozen clinics around the state and cancel elective procedures.</p>
-<p>The post <a href="https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/">Mississippi Hospital System Closes All Clinics After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Britain’s data privacy watchdog slapped online forum Reddit on Tuesday with a fine worth nearly $20 million for failures involving children’s personal information.</p>
+<p>The post <a href="https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/">Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Claude&#8217;s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging</title>
+		<link>https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 09:44:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[markets]]></category>
+		<category><![CDATA[security product]]></category>
+		<category><![CDATA[stock]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45477</guid>
+
+					<description><![CDATA[<p>The stocks of major cybersecurity companies have fallen sharply over fears that AI is disrupting the industry.</p>
+<p>The post <a href="https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/">Claude&#8217;s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ad Tech Company Optimizely Targeted in Cyberattack</title>
+		<link>https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 08:23:55 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Optimizely]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45475</guid>
+
+					<description><![CDATA[<p>The company says the attackers accessed internal business systems such as Zendesk and Salesforce.</p>
+<p>The post <a href="https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/">Ad Tech Company Optimizely Targeted in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</title>
+		<link>https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 15:20:06 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Arkanix]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45474</guid>
+
+					<description><![CDATA[<p>Written in C++ and Python, the malware exfiltrates system information, browser data, and steals files.</p>
+<p>The post <a href="https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/">&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Aria Operations Vulnerability Could Allow Remote Code Execution</title>
+		<link>https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Aria Operations]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45473</guid>
+
+					<description><![CDATA[<p>Broadcom has patched several vulnerabilities in VMware Aria Operations, including high-severity flaws.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/">VMware Aria Operations Vulnerability Could Allow Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO</title>
+		<link>https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45469</guid>
+
+					<description><![CDATA[<p>Timothy Youngblood was CISO at Dell, CISO at Kimberley-Clark,  VP &#038; CISO at McDonald’s, and SVP, CSO &#038; Product Security Officer at T-Mobile.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/">CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
