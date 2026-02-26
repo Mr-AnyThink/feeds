@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 25 Feb 2026 11:52:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Feb 2026 12:09:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Over 12 Million Users Impacted by CarGurus Data Breach</title>
+		<title>Zyxel Patches Critical Vulnerability in Many Device Models</title>
+		<link>https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 12:09:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45500</guid>
+
+					<description><![CDATA[<p>The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/">Zyxel Patches Critical Vulnerability in Many Device Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Sanctions Russian Exploit Broker Operation Zero</title>
+		<link>https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 10:33:53 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[exploit broker]]></category>
+		<category><![CDATA[Operation Zero]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[US]]></category>
+		<category><![CDATA[zero-day broker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45499</guid>
+
+					<description><![CDATA[<p>The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions.</p>
+<p>The post <a href="https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/">US Sanctions Russian Exploit Broker Operation Zero</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trend Micro Patches Critical Apex One Vulnerabilities</title>
+		<link>https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 09:56:46 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apex One]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45498</guid>
+
+					<description><![CDATA[<p>TrendAI has fixed eight critical and high-severity issues in Windows and macOS endpoint security products.</p>
+<p>The post <a href="https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/">Trend Micro Patches Critical Apex One Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</title>
+		<link>https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 09:18:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Catalyst]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SD-WAN]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45497</guid>
+
+					<description><![CDATA[<p>Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/">Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</title>
+		<link>https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 16:16:40 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[credentials]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45487</guid>
+
+					<description><![CDATA[<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>
+<p>The post <a href="https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/">The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Disrupts Chinese Hackers Targeting Telecoms, Governments</title>
+		<link>https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 16:01:45 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[cyberespionage]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GridTide]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45492</guid>
+
+					<description><![CDATA[<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>
+<p>The post <a href="https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/">Google Disrupts Chinese Hackers Targeting Telecoms, Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarWinds Patches Four Critical Serv-U Vulnerabilities</title>
+		<link>https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 15:30:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45491</guid>
+
+					<description><![CDATA[<p>The four security defects could be exploited for remote code execution but require administrative privileges.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/">SolarWinds Patches Four Critical Serv-U Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Medical Device Maker UFP Technologies Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 13:40:46 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[UFP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45489</guid>
+
+					<description><![CDATA[<p>UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.</p>
+<p>The post <a href="https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/">Medical Device Maker UFP Technologies Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia</title>
+		<link>https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2026 12:59:30 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[L3Harris]]></category>
+		<category><![CDATA[prison]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[Trenchant]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45486</guid>
+
+					<description><![CDATA[<p>Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker.</p>
+<p>The post <a href="https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/">Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CarGurus Data Breach Impacts Over 12 Million Users</title>
 		<link>https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -40,185 +229,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45485</guid>
 
 					<description><![CDATA[<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>
-<p>The post <a href="https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/">Over 12 Million Users Impacted by CarGurus Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SecurityWeek Report: 426 Cybersecurity M&#038;A Deals Announced in 2025</title>
-		<link>https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[cybersecurity M&A]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Mergers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45267</guid>
-
-					<description><![CDATA[<p>SecurityWeek’s M&#038;A data indicates that today's market is more disciplined, and it seems to favor GRC, data protection, and identity.</p>
-<p>The post <a href="https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/">SecurityWeek Report: 426 Cybersecurity M&amp;A Deals Announced in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site</title>
-		<link>https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 11:35:48 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[Wynn Resorts]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45481</guid>
-
-					<description><![CDATA[<p>The high-end casino and hotel operator has admitted that employee data was stolen by ShinyHunters.</p>
-<p>The post <a href="https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/">Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Astelia Raises $35 Million for Exposure Management</title>
-		<link>https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 10:38:33 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Astelia]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45480</guid>
-
-					<description><![CDATA[<p>The company will expand its AI-based analysis capabilities, grow its employee base, and scale deployments.</p>
-<p>The post <a href="https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/">Astelia Raises $35 Million for Exposure Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</title>
-		<link>https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 10:04:16 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[child safety]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[Reddit]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45478</guid>
-
-					<description><![CDATA[<p>Britain’s data privacy watchdog slapped online forum Reddit on Tuesday with a fine worth nearly $20 million for failures involving children’s personal information.</p>
-<p>The post <a href="https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/">Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Claude&#8217;s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging</title>
-		<link>https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 09:44:02 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[markets]]></category>
-		<category><![CDATA[security product]]></category>
-		<category><![CDATA[stock]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45477</guid>
-
-					<description><![CDATA[<p>The stocks of major cybersecurity companies have fallen sharply over fears that AI is disrupting the industry.</p>
-<p>The post <a href="https://www.securityweek.com/claudes-new-ai-vulnerability-scanner-sends-cybersecurity-shares-plunging/">Claude&#8217;s New AI Vulnerability Scanner Sends Cybersecurity Shares Plunging</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ad Tech Company Optimizely Targeted in Cyberattack</title>
-		<link>https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 08:23:55 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Optimizely]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45475</guid>
-
-					<description><![CDATA[<p>The company says the attackers accessed internal business systems such as Zendesk and Salesforce.</p>
-<p>The post <a href="https://www.securityweek.com/ad-tech-company-optimizely-confirms-cyberattack/">Ad Tech Company Optimizely Targeted in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</title>
-		<link>https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 15:20:06 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Arkanix]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45474</guid>
-
-					<description><![CDATA[<p>Written in C++ and Python, the malware exfiltrates system information, browser data, and steals files.</p>
-<p>The post <a href="https://www.securityweek.com/arkanix-stealer-malware-disappears-shortly-after-debut/">&#8216;Arkanix Stealer&#8217; Malware Disappears Shortly After Debut</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Aria Operations Vulnerability Could Allow Remote Code Execution</title>
-		<link>https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Aria Operations]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45473</guid>
-
-					<description><![CDATA[<p>Broadcom has patched several vulnerabilities in VMware Aria Operations, including high-severity flaws.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-aria-operations-vulnerability-could-allow-remote-code-execution/">VMware Aria Operations Vulnerability Could Allow Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO</title>
-		<link>https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45469</guid>
-
-					<description><![CDATA[<p>Timothy Youngblood was CISO at Dell, CISO at Kimberley-Clark,  VP &#038; CISO at McDonald’s, and SVP, CSO &#038; Product Security Officer at T-Mobile.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/">CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/">CarGurus Data Breach Impacts Over 12 Million Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
