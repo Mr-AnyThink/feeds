@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 26 Feb 2026 12:09:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Feb 2026 12:02:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</title>
+		<link>https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2026 12:02:53 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Aeternum]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45516</guid>
+
+					<description><![CDATA[<p>Aeternum operates on smart contracts, making its command-and-control (C&#038;C) infrastructure difficult to disrupt.</p>
+<p>The post <a href="https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/">Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Juniper Networks PTX Routers Affected by Critical Vulnerability </title>
+		<link>https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2026 10:39:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Juniper]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45514</guid>
+
+					<description><![CDATA[<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</title>
+		<link>https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2026 07:38:59 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gardyn]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[smart garden]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45509</guid>
+
+					<description><![CDATA[<p>CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.</p>
+<p>The post <a href="https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/">Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple iPhone and iPad Cleared for Classified NATO Use</title>
+		<link>https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 18:04:45 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[NATO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45505</guid>
+
+					<description><![CDATA[<p>The devices have been added to the NATO Information Assurance Product Catalogue (NIAPC).</p>
+<p>The post <a href="https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/">Apple iPhone and iPad Cleared for Classified NATO Use</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Four Risks Boards Cannot Treat as Background Noise</title>
+		<link>https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/</link>
+		
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 17:30:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45504</guid>
+
+					<description><![CDATA[<p>The goal isn’t about preventing every attack but about keeping the business running when attacks succeed.</p>
+<p>The post <a href="https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/">Four Risks Boards Cannot Treat as Background Noise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Claude Code Flaws Exposed Developer Devices to Silent Hacking</title>
+		<link>https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 13:37:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45503</guid>
+
+					<description><![CDATA[<p>Anthropic has patched vulnerabilities whose impact was demonstrated by Check Point via malicious configuration files.</p>
+<p>The post <a href="https://www.securityweek.com/claude-code-flaws-exposed-developer-devices-to-silent-hacking/">Claude Code Flaws Exposed Developer Devices to Silent Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gambit Security Emerges From Stealth With $61 Million in Funding</title>
+		<link>https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Feb 2026 12:55:40 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Gambit Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45502</guid>
+
+					<description><![CDATA[<p>The seed and Series A investment will enable the startup to accelerate product development and expand sales and customer success teams.</p>
+<p>The post <a href="https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/">Gambit Security Emerges From Stealth With $61 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Zyxel Patches Critical Vulnerability in Many Device Models</title>
 		<link>https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/</link>
 		
@@ -83,153 +224,6 @@
 
 					<description><![CDATA[<p>TrendAI has fixed eight critical and high-severity issues in Windows and macOS endpoint security products.</p>
 <p>The post <a href="https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/">Trend Micro Patches Critical Apex One Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</title>
-		<link>https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Feb 2026 09:18:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Catalyst]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SD-WAN]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45497</guid>
-
-					<description><![CDATA[<p>Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/">Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</title>
-		<link>https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 16:16:40 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[credentials]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45487</guid>
-
-					<description><![CDATA[<p>More than half (56%) of the 400,000 vulnerabilities IBM X-Force tracked in 2025 required no authentication before exploitation.</p>
-<p>The post <a href="https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai/">The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Disrupts Chinese Hackers Targeting Telecoms, Governments</title>
-		<link>https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 16:01:45 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GridTide]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45492</guid>
-
-					<description><![CDATA[<p>The UNC2814 threat actor has been active since at least 2017, targeting organizations across 42 countries. </p>
-<p>The post <a href="https://www.securityweek.com/google-disrupts-chinese-cyberespionage-campaign-targeting-telecoms-governments/">Google Disrupts Chinese Hackers Targeting Telecoms, Governments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SolarWinds Patches Four Critical Serv-U Vulnerabilities</title>
-		<link>https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 15:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45491</guid>
-
-					<description><![CDATA[<p>The four security defects could be exploited for remote code execution but require administrative privileges.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/">SolarWinds Patches Four Critical Serv-U Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Medical Device Maker UFP Technologies Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 13:40:46 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[UFP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45489</guid>
-
-					<description><![CDATA[<p>UFP Technologies appears to have been targeted in a ransomware attack that involved data theft and file-encrypting malware.</p>
-<p>The post <a href="https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/">Medical Device Maker UFP Technologies Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia</title>
-		<link>https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 12:59:30 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[L3Harris]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[Trenchant]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45486</guid>
-
-					<description><![CDATA[<p>Peter Williams was sentenced to 87 months in prison for selling cyber exploits to a Russian broker.</p>
-<p>The post <a href="https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/">Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CarGurus Data Breach Impacts Over 12 Million Users</title>
-		<link>https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[CarGurus]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45485</guid>
-
-					<description><![CDATA[<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>
-<p>The post <a href="https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/">CarGurus Data Breach Impacts Over 12 Million Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
