@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 27 Feb 2026 21:31:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2026 12:08:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,94 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>North Korean APT Targets Air-Gapped Systems in Recent Campaign</title>
+		<link>https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 11:46:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[air gap]]></category>
+		<category><![CDATA[APT37]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45542</guid>
+
+					<description><![CDATA[<p>Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/">North Korean APT Targets Air-Gapped Systems in Recent Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Working Towards Quantum-Safe Chrome HTTPS Certificates </title>
+		<link>https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 11:33:34 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[HTTPS]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum secure]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45541</guid>
+
+					<description><![CDATA[<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>
+<p>The post <a href="https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/">Google Working Towards Quantum-Safe Chrome HTTPS Certificates </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</title>
+		<link>https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 11:04:32 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[cyberwarfare]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[US]]></category>
+		<category><![CDATA[war]]></category>
+		<category><![CDATA[wiper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45538</guid>
+
+					<description><![CDATA[<p>Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. </p>
+<p>The post <a href="https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/">US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Weaponize Claude Code in Mexican Government Cyberattack</title>
+		<link>https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mexico]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45529</guid>
+
+					<description><![CDATA[<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Canadian Tire Data Breach Impacts 38 Million Accounts</title>
 		<link>https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/</link>
 		
@@ -138,85 +226,6 @@
 
 					<description><![CDATA[<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>
 <p>The post <a href="https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</title>
-		<link>https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 12:34:42 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Pentagon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45518</guid>
-
-					<description><![CDATA[<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won’t be used for mass surveillance of Americans or in fully autonomous weapons.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</title>
-		<link>https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 12:02:53 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Aeternum]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45516</guid>
-
-					<description><![CDATA[<p>Aeternum operates on smart contracts, making its command-and-control (C&#038;C) infrastructure difficult to disrupt.</p>
-<p>The post <a href="https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/">Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Juniper Networks PTX Routers Affected by Critical Vulnerability </title>
-		<link>https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 10:39:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45514</guid>
-
-					<description><![CDATA[<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/">Juniper Networks PTX Routers Affected by Critical Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</title>
-		<link>https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 07:38:59 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gardyn]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[smart garden]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45509</guid>
-
-					<description><![CDATA[<p>CISA has released an advisory to warn about four vulnerabilities discovered by a researcher in Gardyn Home and Gardyn Studio.</p>
-<p>The post <a href="https://www.securityweek.com/critical-flaws-exposed-gardyn-smart-gardens-to-remote-hacking/">Critical Flaws Exposed Gardyn Smart Gardens to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
