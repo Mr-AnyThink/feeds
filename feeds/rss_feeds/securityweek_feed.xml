@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 02 Mar 2026 12:08:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Mar 2026 12:26:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,176 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</title>
+		<link>https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 12:25:28 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacktivism]]></category>
+		<category><![CDATA[hacktivists]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[nation state]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45556</guid>
+
+					<description><![CDATA[<p>The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified.</p>
+<p>The post <a href="https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/">Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</title>
+		<link>https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 10:43:20 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[MS-Agent]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45555</guid>
+
+					<description><![CDATA[<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researchers Uncover Method to Track Cars via Tire Sensors</title>
+		<link>https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 09:40:03 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[location]]></category>
+		<category><![CDATA[location tracking]]></category>
+		<category><![CDATA[tire pressure]]></category>
+		<category><![CDATA[tracking]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45553</guid>
+
+					<description><![CDATA[<p>Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.</p>
+<p>The post <a href="https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/">Researchers Uncover Method to Track Cars via Tire Sensors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability Allowed Hijacking Chrome&#8217;s Gemini Live AI Assistant</title>
+		<link>https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 15:26:45 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[browser extension]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[extension]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45552</guid>
+
+					<description><![CDATA[<p>Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/">Vulnerability Allowed Hijacking Chrome&#8217;s Gemini Live AI Assistant</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenClaw Vulnerability Allowed Websites to Hijack AI Agents</title>
+		<link>https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 14:26:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenClaw]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45550</guid>
+
+					<description><![CDATA[<p>Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent.</p>
+<p>The post <a href="https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/">OpenClaw Vulnerability Allowed Websites to Hijack AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Madison Square Garden Data Breach Confirmed Months After Hacker Attack</title>
+		<link>https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 13:53:26 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Madison Square Garden]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45547</guid>
+
+					<description><![CDATA[<p>The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.</p>
+<p>The post <a href="https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/">Madison Square Garden Data Breach Confirmed Months After Hacker Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nick Andersen Appointed Acting Director of CISA</title>
+		<link>https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 12:53:44 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[appointed]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Nick Andersen]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45546</guid>
+
+					<description><![CDATA[<p>Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security.</p>
+<p>The post <a href="https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/">Nick Andersen Appointed Acting Director of CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AWS Expands Security Hub Into a Cross-Domain Security Platform</title>
+		<link>https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45545</guid>
+
+					<description><![CDATA[<p>The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains.</p>
+<p>The post <a href="https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/">AWS Expands Security Hub Into a Cross-Domain Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>North Korean APT Targets Air-Gapped Systems in Recent Campaign</title>
 		<link>https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/</link>
 		
@@ -62,170 +232,6 @@
 
 					<description><![CDATA[<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>
 <p>The post <a href="https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/">Google Working Towards Quantum-Safe Chrome HTTPS Certificates </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</title>
-		<link>https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 11:04:32 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[cyberwarfare]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[US]]></category>
-		<category><![CDATA[war]]></category>
-		<category><![CDATA[wiper]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45538</guid>
-
-					<description><![CDATA[<p>Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure. </p>
-<p>The post <a href="https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/">US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Weaponize Claude Code in Mexican Government Cyberattack</title>
-		<link>https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sun, 01 Mar 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude Code]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mexico]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45529</guid>
-
-					<description><![CDATA[<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canadian Tire Data Breach Impacts 38 Million Accounts</title>
-		<link>https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 28 Feb 2026 11:50:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Canadian Tire]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[retail]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45526</guid>
-
-					<description><![CDATA[<p>Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.</p>
-<p>The post <a href="https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/">Canadian Tire Data Breach Impacts 38 Million Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology</title>
-		<link>https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 21:30:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Trump]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45530</guid>
-
-					<description><![CDATA[<p>OpenAI and Google, along with Elon Musk’s xAI, also have contracts to supply their AI models to the military.</p>
-<p>The post <a href="https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/">Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: ATT&#038;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</title>
-		<link>https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 15:23:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45525</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/">In Other News: ATT&#038;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>38 Million Allegedly Impacted by ManoMano Data Breach</title>
-		<link>https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 13:41:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ManoMano]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45521</guid>
-
-					<description><![CDATA[<p>Hackers stole personal information such as names, email addresses, phone numbers, and other information.</p>
-<p>The post <a href="https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/">38 Million Allegedly Impacted by ManoMano Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>900 Sangoma FreePBX Instances Infected With Web Shells</title>
-		<link>https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 13:24:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[FreePBX]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45520</guid>
-
-					<description><![CDATA[<p>The attacks exploited a post-authentication command injection vulnerability in the endpoint manager’s interface.</p>
-<p>The post <a href="https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/">900 Sangoma FreePBX Instances Infected With Web Shells</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chilean Carding Shop Operator Extradited to US</title>
-		<link>https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 12:34:54 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[carding shop]]></category>
-		<category><![CDATA[Chile]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[hacker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45519</guid>
-
-					<description><![CDATA[<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>
-<p>The post <a href="https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
