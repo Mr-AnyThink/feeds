@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 03 Mar 2026 12:26:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Mar 2026 12:04:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,210 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</title>
-		<link>https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/</link>
+		<title>LastPass Warns of New Phishing Campaign</title>
+		<link>https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 12:25:28 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacktivism]]></category>
-		<category><![CDATA[hacktivists]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[nation state]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45556</guid>
+		<pubDate>Wed, 04 Mar 2026 12:04:30 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[LastPass]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45576</guid>
 
-					<description><![CDATA[<p>The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified.</p>
-<p>The post <a href="https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/">Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The attackers are sending out fake alerts claiming unauthorized access or master password changes.</p>
+<p>The post <a href="https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/">LastPass Warns of New Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</title>
-		<link>https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/</link>
+		<title>Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</title>
+		<link>https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 10:43:20 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[MS-Agent]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45555</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[SOC]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45573</guid>
 
-					<description><![CDATA[<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Researchers Uncover Method to Track Cars via Tire Sensors</title>
-		<link>https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/</link>
+		<title>Google Plans Two-Week Release Schedule for Chrome</title>
+		<link>https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 09:40:03 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[cars]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[location]]></category>
-		<category><![CDATA[location tracking]]></category>
-		<category><![CDATA[tire pressure]]></category>
-		<category><![CDATA[tracking]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45553</guid>
-
-					<description><![CDATA[<p>Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.</p>
-<p>The post <a href="https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/">Researchers Uncover Method to Track Cars via Tire Sensors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability Allowed Hijacking Chrome&#8217;s Gemini Live AI Assistant</title>
-		<link>https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 15:26:45 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[browser extension]]></category>
+		<pubDate>Wed, 04 Mar 2026 11:52:04 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
 		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[extension]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45552</guid>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[security update]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45574</guid>
 
-					<description><![CDATA[<p>Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/">Vulnerability Allowed Hijacking Chrome&#8217;s Gemini Live AI Assistant</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle.</p>
+<p>The post <a href="https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/">Google Plans Two-Week Release Schedule for Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>OpenClaw Vulnerability Allowed Websites to Hijack AI Agents</title>
-		<link>https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/</link>
+		<title>Global Coalition Publishes 6G Security and Resilience Principles</title>
+		<link>https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 14:26:03 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenClaw]]></category>
+		<pubDate>Wed, 04 Mar 2026 10:57:18 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[6G]]></category>
+		<category><![CDATA[6G security]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<category><![CDATA[wireless]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45571</guid>
+
+					<description><![CDATA[<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>
+<p>The post <a href="https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical FreeScout Vulnerability Leads to Full Server Compromise</title>
+		<link>https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 09:16:39 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[FreeScout]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45550</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45570</guid>
 
-					<description><![CDATA[<p>Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent.</p>
-<p>The post <a href="https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/">OpenClaw Vulnerability Allowed Websites to Hijack AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks.</p>
+<p>The post <a href="https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/">Critical FreeScout Vulnerability Leads to Full Server Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Madison Square Garden Data Breach Confirmed Months After Hacker Attack</title>
-		<link>https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/</link>
+		<title>VMware Aria Operations Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 13:53:26 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
+		<pubDate>Wed, 04 Mar 2026 07:24:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[VMware Aria]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45567</guid>
+
+					<description><![CDATA[<p>The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. </p>
+<p>The post <a href="https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/">VMware Aria Operations Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters</title>
+		<link>https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 19:56:24 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[Iran]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45566</guid>
+
+					<description><![CDATA[<p>Two AWS data centers in the United Arab Emirates were “directly struck” and another facility in Bahrain was also damaged after a drone landed nearby.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/">Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fig Security Launches With $38 Million to Bolster SecOps Resilience</title>
+		<link>https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 15:56:25 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Fig Security]]></category>
+		<category><![CDATA[stealth]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45564</guid>
+
+					<description><![CDATA[<p>The company was founded in March 2025 and it has now emerged from stealth mode.</p>
+<p>The post <a href="https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/">Fig Security Launches With $38 Million to Bolster SecOps Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability</title>
+		<link>https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 03 Mar 2026 15:28:47 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[building]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Madison Square Garden]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45547</guid>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45562</guid>
 
-					<description><![CDATA[<p>The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.</p>
-<p>The post <a href="https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/">Madison Square Garden Data Breach Confirmed Months After Hacker Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The researcher says he has identified thousands of internet-exposed IQ4 building management controllers.</p>
+<p>The post <a href="https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/">Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Nick Andersen Appointed Acting Director of CISA</title>
-		<link>https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 12:53:44 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[appointed]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Nick Andersen]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45546</guid>
-
-					<description><![CDATA[<p>Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security.</p>
-<p>The post <a href="https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/">Nick Andersen Appointed Acting Director of CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AWS Expands Security Hub Into a Cross-Domain Security Platform</title>
-		<link>https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/</link>
+		<title>Quantum Decryption of RSA Is Much Closer Than Expected</title>
+		<link>https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45545</guid>
-
-					<description><![CDATA[<p>The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains.</p>
-<p>The post <a href="https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/">AWS Expands Security Hub Into a Cross-Domain Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean APT Targets Air-Gapped Systems in Recent Campaign</title>
-		<link>https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 11:46:29 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[air gap]]></category>
-		<category><![CDATA[APT37]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45542</guid>
-
-					<description><![CDATA[<p>Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/">North Korean APT Targets Air-Gapped Systems in Recent Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Working Towards Quantum-Safe Chrome HTTPS Certificates </title>
-		<link>https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 02 Mar 2026 11:33:34 +0000</pubDate>
+		<pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
 				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[HTTPS]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum secure]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45541</guid>
+		<category><![CDATA[ECC]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[JVG]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<category><![CDATA[Quantum Decryption]]></category>
+		<category><![CDATA[RSA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45561</guid>
 
-					<description><![CDATA[<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>
-<p>The post <a href="https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/">Google Working Towards Quantum-Safe Chrome HTTPS Certificates </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>
+<p>The post <a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/">Quantum Decryption of RSA Is Much Closer Than Expected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
