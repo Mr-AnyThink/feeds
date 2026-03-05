@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 04 Mar 2026 12:04:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Mar 2026 12:15:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>LastPass Warns of New Phishing Campaign</title>
-		<link>https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/</link>
+		<title>Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild</title>
+		<link>https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 12:04:30 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[LastPass]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45576</guid>
-
-					<description><![CDATA[<p>The attackers are sending out fake alerts claiming unauthorized access or master password changes.</p>
-<p>The post <a href="https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/">LastPass Warns of New Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</title>
-		<link>https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[SOC]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45573</guid>
-
-					<description><![CDATA[<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Plans Two-Week Release Schedule for Chrome</title>
-		<link>https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 11:52:04 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[security update]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45574</guid>
-
-					<description><![CDATA[<p>Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle.</p>
-<p>The post <a href="https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/">Google Plans Two-Week Release Schedule for Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Global Coalition Publishes 6G Security and Resilience Principles</title>
-		<link>https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 10:57:18 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[6G]]></category>
-		<category><![CDATA[6G security]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<category><![CDATA[wireless]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45571</guid>
-
-					<description><![CDATA[<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>
-<p>The post <a href="https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical FreeScout Vulnerability Leads to Full Server Compromise</title>
-		<link>https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 09:16:39 +0000</pubDate>
+		<pubDate>Thu, 05 Mar 2026 12:15:06 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[FreeScout]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45570</guid>
-
-					<description><![CDATA[<p>A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks.</p>
-<p>The post <a href="https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/">Critical FreeScout Vulnerability Leads to Full Server Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Aria Operations Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 04 Mar 2026 07:24:45 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[VMware Aria]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45567</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45598</guid>
 
-					<description><![CDATA[<p>The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution. </p>
-<p>The post <a href="https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/">VMware Aria Operations Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The networking giant has added the recently patched CVE-2026-20128 and CVE-2026-20122 to the list of exploited vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-more-catalyst-sd-wan-flaws-exploited-in-the-wild/">Cisco Warns of More Catalyst SD-WAN Flaws Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters</title>
-		<link>https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/</link>
+		<title>Reclaim Security Raises $20 Million to Accelerate Remediation</title>
+		<link>https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 19:56:24 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[Iran]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45566</guid>
-
-					<description><![CDATA[<p>Two AWS data centers in the United Arab Emirates were “directly struck” and another facility in Bahrain was also damaged after a drone landed nearby.</p>
-<p>The post <a href="https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/">Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fig Security Launches With $38 Million to Bolster SecOps Resilience</title>
-		<link>https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 15:56:25 +0000</pubDate>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 11:23:04 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Fig Security]]></category>
-		<category><![CDATA[stealth]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45564</guid>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Reclaim Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45597</guid>
 
-					<description><![CDATA[<p>The company was founded in March 2025 and it has now emerged from stealth mode.</p>
-<p>The post <a href="https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/">Fig Security Launches With $38 Million to Bolster SecOps Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company will expand its engineering team, deepen integrations, and accelerate go-to-market initiatives.</p>
+<p>The post <a href="https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/">Reclaim Security Raises $20 Million to Accelerate Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability</title>
-		<link>https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/</link>
+		<title>LeakBase Cybercrime Forum Shut Down, Suspects Arrested</title>
+		<link>https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 15:28:47 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[building]]></category>
+		<pubDate>Thu, 05 Mar 2026 10:46:17 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45562</guid>
+		<category><![CDATA[LeakBase]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45595</guid>
 
-					<description><![CDATA[<p>The researcher says he has identified thousands of internet-exposed IQ4 building management controllers.</p>
-<p>The post <a href="https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/">Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The stolen credential marketplace had been active since 2021 and in late 2025 it counted 142,000 users. </p>
+<p>The post <a href="https://www.securityweek.com/leakbase-cybercrime-forum-shut-down-suspects-arrested/">LeakBase Cybercrime Forum Shut Down, Suspects Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Quantum Decryption of RSA Is Much Closer Than Expected</title>
-		<link>https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/</link>
+		<title>Cisco Patches Critical Vulnerabilities in Enterprise Networking Products</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 08:50:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45594</guid>
+
+					<description><![CDATA[<p>Cisco has rolled out patches for 48 vulnerabilities in Firewall ASA, Secure FMC, and Secure FTD products.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/">Cisco Patches Critical Vulnerabilities in Enterprise Networking Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks</title>
+		<link>https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 03 Mar 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[ECC]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[JVG]]></category>
-		<category><![CDATA[Quantum Computing]]></category>
-		<category><![CDATA[Quantum Decryption]]></category>
-		<category><![CDATA[RSA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45561</guid>
+		<pubDate>Thu, 05 Mar 2026 04:04:17 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45591</guid>
 
-					<description><![CDATA[<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor’s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>
-<p>The post <a href="https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/">Quantum Decryption of RSA Is Much Closer Than Expected</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google and iVerify analysis reveals a powerful exploit kit originally used by Russian state actors that is now appearing in broader criminal campaigns.</p>
+<p>The post <a href="https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/">Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tycoon 2FA Phishing Platform Dismantled in Global Takedown</title>
+		<link>https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 18:37:26 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[takedown]]></category>
+		<category><![CDATA[Tycoon 2FA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45589</guid>
+
+					<description><![CDATA[<p>The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month.</p>
+<p>The post <a href="https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/">Tycoon 2FA Phishing Platform Dismantled in Global Takedown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New LexisNexis Data Breach Confirmed After Hackers Leak Files</title>
+		<link>https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 17:44:14 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[LexisNexis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45586</guid>
+
+					<description><![CDATA[<p>The hackers claim to have stolen 2GB of files, including 400,000 personal information records. </p>
+<p>The post <a href="https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/">New LexisNexis Data Breach Confirmed After Hackers Leak Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance</title>
+		<link>https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 15:36:26 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Beazley]]></category>
+		<category><![CDATA[Cyber Insurance]]></category>
+		<category><![CDATA[Cyberinsurance]]></category>
+		<category><![CDATA[insurance]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Zurich]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45585</guid>
+
+					<description><![CDATA[<p>The deal awaits final shareholder and regulatory approvals and is expected to be completed in the second half of 2026.</p>
+<p>The post <a href="https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/">Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively</title>
+		<link>https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45580</guid>
+
+					<description><![CDATA[<p>A Belgian national, De Ceukelaire’ did not set out to be a hacker. Like many hackers he was born with the potential to become one and only gradually realized he is one.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/">Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How Pirated Software Turns Helpful Employees Into Malware Delivery Agents</title>
+		<link>https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2026 12:48:16 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45577</guid>
+
+					<description><![CDATA[<p>Employees seeking free versions of paid software may unknowingly install malware-laced “cracked” apps that can steal credentials, deploy cryptominers, or open the door to ransomware.</p>
+<p>The post <a href="https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/">How Pirated Software Turns Helpful Employees Into Malware Delivery Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
