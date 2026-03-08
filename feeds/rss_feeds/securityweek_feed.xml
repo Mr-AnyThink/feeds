@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 07 Mar 2026 11:51:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Mar 2026 17:19:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</title>
+		<link>https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2026 12:15:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45621</guid>
+
+					<description><![CDATA[<p>WatchTowr reports seeing exploitation attempts for CVE-2026-20127 from numerous unique IP addresses.</p>
+<p>The post <a href="https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/">Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</title>
+		<link>https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Sat, 07 Mar 2026 15:57:23 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[Trump]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45622</guid>
+
+					<description><![CDATA[<p>Trump’s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography.</p>
+<p>The post <a href="https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/">US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 100 GitHub Repositories Distributing BoryptGrab Stealer</title>
+		<link>https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 07 Mar 2026 12:40:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[BoryptGrab]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45613</guid>
+
+					<description><![CDATA[<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>
+<p>The post <a href="https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Pentagon’s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</title>
 		<link>https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/</link>
 		
@@ -163,70 +223,6 @@
 
 					<description><![CDATA[<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. </p>
 <p>The post <a href="https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Iranian APT Hacked US Airport, Bank, Software Company</title>
-		<link>https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 06 Mar 2026 11:31:09 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[cyberespionage]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[MuddyWater]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45607</guid>
-
-					<description><![CDATA[<p>The attacks, observed since February, show that Iranian hackers already have a presence in the networks of US organizations.</p>
-<p>The post <a href="https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/">Iranian APT Hacked US Airport, Bank, Software Company</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Security Firm Evervault Raises $25 Million in Series B Funding</title>
-		<link>https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Mar 2026 09:05:48 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[Evervault]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45605</guid>
-
-					<description><![CDATA[<p>The company has raised a total of $46 million in funding for its developer-focused encryption and orchestration platform.</p>
-<p>The post <a href="https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/">Data Security Firm Evervault Raises $25 Million in Series B Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google: Half of 2025&#8217;s 90 Exploited Zero-Days Aimed at Enterprises</title>
-		<link>https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45600</guid>
-
-					<description><![CDATA[<p>Less than half of the total zero-days have been attributed to a threat actor, but spyware vendors and China are in the lead. </p>
-<p>The post <a href="https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/">Google: Half of 2025&#8217;s 90 Exploited Zero-Days Aimed at Enterprises</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
