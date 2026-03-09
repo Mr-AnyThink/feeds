@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 07 Mar 2026 17:19:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Mar 2026 12:06:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Internet Infrastructure TLD .arpa Abused in Phishing Attacks</title>
+		<link>https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2026 12:06:25 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[arpa]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45628</guid>
+
+					<description><![CDATA[<p>Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.</p>
+<p>The post <a href="https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/">Internet Infrastructure TLD .arpa Abused in Phishing Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloned AI Tool Sites Distribute Malware in &#8216;InstallFix&#8217; Campaign</title>
+		<link>https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 09 Mar 2026 11:42:07 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[InstallFix]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45626</guid>
+
+					<description><![CDATA[<p>Threat actors replace legitimate commands on the cloned installation webpages with malicious commands.</p>
+<p>The post <a href="https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/">Cloned AI Tool Sites Distribute Malware in &#8216;InstallFix&#8217; Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Recent Cisco Catalyst SD-WAN Vulnerability Now Widely Exploited</title>
 		<link>https://www.securityweek.com/recent-cisco-catalyst-sd-wan-vulnerability-now-widely-exploited/</link>
 		
@@ -179,50 +218,6 @@
 
 					<description><![CDATA[<p>The nation-state-grade iOS exploit kit targets 23 vulnerabilities affecting iOS 13 to 17.2.1.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/">CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</title>
-		<link>https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Mar 2026 12:32:09 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Rockwell Automation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45610</guid>
-
-					<description><![CDATA[<p>The vulnerability was disclosed and mitigated in 2021 but its in-the-wild exploitation has only now come to light.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-vulnerability-allowing-remote-ics-hacking-exploited-in-attacks/">Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</title>
-		<link>https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 06 Mar 2026 11:44:15 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Aaron Bishop]]></category>
-		<category><![CDATA[appointed]]></category>
-		<category><![CDATA[DoD]]></category>
-		<category><![CDATA[Pentagon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45608</guid>
-
-					<description><![CDATA[<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service. </p>
-<p>The post <a href="https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
