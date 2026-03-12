@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 11 Mar 2026 12:26:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Mar 2026 12:29:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>OpenAI to Acquire AI Security Startup Promptfoo</title>
-		<link>https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/</link>
+		<title>The Human IOC: Why Security Professionals Struggle with Social Vetting</title>
+		<link>https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45695</guid>
+
+					<description><![CDATA[<p>Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team.</p>
+<p>The post <a href="https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/">The Human IOC: Why Security Professionals Struggle with Social Vetting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Splunk, Zoom Patch Severe Vulnerabilities</title>
+		<link>https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 12:06:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45694</guid>
+
+					<description><![CDATA[<p>Critical- and high-severity flaws could be exploited to execute arbitrary shell commands or elevate privileges.</p>
+<p>The post <a href="https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/">Splunk, Zoom Patch Severe Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches High-Severity IOS XR Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 10:25:26 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45691</guid>
+
+					<description><![CDATA[<p>The security defects could lead to denial-of-service (DoS) conditions, command execution, or device takeover.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical N8n Vulnerabilities Allowed Server Takeover</title>
+		<link>https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 09:54:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[n8n]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45690</guid>
+
+					<description><![CDATA[<p>The bugs allowed unauthenticated attackers to execute arbitrary code, steal credentials, and take over servers.</p>
+<p>The post <a href="https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/">Critical N8n Vulnerabilities Allowed Server Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</title>
+		<link>https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 12:25:58 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
+		<pubDate>Thu, 12 Mar 2026 09:40:59 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[Polyfill]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45689</guid>
+
+					<description><![CDATA[<p>The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement.</p>
+<p>The post <a href="https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/">Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command</title>
+		<link>https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 19:08:03 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Joshua Rudd]]></category>
+		<category><![CDATA[NSA]]></category>
+		<category><![CDATA[USCYBERCOM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45681</guid>
+
+					<description><![CDATA[<p>The leadership structure, commonly referred to as the “dual-hat” arrangement, assigns a single individual to oversee both organizations.</p>
+<p>The post <a href="https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/">Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack</title>
+		<link>https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 16:18:39 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Stryker]]></category>
+		<category><![CDATA[wiper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45677</guid>
+
+					<description><![CDATA[<p>Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company’s devices.</p>
+<p>The post <a href="https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/">MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wiz Joins Google Cloud as Landmark Acquisition Closes</title>
+		<link>https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 14:25:17 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
 		<category><![CDATA[Funding/M&A]]></category>
 		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[acquires]]></category>
-		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[google]]></category>
 		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[Promptfoo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45669</guid>
+		<category><![CDATA[Wiz]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45675</guid>
 
-					<description><![CDATA[<p>Promptfoo has raised more than $23 million in funding for a platform that helps developers secure LLMs and AI agents.</p>
-<p>The post <a href="https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/">OpenAI to Acquire AI Security Startup Promptfoo</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google has completed its $32 billion acquisition of the cloud security giant, which will maintain its brand.</p>
+<p>The post <a href="https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/">Wiz Joins Google Cloud as Landmark Acquisition Closes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 12:10:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45668</guid>
-
-					<description><![CDATA[<p>The bugs could lead to arbitrary code execution, privilege escalation, or authentication rate-limit bypass.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/">Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to 10x Your Vulnerability Management Program in the Agentic Era</title>
-		<link>https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/</link>
-		
-		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security Operations]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45667</guid>
-
-					<description><![CDATA[<p>The evolution of vulnerability management in the agentic era is characterized by continuous telemetry, contextual prioritization and the ultimate goal of agentic remediation.</p>
-<p>The post <a href="https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/">How to 10x Your Vulnerability Management Program in the Agentic Era</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Michelin Confirms Data Breach Linked to Oracle EBS Attack</title>
-		<link>https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 11:27:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Michelin]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45664</guid>
-
-					<description><![CDATA[<p>The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant.</p>
-<p>The post <a href="https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/">Michelin Confirms Data Breach Linked to Oracle EBS Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quantro Security Emerges From Stealth With $2.5 Million in Funding</title>
-		<link>https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 10:49:03 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Quantro]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45663</guid>
-
-					<description><![CDATA[<p>The startup integrates with existing cybersecurity stacks, ingests and normalizes data, and delivers intelligence to reduce risks.</p>
-<p>The post <a href="https://www.securityweek.com/quantro-security-emerges-from-stealth-with-2-5-million-in-funding/">Quantro Security Emerges From Stealth With $2.5 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;BlackSanta&#8217; Malware Activates EDR and AV Killer Before Detonating Payload</title>
-		<link>https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/</link>
+		<title>CISO Conversations: Aimee Cardwell</title>
+		<link>https://www.securityweek.com/ciso-conversations-aimee-cardwell/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 09:42:41 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
+		<pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45660</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45672</guid>
 
-					<description><![CDATA[<p>The malware disables antivirus and EDR protections at the kernel level, clearing the path for credential harvesting, system reconnaissance, and eventual data exfiltration.</p>
-<p>The post <a href="https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/">&#8216;BlackSanta&#8217; Malware Activates EDR and AV Killer Before Detonating Payload</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cardwell started her career at Netscape, become a VP of engineering at American Express, CISO at UnitedHealth Group, and now CISO in Residence at Transcend.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-aimee-cardwell/">CISO Conversations: Aimee Cardwell</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 07:51:18 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<category><![CDATA[Schneider Electric]]></category>
-		<category><![CDATA[Siemens]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45659</guid>
-
-					<description><![CDATA[<p>Industrial giants Siemens, Schneider Electric, Mitsubishi Electric, and Moxa have published new ICS Patch Tuesday advisories. </p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches 83 Vulnerabilities</title>
-		<link>https://www.securityweek.com/microsoft-patches-83-vulnerabilities/</link>
+		<title>238,000 Impacted by Bell Ambulance Data Breach</title>
+		<link>https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 19:12:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45658</guid>
+		<pubDate>Wed, 11 Mar 2026 13:34:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Bell Ambulance]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45671</guid>
 
-					<description><![CDATA[<p>Microsoft has fixed a critical vulnerability, but none of the flaws fixed this Patch Tuesday has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-83-vulnerabilities/">Microsoft Patches 83 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches 80 Vulnerabilities Across Eight Products</title>
-		<link>https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 18:22:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45657</guid>
-
-					<description><![CDATA[<p>Adobe has rolled out patches for 80 vulnerabilities across 8 products, including Commerce, Illustrator, Acrobat Reader, and Premiere Pro.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/">Adobe Patches 80 Vulnerabilities Across Eight Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP</title>
-		<link>https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 17:45:32 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[DLP]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Jazz]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45656</guid>
-
-					<description><![CDATA[<p>The startup brings AI to data loss prevention to provide visibility into intent, context, and risk.</p>
-<p>The post <a href="https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/">Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers stole personal information such as names, Social Security numbers, and driver’s license numbers.</p>
+<p>The post <a href="https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/">238,000 Impacted by Bell Ambulance Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
