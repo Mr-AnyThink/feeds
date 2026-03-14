@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Mar 2026 11:56:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Mar 2026 17:52:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,84 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</title>
+		<link>https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 10:50:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Aruba]]></category>
+		<category><![CDATA[HPE]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[switch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45704</guid>
+
+					<description><![CDATA[<p>The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.</p>
+<p>The post <a href="https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/">Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Starbucks Data Breach Impacts Employees</title>
+		<link>https://www.securityweek.com/starbucks-data-breach-impacts-employees/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 15:21:13 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[Starbucks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45712</guid>
+
+					<description><![CDATA[<p>Starbucks said the incident involved phishing attacks targeting an employee portal, affecting hundreds.</p>
+<p>The post <a href="https://www.securityweek.com/starbucks-data-breach-impacts-employees/">Starbucks Data Breach Impacts Employees</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</title>
+		<link>https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 14:27:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45710</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/">In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War</title>
+		<link>https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 12:32:48 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[cyberwar]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Stryker]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45709</guid>
+
+					<description><![CDATA[<p>Pro-Iranian hackers are targeting sites in the Middle East and starting to stretch into the United States during the war, raising the risk of American defense contractors, power stations and water plants.</p>
+<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/">Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Bold Security Emerges From Stealth With $40 Million in Funding</title>
 		<link>https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/</link>
 		
@@ -73,6 +151,7 @@
 				<category><![CDATA[Cyberwarfare]]></category>
 		<category><![CDATA[cyberattack]]></category>
 		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Handala]]></category>
 		<category><![CDATA[healthcare]]></category>
 		<category><![CDATA[Iran]]></category>
@@ -147,86 +226,6 @@
 
 					<description><![CDATA[<p>The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.</p>
 <p>The post <a href="https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/">Chrome 146 Update Patches Two Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Updates Legacy iOS Versions to Patch Coruna Exploits</title>
-		<link>https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Mar 2026 14:40:34 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Coruna]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[iOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45699</guid>
-
-					<description><![CDATA[<p>The company has released iOS and iPadOS versions 16.7.15 and 15.8.7 to patch the vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/">Apple Updates Legacy iOS Versions to Patch Coruna Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta Launches New Protection Tools as It Helps Disrupt Scam Centers</title>
-		<link>https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 12 Mar 2026 13:17:26 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45698</guid>
-
-					<description><![CDATA[<p>The social media giant has disabled more than 150,000 accounts powering scam centers in Asia.</p>
-<p>The post <a href="https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/">Meta Launches New Protection Tools as It Helps Disrupt Scam Centers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks</title>
-		<link>https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 12 Mar 2026 12:43:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ally]]></category>
-		<category><![CDATA[plugin]]></category>
-		<category><![CDATA[plugin vulnerability]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45697</guid>
-
-					<description><![CDATA[<p>The issue allows attackers to inject SQL queries and extract sensitive information from the database.</p>
-<p>The post <a href="https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/">Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Human IOC: Why Security Professionals Struggle with Social Vetting</title>
-		<link>https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Thu, 12 Mar 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45695</guid>
-
-					<description><![CDATA[<p>Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team.</p>
-<p>The post <a href="https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/">The Human IOC: Why Security Professionals Struggle with Social Vetting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
