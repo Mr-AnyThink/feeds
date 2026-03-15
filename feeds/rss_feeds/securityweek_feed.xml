@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 13 Mar 2026 17:52:28 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Mar 2026 13:26:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Loblaw Data Breach Impacts Customer Information</title>
+		<link>https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Loblaw]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45714</guid>
+
+					<description><![CDATA[<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>
+<p>The post <a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</title>
 		<link>https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/</link>
 		
@@ -57,6 +75,7 @@
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[Phishing]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[phishing]]></category>
 		<category><![CDATA[Starbucks]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45712</guid>
@@ -205,27 +224,6 @@
 
 					<description><![CDATA[<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>
 <p>The post <a href="https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 146 Update Patches Two Exploited Zero-Days</title>
-		<link>https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 07:47:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45700</guid>
-
-					<description><![CDATA[<p>The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/">Chrome 146 Update Patches Two Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
