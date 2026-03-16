@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 14 Mar 2026 13:26:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2026 12:29:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Threat Actor Targeting VPN Users in New Credential Theft Campaign</title>
+		<link>https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 12:28:58 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45725</guid>
+
+					<description><![CDATA[<p>Storm-2561 is distributing fake VPN clients through SEO poisoning, deploying trojans, and stealing login information.</p>
+<p>The post <a href="https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/">Threat Actor Targeting VPN Users in New Credential Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</title>
+		<link>https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 11:51:36 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[GlassWorm]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45724</guid>
+
+					<description><![CDATA[<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>
+<p>The post <a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</title>
+		<link>https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 08:56:04 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[nuclear]]></category>
+		<category><![CDATA[Poland]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45721</guid>
+
+					<description><![CDATA[<p>Initial evidence indicates Iran may be behind the attack, but officials admitted it could be a false flag. </p>
+<p>The post <a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/">Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Loblaw Data Breach Impacts Customer Information</title>
 		<link>https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/</link>
 		
@@ -35,6 +92,7 @@
 		<pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Loblaw]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45714</guid>
 
@@ -156,74 +214,6 @@
 
 					<description><![CDATA[<p>Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.</p>
 <p>The post <a href="https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/">Google Paid Out $17 Million in Bug Bounty Rewards in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping</title>
-		<link>https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 10:38:47 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Stryker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45706</guid>
-
-					<description><![CDATA[<p>Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.</p>
-<p>The post <a href="https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/">Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Onyx Security Launches With $40 Million in Funding</title>
-		<link>https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 09:25:51 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Onyx Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45703</guid>
-
-					<description><![CDATA[<p>The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.</p>
-<p>The post <a href="https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/">Onyx Security Launches With $40 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</title>
-		<link>https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 08:27:34 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[AVrecon]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SocksEscort]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45701</guid>
-
-					<description><![CDATA[<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>
-<p>The post <a href="https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
