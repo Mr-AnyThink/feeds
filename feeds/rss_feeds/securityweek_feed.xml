@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 16 Mar 2026 12:29:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Mar 2026 12:38:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,166 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>174 Vulnerabilities Targeted by RondoDox Botnet</title>
+		<link>https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 12:37:45 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[RondoDox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45743</guid>
+
+					<description><![CDATA[<p>The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.</p>
+<p>The post <a href="https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/">174 Vulnerabilities Targeted by RondoDox Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google, Meta, Microsoft Among Signatories of Pact to Combat Scams</title>
+		<link>https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 12:10:52 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[scam]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45738</guid>
+
+					<description><![CDATA[<p>Several major tech and retail companies have signed an industry accord against online scams and fraud.</p>
+<p>The post <a href="https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/">Google, Meta, Microsoft Among Signatories of Pact to Combat Scams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tracebit Raises $20M for Cloud-Native Deception Technology</title>
+		<link>https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 11:52:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[deception]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Tracebit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45737</guid>
+
+					<description><![CDATA[<p>The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams.</p>
+<p>The post <a href="https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/">Tracebit Raises $20M for Cloud-Native Deception Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Flags Year-Old Wing FTP Vulnerability as Exploited</title>
+		<link>https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 10:55:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Wing FTP server]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45735</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/">CISA Flags Year-Old Wing FTP Vulnerability as Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</title>
+		<link>https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45730</guid>
+
+					<description><![CDATA[<p>Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against.</p>
+<p>The post <a href="https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/">AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</title>
+		<link>https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 15:44:37 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle hack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45728</guid>
+
+					<description><![CDATA[<p>Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. </p>
+<p>The post <a href="https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/">Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Firm Executive Targeted in Sophisticated Phishing Attack</title>
+		<link>https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 14:39:52 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45727</guid>
+
+					<description><![CDATA[<p>The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages.</p>
+<p>The post <a href="https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/">Security Firm Executive Targeted in Sophisticated Phishing Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</title>
+		<link>https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 12:52:12 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Military]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45726</guid>
+
+					<description><![CDATA[<p>The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months.</p>
+<p>The post <a href="https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/">China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Threat Actor Targeting VPN Users in New Credential Theft Campaign</title>
 		<link>https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/</link>
 		
@@ -59,161 +219,6 @@
 
 					<description><![CDATA[<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>
 <p>The post <a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</title>
-		<link>https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 08:56:04 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[nuclear]]></category>
-		<category><![CDATA[Poland]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45721</guid>
-
-					<description><![CDATA[<p>Initial evidence indicates Iran may be behind the attack, but officials admitted it could be a false flag. </p>
-<p>The post <a href="https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/">Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Loblaw Data Breach Impacts Customer Information</title>
-		<link>https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Loblaw]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45714</guid>
-
-					<description><![CDATA[<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>
-<p>The post <a href="https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</title>
-		<link>https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 10:50:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Aruba]]></category>
-		<category><![CDATA[HPE]]></category>
-		<category><![CDATA[password]]></category>
-		<category><![CDATA[switch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45704</guid>
-
-					<description><![CDATA[<p>The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.</p>
-<p>The post <a href="https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/">Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Starbucks Data Breach Impacts Employees</title>
-		<link>https://www.securityweek.com/starbucks-data-breach-impacts-employees/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 15:21:13 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[Starbucks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45712</guid>
-
-					<description><![CDATA[<p>Starbucks said the incident involved phishing attacks targeting an employee portal, affecting hundreds.</p>
-<p>The post <a href="https://www.securityweek.com/starbucks-data-breach-impacts-employees/">Starbucks Data Breach Impacts Employees</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</title>
-		<link>https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 14:27:12 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45710</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/">In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War</title>
-		<link>https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 12:32:48 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Stryker]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45709</guid>
-
-					<description><![CDATA[<p>Pro-Iranian hackers are targeting sites in the Middle East and starting to stretch into the United States during the war, raising the risk of American defense contractors, power stations and water plants.</p>
-<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-take-aim-at-us-and-other-targets-raising-risk-of-cyberattacks-during-war/">Iran-Linked Hackers Take Aim at US and Other Targets, Raising Risk of Cyberattacks During War</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bold Security Emerges From Stealth With $40 Million in Funding</title>
-		<link>https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 11:36:32 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Bold Security]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45708</guid>
-
-					<description><![CDATA[<p>The startup relies on AI to turn devices into active agents that understand users’ actions and provide protection in real time.</p>
-<p>The post <a href="https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/">Bold Security Emerges From Stealth With $40 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Paid Out $17 Million in Bug Bounty Rewards in 2025</title>
-		<link>https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 11:04:54 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[bug bounty program]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45707</guid>
-
-					<description><![CDATA[<p>Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.</p>
-<p>The post <a href="https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/">Google Paid Out $17 Million in Bug Bounty Rewards in 2025</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
