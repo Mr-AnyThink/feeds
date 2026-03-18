@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 17 Mar 2026 12:38:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 12:35:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,129 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Apple Debuts Background Security Improvements With Fresh WebKit Patches</title>
+		<link>https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 12:35:49 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Background Security Improvements]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[security update]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45755</guid>
+
+					<description><![CDATA[<p>The lightweight updates are meant to deliver security protections between security updates.</p>
+<p>The post <a href="https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch</title>
+		<link>https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 10:43:23 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[disputed]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[View Once]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45753</guid>
+
+					<description><![CDATA[<p>Meta does not plan on fixing the vulnerability because it involves the use of a modified client application.</p>
+<p>The post <a href="https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/">Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tech Giants Invest $12.5 Million in Open Source Security</title>
+		<link>https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 16:01:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Linux Foundation]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45749</guid>
+
+					<description><![CDATA[<p>Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.</p>
+<p>The post <a href="https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/">Tech Giants Invest $12.5 Million in Open Source Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Companies House Exposed Details of Millions of Firms </title>
+		<link>https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 15:40:25 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Companies House]]></category>
+		<category><![CDATA[UK]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45751</guid>
+
+					<description><![CDATA[<p>The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records.  </p>
+<p>The post <a href="https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/">UK Companies House Exposed Details of Millions of Firms </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Surf AI Raises $57 Million for Agentic Security Operations Platform</title>
+		<link>https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 14:21:43 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Security Operations]]></category>
+		<category><![CDATA[Surf AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45748</guid>
+
+					<description><![CDATA[<p>The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/">Surf AI Raises $57 Million for Agentic Security Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Robotic Surgery Giant Intuitive Discloses Cyberattack</title>
+		<link>https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 13:28:20 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Intuitive Surgical]]></category>
+		<category><![CDATA[robot surgery]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45744</guid>
+
+					<description><![CDATA[<p>The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack.</p>
+<p>The post <a href="https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/">Robotic Surgery Giant Intuitive Discloses Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>174 Vulnerabilities Targeted by RondoDox Botnet</title>
 		<link>https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/</link>
 		
@@ -101,124 +224,6 @@
 
 					<description><![CDATA[<p>Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/">CISA Flags Year-Old Wing FTP Vulnerability as Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</title>
-		<link>https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45730</guid>
-
-					<description><![CDATA[<p>Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against.</p>
-<p>The post <a href="https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/">AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</title>
-		<link>https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 15:44:37 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle E-Business Suite]]></category>
-		<category><![CDATA[Oracle hack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45728</guid>
-
-					<description><![CDATA[<p>Broadcom, Bechtel, Estée Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement. </p>
-<p>The post <a href="https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/">Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Firm Executive Targeted in Sophisticated Phishing Attack</title>
-		<link>https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 14:39:52 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45727</guid>
-
-					<description><![CDATA[<p>The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages.</p>
-<p>The post <a href="https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/">Security Firm Executive Targeted in Sophisticated Phishing Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</title>
-		<link>https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 12:52:12 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Asia]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Military]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45726</guid>
-
-					<description><![CDATA[<p>The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months.</p>
-<p>The post <a href="https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/">China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threat Actor Targeting VPN Users in New Credential Theft Campaign</title>
-		<link>https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 12:28:58 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[VPN]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45725</guid>
-
-					<description><![CDATA[<p>Storm-2561 is distributing fake VPN clients through SEO poisoning, deploying trojans, and stealing login information.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/">Threat Actor Targeting VPN Users in New Credential Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</title>
-		<link>https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 11:51:36 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[GlassWorm]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45724</guid>
-
-					<description><![CDATA[<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>
-<p>The post <a href="https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
