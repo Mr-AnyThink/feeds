@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 18 Mar 2026 12:35:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Mar 2026 10:31:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,202 +28,207 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Apple Debuts Background Security Improvements With Fresh WebKit Patches</title>
-		<link>https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/</link>
+		<title>Raven Emerges From Stealth With $20 Million in Funding</title>
+		<link>https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 18 Mar 2026 12:35:49 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Background Security Improvements]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[security update]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45755</guid>
+		<pubDate>Thu, 19 Mar 2026 10:31:16 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Raven]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45775</guid>
 
-					<description><![CDATA[<p>The lightweight updates are meant to deliver security protections between security updates.</p>
-<p>The post <a href="https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Raven’s platform observes applications at runtime to detect anomalous behavior and prevent cyberattacks.</p>
+<p>The post <a href="https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/">Raven Emerges From Stealth With $20 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch</title>
-		<link>https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/</link>
+		<title>CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 18 Mar 2026 10:43:23 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[disputed]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[View Once]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45753</guid>
-
-					<description><![CDATA[<p>Meta does not plan on fixing the vulnerability because it involves the use of a modified client application.</p>
-<p>The post <a href="https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/">Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won’t Patch</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tech Giants Invest $12.5 Million in Open Source Security</title>
-		<link>https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 16:01:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Linux Foundation]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OSS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45749</guid>
-
-					<description><![CDATA[<p>Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation’s long-term security initiatives focused on open source software.</p>
-<p>The post <a href="https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/">Tech Giants Invest $12.5 Million in Open Source Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Companies House Exposed Details of Millions of Firms </title>
-		<link>https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:40:25 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Companies House]]></category>
-		<category><![CDATA[UK]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45751</guid>
-
-					<description><![CDATA[<p>The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records.  </p>
-<p>The post <a href="https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/">UK Companies House Exposed Details of Millions of Firms </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Surf AI Raises $57 Million for Agentic Security Operations Platform</title>
-		<link>https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 14:21:43 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Security Operations]]></category>
-		<category><![CDATA[Surf AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45748</guid>
-
-					<description><![CDATA[<p>The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/">Surf AI Raises $57 Million for Agentic Security Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Robotic Surgery Giant Intuitive Discloses Cyberattack</title>
-		<link>https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 13:28:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Intuitive Surgical]]></category>
-		<category><![CDATA[robot surgery]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45744</guid>
-
-					<description><![CDATA[<p>The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack.</p>
-<p>The post <a href="https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/">Robotic Surgery Giant Intuitive Discloses Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>174 Vulnerabilities Targeted by RondoDox Botnet</title>
-		<link>https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 12:37:45 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[RondoDox]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45743</guid>
-
-					<description><![CDATA[<p>The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.</p>
-<p>The post <a href="https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/">174 Vulnerabilities Targeted by RondoDox Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google, Meta, Microsoft Among Signatories of Pact to Combat Scams</title>
-		<link>https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 12:10:52 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[scam]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45738</guid>
-
-					<description><![CDATA[<p>Several major tech and retail companies have signed an industry accord against online scams and fraud.</p>
-<p>The post <a href="https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/">Google, Meta, Microsoft Among Signatories of Pact to Combat Scams</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tracebit Raises $20M for Cloud-Native Deception Technology</title>
-		<link>https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 11:52:34 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[deception]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Tracebit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45737</guid>
-
-					<description><![CDATA[<p>The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams.</p>
-<p>The post <a href="https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/">Tracebit Raises $20M for Cloud-Native Deception Technology</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Flags Year-Old Wing FTP Vulnerability as Exploited</title>
-		<link>https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 10:55:55 +0000</pubDate>
+		<pubDate>Thu, 19 Mar 2026 09:42:52 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SharePoint]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Wing FTP server]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45735</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45774</guid>
 
-					<description><![CDATA[<p>Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/">CISA Flags Year-Old Wing FTP Vulnerability as Exploited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The SharePoint remote code execution vulnerability CVE-2026-20963, which Microsoft patched in January, has been exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/">CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks</title>
+		<link>https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2026 08:57:59 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[InterLock]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45773</guid>
+
+					<description><![CDATA[<p>Amazon found evidence that the FMC software vulnerability has been exploited since late January, and found links to Russia.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/">Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Collapse of Predictive Security in the Age of Machine-Speed Attacks</title>
+		<link>https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 19:37:25 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Rapid7]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45771</guid>
+
+					<description><![CDATA[<p>With exploitation of vulnerabilities taking just days, preemptive security must be the new model for defenders.</p>
+<p>The post <a href="https://www.securityweek.com/the-collapse-of-predictive-security-in-the-age-of-machine-speed-attacks/">The Collapse of Predictive Security in the Age of Machine-Speed Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation</title>
+		<link>https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 18:01:50 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45770</guid>
+
+					<description><![CDATA[<p>The company has developed an AI-powered platform that autonomously discovers and validates software vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/">Autonomous Offensive Security Firm XBOW Raises $120M at $1B+ Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cloud Security Startup Native Exits Stealth With $42 Million in Funding</title>
+		<link>https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 15:59:50 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Native]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45767</guid>
+
+					<description><![CDATA[<p>Phil Venables, former CISO of Google Cloud and now a venture partner at Ballistic Ventures, has joined Native’s board of directors.</p>
+<p>The post <a href="https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/">Cloud Security Startup Native Exits Stealth With $42 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;DarkSword&#8217; iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors</title>
+		<link>https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 15:30:50 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DarkSword]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[exploit kit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[spyware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45766</guid>
+
+					<description><![CDATA[<p>Targeting six iOS vulnerabilities and leading to full device compromise, the exploit chain is meant for surveillance.</p>
+<p>The post <a href="https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/">&#8216;DarkSword&#8217; iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Virtual Summit Today: Supply Chain &#038; Third-Party Risk Summit</title>
+		<link>https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 14:57:28 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Event]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45762</guid>
+
+					<description><![CDATA[<p>Cyber risk doesn’t stop at your perimeter. Today’s most dangerous threats could be hiding in your software supply chain.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/">Virtual Summit Today: Supply Chain &amp; Third-Party Risk Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations</title>
+		<link>https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 14:54:51 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Emennet Pasargad]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45763</guid>
+
+					<description><![CDATA[<p>The sanctions target two Chinese individuals, two Chinese companies, and one Iranian firm involved in hacking EU member states.</p>
+<p>The post <a href="https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/">EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches</title>
+		<link>https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[OAuth]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45756</guid>
+
+					<description><![CDATA[<p>From Chaos to Control examines the chaos that often comes from shadow AI hidden in SaaS apps and urges better visibility and control over agentic AI.</p>
+<p>The post <a href="https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/">Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
