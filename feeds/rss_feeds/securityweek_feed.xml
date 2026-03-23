@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 21 Mar 2026 08:22:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Mar 2026 11:09:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>QNAP Patches Four Vulnerabilities Exploited at Pwn2Own </title>
+		<link>https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 11:09:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[QNAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45820</guid>
+
+					<description><![CDATA[<p>The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.</p>
+<p>The post <a href="https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/">QNAP Patches Four Vulnerabilities Exploited at Pwn2Own </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</title>
+		<link>https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 10:29:52 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[takedown]]></category>
+		<category><![CDATA[Tycoon 2FA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45819</guid>
+
+					<description><![CDATA[<p>Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged.</p>
+<p>The post <a href="https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/">Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</title>
+		<link>https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 05:34:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle Identity Manager]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45814</guid>
+
+					<description><![CDATA[<p>CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild. </p>
+<p>The post <a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/">Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical Quest KACE Vulnerability Potentially Exploited in Attacks</title>
 		<link>https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/</link>
 		
@@ -156,65 +216,6 @@
 
 					<description><![CDATA[<p>Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia’s environment.</p>
 <p>The post <a href="https://www.securityweek.com/navia-data-breach-impacts-2-7-million/">Navia Data Breach Impacts 2.7 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Thousands of Magento Sites Hit in Ongoing Defacement Campaign</title>
-		<link>https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 10:36:51 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[defaced]]></category>
-		<category><![CDATA[magento]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45798</guid>
-
-					<description><![CDATA[<p>The attacks started on February 27 and have targeted e-commerce platforms, global brands, and government services.</p>
-<p>The post <a href="https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/">Thousands of Magento Sites Hit in Ongoing Defacement Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Allure Security Raises $17 Million for Online Brand Protection</title>
-		<link>https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 09:09:59 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Allure Security]]></category>
-		<category><![CDATA[brand protection]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45796</guid>
-
-					<description><![CDATA[<p>The company will invest in expanding its digital brand protection platform and in scaling its go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/">Allure Security Raises $17 Million for Online Brand Protection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Langflow Vulnerability Exploited Hours After Public Disclosure</title>
-		<link>https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 08:38:56 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Langflow]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45795</guid>
-
-					<description><![CDATA[<p>Because attacker-supplied flow data is used in public flows, the bug leads to unauthenticated remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/">Critical Langflow Vulnerability Exploited Hours After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
