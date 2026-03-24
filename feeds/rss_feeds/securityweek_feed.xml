@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 23 Mar 2026 11:09:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Mar 2026 12:27:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,194 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>QNAP Patches Four Vulnerabilities Exploited at Pwn2Own </title>
-		<link>https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 11:09:16 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[QNAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45820</guid>
-
-					<description><![CDATA[<p>The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.</p>
-<p>The post <a href="https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/">QNAP Patches Four Vulnerabilities Exploited at Pwn2Own </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</title>
-		<link>https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 10:29:52 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[takedown]]></category>
-		<category><![CDATA[Tycoon 2FA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45819</guid>
-
-					<description><![CDATA[<p>Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged.</p>
-<p>The post <a href="https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/">Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</title>
-		<link>https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 05:34:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle Identity Manager]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45814</guid>
-
-					<description><![CDATA[<p>CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild. </p>
-<p>The post <a href="https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/">Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Quest KACE Vulnerability Potentially Exploited in Attacks</title>
-		<link>https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 21 Mar 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[KACE]]></category>
-		<category><![CDATA[Quest]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45812</guid>
-
-					<description><![CDATA[<p>The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector.</p>
-<p>The post <a href="https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/">Critical Quest KACE Vulnerability Potentially Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting</title>
-		<link>https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/</link>
+		<title>Webinar Today: Putting CIS Controls and Benchmarks into Practice</title>
+		<link>https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 15:57:30 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45810</guid>
+		<pubDate>Tue, 24 Mar 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45835</guid>
 
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities found in KVM devices, Claudy Day Claude vulnerabilities, The Gentlemen ransomware group.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/">In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. </p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/">Webinar Today: Putting CIS Controls and Benchmarks into Practice</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China</title>
-		<link>https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 14:43:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45809</guid>
-
-					<description><![CDATA[<p>The men violated U.S. export controls laws by scheming to divert massive quantities of the high-performance servers assembled in the United States to China.</p>
-<p>The post <a href="https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/">3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Eclypsium Raises $25 Million for Device Supply Chain Security</title>
-		<link>https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/</link>
+		<title>3.1 Million Impacted by QualDerm Data Breach</title>
+		<link>https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 13:25:34 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Eclypsium]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45807</guid>
-
-					<description><![CDATA[<p>The company will use the investment to expand its platform’s capabilities and grow channel partnerships.</p>
-<p>The post <a href="https://www.securityweek.com/eclypsium-raises-25-million-for-device-supply-chain-security/">Eclypsium Raises $25 Million for Device Supply Chain Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Confirms Handala Link to Iran Government Amid Takedown of Hackers&#8217; Sites</title>
-		<link>https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 12:25:41 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45804</guid>
-
-					<description><![CDATA[<p>The US has seized several domains used by Handala in cyber-enabled psychological operations.</p>
-<p>The post <a href="https://www.securityweek.com/us-confirms-handala-link-to-iran-government-amid-takedown-of-hackers-sites/">US Confirms Handala Link to Iran Government Amid Takedown of Hackers&#8217; Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cape Raises $100 Million for Protection Against Cellular Security Threats</title>
-		<link>https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 11:36:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Cape]]></category>
-		<category><![CDATA[cellular]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45797</guid>
-
-					<description><![CDATA[<p>Cape offers a privacy-focused mobile virtual network operator (MVNO) service for consumers, enterprises, and governments.</p>
-<p>The post <a href="https://www.securityweek.com/cape-raises-100-million-for-protection-against-cellular-security-threats/">Cape Raises $100 Million for Protection Against Cellular Security Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Navia Data Breach Impacts 2.7 Million</title>
-		<link>https://www.securityweek.com/navia-data-breach-impacts-2-7-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 11:02:08 +0000</pubDate>
+		<pubDate>Tue, 24 Mar 2026 12:23:59 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Navia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45799</guid>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[QualDerm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45837</guid>
 
-					<description><![CDATA[<p>Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia’s environment.</p>
-<p>The post <a href="https://www.securityweek.com/navia-data-breach-impacts-2-7-million/">Navia Data Breach Impacts 2.7 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers stole personal, medical, and health insurance information from the company’s internal systems.</p>
+<p>The post <a href="https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/">3.1 Million Impacted by QualDerm Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</title>
+		<link>https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 12:10:23 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45833</guid>
+
+					<description><![CDATA[<p>The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime.</p>
+<p>The post <a href="https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/">Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</title>
+		<link>https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 11:19:47 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45832</guid>
+
+					<description><![CDATA[<p>An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory.</p>
+<p>The post <a href="https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/">Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mazda Says Employee, Partner Information Stolen in Cyberattack</title>
+		<link>https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 10:38:44 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Mazda]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45830</guid>
+
+					<description><![CDATA[<p>The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system.</p>
+<p>The post <a href="https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/">Mazda Says Employee, Partner Information Stolen in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</title>
+		<link>https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 09:30:18 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Stryker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45829</guid>
+
+					<description><![CDATA[<p>The FBI has published an alert describing the malware used by Iranian government hackers.</p>
+<p>The post <a href="https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/">Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RSAC 2026 Conference Announcements Summary (Pre-Event)</title>
+		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 15:52:57 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSAC]]></category>
+		<category><![CDATA[RSAC Conference 2026]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45824</guid>
+
+					<description><![CDATA[<p>A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference.</p>
+<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/">RSAC 2026 Conference Announcements Summary (Pre-Event)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds</title>
+		<link>https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[M-Trends]]></category>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45815</guid>
+
+					<description><![CDATA[<p>The latest M-Trends report is based on insights from over 500,000 hours of Mandiant incident response investigations in 2025.</p>
+<p>The post <a href="https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/">M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware </title>
+		<link>https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 14:38:42 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[semiconductor]]></category>
+		<category><![CDATA[Trio-Tech]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45822</guid>
+
+					<description><![CDATA[<p>The semiconductor company says hackers deployed file-encrypting ransomware on the network of a subsidiary in Singapore.</p>
+<p>The post <a href="https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/">Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Aqua&#8217;s Trivy Vulnerability Scanner Hit by Supply Chain Attack</title>
+		<link>https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 13:40:52 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Aqua Security]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[Trivy]]></category>
+		<category><![CDATA[vulnerability scanner]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45821</guid>
+
+					<description><![CDATA[<p>Hackers published a malicious scanner release and replaced tags to point to information-stealer malware.</p>
+<p>The post <a href="https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/">Aqua&#8217;s Trivy Vulnerability Scanner Hit by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
