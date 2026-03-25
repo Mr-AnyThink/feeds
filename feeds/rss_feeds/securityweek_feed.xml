@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 24 Mar 2026 12:27:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Mar 2026 12:06:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Webinar Today: Putting CIS Controls and Benchmarks into Practice</title>
-		<link>https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/</link>
+		<title>RSAC 2026 Conference Announcements Summary (Day 2)</title>
+		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 12:30:00 +0000</pubDate>
+		<pubDate>Wed, 25 Mar 2026 12:05:57 +0000</pubDate>
 				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45835</guid>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSAC]]></category>
+		<category><![CDATA[RSAC Conference 2026]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45852</guid>
 
-					<description><![CDATA[<p>Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. </p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/">Webinar Today: Putting CIS Controls and Benchmarks into Practice</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A summary of the announcements made by vendors on the second day of the RSAC 2026 Conference.</p>
+<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/">RSAC 2026 Conference Announcements Summary (Day 2)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>3.1 Million Impacted by QualDerm Data Breach</title>
-		<link>https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/</link>
+		<title>From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</title>
+		<link>https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 12:23:59 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[QualDerm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45837</guid>
+		<pubDate>Wed, 25 Mar 2026 11:55:25 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Lapsus$]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[PyPI]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45851</guid>
 
-					<description><![CDATA[<p>Hackers stole personal, medical, and health insurance information from the company’s internal systems.</p>
-<p>The post <a href="https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/">3.1 Million Impacted by QualDerm Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The hackers compromised GitHub Action tags, then shifted to NPM, Docker Hub, VS Code, and PyPI, and teamed with Lapsus$.</p>
+<p>The post <a href="https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/">From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</title>
-		<link>https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 12:10:23 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[camera]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45833</guid>
-
-					<description><![CDATA[<p>The role of Israel’s hijacking of Iran’s street cameras in the killing of the country’s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime.</p>
-<p>The post <a href="https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/">Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</title>
-		<link>https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 11:19:47 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45832</guid>
-
-					<description><![CDATA[<p>An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory.</p>
-<p>The post <a href="https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/">Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mazda Says Employee, Partner Information Stolen in Cyberattack</title>
-		<link>https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 10:38:44 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Mazda]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45830</guid>
-
-					<description><![CDATA[<p>The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system.</p>
-<p>The post <a href="https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/">Mazda Says Employee, Partner Information Stolen in Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</title>
-		<link>https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/</link>
+		<title>US Prisons Russian Access Broker for Aiding Ransomware Attacks</title>
+		<link>https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 09:30:18 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Stryker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45829</guid>
+		<pubDate>Wed, 25 Mar 2026 09:27:33 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Aleksei Volkov]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<category><![CDATA[Yanluowang]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45850</guid>
 
-					<description><![CDATA[<p>The FBI has published an alert describing the malware used by Iranian government hackers.</p>
-<p>The post <a href="https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/">Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Aleksei Volkov has been sentenced to 81 months in prison for his role in Yanluowang ransomware attacks. </p>
+<p>The post <a href="https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/">US Prisons Russian Access Broker for Aiding Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>RSAC 2026 Conference Announcements Summary (Pre-Event)</title>
-		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/</link>
+		<title>HackerOne Employee Data Exposed in Massive Navia Breach</title>
+		<link>https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 25 Mar 2026 07:57:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[HackerOne]]></category>
+		<category><![CDATA[Navia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45849</guid>
+
+					<description><![CDATA[<p>The cybersecurity firm said the personal information of hundreds of employees was stolen in the hacker attack targeting Navia.</p>
+<p>The post <a href="https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/">HackerOne Employee Data Exposed in Massive Navia Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DoE Publishes 5-Year Energy Security Plan</title>
+		<link>https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 19:42:07 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[grid]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45847</guid>
+
+					<description><![CDATA[<p>CESER’s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems ‘to prevent and recover from wildfires and other hazards’.</p>
+<p>The post <a href="https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/">DoE Publishes 5-Year Energy Security Plan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw</title>
+		<link>https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 18:27:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[governance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45846</guid>
+
+					<description><![CDATA[<p>Agentic AI platforms are shifting from passive recommendation tools to autonomous action-takers with real system access,</p>
+<p>The post <a href="https://www.securityweek.com/why-agentic-ai-systems-need-better-governance-lessons-from-openclaw/">Why Agentic AI Systems Need Better Governance – Lessons from OpenClaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector</title>
+		<link>https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 24 Mar 2026 17:51:42 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Poland]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45844</guid>
+
+					<description><![CDATA[<p>The attacks included a destructive infiltration of Poland's energy system in December and was suspected of originating in Russia.</p>
+<p>The post <a href="https://www.securityweek.com/poland-faced-a-surge-in-cyberattacks-in-2025-including-a-major-assault-on-the-energy-sector/">Poland Faced a Surge in Cyberattacks in 2025, Including a Major Assault on the Energy Sector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RSAC 2026 Conference Announcements Summary (Day 1)</title>
+		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 15:52:57 +0000</pubDate>
+		<pubDate>Tue, 24 Mar 2026 15:57:12 +0000</pubDate>
 				<category><![CDATA[Management & Strategy]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[RSA Conference]]></category>
 		<category><![CDATA[RSAC]]></category>
 		<category><![CDATA[RSAC Conference 2026]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45824</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45842</guid>
 
-					<description><![CDATA[<p>A summary of the announcements made by vendors in the days leading up to the RSAC 2026 Conference.</p>
-<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/">RSAC 2026 Conference Announcements Summary (Pre-Event)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A summary of the announcements made by vendors on the first day of the RSAC 2026 Conference.</p>
+<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-1/">RSAC 2026 Conference Announcements Summary (Day 1)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds</title>
-		<link>https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[M-Trends]]></category>
-		<category><![CDATA[Mandiant]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45815</guid>
-
-					<description><![CDATA[<p>The latest M-Trends report is based on insights from over 500,000 hours of Mandiant incident response investigations in 2025.</p>
-<p>The post <a href="https://www.securityweek.com/m-trends-2026-initial-access-handoff-shrinks-from-hours-to-22-seconds/">M-Trends 2026: Initial Access Handoff Shrinks From Hours to 22 Seconds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware </title>
-		<link>https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/</link>
+		<title>Extortion Group Claims It Hacked AstraZeneca</title>
+		<link>https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 14:38:42 +0000</pubDate>
+		<pubDate>Tue, 24 Mar 2026 13:54:47 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[AstraZeneca]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[semiconductor]]></category>
-		<category><![CDATA[Trio-Tech]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45822</guid>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[extortion]]></category>
+		<category><![CDATA[Lapsus$]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45840</guid>
 
-					<description><![CDATA[<p>The semiconductor company says hackers deployed file-encrypting ransomware on the network of a subsidiary in Singapore.</p>
-<p>The post <a href="https://www.securityweek.com/chip-services-firm-trio-tech-says-subsidiary-hit-by-ransomware/">Chip Services Firm Trio-Tech Says Subsidiary Hit by Ransomware </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Lapsus$ hackers allegedly compromised internal code repositories, credentials, and employee data.</p>
+<p>The post <a href="https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/">Extortion Group Claims It Hacked AstraZeneca</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Aqua&#8217;s Trivy Vulnerability Scanner Hit by Supply Chain Attack</title>
-		<link>https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/</link>
+		<title>Chrome 146 Update Patches High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 13:40:52 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Aqua Security]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[Trivy]]></category>
-		<category><![CDATA[vulnerability scanner]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45821</guid>
+		<pubDate>Tue, 24 Mar 2026 13:35:47 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45839</guid>
 
-					<description><![CDATA[<p>Hackers published a malicious scanner release and replaced tags to point to information-stealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/">Aqua&#8217;s Trivy Vulnerability Scanner Hit by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The software refresh fixes eight memory safety bugs affecting seven Chrome components.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/">Chrome 146 Update Patches High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
