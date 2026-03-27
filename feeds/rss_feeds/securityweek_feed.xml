@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 26 Mar 2026 12:32:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Mar 2026 11:42:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,150 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TP-Link Patches High-Severity Router Vulnerabilities</title>
+		<link>https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 11:42:30 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45879</guid>
+
+					<description><![CDATA[<p>The security defects could be used to bypass authentication, execute arbitrary commands, and decrypt configuration files.</p>
+<p>The post <a href="https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/">TP-Link Patches High-Severity Router Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RSAC 2026 Conference Announcements Summary (Days 3-4)</title>
+		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 10:48:53 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[RSA Conference]]></category>
+		<category><![CDATA[RSAC]]></category>
+		<category><![CDATA[RSAC Conference 2026]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45876</guid>
+
+					<description><![CDATA[<p>A summary of the announcements made by vendors on the third and fourth days of the RSAC 2026 Conference.</p>
+<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/">RSAC 2026 Conference Announcements Summary (Days 3-4)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Coruna iOS Exploit Kit Likely an Update to Operation Triangulation</title>
+		<link>https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 10:35:20 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Coruna]]></category>
+		<category><![CDATA[exploit kit]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Operation Triangulation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45874</guid>
+
+					<description><![CDATA[<p>Coruna contains the updated version of a kernel exploit used in Operation Triangulation three years ago.</p>
+<p>The post <a href="https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/">Coruna iOS Exploit Kit Likely an Update to Operation Triangulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Flags Critical PTC Vulnerability That Had German Police Mobilized</title>
+		<link>https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 09:21:14 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[PTC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45872</guid>
+
+					<description><![CDATA[<p>Police in Germany physically warned organizations about the critical PTC Windchill vulnerability tracked as CVE-2026-4681.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/">CISA Flags Critical PTC Vulnerability That Had German Police Mobilized</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hightower Holding Data Breach Impacts 130,000</title>
+		<link>https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2026 14:07:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Hightower]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45871</guid>
+
+					<description><![CDATA[<p>The holdings company says hackers stole names, Social Security numbers, and driver’s license numbers from its environment.</p>
+<p>The post <a href="https://www.securityweek.com/hightower-holding-data-breach-impacts-130000/">Hightower Holding Data Breach Impacts 130,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BIND Updates Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2026 13:31:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BIND]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45870</guid>
+
+					<description><![CDATA[<p>Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers.</p>
+<p>The post <a href="https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/">BIND Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure</title>
+		<link>https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[backdoor]]></category>
+		<category><![CDATA[BPFDoor]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[telecom]]></category>
+		<category><![CDATA[telecoms]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45865</guid>
+
+					<description><![CDATA[<p>The state-sponsored threat actor deployed kernel implants and passive backdoors enabling long-term, high-level espionage.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/">Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cisco Patches Multiple Vulnerabilities in IOS Software</title>
 		<link>https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/</link>
 		
@@ -69,7 +213,7 @@
 		
 			</item>
 		<item>
-		<title>Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience</title>
+		<title>Dell and HP Roll Out Quantum-Resistant Device Security</title>
 		<link>https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
@@ -86,152 +230,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45861</guid>
 
 					<description><![CDATA[<p>The computer giants have announced new security capabilities for PCs and printers.</p>
-<p>The post <a href="https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/">Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Onit Security Raises $11 Million for Exposure Management Platform</title>
-		<link>https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 15:58:16 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45860</guid>
-
-					<description><![CDATA[<p>The startup will invest in product development and go-to-market efforts as it expands into new sectors.</p>
-<p>The post <a href="https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/">Onit Security Raises $11 Million for Exposure Management Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian Cybercriminal Gets 2-Year Prison Sentence in US </title>
-		<link>https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 14:30:32 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45859</guid>
-
-					<description><![CDATA[<p>Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236.</p>
-<p>The post <a href="https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/">Russian Cybercriminal Gets 2-Year Prison Sentence in US </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link</title>
-		<link>https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 14:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[IAM]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45854</guid>
-
-					<description><![CDATA[<p>PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain.</p>
-<p>The post <a href="https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/">AI Speeds Attacks, But Identity Remains Cybersecurity’s Weakest Link</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>iOS, macOS 26.4 Roll Out With Fresh Security Patches</title>
-		<link>https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 13:29:17 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45857</guid>
-
-					<description><![CDATA[<p>Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5.</p>
-<p>The post <a href="https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/">iOS, macOS 26.4 Roll Out With Fresh Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FCC Bans New Routers Made Outside the US Over National Security Risks</title>
-		<link>https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 12:43:35 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[ban]]></category>
-		<category><![CDATA[FCC]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[router ban]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45855</guid>
-
-					<description><![CDATA[<p>The ban aligns with a White House determination that all routers produced abroad are a threat to national security.</p>
-<p>The post <a href="https://www.securityweek.com/fcc-bans-new-foreign-made-consumer-routers-over-national-security-risks/">FCC Bans New Routers Made Outside the US Over National Security Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RSAC 2026 Conference Announcements Summary (Day 2)</title>
-		<link>https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 12:05:57 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[RSA Conference]]></category>
-		<category><![CDATA[RSAC]]></category>
-		<category><![CDATA[RSAC Conference 2026]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45852</guid>
-
-					<description><![CDATA[<p>A summary of the announcements made by vendors on the second day of the RSAC 2026 Conference.</p>
-<p>The post <a href="https://www.securityweek.com/rsac-2026-conference-announcements-summary-day-2/">RSAC 2026 Conference Announcements Summary (Day 2)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</title>
-		<link>https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 25 Mar 2026 11:55:25 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Lapsus$]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[OSS]]></category>
-		<category><![CDATA[PyPI]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45851</guid>
-
-					<description><![CDATA[<p>The hackers compromised GitHub Action tags, then shifted to NPM, Docker Hub, VS Code, and PyPI, and teamed with Lapsus$.</p>
-<p>The post <a href="https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/">From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/">Dell and HP Roll Out Quantum-Resistant Device Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
