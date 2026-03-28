@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 27 Mar 2026 11:42:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Mar 2026 16:46:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,82 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</title>
+		<link>https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[Mac malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45880</guid>
+
+					<description><![CDATA[<p>The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer.</p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/">Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account</title>
+		<link>https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 16:42:22 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Handala]]></category>
+		<category><![CDATA[Iran]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45883</guid>
+
+					<description><![CDATA[<p>The group that it was making available for download emails and other documents from Patel’s account. </p>
+<p>The post <a href="https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/">Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline</title>
+		<link>https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 14:25:52 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45882</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Heritage Bank data breach, new State Department unit tackles cyber threats, LA Metro disruptions.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/">In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Launches Bug Bounty Program for Abuse and Safety Risks</title>
+		<link>https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2026 13:33:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45881</guid>
+
+					<description><![CDATA[<p>Through the new program, OpenAI will reward reports covering design or implementation issues leading to material harm.</p>
+<p>The post <a href="https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/">OpenAI Launches Bug Bounty Program for Abuse and Safety Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>TP-Link Patches High-Severity Router Vulnerabilities</title>
 		<link>https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/</link>
 		
@@ -53,6 +129,7 @@
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
 		<pubDate>Fri, 27 Mar 2026 10:48:53 +0000</pubDate>
 				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[RSA Conference]]></category>
 		<category><![CDATA[RSAC]]></category>
 		<category><![CDATA[RSAC Conference 2026]]></category>
@@ -143,94 +220,6 @@
 
 					<description><![CDATA[<p>Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers.</p>
 <p>The post <a href="https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/">BIND Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure</title>
-		<link>https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[BPFDoor]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[telecom]]></category>
-		<category><![CDATA[telecoms]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45865</guid>
-
-					<description><![CDATA[<p>The state-sponsored threat actor deployed kernel implants and passive backdoors enabling long-term, high-level espionage.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/">Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Multiple Vulnerabilities in IOS Software</title>
-		<link>https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 12:32:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45867</guid>
-
-					<description><![CDATA[<p>The high- and medium-severity flaws could lead to denial-of-service, secure boot bypass, information disclosure, and privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/">Cisco Patches Multiple Vulnerabilities in IOS Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alleged RedLine Malware Administrator Extradited to US</title>
-		<link>https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 10:06:56 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[Hambardzum Minasyan]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[RedLine]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45863</guid>
-
-					<description><![CDATA[<p>Hambardzum Minasyan of Armenia has been accused of being involved in the development and administration of the infostealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/">Alleged RedLine Malware Administrator Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dell and HP Roll Out Quantum-Resistant Device Security</title>
-		<link>https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 08:57:41 +0000</pubDate>
-				<category><![CDATA[Disaster Recovery]]></category>
-		<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[BIOS]]></category>
-		<category><![CDATA[Dell]]></category>
-		<category><![CDATA[endpoint security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HP]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[recovery]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45861</guid>
-
-					<description><![CDATA[<p>The computer giants have announced new security capabilities for PCs and printers.</p>
-<p>The post <a href="https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/">Dell and HP Roll Out Quantum-Resistant Device Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
