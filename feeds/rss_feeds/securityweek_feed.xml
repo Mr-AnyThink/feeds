@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 30 Mar 2026 12:40:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Mar 2026 11:52:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,148 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption</title>
+		<link>https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 11:51:43 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45906</guid>
+
+					<description><![CDATA[<p>Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. </p>
+<p>The post <a href="https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/">Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</title>
+		<link>https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 11:39:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[FortiClient]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45905</guid>
+
+					<description><![CDATA[<p>The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/">Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs</title>
+		<link>https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 10:21:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[StrongSwan]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45904</guid>
+
+					<description><![CDATA[<p>Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.</p>
+<p>The post <a href="https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/">StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lloyds Data Security Incident Impacts 450,000 Individuals</title>
+		<link>https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 10:07:40 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Lloyds]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45902</guid>
+
+					<description><![CDATA[<p>A faulty software update led to the exposure of mobile banking users’ transactions to other users of the application.</p>
+<p>The post <a href="https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/">Lloyds Data Security Incident Impacts 450,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise </title>
+		<link>https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 06:35:48 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45901</guid>
+
+					<description><![CDATA[<p>Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/">Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Healthcare IT Platform CareCloud Probing Potential Data Breach</title>
+		<link>https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 14:16:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[CareCloud]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45897</guid>
+
+					<description><![CDATA[<p>The company has disclosed a cybersecurity incident involving one of its electronic health record environments.</p>
+<p>The post <a href="https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/">Healthcare IT Platform CareCloud Probing Potential Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control</title>
+		<link>https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 14:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Code]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LLM]]></category>
+		<category><![CDATA[Policy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45899</guid>
+
+					<description><![CDATA[<p>LLMs can write complex Rego and Cedar code in seconds, but a single missing condition or hallucinated attribute can quietly dismantle your organization’s least-privilege security model.</p>
+<p>The post <a href="https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/">Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Huskeys Emerges From Stealth With $8 Million in Funding</title>
 		<link>https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/</link>
 		
@@ -80,158 +222,12 @@
 		<category><![CDATA[EU]]></category>
 		<category><![CDATA[European Comission]]></category>
 		<category><![CDATA[European Union]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ShinyHunters]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45893</guid>
 
 					<description><![CDATA[<p>The ShinyHunters hacker group claimed to have stolen over 350GB of information from European Commission cloud systems.</p>
 <p>The post <a href="https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/">European Commission Reports Cyber Intrusion and Data Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare</title>
-		<link>https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 11:09:49 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cyberwar]]></category>
-		<category><![CDATA[cyberwarfare]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Israel]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45892</guid>
-
-					<description><![CDATA[<p>Iran-linked hacking groups are turning to high-volume, low-impact cyberattacks, and AI is providing a boost.</p>
-<p>The post <a href="https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/">Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Telnyx Targeted in Growing TeamPCP Supply Chain Attack</title>
-		<link>https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 10:53:46 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[PyPI]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<category><![CDATA[Telnyx]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45891</guid>
-
-					<description><![CDATA[<p>Two malicious versions of the popular SDK were uploaded to the PyPI registry, targeting Windows, macOS, and Linux.</p>
-<p>The post <a href="https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/">Telnyx Targeted in Growing TeamPCP Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Fresh Citrix NetScaler Vulnerability Begins</title>
-		<link>https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 09:24:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[CitrixBleed2]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45890</guid>
-
-					<description><![CDATA[<p>The critical-severity flaw leaks application memory and can be exploited to obtain authenticated administrative session IDs.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/">Exploitation of Fresh Citrix NetScaler Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers</title>
-		<link>https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 08:01:43 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[email hack]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Kash Patel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45886</guid>
-
-					<description><![CDATA[<p>The agency said Iranian hackers targeted the director’s personal email account and noted that the compromised information is old.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-confirms-kash-patel-email-hack-as-us-offers-10m-reward-for-hackers/">FBI Confirms Kash Patel Email Hack as US Offers $10M Reward for Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild</title>
-		<link>https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 30 Mar 2026 07:07:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45885</guid>
-
-					<description><![CDATA[<p>Initially disclosed as a high-severity denial-of-service (DoS), the bug was reclassified as a critical RCE issue.</p>
-<p>The post <a href="https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/">F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</title>
-		<link>https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 28 Mar 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Mac malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45880</guid>
-
-					<description><![CDATA[<p>The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer.</p>
-<p>The post <a href="https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/">Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account</title>
-		<link>https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 27 Mar 2026 16:42:22 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[Iran]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45883</guid>
-
-					<description><![CDATA[<p>The group that it was making available for download emails and other documents from Patel’s account. </p>
-<p>The post <a href="https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/">Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
