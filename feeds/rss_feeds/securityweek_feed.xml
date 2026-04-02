@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 01 Apr 2026 08:45:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Apr 2026 12:34:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Axios NPM Package Breached in North Korean Supply Chain Attack</title>
-		<link>https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/</link>
+		<title>Cisco Patches Critical and High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Apr 2026 08:45:47 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Axios]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45918</guid>
+		<pubDate>Thu, 02 Apr 2026 12:34:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45940</guid>
 
-					<description><![CDATA[<p>A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.</p>
-<p>The post <a href="https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/">Axios NPM Package Breached in North Korean Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The bugs could lead to authentication bypass, remote code execution, information disclosure, and privilege escalation.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/">Cisco Patches Critical and High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents</title>
-		<link>https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/</link>
+		<title>250,000 Affected by Data Breach at Nacogdoches Memorial Hospital</title>
+		<link>https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 01 Apr 2026 07:43:16 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cloud Security]]></category>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 11:57:17 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[NMH]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45939</guid>
+
+					<description><![CDATA[<p>In January 2026, a threat actor hacked the hospital’s internal network and stole personal and health information.</p>
+<p>The post <a href="https://www.securityweek.com/250000-affected-by-data-breach-at-nacogdoches-memorial-hospital/">250,000 Affected by Data Breach at Nacogdoches Memorial Hospital</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mercor Hit by LiteLLM Supply Chain Attack</title>
+		<link>https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 10:42:05 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI agent]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Google Cloud]]></category>
-		<category><![CDATA[Vertex]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45917</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks has disclosed the details of its analysis of Google Cloud Platform’s Vertex AI.</p>
-<p>The post <a href="https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/">Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Censys Raises $70 Million for Internet Intelligence Platform</title>
-		<link>https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 15:59:49 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Censys]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45915</guid>
-
-					<description><![CDATA[<p>The latest funding round brings the total venture capital investment in Censys to $149 million.</p>
-<p>The post <a href="https://www.securityweek.com/censys-raises-70-million-for-internet-intelligence-platform/">Censys Raises $70 Million for Internet Intelligence Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust</title>
-		<link>https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 15:35:33 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45914</guid>
-
-					<description><![CDATA[<p>Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. </p>
-<p>The post <a href="https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/">The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks</title>
-		<link>https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 15:04:58 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[credentials]]></category>
+		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45912</guid>
-
-					<description><![CDATA[<p>Report shows how industrialized credential theft underpins ransomware, SaaS breaches, and geopolitical attacks, shifting security focus from prevention to detecting misuse of legitimate access.</p>
-<p>The post <a href="https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/">Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Venom Stealer Raises Stakes With Continuous Credential Harvesting</title>
-		<link>https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 14:51:59 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45909</guid>
-
-					<description><![CDATA[<p>Licensed malware with built-in persistence and automation enables attackers to continuously siphon credentials, session data, and cryptocurrency assets.</p>
-<p>The post <a href="https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/">Venom Stealer Raises Stakes With Continuous Credential Harvesting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TeamPCP Moves From OSS to AWS Environments</title>
-		<link>https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 13:53:43 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[LiteLLM]]></category>
+		<category><![CDATA[Mercor]]></category>
 		<category><![CDATA[supply chain attack]]></category>
 		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45908</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45933</guid>
 
-					<description><![CDATA[<p>After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities.</p>
-<p>The post <a href="https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/">TeamPCP Moves From OSS to AWS Environments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The AI recruiting firm is investigating the incident as Lapsus$ claimed the theft of 4TB of Mercor data.</p>
+<p>The post <a href="https://www.securityweek.com/mercor-hit-by-litellm-supply-chain-attack/">Mercor Hit by LiteLLM Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CrewAI Vulnerabilities Expose Devices to Hacking</title>
-		<link>https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/</link>
+		<title>Sophisticated CrystalX RAT Emerges</title>
+		<link>https://www.securityweek.com/sophisticated-crystalx-rat-emerges/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 13:37:30 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CrewAI]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45907</guid>
+		<pubDate>Thu, 02 Apr 2026 09:51:07 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CrystalX]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45932</guid>
 
-					<description><![CDATA[<p>Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/">CrewAI Vulnerabilities Expose Devices to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware can spy on victims, steal their information, and make configuration changes on devices.</p>
+<p>The post <a href="https://www.securityweek.com/sophisticated-crystalx-rat-emerges/">Sophisticated CrystalX RAT Emerges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption</title>
-		<link>https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/</link>
+		<title>Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents</title>
+		<link>https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 08:01:49 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Variance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45931</guid>
+
+					<description><![CDATA[<p>Variance has raised a total of $26 million in funding and the latest investment will fuel platform growth.</p>
+<p>The post <a href="https://www.securityweek.com/variance-raises-21-5m-for-compliance-investigation-platform-powered-by-ai-agents/">Variance Raises $21.5M for Compliance Investigation Platform Powered by AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Linx Security Raises $50 Million for Identity Security and Governance</title>
+		<link>https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 04:04:19 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[identity]]></category>
+		<category><![CDATA[Linx Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45929</guid>
+
+					<description><![CDATA[<p>The company will accelerate product development, scale go-to-market efforts, and expand its global footprint.</p>
+<p>The post <a href="https://www.securityweek.com/linx-security-raises-50-million-for-identity-security-and-governance/">Linx Security Raises $50 Million for Identity Security and Governance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Depthfirst Raises $80 Million in Series B Funding</title>
+		<link>https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2026 16:47:45 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Depthfirst]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45928</guid>
+
+					<description><![CDATA[<p>The startup will expand its AI research team, train additional security models, and scale enterprise adoption.</p>
+<p>The post <a href="https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/">Depthfirst Raises $80 Million in Series B Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Toy Giant Hasbro Hit by Cyberattack</title>
+		<link>https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 11:51:43 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
+		<pubDate>Wed, 01 Apr 2026 15:35:47 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[research]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45906</guid>
+		<category><![CDATA[Hasbro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45926</guid>
 
-					<description><![CDATA[<p>Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits. </p>
-<p>The post <a href="https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/">Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company is investigating the full scope of the incident, including whether any files have been compromised.</p>
+<p>The post <a href="https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/">Toy Giant Hasbro Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</title>
-		<link>https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/</link>
+		<title>New DeepLoad Malware Dropped in ClickFix Attacks</title>
+		<link>https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 31 Mar 2026 11:39:45 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[FortiClient]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45905</guid>
+		<pubDate>Wed, 01 Apr 2026 15:04:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[DeepLoad]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45925</guid>
 
-					<description><![CDATA[<p>The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/">Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware steals credentials, installs a malicious browser extension, and can spread via USB drives.</p>
+<p>The post <a href="https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/">New DeepLoad Malware Dropped in ClickFix Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</title>
+		<link>https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2026 14:36:39 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45924</guid>
+
+					<description><![CDATA[<p>Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome’s Dawn component. </p>
+<p>The post <a href="https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/">Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
