@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 03 Apr 2026 12:30:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Apr 2026 11:10:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,52 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</title>
+		<link>https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2026 10:31:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[European Commission]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<category><![CDATA[Trivy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45961</guid>
+
+					<description><![CDATA[<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>
+<p>The post <a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TrueConf Zero-Day Exploited in Asian Government Attacks</title>
+		<link>https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2026 12:47:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[TrueConf]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45957</guid>
+
+					<description><![CDATA[<p>A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads.</p>
+<p>The post <a href="https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/">TrueConf Zero-Day Exploited in Asian Government Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</title>
 		<link>https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/</link>
 		
@@ -107,6 +153,7 @@
 		<pubDate>Fri, 03 Apr 2026 10:30:00 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[T-Mobile]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=45946</guid>
 
@@ -178,44 +225,6 @@
 
 					<description><![CDATA[<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>
 <p>The post <a href="https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 02 Apr 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45941</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/">Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Critical and High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Apr 2026 12:34:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45940</guid>
-
-					<description><![CDATA[<p>The bugs could lead to authentication bypass, remote code execution, information disclosure, and privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-and-high-severity-vulnerabilities/">Cisco Patches Critical and High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
