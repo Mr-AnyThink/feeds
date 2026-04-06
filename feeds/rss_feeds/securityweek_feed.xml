@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 04 Apr 2026 11:10:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Apr 2026 12:11:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,66 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Guardarian Users Targeted With Malicious Strapi NPM Packages</title>
+		<link>https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 11:40:56 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[Strapi]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45965</guid>
+
+					<description><![CDATA[<p>Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials.</p>
+<p>The post <a href="https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/">Guardarian Users Targeted With Malicious Strapi NPM Packages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Target High-Profile Node.js Maintainers</title>
+		<link>https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 11:02:36 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45964</guid>
+
+					<description><![CDATA[<p>The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/">North Korean Hackers Target High-Profile Node.js Maintainers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Rushes Emergency Fixes for Exploited Zero-Day</title>
+		<link>https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 09:37:28 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-35616]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45962</guid>
+
+					<description><![CDATA[<p>The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/">Fortinet Rushes Emergency Fixes for Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</title>
 		<link>https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/</link>
 		
@@ -159,72 +219,6 @@
 
 					<description><![CDATA[<p>The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek.</p>
 <p>The post <a href="https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/">T-Mobile Sets the Record Straight on Latest Data Breach Filing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Hackers Drain $285 Million From Drift in 10 Seconds</title>
-		<link>https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 09:46:06 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cryptocurrency heist]]></category>
-		<category><![CDATA[drift]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45948</guid>
-
-					<description><![CDATA[<p>The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/">North Korean Hackers Drain $285 Million From Drift in 10 Seconds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability in Claude Code Emerges Days After Source Leak</title>
-		<link>https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 02 Apr 2026 18:00:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude Code]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45945</guid>
-
-					<description><![CDATA[<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Rolls Out DarkSword Exploit Protection to More Devices</title>
-		<link>https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 02 Apr 2026 16:18:07 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[DarkSword]]></category>
-		<category><![CDATA[exploit kit]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45943</guid>
-
-					<description><![CDATA[<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>
-<p>The post <a href="https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
