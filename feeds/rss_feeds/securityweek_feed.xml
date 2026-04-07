@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 06 Apr 2026 12:11:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Apr 2026 11:33:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,129 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack </title>
+		<link>https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 11:31:38 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[GPU]]></category>
+		<category><![CDATA[GPUBreach]]></category>
+		<category><![CDATA[Rowhammer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45975</guid>
+
+					<description><![CDATA[<p>Researchers have demonstrated that GPU Rowhammer attacks can be used to escalate privileges.</p>
+<p>The post <a href="https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/">GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</title>
+		<link>https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 10:52:33 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Medusa]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45974</guid>
+
+					<description><![CDATA[<p>The group is using zero-days, quickly weaponizes fresh bugs, and exfiltrates and encrypts data within days of initial access.</p>
+<p>The post <a href="https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/">Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>German Police Unmask REvil Ransomware Leader</title>
+		<link>https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 09:24:40 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Germany]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[police]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[REvil]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[unmasked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45973</guid>
+
+					<description><![CDATA[<p>Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations.</p>
+<p>The post <a href="https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/">German Police Unmask REvil Ransomware Leader</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>White House Seeks to Slash CISA Funding by $707 Million</title>
+		<link>https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 08:29:41 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[budget]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45972</guid>
+
+					<description><![CDATA[<p>The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/">White House Seeks to Slash CISA Funding by $707 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack</title>
+		<link>https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 06:05:54 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[Wynn Resorts]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45971</guid>
+
+					<description><![CDATA[<p>The high-end casino and hotel operator has likely paid a ransom to avoid a data leak.</p>
+<p>The post <a href="https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/">Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google DeepMind Researchers Map Web Attacks Against AI Agents</title>
+		<link>https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 15:32:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[DeepMind]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[research]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45967</guid>
+
+					<description><![CDATA[<p>A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content.</p>
+<p>The post <a href="https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/">Google DeepMind Researchers Map Web Attacks Against AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Guardarian Users Targeted With Malicious Strapi NPM Packages</title>
 		<link>https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/</link>
 		
@@ -105,120 +228,6 @@
 
 					<description><![CDATA[<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>
 <p>The post <a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TrueConf Zero-Day Exploited in Asian Government Attacks</title>
-		<link>https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 12:47:16 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Asia]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[TrueConf]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45957</guid>
-
-					<description><![CDATA[<p>A Chinese threat actor exploited the video conferencing platform to perform reconnaissance, escalate privileges, and execute additional payloads.</p>
-<p>The post <a href="https://www.securityweek.com/trueconf-zero-day-exploited-in-asian-government-attacks/">TrueConf Zero-Day Exploited in Asian Government Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</title>
-		<link>https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 12:30:53 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45955</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Symantec vulnerability, anti-ClickFix mechanism added to macOS, FBI hack classified as major incident.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/">In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical ShareFile Flaws Lead to Unauthenticated RCE</title>
-		<link>https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 12:12:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[ShareFile]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45954</guid>
-
-					<description><![CDATA[<p>The vulnerabilities can be chained together to bypass authentication and upload arbitrary files to the server.</p>
-<p>The post <a href="https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/">Critical ShareFile Flaws Lead to Unauthenticated RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mobile Attack Surface Expands as Enterprises Lose Control</title>
-		<link>https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[attack surface management]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45951</guid>
-
-					<description><![CDATA[<p>Shadow AI embedded in everyday apps, combined with outdated mobile devices and zero-click exploits, is creating a new and largely unseen mobile risk.</p>
-<p>The post <a href="https://www.securityweek.com/mobile-attack-surface-expands-as-enterprises-lose-control/">Mobile Attack Surface Expands as Enterprises Lose Control</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>React2Shell Exploited in Large-Scale Credential Harvesting Campaign</title>
-		<link>https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 10:55:13 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[React2Shell]]></category>
-		<category><![CDATA[UAT-10608]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45952</guid>
-
-					<description><![CDATA[<p>Using automated scanning and the Nexus Listener collection framework, the hackers compromised over 750 systems.</p>
-<p>The post <a href="https://www.securityweek.com/react2shell-exploited-in-large-scale-credential-harvesting-campaign/">React2Shell Exploited in Large-Scale Credential Harvesting Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>T-Mobile Sets the Record Straight on Latest Data Breach Filing</title>
-		<link>https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[T-Mobile]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45946</guid>
-
-					<description><![CDATA[<p>The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek.</p>
-<p>The post <a href="https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/">T-Mobile Sets the Record Straight on Latest Data Breach Filing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
