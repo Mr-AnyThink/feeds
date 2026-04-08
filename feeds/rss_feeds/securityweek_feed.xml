@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 07 Apr 2026 11:33:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2026 12:31:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,206 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack </title>
-		<link>https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/</link>
+		<title>Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption </title>
+		<link>https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 11:31:38 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[endpoint security]]></category>
-		<category><![CDATA[GPU]]></category>
-		<category><![CDATA[GPUBreach]]></category>
-		<category><![CDATA[Rowhammer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45975</guid>
-
-					<description><![CDATA[<p>Researchers have demonstrated that GPU Rowhammer attacks can be used to escalate privileges.</p>
-<p>The post <a href="https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/">GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</title>
-		<link>https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 10:52:33 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Medusa]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45974</guid>
-
-					<description><![CDATA[<p>The group is using zero-days, quickly weaponizes fresh bugs, and exfiltrates and encrypts data within days of initial access.</p>
-<p>The post <a href="https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/">Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>German Police Unmask REvil Ransomware Leader</title>
-		<link>https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 09:24:40 +0000</pubDate>
+		<pubDate>Wed, 08 Apr 2026 12:31:39 +0000</pubDate>
 				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[police]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[REvil]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[unmasked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45973</guid>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[hospital]]></category>
+		<category><![CDATA[Signature Healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46013</guid>
 
-					<description><![CDATA[<p>Shchukin is accused of extorting more than $2 million as the head of the GandCrab and REvil ransomware operations.</p>
-<p>The post <a href="https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/">German Police Unmask REvil Ransomware Leader</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack.</p>
+<p>The post <a href="https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/">Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>White House Seeks to Slash CISA Funding by $707 Million</title>
-		<link>https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 08:29:41 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[budget]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45972</guid>
-
-					<description><![CDATA[<p>The Trump administration says the FY2027 budget refocuses CISA on its core mission: protecting federal agencies and critical infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/">White House Seeks to Slash CISA Funding by $707 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack</title>
-		<link>https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 06:05:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[Wynn Resorts]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45971</guid>
-
-					<description><![CDATA[<p>The high-end casino and hotel operator has likely paid a ransom to avoid a data leak.</p>
-<p>The post <a href="https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/">Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google DeepMind Researchers Map Web Attacks Against AI Agents</title>
-		<link>https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/</link>
+		<title>Evasive Masjesu DDoS Botnet Targets IoT Devices</title>
+		<link>https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Apr 2026 15:32:54 +0000</pubDate>
+		<pubDate>Wed, 08 Apr 2026 11:49:44 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[Masjesu]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46012</guid>
+
+					<description><![CDATA[<p>Focused on persistence, the botnet does not engage in widespread infection and avoids blacklisted IPs and critical infrastructure entities.</p>
+<p>The post <a href="https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/">Evasive Masjesu DDoS Botnet Targets IoT Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</title>
+		<link>https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 11:20:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ninja Forms]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46010</guid>
+
+					<description><![CDATA[<p>The vulnerability allows hackers to upload arbitrary files to a site’s server and achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/">Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</title>
+		<link>https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 10:54:14 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Forest Blizzard]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46009</guid>
+
+					<description><![CDATA[<p>The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks.</p>
+<p>The post <a href="https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/">US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</title>
+		<link>https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 02:57:56 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[PLC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46001</guid>
+
+					<description><![CDATA[<p>Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting.</p>
+<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/">Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</title>
+		<link>https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 18:39:56 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[DeepMind]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[research]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45967</guid>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[Project Glasswing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45991</guid>
 
-					<description><![CDATA[<p>A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content.</p>
-<p>The post <a href="https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/">Google DeepMind Researchers Map Web Attacks Against AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/">Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Guardarian Users Targeted With Malicious Strapi NPM Packages</title>
-		<link>https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/</link>
+		<title>The New Rules of Engagement: Matching Agentic Attack Speed</title>
+		<link>https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Apr 2026 11:40:56 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Strapi]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45965</guid>
+		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 16:40:52 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45978</guid>
 
-					<description><![CDATA[<p>Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials.</p>
-<p>The post <a href="https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/">Guardarian Users Targeted With Malicious Strapi NPM Packages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The cybersecurity response to AI-enabled nation-state threats cannot be incremental. It must be architectural.</p>
+<p>The post <a href="https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/">The New Rules of Engagement: Matching Agentic Attack Speed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>North Korean Hackers Target High-Profile Node.js Maintainers</title>
-		<link>https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/</link>
+		<title>Trent AI Emerges From Stealth With $13 Million in Funding</title>
+		<link>https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Apr 2026 11:02:36 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Node.js]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45964</guid>
+		<pubDate>Tue, 07 Apr 2026 16:34:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Trent]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45985</guid>
 
-					<description><![CDATA[<p>The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/">North Korean Hackers Target High-Profile Node.js Maintainers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle.</p>
+<p>The post <a href="https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/">Trent AI Emerges From Stealth With $13 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Fortinet Rushes Emergency Fixes for Exploited Zero-Day</title>
-		<link>https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/</link>
+		<title>Critical Flowise Vulnerability in Attacker Crosshairs</title>
+		<link>https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Apr 2026 09:37:28 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
+		<pubDate>Tue, 07 Apr 2026 15:34:51 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-35616]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Flowise]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45962</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45984</guid>
 
-					<description><![CDATA[<p>The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/">Fortinet Rushes Emergency Fixes for Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The improper validation of user-supplied JavaScript code allows attackers to execute arbitrary code and access the file system.</p>
+<p>The post <a href="https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/">Critical Flowise Vulnerability in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</title>
-		<link>https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/</link>
+		<title>Severe StrongBox Vulnerability Patched in Android</title>
+		<link>https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 04 Apr 2026 10:31:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[European Commission]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<category><![CDATA[Trivy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45961</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2026 14:23:51 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[StrongBox]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45980</guid>
 
-					<description><![CDATA[<p>Hackers stole over 300GB of data from the Commission’s AWS environment, including personal information.</p>
-<p>The post <a href="https://www.securityweek.com/european-commission-confirms-data-breach-linked-to-trivy-supply-chain-attack/">European Commission Confirms Data Breach Linked to Trivy Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A critical DoS vulnerability in the Framework component of Android has also been fixed with the latest update.</p>
+<p>The post <a href="https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/">Severe StrongBox Vulnerability Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
