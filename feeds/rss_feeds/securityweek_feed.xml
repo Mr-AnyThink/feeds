@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 08 Apr 2026 12:31:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Apr 2026 12:26:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption </title>
-		<link>https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/</link>
+		<title>Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</title>
+		<link>https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 12:31:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[hospital]]></category>
-		<category><![CDATA[Signature Healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46013</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 12:26:50 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46033</guid>
 
-					<description><![CDATA[<p>Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack.</p>
-<p>The post <a href="https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/">Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints.</p>
+<p>The post <a href="https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/">Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Evasive Masjesu DDoS Botnet Targets IoT Devices</title>
-		<link>https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/</link>
+		<title>Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</title>
+		<link>https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 11:49:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[DDoS]]></category>
-		<category><![CDATA[Masjesu]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46012</guid>
-
-					<description><![CDATA[<p>Focused on persistence, the botnet does not engage in widespread infection and avoids blacklisted IPs and critical infrastructure entities.</p>
-<p>The post <a href="https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/">Evasive Masjesu DDoS Botnet Targets IoT Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</title>
-		<link>https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 11:20:23 +0000</pubDate>
+		<pubDate>Thu, 09 Apr 2026 11:58:52 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ninja Forms]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46010</guid>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46032</guid>
 
-					<description><![CDATA[<p>The vulnerability allows hackers to upload arbitrary files to a site’s server and achieve remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/">Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The bugs could allow attackers to modify protected resources and escalate their privileges to administrator.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/">Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</title>
-		<link>https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/</link>
+		<title>The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</title>
+		<link>https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[Visibility]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46029</guid>
+
+					<description><![CDATA[<p>Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions.</p>
+<p>The post <a href="https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/">The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</title>
+		<link>https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 09:44:56 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[Mr Racoon]]></category>
+		<category><![CDATA[Racoon]]></category>
+		<category><![CDATA[UNC6783]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46026</guid>
+
+					<description><![CDATA[<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>
+<p>The post <a href="https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Reader Zero-Day Exploited for Months: Researcher</title>
+		<link>https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 10:54:14 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[APT28]]></category>
-		<category><![CDATA[disrupted]]></category>
+		<pubDate>Thu, 09 Apr 2026 08:44:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Reader]]></category>
+		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Forest Blizzard]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46009</guid>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46025</guid>
 
-					<description><![CDATA[<p>The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks.</p>
-<p>The post <a href="https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/">US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</title>
-		<link>https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/</link>
+		<title>300,000 People Impacted by Eurail Data Breach</title>
+		<link>https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/</link>
 		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 02:57:56 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 08:28:05 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Eurail]]></category>
+		<category><![CDATA[railway]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46024</guid>
+
+					<description><![CDATA[<p>In December 2025, hackers stole names and passport numbers from the European travel company’s network.</p>
+<p>The post <a href="https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/">300,000 People Impacted by Eurail Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>$3.6 Million Stolen in Bitcoin Depot Hack</title>
+		<link>https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 06:41:40 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[Bitcoin Depot]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cryptocurrency heist]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46023</guid>
+
+					<description><![CDATA[<p>A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. </p>
+<p>The post <a href="https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/">$3.6 Million Stolen in Bitcoin Depot Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</title>
+		<link>https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 01:22:35 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Handala]]></category>
 		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[PLC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46001</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46021</guid>
 
-					<description><![CDATA[<p>Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting.</p>
-<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/">Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. </p>
+<p>The post <a href="https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/">Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</title>
-		<link>https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 18:39:56 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[Project Glasswing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45991</guid>
-
-					<description><![CDATA[<p>New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/">Anthropic Unveils ‘Claude Mythos’ &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The New Rules of Engagement: Matching Agentic Attack Speed</title>
-		<link>https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/</link>
-		
-		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 16:40:52 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45978</guid>
-
-					<description><![CDATA[<p>The cybersecurity response to AI-enabled nation-state threats cannot be incremental. It must be architectural.</p>
-<p>The post <a href="https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/">The New Rules of Engagement: Matching Agentic Attack Speed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trent AI Emerges From Stealth With $13 Million in Funding</title>
-		<link>https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 16:34:26 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Trent]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45985</guid>
-
-					<description><![CDATA[<p>The startup has created a layered security solution aiming to secure AI agents throughout their entire lifecycle.</p>
-<p>The post <a href="https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/">Trent AI Emerges From Stealth With $13 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Flowise Vulnerability in Attacker Crosshairs</title>
-		<link>https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 15:34:51 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Flowise]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45984</guid>
-
-					<description><![CDATA[<p>The improper validation of user-supplied JavaScript code allows attackers to execute arbitrary code and access the file system.</p>
-<p>The post <a href="https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/">Critical Flowise Vulnerability in Attacker Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Severe StrongBox Vulnerability Patched in Android</title>
-		<link>https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/</link>
+		<title>Data Leakage Vulnerability Patched in OpenSSL</title>
+		<link>https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 07 Apr 2026 14:23:51 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
+		<pubDate>Wed, 08 Apr 2026 15:37:48 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[StrongBox]]></category>
+		<category><![CDATA[OpenSSL]]></category>
+		<category><![CDATA[patches]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45980</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46020</guid>
 
-					<description><![CDATA[<p>A critical DoS vulnerability in the Framework component of Android has also been fixed with the latest update.</p>
-<p>The post <a href="https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/">Severe StrongBox Vulnerability Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A total of seven vulnerabilities, most of which can be exploited for DoS attacks, have been patched in OpenSSL.</p>
+<p>The post <a href="https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/">Data Leakage Vulnerability Patched in OpenSSL</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years</title>
+		<link>https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 14:30:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apache]]></category>
+		<category><![CDATA[Apache ActiveMQ]]></category>
+		<category><![CDATA[RCE]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46019</guid>
+
+					<description><![CDATA[<p>The vulnerability requires authentication for successful exploitation, but another flaw exposes the Jolokia API without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/">RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
