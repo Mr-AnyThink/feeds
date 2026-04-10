@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 09 Apr 2026 12:26:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2026 12:42:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,187 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</title>
+		<link>https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 12:41:08 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Feedback Friday]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46065</guid>
+
+					<description><![CDATA[<p>The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.</p>
+<p>The post <a href="https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/">Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</title>
+		<link>https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 11:53:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DICOM]]></category>
+		<category><![CDATA[medical]]></category>
+		<category><![CDATA[Orthanc]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46063</guid>
+
+					<description><![CDATA[<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>
+<p>The post <a href="https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</title>
+		<link>https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 10:44:45 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46054</guid>
+
+					<description><![CDATA[<p>The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MITRE Releases Fight Fraud Framework</title>
+		<link>https://www.securityweek.com/mitre-releases-fight-fraud-framework/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 09:51:03 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[F3]]></category>
+		<category><![CDATA[Fight Fraud Framework]]></category>
+		<category><![CDATA[framework]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[MITRE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46052</guid>
+
+					<description><![CDATA[<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>
+<p>The post <a href="https://www.securityweek.com/mitre-releases-fight-fraud-framework/">MITRE Releases Fight Fraud Framework</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Marimo Flaw Exploited Hours After Public Disclosure</title>
+		<link>https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 09:12:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Marimo]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46051</guid>
+
+					<description><![CDATA[<p>Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/">Critical Marimo Flaw Exploited Hours After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Rolls Out Cookie Theft Protections in Chrome</title>
+		<link>https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 07:50:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[DBSC]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[session cookies]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46049</guid>
+
+					<description><![CDATA[<p>New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication.</p>
+<p>The post <a href="https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/">Google Rolls Out Cookie Theft Protections in Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</title>
+		<link>https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 07:33:16 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[EngageLab]]></category>
+		<category><![CDATA[SDK]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46048</guid>
+
+					<description><![CDATA[<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple Intelligence AI Guardrails Bypassed in New Attack</title>
+		<link>https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 13:43:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple Intelligence]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46036</guid>
+
+					<description><![CDATA[<p>RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation.</p>
+<p>The post <a href="https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/">Apple Intelligence AI Guardrails Bypassed in New Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Can We Trust AI? No – But Eventually We Must</title>
+		<link>https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=45966</guid>
+
+					<description><![CDATA[<p>From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks.</p>
+<p>The post <a href="https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/">Can We Trust AI? No – But Eventually We Must</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</title>
 		<link>https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/</link>
 		
@@ -43,185 +224,6 @@
 
 					<description><![CDATA[<p>Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints.</p>
 <p>The post <a href="https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/">Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 11:58:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46032</guid>
-
-					<description><![CDATA[<p>The bugs could allow attackers to modify protected resources and escalate their privileges to administrator.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/">Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</title>
-		<link>https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[Visibility]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46029</guid>
-
-					<description><![CDATA[<p>Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions.</p>
-<p>The post <a href="https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/">The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</title>
-		<link>https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 09:44:56 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[data theft]]></category>
-		<category><![CDATA[Mr Racoon]]></category>
-		<category><![CDATA[Racoon]]></category>
-		<category><![CDATA[UNC6783]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46026</guid>
-
-					<description><![CDATA[<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>
-<p>The post <a href="https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Reader Zero-Day Exploited for Months: Researcher</title>
-		<link>https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 08:44:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Adobe Reader]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46025</guid>
-
-					<description><![CDATA[<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>300,000 People Impacted by Eurail Data Breach</title>
-		<link>https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 08:28:05 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Eurail]]></category>
-		<category><![CDATA[railway]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46024</guid>
-
-					<description><![CDATA[<p>In December 2025, hackers stole names and passport numbers from the European travel company’s network.</p>
-<p>The post <a href="https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/">300,000 People Impacted by Eurail Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$3.6 Million Stolen in Bitcoin Depot Hack</title>
-		<link>https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 06:41:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[Bitcoin Depot]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cryptocurrency heist]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46023</guid>
-
-					<description><![CDATA[<p>A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator’s wallets after stealing credentials. </p>
-<p>The post <a href="https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/">$3.6 Million Stolen in Bitcoin Depot Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</title>
-		<link>https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 01:22:35 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[Iran]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46021</guid>
-
-					<description><![CDATA[<p>Hackers vowed to revive its efforts against America when the time was right — demonstrating how digital warfare has become ingrained in military conflict. </p>
-<p>The post <a href="https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/">Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Leakage Vulnerability Patched in OpenSSL</title>
-		<link>https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 15:37:48 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[OpenSSL]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46020</guid>
-
-					<description><![CDATA[<p>A total of seven vulnerabilities, most of which can be exploited for DoS attacks, have been patched in OpenSSL.</p>
-<p>The post <a href="https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/">Data Leakage Vulnerability Patched in OpenSSL</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years</title>
-		<link>https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 08 Apr 2026 14:30:27 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache]]></category>
-		<category><![CDATA[Apache ActiveMQ]]></category>
-		<category><![CDATA[RCE]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46019</guid>
-
-					<description><![CDATA[<p>The vulnerability requires authentication for successful exploitation, but another flaw exposes the Jolokia API without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/">RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
