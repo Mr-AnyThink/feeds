@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Apr 2026 12:42:26 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2026 14:47:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</title>
+		<link>https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 14:44:53 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46068</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/">In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Juniper Networks Patches Dozens of Junos OS Vulnerabilities</title>
+		<link>https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 13:44:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Juniper Networks]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46067</guid>
+
+					<description><![CDATA[<p>A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.</p>
+<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/">Juniper Networks Patches Dozens of Junos OS Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</title>
 		<link>https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/</link>
 		
@@ -185,45 +221,6 @@
 
 					<description><![CDATA[<p>RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation.</p>
 <p>The post <a href="https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/">Apple Intelligence AI Guardrails Bypassed in New Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Can We Trust AI? No – But Eventually We Must</title>
-		<link>https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 13:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=45966</guid>
-
-					<description><![CDATA[<p>From hallucinations and bias to model collapse and adversarial abuse, today’s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks.</p>
-<p>The post <a href="https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/">Can We Trust AI? No – But Eventually We Must</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</title>
-		<link>https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 12:26:50 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46033</guid>
-
-					<description><![CDATA[<p>Dozens of such keys can be extracted from apps’ decompiled code to gain access to all Gemini endpoints.</p>
-<p>The post <a href="https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/">Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
