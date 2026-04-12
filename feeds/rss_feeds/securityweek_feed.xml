@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Apr 2026 14:47:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Apr 2026 07:45:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Adobe Patches Reader Zero-Day Exploited for Months</title>
+		<link>https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2026 07:45:26 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[acrobat]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Reader]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[reader]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46074</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</title>
 		<link>https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/</link>
 		
@@ -195,32 +218,13 @@
 		<category><![CDATA[Android]]></category>
 		<category><![CDATA[cryptocurrency]]></category>
 		<category><![CDATA[EngageLab]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[SDK]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46048</guid>
 
 					<description><![CDATA[<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>
 <p>The post <a href="https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Intelligence AI Guardrails Bypassed in New Attack</title>
-		<link>https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Apr 2026 13:43:07 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple Intelligence]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46036</guid>
-
-					<description><![CDATA[<p>RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation.</p>
-<p>The post <a href="https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/">Apple Intelligence AI Guardrails Bypassed in New Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
