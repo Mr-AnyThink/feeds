@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 12 Apr 2026 07:45:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2026 12:36:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,118 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</title>
+		<link>https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 12:34:06 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Axios]]></category>
+		<category><![CDATA[certificate]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46081</guid>
+
+					<description><![CDATA[<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>
+<p>The post <a href="https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>International Operation Targets Multimillion-Dollar Crypto Theft Schemes</title>
+		<link>https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 11:34:35 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[fraud]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46079</guid>
+
+					<description><![CDATA[<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>
+<p>The post <a href="https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</title>
+		<link>https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 10:52:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[CPU-Z]]></category>
+		<category><![CDATA[CPUID]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[STX RAT]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[watering hole]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46078</guid>
+
+					<description><![CDATA[<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>
+<p>The post <a href="https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fake Claude Website Distributes PlugX RAT</title>
+		<link>https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 09:52:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[PlugX]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46077</guid>
+
+					<description><![CDATA[<p>The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself.</p>
+<p>The post <a href="https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/">Fake Claude Website Distributes PlugX RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</title>
+		<link>https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 08:31:33 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[E2EE]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[encryption]]></category>
+		<category><![CDATA[end-to-end encryption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gmail]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46076</guid>
+
+					<description><![CDATA[<p>The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices.</p>
+<p>The post <a href="https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/">Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Adobe Patches Reader Zero-Day Exploited for Months</title>
 		<link>https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/</link>
 		
@@ -123,108 +235,6 @@
 
 					<description><![CDATA[<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>
 <p>The post <a href="https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</title>
-		<link>https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 10:44:45 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46054</guid>
-
-					<description><![CDATA[<p>The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE Releases Fight Fraud Framework</title>
-		<link>https://www.securityweek.com/mitre-releases-fight-fraud-framework/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 09:51:03 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[F3]]></category>
-		<category><![CDATA[Fight Fraud Framework]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46052</guid>
-
-					<description><![CDATA[<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-releases-fight-fraud-framework/">MITRE Releases Fight Fraud Framework</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Marimo Flaw Exploited Hours After Public Disclosure</title>
-		<link>https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 09:12:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Marimo]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46051</guid>
-
-					<description><![CDATA[<p>Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/">Critical Marimo Flaw Exploited Hours After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Rolls Out Cookie Theft Protections in Chrome</title>
-		<link>https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 07:50:00 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[DBSC]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[session cookies]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46049</guid>
-
-					<description><![CDATA[<p>New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication.</p>
-<p>The post <a href="https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/">Google Rolls Out Cookie Theft Protections in Chrome</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</title>
-		<link>https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 07:33:16 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[EngageLab]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SDK]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46048</guid>
-
-					<description><![CDATA[<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
