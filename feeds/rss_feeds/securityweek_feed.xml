@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 13 Apr 2026 12:36:31 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Apr 2026 12:54:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</title>
+		<link>https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 12:53:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Attacks]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46094</guid>
+
+					<description><![CDATA[<p>CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks.</p>
+<p>The post <a href="https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/">‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</title>
+		<link>https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 12:43:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Basic-FIt]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46095</guid>
+
+					<description><![CDATA[<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. </p>
+<p>The post <a href="https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical ABAP Vulnerability</title>
+		<link>https://www.securityweek.com/sap-patches-critical-abap-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 11:21:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46093</guid>
+
+					<description><![CDATA[<p>The company has released 19 new security notes addressing flaws in over a dozen enterprise products.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-abap-vulnerability/">SAP Patches Critical ABAP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Triad Nexus Evades Sanctions to Fuel Cybercrime</title>
+		<link>https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 10:53:32 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[Triad Nexus]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46092</guid>
+
+					<description><![CDATA[<p>The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.</p>
+<p>The post <a href="https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/">Triad Nexus Evades Sanctions to Fuel Cybercrime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Adds Rust DNS Parser to Pixel Phones for Better Security</title>
+		<link>https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 10:21:33 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Pixel]]></category>
+		<category><![CDATA[Rust]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46090</guid>
+
+					<description><![CDATA[<p>The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.</p>
+<p>The post <a href="https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/">Google Adds Rust DNS Parser to Pixel Phones for Better Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nightclub Giant RCI Hospitality Reports Data Breach</title>
+		<link>https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 09:35:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[RCI Hospitality]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46088</guid>
+
+					<description><![CDATA[<p>The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.</p>
+<p>The post <a href="https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/">Nightclub Giant RCI Hospitality Reports Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</title>
+		<link>https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 08:57:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[acrobat]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46087</guid>
+
+					<description><![CDATA[<p>The security defects allow attackers to escalate privileges and execute arbitrary code remotely.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/">Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Booking.com Says Hackers Accessed User Information</title>
+		<link>https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 14:25:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Booking.com]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46084</guid>
+
+					<description><![CDATA[<p>The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. </p>
+<p>The post <a href="https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/">Booking.com Says Hackers Accessed User Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</title>
+		<link>https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[BrowserGate]]></category>
+		<category><![CDATA[extensions]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46082</guid>
+
+					<description><![CDATA[<p>Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing</p>
+<p>The post <a href="https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/">BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</title>
 		<link>https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/</link>
 		
@@ -44,197 +224,6 @@
 
 					<description><![CDATA[<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>
 <p>The post <a href="https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>International Operation Targets Multimillion-Dollar Crypto Theft Schemes</title>
-		<link>https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 11:34:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[fraud]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46079</guid>
-
-					<description><![CDATA[<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>
-<p>The post <a href="https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</title>
-		<link>https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 10:52:57 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[CPU-Z]]></category>
-		<category><![CDATA[CPUID]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[STX RAT]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[watering hole]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46078</guid>
-
-					<description><![CDATA[<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>
-<p>The post <a href="https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fake Claude Website Distributes PlugX RAT</title>
-		<link>https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 09:52:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[PlugX]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46077</guid>
-
-					<description><![CDATA[<p>The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself.</p>
-<p>The post <a href="https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/">Fake Claude Website Distributes PlugX RAT</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</title>
-		<link>https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 08:31:33 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[E2EE]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[encryption]]></category>
-		<category><![CDATA[end-to-end encryption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gmail]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46076</guid>
-
-					<description><![CDATA[<p>The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices.</p>
-<p>The post <a href="https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/">Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Reader Zero-Day Exploited for Months</title>
-		<link>https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sun, 12 Apr 2026 07:45:26 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[acrobat]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Adobe Reader]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[reader]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46074</guid>
-
-					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</title>
-		<link>https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 14:44:53 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46068</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/">In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Juniper Networks Patches Dozens of Junos OS Vulnerabilities</title>
-		<link>https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 13:44:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Juniper Networks]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46067</guid>
-
-					<description><![CDATA[<p>A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.</p>
-<p>The post <a href="https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/">Juniper Networks Patches Dozens of Junos OS Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 12:41:08 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[SCADA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46065</guid>
-
-					<description><![CDATA[<p>The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.</p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/">Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</title>
-		<link>https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 11:53:45 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DICOM]]></category>
-		<category><![CDATA[medical]]></category>
-		<category><![CDATA[Orthanc]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46063</guid>
-
-					<description><![CDATA[<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>
-<p>The post <a href="https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
