@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 14 Apr 2026 12:54:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Apr 2026 12:10:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,162 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Mirax RAT Targeting Android Users in Europe</title>
+		<link>https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 12:10:08 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android RAT]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Mirax]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46107</guid>
+
+					<description><![CDATA[<p>Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.</p>
+<p>The post <a href="https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/">Mirax RAT Targeting Android Users in Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Two Vulnerabilities Patched in Ivanti Neurons for ITSM </title>
+		<link>https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 11:38:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46106</guid>
+
+					<description><![CDATA[<p>The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.</p>
+<p>The post <a href="https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/">Two Vulnerabilities Patched in Ivanti Neurons for ITSM </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</title>
+		<link>https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 10:58:12 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[adware]]></category>
+		<category><![CDATA[AV killer]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[PUP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46105</guid>
+
+					<description><![CDATA[<p>Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.</p>
+<p>The post <a href="https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/">$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</title>
+		<link>https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 10:25:56 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[FISA]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46104</guid>
+
+					<description><![CDATA[<p>Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails.</p>
+<p>The post <a href="https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/">Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches Critical FortiSandbox Vulnerabilities</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 09:37:24 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46103</guid>
+
+					<description><![CDATA[<p>The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/">Fortinet Patches Critical FortiSandbox Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 07:14:08 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46102</guid>
+
+					<description><![CDATA[<p>Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/">ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities</title>
+		<link>https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 18:14:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46101</guid>
+
+					<description><![CDATA[<p>Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/">Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches 55 Vulnerabilities Across 11 Products</title>
+		<link>https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Apr 2026 16:48:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[patches]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46100</guid>
+
+					<description><![CDATA[<p>Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/">Adobe Patches 55 Vulnerabilities Across 11 Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</title>
 		<link>https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/</link>
 		
@@ -62,168 +218,6 @@
 
 					<description><![CDATA[<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. </p>
 <p>The post <a href="https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical ABAP Vulnerability</title>
-		<link>https://www.securityweek.com/sap-patches-critical-abap-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 11:21:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46093</guid>
-
-					<description><![CDATA[<p>The company has released 19 new security notes addressing flaws in over a dozen enterprise products.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-abap-vulnerability/">SAP Patches Critical ABAP Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Triad Nexus Evades Sanctions to Fuel Cybercrime</title>
-		<link>https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 10:53:32 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[sanctions]]></category>
-		<category><![CDATA[Triad Nexus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46092</guid>
-
-					<description><![CDATA[<p>The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.</p>
-<p>The post <a href="https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/">Triad Nexus Evades Sanctions to Fuel Cybercrime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Adds Rust DNS Parser to Pixel Phones for Better Security</title>
-		<link>https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 10:21:33 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Pixel]]></category>
-		<category><![CDATA[Rust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46090</guid>
-
-					<description><![CDATA[<p>The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.</p>
-<p>The post <a href="https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/">Google Adds Rust DNS Parser to Pixel Phones for Better Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightclub Giant RCI Hospitality Reports Data Breach</title>
-		<link>https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 09:35:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[RCI Hospitality]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46088</guid>
-
-					<description><![CDATA[<p>The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.</p>
-<p>The post <a href="https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/">Nightclub Giant RCI Hospitality Reports Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 08:57:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[acrobat]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46087</guid>
-
-					<description><![CDATA[<p>The security defects allow attackers to escalate privileges and execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/">Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Booking.com Says Hackers Accessed User Information</title>
-		<link>https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 14:25:07 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Booking.com]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46084</guid>
-
-					<description><![CDATA[<p>The online travel platform has not said how many customers’ booking information was exposed, but said the issue has been contained. </p>
-<p>The post <a href="https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/">Booking.com Says Hackers Accessed User Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</title>
-		<link>https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[BrowserGate]]></category>
-		<category><![CDATA[extensions]]></category>
-		<category><![CDATA[LinkedIn]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46082</guid>
-
-					<description><![CDATA[<p>Claims that “Microsoft is running one of the largest corporate espionage operations in modern history” face scrutiny as researchers analyze LinkedIn’s browser extension probing</p>
-<p>The post <a href="https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/">BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</title>
-		<link>https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 12:34:06 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Axios]]></category>
-		<category><![CDATA[certificate]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46081</guid>
-
-					<description><![CDATA[<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>
-<p>The post <a href="https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
