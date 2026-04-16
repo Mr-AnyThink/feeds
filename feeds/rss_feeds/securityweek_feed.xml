@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 15 Apr 2026 12:10:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Apr 2026 12:45:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Mirax RAT Targeting Android Users in Europe</title>
-		<link>https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/</link>
+		<title>Data Breach at Tennessee Hospital Affects 337,000</title>
+		<link>https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 12:10:08 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Android RAT]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Mirax]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46107</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 12:40:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[hospital]]></category>
+		<category><![CDATA[Rhysida]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46127</guid>
 
-					<description><![CDATA[<p>Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.</p>
-<p>The post <a href="https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/">Mirax RAT Targeting Android Users in Europe</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cookeville Regional Medical Center was targeted last year by the Rhysida ransomware group, which stole 500GB of data.</p>
+<p>The post <a href="https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/">Data Breach at Tennessee Hospital Affects 337,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Two Vulnerabilities Patched in Ivanti Neurons for ITSM </title>
-		<link>https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/</link>
+		<title>Artemis Emerges From Stealth With $70 Million in Funding</title>
+		<link>https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 11:38:21 +0000</pubDate>
+		<pubDate>Thu, 16 Apr 2026 12:22:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artemis]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46126</guid>
+
+					<description><![CDATA[<p>The startup is leveraging AI to prevent AI-powered attacks across applications, users, machines, and cloud workloads.</p>
+<p>The post <a href="https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/">Artemis Emerges From Stealth With $70 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Splunk Enterprise Update Patches Code Execution Vulnerability</title>
+		<link>https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 11:51:39 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[Splunk]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46106</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46124</guid>
 
-					<description><![CDATA[<p>The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.</p>
-<p>The post <a href="https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/">Two Vulnerabilities Patched in Ivanti Neurons for ITSM </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The flaw allows low-privileged users to upload files to a temporary directory to achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/">Splunk Enterprise Update Patches Code Execution Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</title>
-		<link>https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/</link>
+		<title>Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest</title>
+		<link>https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 10:58:12 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[adware]]></category>
-		<category><![CDATA[AV killer]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PUP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46105</guid>
+		<pubDate>Thu, 16 Apr 2026 11:21:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[hacking competition]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero Day Quest]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46121</guid>
 
-					<description><![CDATA[<p>Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.</p>
-<p>The post <a href="https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/">$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Researchers found more than 80 high-impact cloud and AI vulnerabilities during the event, which had a $5 million prize pool.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/">Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</title>
-		<link>https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 10:25:56 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[FISA]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46104</guid>
-
-					<description><![CDATA[<p>Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners’ calls, texts and emails.</p>
-<p>The post <a href="https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/">Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Patches Critical FortiSandbox Vulnerabilities</title>
-		<link>https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/</link>
+		<title>NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software</title>
+		<link>https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 09:37:24 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46103</guid>
-
-					<description><![CDATA[<p>The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/">Fortinet Patches Critical FortiSandbox Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 07:14:08 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46102</guid>
-
-					<description><![CDATA[<p>Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/">ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities</title>
-		<link>https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 18:14:37 +0000</pubDate>
+		<pubDate>Thu, 16 Apr 2026 10:47:14 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[enrichment]]></category>
+		<category><![CDATA[NIST]]></category>
+		<category><![CDATA[NVD]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46120</guid>
+
+					<description><![CDATA[<p>To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched.</p>
+<p>The post <a href="https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/">NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches Critical Vulnerabilities in Webex, ISE</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 10:04:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46119</guid>
+
+					<description><![CDATA[<p>The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/">Cisco Patches Critical Vulnerabilities in Webex, ISE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ransomware Hits Automotive Data Expert Autovista</title>
+		<link>https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 09:30:16 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Autovista]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46118</guid>
+
+					<description><![CDATA[<p>The automotive analysis and data company is working with external experts to investigate the attack.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/">Ransomware Hits Automotive Data Expert Autovista</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments</title>
+		<link>https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 08:33:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI hack]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitHub Copilot]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46117</guid>
+
+					<description><![CDATA[<p>A researcher has disclosed the details of the AI attack method he has named ‘Comment and Control’.</p>
+<p>The post <a href="https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/">Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure</title>
+		<link>https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 16:46:48 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Sweden]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46116</guid>
+
+					<description><![CDATA[<p>In what was Sweden’s first public mention of the attack, the country’s minister for civil defense said it targeted a heating plant in western Sweden.</p>
+<p>The post <a href="https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/">Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploited Vulnerability Exposes Nginx Servers to Hacking</title>
+		<link>https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2026 14:45:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46101</guid>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[Nginx UI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46115</guid>
 
-					<description><![CDATA[<p>Experts say this is the second-largest Microsoft Patch Tuesday ever based on CVE count.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/">Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches 55 Vulnerabilities Across 11 Products</title>
-		<link>https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 16:48:03 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[patches]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46100</guid>
-
-					<description><![CDATA[<p>Critical ColdFusion vulnerabilities are the most at risk of being exploited in attacks, according to the software giant.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/">Adobe Patches 55 Vulnerabilities Across 11 Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</title>
-		<link>https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 12:53:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Attacks]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46094</guid>
-
-					<description><![CDATA[<p>CISOs face a shrinking window to prepare as AI models like Mythos collapse the gap between vulnerability discovery and exploitation, driving a new era of high-velocity cyberattacks.</p>
-<p>The post <a href="https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/">‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</title>
-		<link>https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Apr 2026 12:43:30 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Basic-FIt]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46095</guid>
-
-					<description><![CDATA[<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details. </p>
-<p>The post <a href="https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool. </p>
+<p>The post <a href="https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/">Exploited Vulnerability Exposes Nginx Servers to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
