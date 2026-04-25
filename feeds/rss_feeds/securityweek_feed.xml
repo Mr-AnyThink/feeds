@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 24 Apr 2026 12:34:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Apr 2026 19:57:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,63 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks</title>
+		<link>https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 25 Apr 2026 10:50:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[GopherWhisper]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46213</guid>
+
+					<description><![CDATA[<p>Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.</p>
+<p>The post <a href="https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/">China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</title>
+		<link>https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2026 14:57:18 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Fast16]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[nuclear]]></category>
+		<category><![CDATA[Stuxnet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46212</guid>
+
+					<description><![CDATA[<p>It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism.</p>
+<p>The post <a href="https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/">Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device</title>
+		<link>https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2026 14:31:51 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46211</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/">In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents</title>
 		<link>https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/</link>
 		
@@ -75,6 +132,7 @@
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[backdoor]]></category>
 		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Firestarter]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46203</guid>
 
@@ -160,62 +218,6 @@
 
 					<description><![CDATA[<p>The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity.</p>
 <p>The post <a href="https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/">Copperhelm Raises $7 Million for Agentic Cloud Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cloudsmith Raises $72 Million in Series C Funding</title>
-		<link>https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Apr 2026 15:03:59 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Cloudsmith]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46196</guid>
-
-					<description><![CDATA[<p>The company will use the investment to accelerate product development and grow go-to-market efforts.</p>
-<p>The post <a href="https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/">Cloudsmith Raises $72 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Cybersecurity Firm&#8217;s AI Hacking Claims Draw Comparisons to Claude Mythos</title>
-		<link>https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Apr 2026 12:36:45 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[Qihoo 360]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46195</guid>
-
-					<description><![CDATA[<p>360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/">Chinese Cybersecurity Firm&#8217;s AI Hacking Claims Draw Comparisons to Claude Mythos</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rilian Raises $17.5 Million for AI-Native Security Orchestration</title>
-		<link>https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 23 Apr 2026 11:45:30 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Rilian]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46194</guid>
-
-					<description><![CDATA[<p>The company will hire new talent and expand operations across the US and other allied countries.</p>
-<p>The post <a href="https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/">Rilian Raises $17.5 Million for AI-Native Security Orchestration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
