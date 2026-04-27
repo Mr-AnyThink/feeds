@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 25 Apr 2026 17:37:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Apr 2026 13:09:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,170 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Incomplete Windows Patch Opens Door to Zero-Click Attacks</title>
+		<link>https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 13:09:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[APT28]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46225</guid>
+
+					<description><![CDATA[<p>The initial vulnerability was exploited by Russia-linked APT28 in attacks against Ukraine and EU countries.</p>
+<p>The post <a href="https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/">Incomplete Windows Patch Opens Door to Zero-Click Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years</title>
+		<link>https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 12:29:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[OpenSSH]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46224</guid>
+
+					<description><![CDATA[<p>A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.</p>
+<p>The post <a href="https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/">OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google</title>
+		<link>https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 12:08:19 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46221</guid>
+
+					<description><![CDATA[<p>The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/">Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Energy and Water Management Firm Itron Hacked</title>
+		<link>https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 11:18:59 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[Itron]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46219</guid>
+
+					<description><![CDATA[<p>Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.</p>
+<p>The post <a href="https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/">Energy and Water Management Firm Itron Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware</title>
+		<link>https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 10:44:55 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[email bombing]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Snow]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<category><![CDATA[UNC6692]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46218</guid>
+
+					<description><![CDATA[<p>The threat actor infected victims with the Snow malware family – Snowbelt, Snowglaze, and Snowbasin – for persistent access.</p>
+<p>The post <a href="https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/">UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access</title>
+		<link>https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 10:10:14 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Pack2TheRoot]]></category>
+		<category><![CDATA[privilege escalation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46217</guid>
+
+					<description><![CDATA[<p>A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.</p>
+<p>The post <a href="https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/">Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator</title>
+		<link>https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 09:39:33 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[cambodia]]></category>
+		<category><![CDATA[scam]]></category>
+		<category><![CDATA[scam centers]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46216</guid>
+
+					<description><![CDATA[<p>US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”.</p>
+<p>The post <a href="https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/">US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Firefox Vulnerability Allows Tor User Fingerprinting</title>
+		<link>https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2026 08:39:28 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[fingerprinting]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[tracking]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46215</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.</p>
+<p>The post <a href="https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/">Firefox Vulnerability Allows Tor User Fingerprinting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks</title>
 		<link>https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/</link>
 		
@@ -54,6 +218,7 @@
 		<pubDate>Fri, 24 Apr 2026 14:57:18 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Fast16]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Iran]]></category>
 		<category><![CDATA[malware]]></category>
 		<category><![CDATA[nuclear]]></category>
@@ -62,163 +227,6 @@
 
 					<description><![CDATA[<p>It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism.</p>
 <p>The post <a href="https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/">Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device</title>
-		<link>https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 14:31:51 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46211</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/">In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents</title>
-		<link>https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 12:34:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[identity]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46202</guid>
-
-					<description><![CDATA[<p>From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. </p>
-<p>The post <a href="https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/">Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World&#8217;s Biggest Exercise</title>
-		<link>https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 12:32:08 +0000</pubDate>
-				<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[cyber exercise]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Locked Shields]]></category>
-		<category><![CDATA[NATO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46206</guid>
-
-					<description><![CDATA[<p>Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition.</p>
-<p>The post <a href="https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/">Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World&#8217;s Biggest Exercise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Federal Agency&#8217;s Cisco Firewall Infected With &#8216;Firestarter&#8217; Backdoor</title>
-		<link>https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 11:26:09 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Firestarter]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46203</guid>
-
-					<description><![CDATA[<p>The malware provides remote access and control of infected devices and maintains post-patching persistence.</p>
-<p>The post <a href="https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/">US Federal Agency&#8217;s Cisco Firewall Infected With &#8216;Firestarter&#8217; Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Administration Vows Crackdown on Chinese Companies &#8216;Exploiting&#8217; AI Models Made in US</title>
-		<link>https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 11:13:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[China]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46201</guid>
-
-					<description><![CDATA[<p>The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models.</p>
-<p>The post <a href="https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/">Trump Administration Vows Crackdown on Chinese Companies &#8216;Exploiting&#8217; AI Models Made in US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerabilities Patched in CrowdStrike, Tenable Products</title>
-		<link>https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 09:49:27 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[Tenable]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46200</guid>
-
-					<description><![CDATA[<p>CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/">Vulnerabilities Patched in CrowdStrike, Tenable Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bitwarden NPM Package Hit in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 08:07:02 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Bitwarden]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46199</guid>
-
-					<description><![CDATA[<p>Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm.</p>
-<p>The post <a href="https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/">Bitwarden NPM Package Hit in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Copperhelm Raises $7 Million for Agentic Cloud Security Platform</title>
-		<link>https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Apr 2026 07:31:09 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Copperhelm]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46198</guid>
-
-					<description><![CDATA[<p>The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity.</p>
-<p>The post <a href="https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/">Copperhelm Raises $7 Million for Agentic Cloud Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
