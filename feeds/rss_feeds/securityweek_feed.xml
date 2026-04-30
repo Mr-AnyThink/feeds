@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 29 Apr 2026 13:04:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Apr 2026 13:17:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,108 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 12:34:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini CLI]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46274</guid>
+
+					<description><![CDATA[<p>An attacker could have planted a malicious configuration to execute commands outside the sandbox.</p>
+<p>The post <a href="https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/">Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>EnOcean SmartServer Flaws Expose Buildings to Remote Hacking</title>
+		<link>https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 11:57:31 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[building]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46273</guid>
+
+					<description><![CDATA[<p>Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/">EnOcean SmartServer Flaws Expose Buildings to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months</title>
+		<link>https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 11:10:30 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[cPanel]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46272</guid>
+
+					<description><![CDATA[<p>The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers.</p>
+<p>The post <a href="https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/">Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</title>
+		<link>https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 10:06:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Copy Fail]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linux vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46271</guid>
+
+					<description><![CDATA[<p>Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions.</p>
+<p>The post <a href="https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/">&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sandhills Medical Says Ransomware Breach Affects 170,000</title>
+		<link>https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 08:35:59 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46269</guid>
+
+					<description><![CDATA[<p>It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom.</p>
+<p>The post <a href="https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/">Sandhills Medical Says Ransomware Breach Affects 170,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure</title>
 		<link>https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/</link>
 		
@@ -95,6 +197,7 @@
 				<category><![CDATA[Cyberwarfare]]></category>
 		<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[Bahrain]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Handala]]></category>
 		<category><![CDATA[influence]]></category>
 		<category><![CDATA[Iran]]></category>
@@ -123,102 +226,6 @@
 
 					<description><![CDATA[<p>Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information.</p>
 <p>The post <a href="https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/">38 Vulnerabilities Found in OpenEMR Medical Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 147, Firefox 150 Security Updates Rolling Out</title>
-		<link>https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 29 Apr 2026 09:24:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46256</guid>
-
-					<description><![CDATA[<p>The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/">Chrome 147, Firefox 150 Security Updates Rolling Out</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical GitHub Vulnerability Exposed Millions of Repositories</title>
-		<link>https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 29 Apr 2026 06:27:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46255</guid>
-
-					<description><![CDATA[<p>The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.</p>
-<p>The post <a href="https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/">Critical GitHub Vulnerability Exposed Millions of Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Insurance Data Gives CISOs New Ammo for Budget Talks</title>
-		<link>https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 28 Apr 2026 18:32:11 +0000</pubDate>
-				<category><![CDATA[Cyber Insurance]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46253</guid>
-
-					<description><![CDATA[<p>Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/">Cyber Insurance Data Gives CISOs New Ammo for Budget Talks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vimeo Confirms User and Customer Data Breach</title>
-		<link>https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 28 Apr 2026 17:11:55 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Anodot]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[Vimeo]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46249</guid>
-
-					<description><![CDATA[<p>The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom.</p>
-<p>The post <a href="https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/">Vimeo Confirms User and Customer Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Mythos Moment: Enterprises Must Fight Agents with Agents</title>
-		<link>https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Tue, 28 Apr 2026 15:45:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46248</guid>
-
-					<description><![CDATA[<p>Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era.</p>
-<p>The post <a href="https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/">The Mythos Moment: Enterprises Must Fight Agents with Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
