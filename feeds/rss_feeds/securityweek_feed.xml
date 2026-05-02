@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 01 May 2026 11:37:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 May 2026 17:25:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,65 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Bluekit Phishing Kit Features AI Assistant</title>
+		<link>https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 02 May 2026 10:50:00 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Bluekit]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[phishing kit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46306</guid>
+
+					<description><![CDATA[<p>Still under development, Bluekit provides users with automated domain registration and an AI Assistant.</p>
+<p>The post <a href="https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/">New Bluekit Phishing Kit Features AI Assistant</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability </title>
+		<link>https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 01 May 2026 15:01:27 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46305</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/">In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</title>
+		<link>https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 01 May 2026 14:26:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46296</guid>
+
+					<description><![CDATA[<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>
+<p>The post <a href="https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</title>
 		<link>https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/</link>
 		
@@ -77,6 +136,7 @@
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI model]]></category>
 		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Model Provenance Kit]]></category>
 		<category><![CDATA[open source]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46291</guid>
@@ -170,65 +230,6 @@
 
 					<description><![CDATA[<p>With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace.</p>
 <p>The post <a href="https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/">Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours</title>
-		<link>https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 30 Apr 2026 18:54:15 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46280</guid>
-
-					<description><![CDATA[<p>Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation.</p>
-<p>The post <a href="https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/">AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Urges Immediate Patching of Firewall Vulnerabilities</title>
-		<link>https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Apr 2026 14:52:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46278</guid>
-
-					<description><![CDATA[<p>The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/">SonicWall Urges Immediate Patching of Firewall Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP NPM Packages Targeted in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 30 Apr 2026 14:27:36 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46275</guid>
-
-					<description><![CDATA[<p>The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring.</p>
-<p>The post <a href="https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/">SAP NPM Packages Targeted in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
