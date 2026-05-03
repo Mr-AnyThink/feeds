@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 01 May 2026 17:25:53 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 May 2026 18:08:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -75,6 +75,7 @@
 		<category><![CDATA[Android]]></category>
 		<category><![CDATA[bug bounty]]></category>
 		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46296</guid>
