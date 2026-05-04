@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 02 May 2026 18:08:05 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 May 2026 13:04:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,147 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 13:02:28 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Mergers]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46320</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/">Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DigiCert Revokes Certificates After Support Portal Hack</title>
+		<link>https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 12:46:53 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[DigiCert]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46318</guid>
+
+					<description><![CDATA[<p>Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal.</p>
+<p>The post <a href="https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/">DigiCert Revokes Certificates After Support Portal Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins</title>
+		<link>https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 10:42:33 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Copy Fail]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linux vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46317</guid>
+
+					<description><![CDATA[<p>CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/">Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Rolls Out Advanced Security for ChatGPT Accounts</title>
+		<link>https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 09:29:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[account security]]></category>
+		<category><![CDATA[Advanced Account Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46316</guid>
+
+					<description><![CDATA[<p>Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion.</p>
+<p>The post <a href="https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/">OpenAI Rolls Out Advanced Security for ChatGPT Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 40,000 Servers Compromised in Ongoing cPanel Exploitation</title>
+		<link>https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 08:25:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[cPanel]]></category>
+		<category><![CDATA[exploited]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46312</guid>
+
+					<description><![CDATA[<p>The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access.</p>
+<p>The post <a href="https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/">Over 40,000 Servers Compromised in Ongoing cPanel Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</title>
+		<link>https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 04 May 2026 07:02:51 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Instructure]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46309</guid>
+
+					<description><![CDATA[<p>Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages.</p>
+<p>The post <a href="https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/">Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems</title>
+		<link>https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sun, 03 May 2026 16:21:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Government]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46308</guid>
+
+					<description><![CDATA[<p>Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said.</p>
+<p>The post <a href="https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/">US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>New Bluekit Phishing Kit Features AI Assistant</title>
 		<link>https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/</link>
 		
@@ -82,155 +223,6 @@
 
 					<description><![CDATA[<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>
 <p>The post <a href="https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</title>
-		<link>https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 11:37:03 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[blackcat]]></category>
-		<category><![CDATA[prison]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46295</guid>
-
-					<description><![CDATA[<p>Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. </p>
-<p>The post <a href="https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/">Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sophisticated Deep#Door Backdoor Enables Espionage, Disruption</title>
-		<link>https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 11:08:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[Deep#Door]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[epsionage]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46293</guid>
-
-					<description><![CDATA[<p>The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage.</p>
-<p>The post <a href="https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/">Sophisticated Deep#Door Backdoor Enables Espionage, Disruption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Releases Open Source Tool for AI Model Provenance </title>
-		<link>https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 10:18:39 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI model]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Model Provenance Kit]]></category>
-		<category><![CDATA[open source]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46291</guid>
-
-					<description><![CDATA[<p>The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/">Cisco Releases Open Source Tool for AI Model Provenance </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face, ClawHub Abused for Malware Distribution</title>
-		<link>https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 08:41:57 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ClawHub]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46290</guid>
-
-					<description><![CDATA[<p>Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions.</p>
-<p>The post <a href="https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/">Hugging Face, ClawHub Abused for Malware Distribution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FBI Warns of Surge in Hacker-Enabled Cargo Theft</title>
-		<link>https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 08:11:20 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[cargo theft]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46288</guid>
-
-					<description><![CDATA[<p>A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale.</p>
-<p>The post <a href="https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/">FBI Warns of Surge in Hacker-Enabled Cargo Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</title>
-		<link>https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 01 May 2026 07:33:40 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Intercomp]]></category>
-		<category><![CDATA[Lightning]]></category>
-		<category><![CDATA[Mini Shai-Hulud]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46286</guid>
-
-					<description><![CDATA[<p>The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million.</p>
-<p>The post <a href="https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/">1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</title>
-		<link>https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 30 Apr 2026 18:57:55 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46282</guid>
-
-					<description><![CDATA[<p>With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/">Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
