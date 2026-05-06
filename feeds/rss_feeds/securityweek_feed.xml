@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 05 May 2026 12:39:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2026 13:20:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Iranian APT Intrusion Masquerades as Chaos Ransomware Attack</title>
+		<link>https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Chaos]]></category>
+		<category><![CDATA[false flag]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[MuddyWater]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46350</guid>
+
+					<description><![CDATA[<p>Likely perpetrated by MuddyWater, the attack combined social engineering, persistence, credential harvesting, and data theft.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/">Iranian APT Intrusion Masquerades as Chaos Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</title>
+		<link>https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 11:57:40 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[vishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46353</guid>
+
+					<description><![CDATA[<p>Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026.</p>
+<p>The post <a href="https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/">Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA: Critical Infrastructure Must Master Isolation, Recovery</title>
+		<link>https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 10:15:34 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[CI Fortify]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[isolation]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[recovery]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46348</guid>
+
+					<description><![CDATA[<p>The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/">CISA: Critical Infrastructure Must Master Isolation, Recovery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sophisticated Quasar Linux RAT Targets Software Developers</title>
+		<link>https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 09:48:39 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Linux malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[QLNX]]></category>
+		<category><![CDATA[Quasar Linux]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46345</guid>
+
+					<description><![CDATA[<p>The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/">Sophisticated Quasar Linux RAT Targets Software Developers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</title>
+		<link>https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 08:33:40 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Daemon Tools]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46344</guid>
+
+					<description><![CDATA[<p>While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems.</p>
+<p>The post <a href="https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/">Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Debuts Monthly Critical Security Patch Updates</title>
+		<link>https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 06:32:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CSPU]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46343</guid>
+
+					<description><![CDATA[<p>Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/">Oracle Debuts Monthly Critical Security Patch Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</title>
+		<link>https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 04:46:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46341</guid>
+
+					<description><![CDATA[<p>CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/">Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</title>
+		<link>https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 14:45:04 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[AitM]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46339</guid>
+
+					<description><![CDATA[<p>The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/">Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Joey Melo on Hacking AI</title>
+		<link>https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46336</guid>
+
+					<description><![CDATA[<p>AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/">Hacker Conversations: Joey Melo on Hacking AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft</title>
 		<link>https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/</link>
 		
@@ -37,195 +221,13 @@
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Bleeding Llama]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Ollama]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46335</guid>
 
 					<description><![CDATA[<p>Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication.</p>
 <p>The post <a href="https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/">Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Remote Code Execution Vulnerability Patched in Android</title>
-		<link>https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 11:58:44 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46334</guid>
-
-					<description><![CDATA[<p>CVE-2026-0073 affects Android’s System component and it can be exploited without any user interaction. </p>
-<p>The post <a href="https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/">Critical Remote Code Execution Vulnerability Patched in Android</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server</title>
-		<link>https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 11:19:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache]]></category>
-		<category><![CDATA[HTTP Server]]></category>
-		<category><![CDATA[MINA]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46333</guid>
-
-					<description><![CDATA[<p>The most severe of these security defects could allow remote attackers to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/">Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Karakurt Ransomware Negotiator Sentenced to Prison</title>
-		<link>https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 10:55:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Karakurt]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46332</guid>
-
-					<description><![CDATA[<p>Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies.</p>
-<p>The post <a href="https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/">Karakurt Ransomware Negotiator Sentenced to Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs</title>
-		<link>https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 09:27:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[MetInfo]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Weaver E-cology]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46331</guid>
-
-					<description><![CDATA[<p>The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests.</p>
-<p>The post <a href="https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/">MetInfo, Weaver E-cology Vulnerabilities in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities</title>
-		<link>https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 09:01:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[spoofing]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46330</guid>
-
-					<description><![CDATA[<p>The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year.</p>
-<p>The post <a href="https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/">WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</title>
-		<link>https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Mon, 04 May 2026 19:00:26 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46325</guid>
-
-					<description><![CDATA[<p>The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/">Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trellix Source Code Repository Breached</title>
-		<link>https://www.securityweek.com/trellix-source-code-repository-breached/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 04 May 2026 17:23:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[security company hacked]]></category>
-		<category><![CDATA[source code]]></category>
-		<category><![CDATA[Trellix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46322</guid>
-
-					<description><![CDATA[<p>The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. </p>
-<p>The post <a href="https://www.securityweek.com/trellix-source-code-repository-breached/">Trellix Source Code Repository Breached</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 04 May 2026 13:02:28 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Mergers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46320</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/">Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DigiCert Revokes Certificates After Support Portal Hack</title>
-		<link>https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 04 May 2026 12:46:53 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[certificates]]></category>
-		<category><![CDATA[DigiCert]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46318</guid>
-
-					<description><![CDATA[<p>Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal.</p>
-<p>The post <a href="https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/">DigiCert Revokes Certificates After Support Portal Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
