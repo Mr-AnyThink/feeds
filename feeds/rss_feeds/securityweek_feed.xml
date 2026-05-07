@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 06 May 2026 13:20:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 May 2026 13:21:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Vendor Says Daemon Tools Supply Chain Attack Contained</title>
+		<link>https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 13:21:02 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Daemon Tools]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46369</guid>
+
+					<description><![CDATA[<p>The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages.</p>
+<p>The post <a href="https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/">Vendor Says Daemon Tools Supply Chain Attack Contained</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Coding Agents Could Fuel Next Supply Chain Crisis</title>
+		<link>https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46366</guid>
+
+					<description><![CDATA[<p>“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises.</p>
+<p>The post <a href="https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/">AI Coding Agents Could Fuel Next Supply Chain Crisis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Securing Identity Across Humans, Machines and AI</title>
+		<link>https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46359</guid>
+
+					<description><![CDATA[<p>From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/">Webinar Today: Securing Identity Across Humans, Machines and AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches High-Severity Vulnerabilities in Enterprise Products</title>
+		<link>https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 11:24:01 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46368</guid>
+
+					<description><![CDATA[<p>Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/">Cisco Patches High-Severity Vulnerabilities in Enterprise Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</title>
+		<link>https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 10:39:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini CLI]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46365</guid>
+
+					<description><![CDATA[<p>Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue.</p>
+<p>The post <a href="https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/">Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion</title>
+		<link>https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 07:35:25 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Dragos]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Mexico]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46364</guid>
+
+					<description><![CDATA[<p>Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico.</p>
+<p>The post <a href="https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/">Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Autonomous Offensive Security Firm XBOW Raises $35 Million</title>
+		<link>https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 14:49:33 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[XBOW]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46355</guid>
+
+					<description><![CDATA[<p>The company raised another $35 million as an extension to its previously announced Series C funding round.</p>
+<p>The post <a href="https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/">Autonomous Offensive Security Firm XBOW Raises $35 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Herd Security Raises $3 Million for AI-Powered Training Platform</title>
+		<link>https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Herd Security]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46352</guid>
+
+					<description><![CDATA[<p>The startup will invest in expanding its training categories, optimizing video generation, and growing its partnership ecosystem.</p>
+<p>The post <a href="https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/">Herd Security Raises $3 Million for AI-Powered Training Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Iranian APT Intrusion Masquerades as Chaos Ransomware Attack</title>
 		<link>https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/</link>
 		
@@ -62,172 +223,6 @@
 
 					<description><![CDATA[<p>Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026.</p>
 <p>The post <a href="https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/">Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA: Critical Infrastructure Must Master Isolation, Recovery</title>
-		<link>https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 10:15:34 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[CI Fortify]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[isolation]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[recovery]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46348</guid>
-
-					<description><![CDATA[<p>The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/">CISA: Critical Infrastructure Must Master Isolation, Recovery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sophisticated Quasar Linux RAT Targets Software Developers</title>
-		<link>https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 09:48:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Linux malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[QLNX]]></category>
-		<category><![CDATA[Quasar Linux]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46345</guid>
-
-					<description><![CDATA[<p>The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities.</p>
-<p>The post <a href="https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/">Sophisticated Quasar Linux RAT Targets Software Developers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</title>
-		<link>https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 08:33:40 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Daemon Tools]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46344</guid>
-
-					<description><![CDATA[<p>While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems.</p>
-<p>The post <a href="https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/">Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Debuts Monthly Critical Security Patch Updates</title>
-		<link>https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 06:32:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CSPU]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46343</guid>
-
-					<description><![CDATA[<p>Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/">Oracle Debuts Monthly Critical Security Patch Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</title>
-		<link>https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 04:46:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46341</guid>
-
-					<description><![CDATA[<p>CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/">Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</title>
-		<link>https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 14:45:04 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[AitM]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46339</guid>
-
-					<description><![CDATA[<p>The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/">Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: Joey Melo on Hacking AI</title>
-		<link>https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 13:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Hacker Conversations]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46336</guid>
-
-					<description><![CDATA[<p>AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/">Hacker Conversations: Joey Melo on Hacking AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft</title>
-		<link>https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 12:39:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Bleeding Llama]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ollama]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46335</guid>
-
-					<description><![CDATA[<p>Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/">Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
