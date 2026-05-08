@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 07 May 2026 13:21:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 May 2026 11:46:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,204 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Vendor Says Daemon Tools Supply Chain Attack Contained</title>
-		<link>https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 13:21:02 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Daemon Tools]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46369</guid>
-
-					<description><![CDATA[<p>The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages.</p>
-<p>The post <a href="https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/">Vendor Says Daemon Tools Supply Chain Attack Contained</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Coding Agents Could Fuel Next Supply Chain Crisis</title>
-		<link>https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Claude Code]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46366</guid>
-
-					<description><![CDATA[<p>“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises.</p>
-<p>The post <a href="https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/">AI Coding Agents Could Fuel Next Supply Chain Crisis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Securing Identity Across Humans, Machines and AI</title>
-		<link>https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46359</guid>
-
-					<description><![CDATA[<p>From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/">Webinar Today: Securing Identity Across Humans, Machines and AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches High-Severity Vulnerabilities in Enterprise Products</title>
-		<link>https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 11:24:01 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46368</guid>
-
-					<description><![CDATA[<p>Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/">Cisco Patches High-Severity Vulnerabilities in Enterprise Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</title>
-		<link>https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 10:39:34 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[Gemini CLI]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46365</guid>
-
-					<description><![CDATA[<p>Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue.</p>
-<p>The post <a href="https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/">Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion</title>
-		<link>https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/</link>
+		<title>Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants</title>
+		<link>https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 07:35:25 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Dragos]]></category>
-		<category><![CDATA[Featured]]></category>
+		<pubDate>Fri, 08 May 2026 11:46:06 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Mexico]]></category>
 		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Poland]]></category>
 		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46364</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46393</guid>
 
-					<description><![CDATA[<p>Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico.</p>
-<p>The post <a href="https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/">Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply.</p>
+<p>The post <a href="https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/">Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Autonomous Offensive Security Firm XBOW Raises $35 Million</title>
-		<link>https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 14:49:33 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[XBOW]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46355</guid>
-
-					<description><![CDATA[<p>The company raised another $35 million as an extension to its previously announced Series C funding round.</p>
-<p>The post <a href="https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/">Autonomous Offensive Security Firm XBOW Raises $35 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Herd Security Raises $3 Million for AI-Powered Training Platform</title>
-		<link>https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/</link>
+		<title>AI Firm Braintrust Prompts API Key Rotation After Data Breach</title>
+		<link>https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 13:30:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Herd Security]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46352</guid>
+		<pubDate>Fri, 08 May 2026 11:14:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Braintrust]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46392</guid>
 
-					<description><![CDATA[<p>The startup will invest in expanding its training categories, optimizing video generation, and growing its partnership ecosystem.</p>
-<p>The post <a href="https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/">Herd Security Raises $3 Million for AI-Powered Training Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust.</p>
+<p>The post <a href="https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/">AI Firm Braintrust Prompts API Key Rotation After Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Iranian APT Intrusion Masquerades as Chaos Ransomware Attack</title>
-		<link>https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/</link>
+		<title>Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom</title>
+		<link>https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 08 May 2026 10:43:57 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Canvas]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46390</guid>
+
+					<description><![CDATA[<p>A system that thousands of schools and universities use went offline due to a cyberattack, creating chaos as students tried to study for finals.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/">Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials</title>
+		<link>https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Chaos]]></category>
-		<category><![CDATA[false flag]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[MuddyWater]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46350</guid>
+		<pubDate>Fri, 08 May 2026 08:32:34 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PCPJack]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<category><![CDATA[worm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46389</guid>
 
-					<description><![CDATA[<p>Likely perpetrated by MuddyWater, the attack combined social engineering, persistence, credential harvesting, and data theft.</p>
-<p>The post <a href="https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/">Iranian APT Intrusion Masquerades as Chaos Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more.</p>
+<p>The post <a href="https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/">&#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</title>
-		<link>https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/</link>
+		<title>Ransomware Group Takes Credit for Trellix Hack</title>
+		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 06 May 2026 11:57:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[vishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46353</guid>
+		<pubDate>Fri, 08 May 2026 07:58:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[RansomHouse]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[source code]]></category>
+		<category><![CDATA[Trellix]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46386</guid>
 
-					<description><![CDATA[<p>Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026.</p>
-<p>The post <a href="https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/">Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>RansomHouse has published several screenshots to demonstrate access to internal Trellix services.</p>
+<p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/">Ransomware Group Takes Credit for Trellix Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</title>
+		<link>https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 08 May 2026 06:53:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46383</guid>
+
+					<description><![CDATA[<p>Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/">Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</title>
+		<link>https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 08 May 2026 05:41:30 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[EPMM]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46382</guid>
+
+					<description><![CDATA[<p>CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/">Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders</title>
+		<link>https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 19:10:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46380</guid>
+
+					<description><![CDATA[<p>Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.”</p>
+<p>The post <a href="https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/">Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking</title>
+		<link>https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 15:31:12 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46379</guid>
+
+					<description><![CDATA[<p>The cybersecurity firm has not explicitly accused China of being behind the attack, but the evidence suggests it was. </p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/">Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Boost Security Raises $4 Million for SDLC Defense Platform</title>
+		<link>https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 07 May 2026 14:51:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Boost Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[SDLC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46377</guid>
+
+					<description><![CDATA[<p>The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit.ai.</p>
+<p>The post <a href="https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/">Boost Security Raises $4 Million for SDLC Defense Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
