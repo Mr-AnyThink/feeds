@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 08 May 2026 13:52:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 May 2026 14:06:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner</title>
-		<link>https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/</link>
+		<title>Build Application Firewalls Aim to Stop the Next Supply Chain Attack</title>
+		<link>https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46399</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 14:06:01 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46412</guid>
 
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/">In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline.</p>
+<p>The post <a href="https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/">Build Application Firewalls Aim to Stop the Next Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants</title>
-		<link>https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/</link>
+		<title>Google Detects First AI-Generated Zero-Day Exploit</title>
+		<link>https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 11:46:06 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Poland]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46393</guid>
-
-					<description><![CDATA[<p>The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply.</p>
-<p>The post <a href="https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/">Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Firm Braintrust Prompts API Key Rotation After Data Breach</title>
-		<link>https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 11:14:01 +0000</pubDate>
+		<pubDate>Mon, 11 May 2026 13:04:21 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Braintrust]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46392</guid>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[google]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46410</guid>
 
-					<description><![CDATA[<p>Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust.</p>
-<p>The post <a href="https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/">AI Firm Braintrust Prompts API Key Rotation After Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group.</p>
+<p>The post <a href="https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/">Google Detects First AI-Generated Zero-Day Exploit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom</title>
-		<link>https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 10:43:57 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Canvas]]></category>
-		<category><![CDATA[education]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46390</guid>
-
-					<description><![CDATA[<p>A system that thousands of schools and universities use went offline due to a cyberattack, creating chaos as students tried to study for finals.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/">Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials</title>
-		<link>https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/</link>
+		<title>Skoda Data Breach Hits Online Shop Customers</title>
+		<link>https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 08:32:34 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[PCPJack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<category><![CDATA[worm]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46389</guid>
-
-					<description><![CDATA[<p>The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more.</p>
-<p>The post <a href="https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/">&#8216;PCPJack&#8217; Worm Removes TeamPCP Infections, Steals Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Group Takes Credit for Trellix Hack</title>
-		<link>https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 07:58:04 +0000</pubDate>
+		<pubDate>Mon, 11 May 2026 11:54:27 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[RansomHouse]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[source code]]></category>
-		<category><![CDATA[Trellix]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46386</guid>
+		<category><![CDATA[Skoda]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46409</guid>
 
-					<description><![CDATA[<p>RansomHouse has published several screenshots to demonstrate access to internal Trellix services.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/">Ransomware Group Takes Credit for Trellix Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers.</p>
+<p>The post <a href="https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/">Skoda Data Breach Hits Online Shop Customers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</title>
-		<link>https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/</link>
+		<title>Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring</title>
+		<link>https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 11:25:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Cloudflare]]></category>
+		<category><![CDATA[layoff]]></category>
+		<category><![CDATA[layoffs]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46408</guid>
+
+					<description><![CDATA[<p>The company topped revenue and earnings forecasts for the first quarter of 2026, but its shares plunged more than 20%.</p>
+<p>The post <a href="https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/">Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SailPoint Discloses GitHub Repository Hack</title>
+		<link>https://www.securityweek.com/sailpoint-discloses-github-repository-hack/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 06:53:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46383</guid>
-
-					<description><![CDATA[<p>Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/">Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</title>
-		<link>https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 05:41:30 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[EPMM]]></category>
-		<category><![CDATA[exploited]]></category>
+		<pubDate>Mon, 11 May 2026 10:52:23 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46382</guid>
+		<category><![CDATA[repository]]></category>
+		<category><![CDATA[SailPoint]]></category>
+		<category><![CDATA[source code]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46407</guid>
 
-					<description><![CDATA[<p>CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/">Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The incident occurred on April 20 and did not affect customer data in the company’s production and staging environments.</p>
+<p>The post <a href="https://www.securityweek.com/sailpoint-discloses-github-repository-hack/">SailPoint Discloses GitHub Repository Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders</title>
-		<link>https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/</link>
+		<title>Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack</title>
+		<link>https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 09:34:55 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Checkmarx]]></category>
+		<category><![CDATA[Jenkins]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<category><![CDATA[Trivy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46406</guid>
+
+					<description><![CDATA[<p>A malicious version of the plugin was published to the Jenkins Marketplace late last week.</p>
+<p>The post <a href="https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/">Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools</title>
+		<link>https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 19:10:11 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46380</guid>
+		<pubDate>Mon, 11 May 2026 08:35:13 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Canvas]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[Instructure]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46405</guid>
 
-					<description><![CDATA[<p>Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.”</p>
-<p>The post <a href="https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/">Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline.</p>
+<p>The post <a href="https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/">Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking</title>
-		<link>https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/</link>
+		<title>New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks</title>
+		<link>https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 07 May 2026 15:31:12 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
+		<pubDate>Mon, 11 May 2026 08:15:28 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Dirty Frag]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46379</guid>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linux vulnerability]]></category>
+		<category><![CDATA[privilege escalation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46404</guid>
 
-					<description><![CDATA[<p>The cybersecurity firm has not explicitly accused China of being behind the attack, but the evidence suggests it was. </p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/">Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released.</p>
+<p>The post <a href="https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/">New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Resurrected &#8216;Crimenetwork&#8217; Marketplace Taken Down, Administrator Arrested</title>
+		<link>https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 07:25:12 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Crimenetwork]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46403</guid>
+
+					<description><![CDATA[<p>The second iteration of the German-speaking online crime marketplace had over 22,000 users and more than 100 sellers.</p>
+<p>The post <a href="https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/">Resurrected &#8216;Crimenetwork&#8217; Marketplace Taken Down, Administrator Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 500 Organizations Hit in Years-Long Phishing Campaign</title>
+		<link>https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 11 May 2026 03:49:18 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46401</guid>
+
+					<description><![CDATA[<p>Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors.</p>
+<p>The post <a href="https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/">Over 500 Organizations Hit in Years-Long Phishing Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
