@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 14 May 2026 12:59:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 May 2026 12:20:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,168 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 12:06:53 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Exchange]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Microsoft Exchange]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46477</guid>
+
+					<description><![CDATA[<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>American Lending Center Data Breach Affects 123,000 Individuals</title>
+		<link>https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 11:06:55 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ALC]]></category>
+		<category><![CDATA[American Lending Center]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46476</guid>
+
+					<description><![CDATA[<p>The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation.</p>
+<p>The post <a href="https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/">American Lending Center Data Breach Affects 123,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Hit by TanStack Supply Chain Attack</title>
+		<link>https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 10:37:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[certificates]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TanStack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46474</guid>
+
+					<description><![CDATA[<p>Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.</p>
+<p>The post <a href="https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/">OpenAI Hit by TanStack Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</title>
+		<link>https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 09:47:09 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Shai-Hulud]]></category>
+		<category><![CDATA[source code]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<category><![CDATA[worm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46472</guid>
+
+					<description><![CDATA[<p>The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.</p>
+<p>The post <a href="https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/">TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 148 Update Patches Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 07:25:15 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46470</guid>
+
+					<description><![CDATA[<p>The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/">Chrome 148 Update Patches Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</title>
+		<link>https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 06:28:46 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SD-WAN]]></category>
+		<category><![CDATA[UAT-8616]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46469</guid>
+
+					<description><![CDATA[<p>The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/">Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Enhancing Data Center Security Without Sacrificing Performance</title>
+		<link>https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/</link>
+		
+		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
+		<pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[data center]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46465</guid>
+
+					<description><![CDATA[<p>For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game.</p>
+<p>The post <a href="https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/">Enhancing Data Center Security Without Sacrificing Performance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</title>
+		<link>https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 14 May 2026 13:44:46 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46463</guid>
+
+					<description><![CDATA[<p>The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail.</p>
+<p>The post <a href="https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/">New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</title>
 		<link>https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/</link>
 		
@@ -62,170 +224,6 @@
 
 					<description><![CDATA[<p>The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser.</p>
 <p>The post <a href="https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/">Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns</title>
-		<link>https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 12:11:15 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[Salt Typhoon]]></category>
-		<category><![CDATA[Twill Typhoon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46458</guid>
-
-					<description><![CDATA[<p>Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/">Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>G7 Countries Release AI SBOM Guidance</title>
-		<link>https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 11:15:05 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46453</guid>
-
-					<description><![CDATA[<p>The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains. </p>
-<p>The post <a href="https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/">G7 Countries Release AI SBOM Guidance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 Patches Over 50 Vulnerabilities</title>
-		<link>https://www.securityweek.com/f5-patches-over-50-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 10:47:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46452</guid>
-
-					<description><![CDATA[<p>The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX.</p>
-<p>The post <a href="https://www.securityweek.com/f5-patches-over-50-vulnerabilities/">F5 Patches Over 50 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Targeted PraisonAI Vulnerability Hours After Disclosure</title>
-		<link>https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 09:45:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[PraisonAI]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46451</guid>
-
-					<description><![CDATA[<p>The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/">Hackers Targeted PraisonAI Vulnerability Hours After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerability Patched in VMware Fusion</title>
-		<link>https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 08:42:25 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46450</guid>
-
-					<description><![CDATA[<p>The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week.</p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/">High-Severity Vulnerability Patched in VMware Fusion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</title>
-		<link>https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 07:27:42 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BitLocker]]></category>
-		<category><![CDATA[Chaotic Eclipse]]></category>
-		<category><![CDATA[GreenPlasma]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[YellowKey]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46449</guid>
-
-					<description><![CDATA[<p>YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.</p>
-<p>The post <a href="https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/">Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Foxconn Confirms North American Factories Hit by Cyberattack</title>
-		<link>https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 13 May 2026 17:13:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Foxconn]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46445</guid>
-
-					<description><![CDATA[<p>The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents.</p>
-<p>The post <a href="https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/">Foxconn Confirms North American Factories Hit by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code</title>
-		<link>https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 13 May 2026 16:01:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46443</guid>
-
-					<description><![CDATA[<p>Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. </p>
-<p>The post <a href="https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/">Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
