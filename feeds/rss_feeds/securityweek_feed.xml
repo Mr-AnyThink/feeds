@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 15 May 2026 12:20:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 May 2026 12:45:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>PoC Code Published for Critical NGINX Vulnerability</title>
+		<link>https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 16 May 2026 10:02:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nginx]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46479</guid>
+
+					<description><![CDATA[<p>Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source.</p>
+<p>The post <a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/">PoC Code Published for Critical NGINX Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</title>
+		<link>https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 15 May 2026 14:52:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46481</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</title>
 		<link>https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/</link>
 		
@@ -37,6 +77,7 @@
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Exchange]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Microsoft Exchange]]></category>
 		<category><![CDATA[Zero-Day]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46477</guid>
@@ -184,46 +225,6 @@
 
 					<description><![CDATA[<p>The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail.</p>
 <p>The post <a href="https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/">New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</title>
-		<link>https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46460</guid>
-
-					<description><![CDATA[<p>Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent.</p>
-<p>The post <a href="https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/">Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</title>
-		<link>https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 12:55:38 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Akamai]]></category>
-		<category><![CDATA[LayerX]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46462</guid>
-
-					<description><![CDATA[<p>The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser.</p>
-<p>The post <a href="https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/">Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
