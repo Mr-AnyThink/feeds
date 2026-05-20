@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 19 May 2026 12:54:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 May 2026 13:53:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,204 +28,192 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks</title>
-		<link>https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/</link>
+		<title>1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</title>
+		<link>https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[MSHTA]]></category>
-		<category><![CDATA[Windows]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46509</guid>
+		<pubDate>Wed, 20 May 2026 13:34:54 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[1Password]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46547</guid>
 
-					<description><![CDATA[<p>Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains.</p>
-<p>The post <a href="https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/">Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.</p>
+<p>The post <a href="https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/">1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Unpatched ChromaDB Vulnerability Can Lead to Server Takeover</title>
-		<link>https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 12:54:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[ChromaDB]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46516</guid>
-
-					<description><![CDATA[<p>The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/">Unpatched ChromaDB Vulnerability Can Lead to Server Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>B1ack&#8217;s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards</title>
-		<link>https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 11:59:13 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[B1ack Stash]]></category>
-		<category><![CDATA[credit card]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[dark web]]></category>
-		<category><![CDATA[marketplace]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46514</guid>
-
-					<description><![CDATA[<p>The stolen credit card data was released as a free download, allegedly in response to seller misconduct.</p>
-<p>The post <a href="https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/">B1ack&#8217;s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyber Resilience is the New Business Continuity Plan</title>
-		<link>https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 11:30:00 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[Resilience]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46513</guid>
-
-					<description><![CDATA[<p>The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose.</p>
-<p>The post <a href="https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/">Cyber Resilience is the New Business Continuity Plan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>201 Arrested in Crackdown on Cybercrime in Middle East, North Africa</title>
-		<link>https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 10:32:14 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Interpol]]></category>
-		<category><![CDATA[MENA]]></category>
-		<category><![CDATA[Middle East]]></category>
-		<category><![CDATA[North Africa]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46512</guid>
-
-					<description><![CDATA[<p>The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region.</p>
-<p>The post <a href="https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/">201 Arrested in Crackdown on Cybercrime in Middle East, North Africa</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PoC Released for DirtyDecrypt Linux Kernel Vulnerability</title>
-		<link>https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 09:42:56 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DirtyDecrypt]]></category>
-		<category><![CDATA[Linux vulnerability]]></category>
-		<category><![CDATA[privilege escalation]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46507</guid>
-
-					<description><![CDATA[<p>Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root.</p>
-<p>The post <a href="https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/">PoC Released for DirtyDecrypt Linux Kernel Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</title>
-		<link>https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/</link>
+		<title>Anthropic Silently Patches Claude Code Sandbox Bypass</title>
+		<link>https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 06:18:51 +0000</pubDate>
+		<pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[sandbox]]></category>
+		<category><![CDATA[sandbox escape]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46536</guid>
+
+					<description><![CDATA[<p>The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/">Anthropic Silently Patches Claude Code Sandbox Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</title>
+		<link>https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 11:06:49 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Mini Shai-Hulud]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46546</guid>
+
+					<description><![CDATA[<p>A compromised maintainer account was used to publish malicious package versions across the @antv namespace.</p>
+<p>The post <a href="https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/">Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Caught Off Guard: Securing AI After It Hits Production</title>
+		<link>https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46518</guid>
+
+					<description><![CDATA[<p>As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.</p>
+<p>The post <a href="https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/">Caught Off Guard: Securing AI After It Hits Production</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Real-World ICS Security Tales From the Trenches</title>
+		<link>https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 10:15:00 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[cobots]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[industrial robots]]></category>
 		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Universal Robots]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46505</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46519</guid>
 
-					<description><![CDATA[<p>The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. </p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/">Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.</p>
+<p>The post <a href="https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/">Real-World ICS Security Tales From the Trenches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Millions Impacted Across Several US Healthcare Data Breaches</title>
-		<link>https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/</link>
+		<title>Virtual Event Today: Threat Detection &#038; Incident Response Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 18 May 2026 12:58:44 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46501</guid>
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[threat detection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46539</guid>
 
-					<description><![CDATA[<p>Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.</p>
-<p>The post <a href="https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/">Millions Impacted Across Several US Healthcare Data Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/">Virtual Event Today: Threat Detection &amp; Incident Response Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>&#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</title>
-		<link>https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/</link>
+		<title>GitHub Confirms Hack Impacting 3,800 Internal Repositories</title>
+		<link>https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 18 May 2026 12:14:43 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[OpenClaw]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46500</guid>
+		<pubDate>Wed, 20 May 2026 09:28:53 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46541</guid>
 
-					<description><![CDATA[<p>Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors.</p>
-<p>The post <a href="https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/">&#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>
+<p>The post <a href="https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</title>
-		<link>https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/</link>
+		<title>Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</title>
+		<link>https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 00:04:48 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[DBIR]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Verizon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46535</guid>
+
+					<description><![CDATA[<p>Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.</p>
+<p>The post <a href="https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/">Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</title>
+		<link>https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 18 May 2026 11:25:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[7-Eleven]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46498</guid>
+		<pubDate>Tue, 19 May 2026 16:22:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46533</guid>
 
-					<description><![CDATA[<p>The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. </p>
-<p>The post <a href="https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/">7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Drupal says attackers may develop an exploit for the vulnerability within hours or days.</p>
+<p>The post <a href="https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; </title>
+		<link>https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 19 May 2026 16:06:22 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Fox Tempest]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[takedown]]></category>
+		<category><![CDATA[Vanilla Tempest]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46532</guid>
+
+					<description><![CDATA[<p> Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/">Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
