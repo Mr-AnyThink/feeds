@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 20 May 2026 13:53:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 May 2026 12:04:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.4</generator>
+	<generator>https://wordpress.org/?v=7.0</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,192 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</title>
-		<link>https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 13:34:54 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[1Password]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46547</guid>
-
-					<description><![CDATA[<p>1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.</p>
-<p>The post <a href="https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/">1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Silently Patches Claude Code Sandbox Bypass</title>
-		<link>https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude Code]]></category>
-		<category><![CDATA[sandbox]]></category>
-		<category><![CDATA[sandbox escape]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46536</guid>
-
-					<description><![CDATA[<p>The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/">Anthropic Silently Patches Claude Code Sandbox Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</title>
-		<link>https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/</link>
+		<title>Cisco Patches Critical Vulnerability in Secure Workload</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 11:06:49 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Mini Shai-Hulud]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46546</guid>
+		<pubDate>Thu, 21 May 2026 12:04:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46575</guid>
 
-					<description><![CDATA[<p>A compromised maintainer account was used to publish malicious package versions across the @antv namespace.</p>
-<p>The post <a href="https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/">Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/">Cisco Patches Critical Vulnerability in Secure Workload</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Caught Off Guard: Securing AI After It Hits Production</title>
-		<link>https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46518</guid>
-
-					<description><![CDATA[<p>As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.</p>
-<p>The post <a href="https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/">Caught Off Guard: Securing AI After It Hits Production</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Real-World ICS Security Tales From the Trenches</title>
-		<link>https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 10:15:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46519</guid>
-
-					<description><![CDATA[<p>SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.</p>
-<p>The post <a href="https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/">Real-World ICS Security Tales From the Trenches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Threat Detection &#038; Incident Response Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/</link>
+		<title>Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</title>
+		<link>https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[threat detection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46539</guid>
+		<pubDate>Thu, 21 May 2026 11:45:51 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Ocean]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46572</guid>
 
-					<description><![CDATA[<p>Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/">Virtual Event Today: Threat Detection &amp; Incident Response Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company has developed a platform that uses specialized AI agents to inspect every incoming message.</p>
+<p>The post <a href="https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/">Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>GitHub Confirms Hack Impacting 3,800 Internal Repositories</title>
-		<link>https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/</link>
+		<title>Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</title>
+		<link>https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 09:28:53 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[TeamPCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46541</guid>
+		<pubDate>Thu, 21 May 2026 11:17:15 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Apple App Store]]></category>
+		<category><![CDATA[fraud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46569</guid>
 
-					<description><![CDATA[<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>
-<p>The post <a href="https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.</p>
+<p>The post <a href="https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/">Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</title>
-		<link>https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 00:04:48 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[DBIR]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[Verizon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46535</guid>
-
-					<description><![CDATA[<p>Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.</p>
-<p>The post <a href="https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/">Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</title>
-		<link>https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/</link>
+		<title>Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</title>
+		<link>https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 16:22:18 +0000</pubDate>
+		<pubDate>Thu, 21 May 2026 10:58:49 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Drupal]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46533</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46566</guid>
 
-					<description><![CDATA[<p>Drupal says attackers may develop an exploit for the vulnerability within hours or days.</p>
-<p>The post <a href="https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/">Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; </title>
-		<link>https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/</link>
+		<title>Socket Raises $60 Million at $1 Billion Valuation</title>
+		<link>https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 May 2026 10:32:37 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Socket]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46565</guid>
+
+					<description><![CDATA[<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>
+<p>The post <a href="https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</title>
+		<link>https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 21 May 2026 09:52:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Microsoft Defender]]></category>
+		<category><![CDATA[RedSun]]></category>
+		<category><![CDATA[UnDefend]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46563</guid>
+
+					<description><![CDATA[<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</title>
+		<link>https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 16:06:22 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
+		<pubDate>Thu, 21 May 2026 09:37:08 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Chrome]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Fox Tempest]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[takedown]]></category>
-		<category><![CDATA[Vanilla Tempest]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46532</guid>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46560</guid>
 
-					<description><![CDATA[<p> Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/">Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217; </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.</p>
+<p>The post <a href="https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</title>
+		<link>https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 21 May 2026 08:14:53 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Black Kite]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46554</guid>
+
+					<description><![CDATA[<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>
+<p>The post <a href="https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</title>
+		<link>https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 15:45:07 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[PQC]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Bridge]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46551</guid>
+
+					<description><![CDATA[<p>The new Series A funding round brings the total raised by Quantum Bridge to $16 million. </p>
+<p>The post <a href="https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/">Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</title>
+		<link>https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 20 May 2026 15:39:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BitLocker]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[YellowKey]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46550</guid>
+
+					<description><![CDATA[<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
