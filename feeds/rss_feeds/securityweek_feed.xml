@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 21 May 2026 12:04:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 May 2026 14:08:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,108 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</title>
+		<link>https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 14:07:06 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46586</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canadian Man Arrested for Operating Kimwolf Botnet</title>
+		<link>https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 12:11:03 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Kimwolf]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46584</guid>
+
+					<description><![CDATA[<p>Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges.</p>
+<p>The post <a href="https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/">Canadian Man Arrested for Operating Kimwolf Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</title>
+		<link>https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 09:24:22 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[First VPN]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46581</guid>
+
+					<description><![CDATA[<p>The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions.</p>
+<p>The post <a href="https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/">&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TrendAI Patches Apex One Zero-Day Exploited in the Wild</title>
+		<link>https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 08:19:24 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Trend Micro]]></category>
+		<category><![CDATA[TrendAI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46579</guid>
+
+					<description><![CDATA[<p>CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One.</p>
+<p>The post <a href="https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/">TrendAI Patches Apex One Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</title>
+		<link>https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 07:49:38 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Grafana]]></category>
+		<category><![CDATA[Mini Shai-Hulud]]></category>
+		<category><![CDATA[source code]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[TanStack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46577</guid>
+
+					<description><![CDATA[<p>Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated.</p>
+<p>The post <a href="https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/">Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cisco Patches Critical Vulnerability in Secure Workload</title>
 		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</link>
 		
@@ -93,6 +195,7 @@
 		<pubDate>Thu, 21 May 2026 10:58:49 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46566</guid>
 
@@ -118,112 +221,6 @@
 
 					<description><![CDATA[<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>
 <p>The post <a href="https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</title>
-		<link>https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 09:52:05 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Microsoft Defender]]></category>
-		<category><![CDATA[RedSun]]></category>
-		<category><![CDATA[UnDefend]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46563</guid>
-
-					<description><![CDATA[<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</title>
-		<link>https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 09:37:08 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46560</guid>
-
-					<description><![CDATA[<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’.</p>
-<p>The post <a href="https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</title>
-		<link>https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 08:14:53 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Black Kite]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46554</guid>
-
-					<description><![CDATA[<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>
-<p>The post <a href="https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</title>
-		<link>https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 15:45:07 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[PQC]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Quantum Bridge]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46551</guid>
-
-					<description><![CDATA[<p>The new Series A funding round brings the total raised by Quantum Bridge to $16 million. </p>
-<p>The post <a href="https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/">Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</title>
-		<link>https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 20 May 2026 15:39:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BitLocker]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[YellowKey]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46550</guid>
-
-					<description><![CDATA[<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
