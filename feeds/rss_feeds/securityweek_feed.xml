@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 22 May 2026 14:08:36 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 May 2026 11:00:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</title>
+		<link>https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 23 May 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[CDN]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46598</guid>
+
+					<description><![CDATA[<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>
+<p>The post <a href="https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/">‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</title>
+		<link>https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 22 May 2026 17:15:26 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Drupal]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46590</guid>
+
+					<description><![CDATA[<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>
+<p>The post <a href="https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</title>
 		<link>https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/</link>
 		
@@ -182,45 +221,6 @@
 
 					<description><![CDATA[<p>The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.</p>
 <p>The post <a href="https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/">Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</title>
-		<link>https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 10:58:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Drupal]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46566</guid>
-
-					<description><![CDATA[<p>CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/">Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Socket Raises $60 Million at $1 Billion Valuation</title>
-		<link>https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 10:32:37 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Socket]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46565</guid>
-
-					<description><![CDATA[<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>
-<p>The post <a href="https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
