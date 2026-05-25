@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 23 May 2026 11:00:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 May 2026 13:27:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,143 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</title>
+		<link>https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 13:27:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CMS]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Ghost]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46614</guid>
+
+					<description><![CDATA[<p>Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.</p>
+<p>The post <a href="https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/">Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oncology Institute Discloses Data Breach</title>
+		<link>https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 12:17:02 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[The Oncology Institute]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46611</guid>
+
+					<description><![CDATA[<p>The affected third-party vendor has not been named, but one possible candidate is TriZetto.</p>
+<p>The post <a href="https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/">Oncology Institute Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>266,000 Affected by Data Breach at Radiology Associates of Richmond</title>
+		<link>https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 11:17:07 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46609</guid>
+
+					<description><![CDATA[<p>Threat actors stole files containing names and protected health information from the healthcare organization’s systems.</p>
+<p>The post <a href="https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/">266,000 Affected by Data Breach at Radiology Associates of Richmond</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</title>
+		<link>https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 10:58:07 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46607</guid>
+
+					<description><![CDATA[<p>Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase. </p>
+<p>The post <a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Laravel-Lang Packages Poisoned for Malware Delivery</title>
+		<link>https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 10:41:07 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[Laravel-Lang]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46605</guid>
+
+					<description><![CDATA[<p>Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.</p>
+<p>The post <a href="https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/">Laravel-Lang Packages Poisoned for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DocketWise Data Breach Impacts 143,000</title>
+		<link>https://www.securityweek.com/docketwise-data-breach-impacts-143000/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 09:37:27 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DocketWise]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46603</guid>
+
+					<description><![CDATA[<p>Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.</p>
+<p>The post <a href="https://www.securityweek.com/docketwise-data-breach-impacts-143000/">DocketWise Data Breach Impacts 143,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</title>
+		<link>https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 25 May 2026 07:40:55 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[Megalodon]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46601</guid>
+
+					<description><![CDATA[<p>Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.</p>
+<p>The post <a href="https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/">Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</title>
 		<link>https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/</link>
 		
@@ -78,149 +215,6 @@
 
 					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Canadian Man Arrested for Operating Kimwolf Botnet</title>
-		<link>https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 12:11:03 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Kimwolf]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46584</guid>
-
-					<description><![CDATA[<p>Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges.</p>
-<p>The post <a href="https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/">Canadian Man Arrested for Operating Kimwolf Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</title>
-		<link>https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 09:24:22 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[First VPN]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46581</guid>
-
-					<description><![CDATA[<p>The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions.</p>
-<p>The post <a href="https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/">&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TrendAI Patches Apex One Zero-Day Exploited in the Wild</title>
-		<link>https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 08:19:24 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Trend Micro]]></category>
-		<category><![CDATA[TrendAI]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46579</guid>
-
-					<description><![CDATA[<p>CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One.</p>
-<p>The post <a href="https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/">TrendAI Patches Apex One Zero-Day Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</title>
-		<link>https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 07:49:38 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Grafana]]></category>
-		<category><![CDATA[Mini Shai-Hulud]]></category>
-		<category><![CDATA[source code]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[TanStack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46577</guid>
-
-					<description><![CDATA[<p>Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated.</p>
-<p>The post <a href="https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/">Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Critical Vulnerability in Secure Workload</title>
-		<link>https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 12:04:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46575</guid>
-
-					<description><![CDATA[<p>Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/">Cisco Patches Critical Vulnerability in Secure Workload</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</title>
-		<link>https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 11:45:51 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Ocean]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46572</guid>
-
-					<description><![CDATA[<p>The company has developed a platform that uses specialized AI agents to inspect every incoming message.</p>
-<p>The post <a href="https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/">Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</title>
-		<link>https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 21 May 2026 11:17:15 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Apple App Store]]></category>
-		<category><![CDATA[fraud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46569</guid>
-
-					<description><![CDATA[<p>The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.</p>
-<p>The post <a href="https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/">Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
