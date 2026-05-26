@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 25 May 2026 13:27:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 May 2026 14:00:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,186 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</title>
+		<link>https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[investigation]]></category>
+		<category><![CDATA[SaaS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46638</guid>
+
+					<description><![CDATA[<p>Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action.</p>
+<p>The post <a href="https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/">AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iranian APT Targets Aviation, Software Companies With Updated Tools</title>
+		<link>https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 13:26:17 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[APT35]]></category>
+		<category><![CDATA[Charming Kitten]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Nimbus Manticore]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46640</guid>
+
+					<description><![CDATA[<p>Nimbus Manticore has continued its operations during and after the US military campaign against Iran.</p>
+<p>The post <a href="https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/">Iranian APT Targets Aviation, Software Companies With Updated Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>185,000 Likely Impacted by 7-Eleven Data Breach</title>
+		<link>https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 11:59:40 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[7-Eleven]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Shiny Hunter]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46634</guid>
+
+					<description><![CDATA[<p>The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.</p>
+<p>The post <a href="https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/">185,000 Likely Impacted by 7-Eleven Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</title>
+		<link>https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 11:44:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[integrations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46629</guid>
+
+					<description><![CDATA[<p>Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/">Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</title>
+		<link>https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 11:14:31 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[KnowledgeDeliver]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46627</guid>
+
+					<description><![CDATA[<p>Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/">Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch on Demand: Threat Detection &#038; Incident Response Summit &#8211; All Sessions Available</title>
+		<link>https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[threat detection]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46619</guid>
+
+					<description><![CDATA[<p>Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.</p>
+<p>The post <a href="https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/">Watch on Demand: Threat Detection &amp; Incident Response Summit &#8211; All Sessions Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</title>
+		<link>https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 10:45:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Docker]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46624</guid>
+
+					<description><![CDATA[<p>DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.</p>
+<p>The post <a href="https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/">Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</title>
+		<link>https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 10:26:56 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Lithuania]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46622</guid>
+
+					<description><![CDATA[<p>Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.</p>
+<p>The post <a href="https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/">Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</title>
+		<link>https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 26 May 2026 09:47:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Netherlands]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46616</guid>
+
+					<description><![CDATA[<p>The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/">Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</title>
 		<link>https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/</link>
 		
@@ -36,185 +216,13 @@
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CMS]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Ghost]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46614</guid>
 
 					<description><![CDATA[<p>Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.</p>
 <p>The post <a href="https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/">Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oncology Institute Discloses Data Breach</title>
-		<link>https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 12:17:02 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[The Oncology Institute]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46611</guid>
-
-					<description><![CDATA[<p>The affected third-party vendor has not been named, but one possible candidate is TriZetto.</p>
-<p>The post <a href="https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/">Oncology Institute Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>266,000 Affected by Data Breach at Radiology Associates of Richmond</title>
-		<link>https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 11:17:07 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46609</guid>
-
-					<description><![CDATA[<p>Threat actors stole files containing names and protected health information from the healthcare organization’s systems.</p>
-<p>The post <a href="https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/">266,000 Affected by Data Breach at Radiology Associates of Richmond</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</title>
-		<link>https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 10:58:07 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46607</guid>
-
-					<description><![CDATA[<p>Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase. </p>
-<p>The post <a href="https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Laravel-Lang Packages Poisoned for Malware Delivery</title>
-		<link>https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 10:41:07 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Laravel]]></category>
-		<category><![CDATA[Laravel-Lang]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46605</guid>
-
-					<description><![CDATA[<p>Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.</p>
-<p>The post <a href="https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/">Laravel-Lang Packages Poisoned for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DocketWise Data Breach Impacts 143,000</title>
-		<link>https://www.securityweek.com/docketwise-data-breach-impacts-143000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 09:37:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DocketWise]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46603</guid>
-
-					<description><![CDATA[<p>Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.</p>
-<p>The post <a href="https://www.securityweek.com/docketwise-data-breach-impacts-143000/">DocketWise Data Breach Impacts 143,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</title>
-		<link>https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 07:40:55 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[Megalodon]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46601</guid>
-
-					<description><![CDATA[<p>Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.</p>
-<p>The post <a href="https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/">Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</title>
-		<link>https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 23 May 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[CDN]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46598</guid>
-
-					<description><![CDATA[<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>
-<p>The post <a href="https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/">‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</title>
-		<link>https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 17:15:26 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Drupal]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46590</guid>
-
-					<description><![CDATA[<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>
-<p>The post <a href="https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</title>
-		<link>https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 22 May 2026 14:07:06 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46586</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
