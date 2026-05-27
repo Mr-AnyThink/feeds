@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 26 May 2026 14:00:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 May 2026 13:29:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,192 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</title>
-		<link>https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[investigation]]></category>
-		<category><![CDATA[SaaS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46638</guid>
-
-					<description><![CDATA[<p>Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action.</p>
-<p>The post <a href="https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/">AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Iranian APT Targets Aviation, Software Companies With Updated Tools</title>
-		<link>https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 13:26:17 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[APT35]]></category>
-		<category><![CDATA[Charming Kitten]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Nimbus Manticore]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46640</guid>
-
-					<description><![CDATA[<p>Nimbus Manticore has continued its operations during and after the US military campaign against Iran.</p>
-<p>The post <a href="https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/">Iranian APT Targets Aviation, Software Companies With Updated Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>185,000 Likely Impacted by 7-Eleven Data Breach</title>
-		<link>https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 11:59:40 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[7-Eleven]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Shiny Hunter]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46634</guid>
-
-					<description><![CDATA[<p>The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.</p>
-<p>The post <a href="https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/">185,000 Likely Impacted by 7-Eleven Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</title>
-		<link>https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/</link>
+		<title>Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</title>
+		<link>https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 11:44:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[integrations]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46629</guid>
-
-					<description><![CDATA[<p>Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/">Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</title>
-		<link>https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 11:14:31 +0000</pubDate>
+		<pubDate>Wed, 27 May 2026 14:30:00 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[KnowledgeDeliver]]></category>
+		<category><![CDATA[Pretalx]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46627</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46681</guid>
 
-					<description><![CDATA[<p>Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/">Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/">Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Watch on Demand: Threat Detection &#038; Incident Response Summit &#8211; All Sessions Available</title>
-		<link>https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/</link>
+		<title>SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay</title>
+		<link>https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[threat detection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46619</guid>
+		<pubDate>Wed, 27 May 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Conference]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46675</guid>
 
-					<description><![CDATA[<p>Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.</p>
-<p>The post <a href="https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/">Watch on Demand: Threat Detection &amp; Incident Response Summit &#8211; All Sessions Available</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals.</p>
+<p>The post <a href="https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/">SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</title>
-		<link>https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 10:45:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Docker]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46624</guid>
-
-					<description><![CDATA[<p>DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.</p>
-<p>The post <a href="https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/">Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</title>
-		<link>https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 10:26:56 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Lithuania]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46622</guid>
-
-					<description><![CDATA[<p>Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.</p>
-<p>The post <a href="https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/">Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</title>
-		<link>https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/</link>
+		<title>RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries</title>
+		<link>https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 26 May 2026 09:47:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46616</guid>
+		<pubDate>Wed, 27 May 2026 11:52:55 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[RevEng.ai]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46673</guid>
 
-					<description><![CDATA[<p>The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.</p>
-<p>The post <a href="https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/">Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries.</p>
+<p>The post <a href="https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/">RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</title>
-		<link>https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/</link>
+		<title>Romanian Hacker Sentenced to Prison in US for Selling Access to State Network</title>
+		<link>https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 25 May 2026 13:27:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CMS]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Ghost]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46614</guid>
+		<pubDate>Wed, 27 May 2026 11:37:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46671</guid>
 
-					<description><![CDATA[<p>Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.</p>
-<p>The post <a href="https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/">Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network.</p>
+<p>The post <a href="https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/">Romanian Hacker Sentenced to Prison in US for Selling Access to State Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform</title>
+		<link>https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 11:01:13 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Lastwall]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46668</guid>
+
+					<description><![CDATA[<p>The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion.</p>
+<p>The post <a href="https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/">Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Credential Crisis: How Stolen Credentials Defeat Modern Security</title>
+		<link>https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[credentials]]></category>
+		<category><![CDATA[IAM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46650</guid>
+
+					<description><![CDATA[<p>As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.</p>
+<p>The post <a href="https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/">The Credential Crisis: How Stolen Credentials Defeat Modern Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems</title>
+		<link>https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 10:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[MCP]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46666</guid>
+
+					<description><![CDATA[<p>Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code.</p>
+<p>The post <a href="https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/">‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GlassWorm Botnet Disrupted</title>
+		<link>https://www.securityweek.com/glassworm-botnet-disrupted/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 10:10:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[GlassWorm]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46656</guid>
+
+					<description><![CDATA[<p>Security firms took down all four command-and-control (C&#038;C) channels used by the GlassWorm malware.</p>
+<p>The post <a href="https://www.securityweek.com/glassworm-botnet-disrupted/">GlassWorm Botnet Disrupted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers</title>
+		<link>https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 09:33:45 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hacktivists]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[LA Metro]]></category>
+		<category><![CDATA[nation state]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46651</guid>
+
+					<description><![CDATA[<p>The attack was claimed by a hacktivist group, but evidence showed it used infrastructure linked to Iranian government threat actors.</p>
+<p>The post <a href="https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/">LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data</title>
+		<link>https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 27 May 2026 08:33:34 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Silent Ransom Group]]></category>
+		<category><![CDATA[USB]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46648</guid>
+
+					<description><![CDATA[<p>The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/">FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
