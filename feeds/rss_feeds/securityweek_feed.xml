@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 28 May 2026 14:45:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 May 2026 14:34:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,111 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>MokN Raises $15 Million for &#8220;Phish-Back&#8221; Platform</title>
+		<link>https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 14:34:15 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46729</guid>
+
+					<description><![CDATA[<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>
+<p>The post <a href="https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/">MokN Raises $15 Million for &#8220;Phish-Back&#8221; Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gogs Zero-Day Exposes Servers to Remote Code Execution</title>
+		<link>https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 12:59:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46726</guid>
+
+					<description><![CDATA[<p>The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.</p>
+<p>The post <a href="https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/">Gogs Zero-Day Exposes Servers to Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</title>
+		<link>https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 11:12:15 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46724</guid>
+
+					<description><![CDATA[<p>Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.</p>
+<p>The post <a href="https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/">California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 148 Update Patches 151 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 10:17:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46722</guid>
+
+					<description><![CDATA[<p>The browser update resolves critical-severity security defects that could potentially lead to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/">Chrome 148 Update Patches 151 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks</title>
+		<link>https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 18:50:49 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46716</guid>
+
+					<description><![CDATA[<p>Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.</p>
+<p>The post <a href="https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/">Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Geordie Raises $30 Million for AI Security and Governance Platform</title>
+		<link>https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 17:07:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46714</guid>
+
+					<description><![CDATA[<p>The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/">Geordie Raises $30 Million for AI Security and Governance Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Carnival Data Breach Exposed 6 Million People</title>
 		<link>https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/</link>
 		
@@ -98,115 +203,6 @@
 
 					<description><![CDATA[<p>Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.</p>
 <p>The post <a href="https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/">IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</title>
-		<link>https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Code]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46697</guid>
-
-					<description><![CDATA[<p>France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time.</p>
-<p>The post <a href="https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/">New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gitea Vulnerability Exposed 30,000 Deployments to Attacks</title>
-		<link>https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 11:24:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-27771]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46702</guid>
-
-					<description><![CDATA[<p>The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/">Gitea Vulnerability Exposed 30,000 Deployments to Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Raising the Cybersecurity Stakes: Ante up for the Agentic Era</title>
-		<link>https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/</link>
-		
-		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 11:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46700</guid>
-
-					<description><![CDATA[<p>CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale.</p>
-<p>The post <a href="https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/">Raising the Cybersecurity Stakes: Ante up for the Agentic Era</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</title>
-		<link>https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 09:55:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[google]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46692</guid>
-
-					<description><![CDATA[<p>New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.</p>
-<p>The post <a href="https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/">Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia</title>
-		<link>https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 27 May 2026 17:32:14 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46686</guid>
-
-					<description><![CDATA[<p>The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war.</p>
-<p>The post <a href="https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/">UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</title>
-		<link>https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 27 May 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Pretalx]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46681</guid>
-
-					<description><![CDATA[<p>Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx.</p>
-<p>The post <a href="https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/">Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
