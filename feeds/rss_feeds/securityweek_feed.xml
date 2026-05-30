@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 29 May 2026 14:34:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 May 2026 16:20:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>MokN Raises $15 Million for &#8220;Phish-Back&#8221; Platform</title>
+		<title>In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 16:20:49 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46740</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Charter Communications Data Breach Could Impact Nearly 5 Million</title>
+		<link>https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 29 May 2026 14:49:58 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46734</guid>
+
+					<description><![CDATA[<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>
+<p>The post <a href="https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MokN Raises $15 Million for Phish-Back Platform</title>
 		<link>https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -38,7 +75,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=46729</guid>
 
 					<description><![CDATA[<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>
-<p>The post <a href="https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/">MokN Raises $15 Million for &#8220;Phish-Back&#8221; Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -165,44 +202,6 @@
 
 					<description><![CDATA[<p>Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access.</p>
 <p>The post <a href="https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/">New BTMOB Android Malware Enables Full Device Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks</title>
-		<link>https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 12:55:47 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-35616]]></category>
-		<category><![CDATA[FortiClient]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46707</guid>
-
-					<description><![CDATA[<p>Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching.</p>
-<p>The post <a href="https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/">Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</title>
-		<link>https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 28 May 2026 12:41:45 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[IBM]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[red hat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46705</guid>
-
-					<description><![CDATA[<p>Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.</p>
-<p>The post <a href="https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/">IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
