@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 01 Jun 2026 15:02:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Jun 2026 14:39:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,182 +28,203 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</title>
-		<link>https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/</link>
+		<title>Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</title>
+		<link>https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 15:02:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Netlogon]]></category>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46759</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46789</guid>
 
-					<description><![CDATA[<p>Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.</p>
-<p>The post <a href="https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/">Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>
+<p>The post <a href="https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Dragos Acquires xIoT Security Firm Phosphorus</title>
-		<link>https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/</link>
+		<title>Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities</title>
+		<link>https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 12:46:58 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46756</guid>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 14:36:33 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46801</guid>
 
-					<description><![CDATA[<p>Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.</p>
-<p>The post <a href="https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/">Dragos Acquires xIoT Security Firm Phosphorus</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks.</p>
+<p>The post <a href="https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/">Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</title>
-		<link>https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/</link>
+		<title>Anthropic Expanding Mythos Access to 150 New Organizations</title>
+		<link>https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 11:48:59 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 13:58:44 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46752</guid>
-
-					<description><![CDATA[<p>AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage.</p>
-<p>The post <a href="https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/">As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</title>
-		<link>https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 11:19:31 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CIFSwitch]]></category>
+		<category><![CDATA[Anthropic]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46750</guid>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46795</guid>
 
-					<description><![CDATA[<p>Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.</p>
-<p>The post <a href="https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/">19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/">Anthropic Expanding Mythos Access to 150 New Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Recent Palo Alto Networks Vulnerability Exploited for Weeks</title>
-		<link>https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/</link>
+		<title>The Zero-Knowledge Threat Actor and the End of Responsible Disclosure</title>
+		<link>https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/</link>
+		
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46783</guid>
+
+					<description><![CDATA[<p>AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code.</p>
+<p>The post <a href="https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/">The Zero-Knowledge Threat Actor and the End of Responsible Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches</title>
+		<link>https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-0257]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
+		<pubDate>Tue, 02 Jun 2026 12:25:52 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[VoIP]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46748</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46787</guid>
 
-					<description><![CDATA[<p>Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/">Recent Palo Alto Networks Vulnerability Exploited for Weeks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/">Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</title>
-		<link>https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/</link>
+		<title>Oracle WebLogic Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 30 May 2026 16:00:49 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46746</guid>
-
-					<description><![CDATA[<p>Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/">Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploit Code Published for Critical Flowise RCE Vulnerability</title>
-		<link>https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 30 May 2026 15:55:59 +0000</pubDate>
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 11:39:04 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-40933]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle WebLogic]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46743</guid>
+		<category><![CDATA[WebLogic]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46778</guid>
 
-					<description><![CDATA[<p>The one-click vulnerability allows attackers to execute arbitrary code on self-hosted Flowise servers by tricking users into importing a malicious chatflow.</p>
-<p>The post <a href="https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/">Exploit Code Published for Critical Flowise RCE Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/">Oracle WebLogic Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</title>
-		<link>https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 29 May 2026 16:20:49 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46740</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Charter Communications Data Breach Could Impact Nearly 5 Million</title>
-		<link>https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/</link>
+		<title>Meta AI Hands Over High-Profile Instagram Accounts to Hackers</title>
+		<link>https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 May 2026 14:49:58 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
+		<pubDate>Tue, 02 Jun 2026 10:48:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[account takeover]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46776</guid>
+
+					<description><![CDATA[<p>Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.</p>
+<p>The post <a href="https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/">Meta AI Hands Over High-Profile Instagram Accounts to Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Supply Chain Attack Hits 32 Red Hat NPM Packages</title>
+		<link>https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 09:51:19 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46734</guid>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[red hat]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46774</guid>
 
-					<description><![CDATA[<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>
-<p>The post <a href="https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.</p>
+<p>The post <a href="https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/">Supply Chain Attack Hits 32 Red Hat NPM Packages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>MokN Raises $15 Million for Phish-Back Platform</title>
-		<link>https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/</link>
+		<title>Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads</title>
+		<link>https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 02 Jun 2026 08:07:41 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[2FA]]></category>
+		<category><![CDATA[brute force]]></category>
+		<category><![CDATA[Dashlane]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[password manager]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46772</guid>
+
+					<description><![CDATA[<p>Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts.</p>
+<p>The post <a href="https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/">Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle&#8217;s First Monthly Patches Resolve 77 Vulnerabilities</title>
+		<link>https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 29 May 2026 14:34:15 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46729</guid>
+		<pubDate>Tue, 02 Jun 2026 07:20:14 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle CSPU]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46770</guid>
 
-					<description><![CDATA[<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>
-<p>The post <a href="https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster.</p>
+<p>The post <a href="https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/">Oracle&#8217;s First Monthly Patches Resolve 77 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
