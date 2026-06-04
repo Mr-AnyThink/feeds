@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 03 Jun 2026 13:00:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jun 2026 14:22:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Willow Raises $7 Million for Securing Autonomous AI Agents</title>
+		<link>https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 14:22:43 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Willow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46867</guid>
+
+					<description><![CDATA[<p>Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents.</p>
+<p>The post <a href="https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/">Willow Raises $7 Million for Securing Autonomous AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gemini Voice Assistant Hijacked via Messaging Notifications</title>
+		<link>https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 12:57:37 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI hack]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46864</guid>
+
+					<description><![CDATA[<p>Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls.</p>
+<p>The post <a href="https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/">Gemini Voice Assistant Hijacked via Messaging Notifications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mirasvit Vulnerability Exploited to Execute Code on Magento Servers</title>
+		<link>https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 12:10:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[magento]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46858</guid>
+
+					<description><![CDATA[<p>A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads.</p>
+<p>The post <a href="https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/">Mirasvit Vulnerability Exploited to Execute Code on Magento Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chinese Cybercrime Group in Spotlight for Record Campaign Pace</title>
+		<link>https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 11:29:28 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[TA4922]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46851</guid>
+
+					<description><![CDATA[<p>Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/">Chinese Cybercrime Group in Spotlight for Record Campaign Pace</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</title>
+		<link>https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 10:44:41 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[scam]]></category>
+		<category><![CDATA[scam centers]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46849</guid>
+
+					<description><![CDATA[<p>Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia.</p>
+<p>The post <a href="https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/">Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Warns of Available PoC for Critical Unified CM Vulnerability</title>
+		<link>https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 08:44:08 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46847</guid>
+
+					<description><![CDATA[<p>The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/">Cisco Warns of Available PoC for Critical Unified CM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VS Code Vulnerability Allows One-Click GitHub Token Theft</title>
+		<link>https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 08:14:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[VS Code]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46845</guid>
+
+					<description><![CDATA[<p>A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance.</p>
+<p>The post <a href="https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/">VS Code Vulnerability Allows One-Click GitHub Token Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</title>
+		<link>https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 03 Jun 2026 17:32:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[observability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46843</guid>
+
+					<description><![CDATA[<p>Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability.</p>
+<p>The post <a href="https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/">Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs</title>
 		<link>https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/</link>
 		
@@ -60,162 +221,6 @@
 
 					<description><![CDATA[<p>The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses.</p>
 <p>The post <a href="https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/">Security of 100 AI Agents Tested and Ranked – What You Need to Know</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Target Global Stock Exchange in Espionage Operation</title>
-		<link>https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 12:46:53 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[espionage]]></category>
-		<category><![CDATA[stock exchange]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46838</guid>
-
-					<description><![CDATA[<p>The attackers had access to a senior executive’s email account for 150 days and exfiltrated data for months.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/">Hackers Target Global Stock Exchange in Espionage Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>IMA Diligence Services Data Breach Impacts 525,000 People</title>
-		<link>https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 12:08:25 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[IMA Diligence Services]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46835</guid>
-
-					<description><![CDATA[<p>The affected individuals’ personal information was stolen from a legacy server managed by a third party.</p>
-<p>The post <a href="https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/">IMA Diligence Services Data Breach Impacts 525,000 People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Exploited Linux Kernel Vulnerability</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 11:56:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[container]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46831</guid>
-
-					<description><![CDATA[<p>An improper authentication bug allows attackers to escalate their privileges and escape containers.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/">Organizations Warned of Exploited Linux Kernel Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds</title>
-		<link>https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 10:52:08 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HTTP]]></category>
-		<category><![CDATA[HTTP/2 Bomb]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[web server]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46826</guid>
-
-					<description><![CDATA[<p>The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold.</p>
-<p>The post <a href="https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/">&#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash</title>
-		<link>https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 09:57:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46820</guid>
-
-					<description><![CDATA[<p>Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/">Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</title>
-		<link>https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 02 Jun 2026 20:10:49 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Policy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46811</guid>
-
-					<description><![CDATA[<p>The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release.</p>
-<p>The post <a href="https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/">Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis</title>
-		<link>https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 02 Jun 2026 16:35:38 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46803</guid>
-
-					<description><![CDATA[<p>As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.</p>
-<p>The post <a href="https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/">Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</title>
-		<link>https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46789</guid>
-
-					<description><![CDATA[<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>
-<p>The post <a href="https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
