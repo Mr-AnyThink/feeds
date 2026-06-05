@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 04 Jun 2026 14:22:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jun 2026 13:06:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,177 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</title>
+		<link>https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 13:05:06 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46913</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/">In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Leak DentaQuest Information Impacting 2.6 Million</title>
+		<link>https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 11:33:27 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DentaQuest]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46909</guid>
+
+					<description><![CDATA[<p>The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/">Hackers Leak DentaQuest Information Impacting 2.6 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 149 Patches 429 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 11:13:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46907</guid>
+
+					<description><![CDATA[<p>Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/">Chrome 149 Patches 429 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</title>
+		<link>https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 10:24:56 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Feedback Friday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46892</guid>
+
+					<description><![CDATA[<p>Experts commented on the EO’s voluntary nature, the balance between innovation and security, and potential implementation gaps.</p>
+<p>The post <a href="https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/">Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</title>
+		<link>https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 08:46:44 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[alert]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Five Eyes]]></category>
+		<category><![CDATA[recruitment]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46890</guid>
+
+					<description><![CDATA[<p>Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information.</p>
+<p>The post <a href="https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/">Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</title>
+		<link>https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 07:24:08 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[RCI Hospitality]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46888</guid>
+
+					<description><![CDATA[<p>The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack.</p>
+<p>The post <a href="https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/">Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</title>
+		<link>https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2026 05:47:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SD-WAN]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46884</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/">Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk</title>
+		<link>https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 15:05:45 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[IAM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46879</guid>
+
+					<description><![CDATA[<p>As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape.</p>
+<p>The post <a href="https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/">Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Third-Party Risk in Practice &#8211; Where Programs Break Down and How to Respond</title>
+		<link>https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 14:40:44 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46870</guid>
+
+					<description><![CDATA[<p>Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what’s actually happening in practice. </p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/">Webinar Today: Third-Party Risk in Practice &#8211; Where Programs Break Down and How to Respond</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Willow Raises $7 Million for Securing Autonomous AI Agents</title>
 		<link>https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/</link>
 		
@@ -41,186 +212,6 @@
 
 					<description><![CDATA[<p>Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents.</p>
 <p>The post <a href="https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/">Willow Raises $7 Million for Securing Autonomous AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Gemini Voice Assistant Hijacked via Messaging Notifications</title>
-		<link>https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 12:57:37 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI hack]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46864</guid>
-
-					<description><![CDATA[<p>Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls.</p>
-<p>The post <a href="https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/">Gemini Voice Assistant Hijacked via Messaging Notifications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mirasvit Vulnerability Exploited to Execute Code on Magento Servers</title>
-		<link>https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 12:10:02 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[magento]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46858</guid>
-
-					<description><![CDATA[<p>A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads.</p>
-<p>The post <a href="https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/">Mirasvit Vulnerability Exploited to Execute Code on Magento Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Cybercrime Group in Spotlight for Record Campaign Pace</title>
-		<link>https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 11:29:28 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[TA4922]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46851</guid>
-
-					<description><![CDATA[<p>Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/">Chinese Cybercrime Group in Spotlight for Record Campaign Pace</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</title>
-		<link>https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 10:44:41 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[scam centers]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46849</guid>
-
-					<description><![CDATA[<p>Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia.</p>
-<p>The post <a href="https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/">Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Warns of Available PoC for Critical Unified CM Vulnerability</title>
-		<link>https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 08:44:08 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46847</guid>
-
-					<description><![CDATA[<p>The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/">Cisco Warns of Available PoC for Critical Unified CM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VS Code Vulnerability Allows One-Click GitHub Token Theft</title>
-		<link>https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 04 Jun 2026 08:14:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[VS Code]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46845</guid>
-
-					<description><![CDATA[<p>A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance.</p>
-<p>The post <a href="https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/">VS Code Vulnerability Allows One-Click GitHub Token Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</title>
-		<link>https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 17:32:57 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[observability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46843</guid>
-
-					<description><![CDATA[<p>Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability.</p>
-<p>The post <a href="https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/">Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs</title>
-		<link>https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 13:00:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[plugin vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46841</guid>
-
-					<description><![CDATA[<p>Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites.</p>
-<p>The post <a href="https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/">Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security of 100 AI Agents Tested and Ranked – What You Need to Know</title>
-		<link>https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 03 Jun 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46830</guid>
-
-					<description><![CDATA[<p>The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses.</p>
-<p>The post <a href="https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/">Security of 100 AI Agents Tested and Ranked – What You Need to Know</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
