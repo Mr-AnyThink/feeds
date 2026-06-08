@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 06 Jun 2026 11:18:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 13:23:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,183 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order</title>
+		<link>https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 13:23:03 +0000</pubDate>
+				<category><![CDATA[Privacy & Compliance]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[NSO]]></category>
+		<category><![CDATA[spyware]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46953</guid>
+
+					<description><![CDATA[<p>The Meta-owned communications app is filing a federal court contempt order against NSO.</p>
+<p>The post <a href="https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/">WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 26 Deals Announced in May 2026</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 12:38:45 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46950</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/">Cybersecurity M&#038;A Roundup: 26 Deals Announced in May 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Everest Forms Vulnerability Exploited to Hack WordPress Sites</title>
+		<link>https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 12:16:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46948</guid>
+
+					<description><![CDATA[<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>
+<p>The post <a href="https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>174,000 Impacted by Lansing Community College Data Breach</title>
+		<link>https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 11:27:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[college]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Lansing Community College]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46946</guid>
+
+					<description><![CDATA[<p>Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.</p>
+<p>The post <a href="https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/">174,000 Impacted by Lansing Community College Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silent Ransom Group Uses DNS Fast Flux in Attacks</title>
+		<link>https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 10:31:39 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[fast flux]]></category>
+		<category><![CDATA[Silent Ransom Group]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46942</guid>
+
+					<description><![CDATA[<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/">Silent Ransom Group Uses DNS Fast Flux in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Rolling Out ChatGPT Account Security Controls</title>
+		<link>https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 08:32:49 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46940</guid>
+
+					<description><![CDATA[<p>The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.</p>
+<p>The post <a href="https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/">OpenAI Rolling Out ChatGPT Account Security Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow</title>
+		<link>https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Risk]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46944</guid>
+
+					<description><![CDATA[<p>The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/">Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarWinds Serv-U Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 07:52:28 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46937</guid>
+
+					<description><![CDATA[<p>Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/">SolarWinds Serv-U Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</title>
+		<link>https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 08 Jun 2026 06:41:47 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[account takeover]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Instagra]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=46934</guid>
+
+					<description><![CDATA[<p>The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.</p>
+<p>The post <a href="https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/">Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</title>
 		<link>https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/</link>
 		
@@ -41,178 +218,6 @@
 
 					<description><![CDATA[<p>Emphere’s solution delivers AI-driven remediation to software companies to speed up releases.</p>
 <p>The post <a href="https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Opal Security Raises $23 Million for AI-Native Identity Governance</title>
-		<link>https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 06 Jun 2026 10:15:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[identity]]></category>
-		<category><![CDATA[Opal Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46917</guid>
-
-					<description><![CDATA[<p>Raising $59 million to date, Opal also announced five senior leadership appointments.</p>
-<p>The post <a href="https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/">Opal Security Raises $23 Million for AI-Native Identity Governance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds</title>
-		<link>https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 16:35:02 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46925</guid>
-
-					<description><![CDATA[<p>CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability.</p>
-<p>The post <a href="https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/">OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</title>
-		<link>https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 13:05:06 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46913</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/">In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Leak DentaQuest Information Impacting 2.6 Million</title>
-		<link>https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 11:33:27 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DentaQuest]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46909</guid>
-
-					<description><![CDATA[<p>The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/">Hackers Leak DentaQuest Information Impacting 2.6 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 149 Patches 429 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 11:13:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46907</guid>
-
-					<description><![CDATA[<p>Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/">Chrome 149 Patches 429 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 10:24:56 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[executive order]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46892</guid>
-
-					<description><![CDATA[<p>Experts commented on the EO’s voluntary nature, the balance between innovation and security, and potential implementation gaps.</p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/">Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</title>
-		<link>https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 08:46:44 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Five Eyes]]></category>
-		<category><![CDATA[recruitment]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46890</guid>
-
-					<description><![CDATA[<p>Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information.</p>
-<p>The post <a href="https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/">Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</title>
-		<link>https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 07:24:08 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[RCI Hospitality]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46888</guid>
-
-					<description><![CDATA[<p>The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack.</p>
-<p>The post <a href="https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/">Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</title>
-		<link>https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 05 Jun 2026 05:47:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SD-WAN]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=46884</guid>
-
-					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/">Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
