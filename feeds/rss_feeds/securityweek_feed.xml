@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 12 Jun 2026 12:30:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jun 2026 06:39:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,43 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</title>
+		<link>https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2026 06:38:34 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Fable]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47123</guid>
+
+					<description><![CDATA[<p>Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/">Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine</title>
+		<link>https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2026 16:17:26 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47119</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&#038;T accused of hack cover-ups.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/">In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Industry Reactions to Claude Fable 5: Feedback Friday</title>
 		<link>https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/</link>
 		
@@ -56,6 +93,7 @@
 		<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[Cal Water]]></category>
 		<category><![CDATA[California Water Service]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Handala]]></category>
 		<category><![CDATA[Iran]]></category>
 		<category><![CDATA[Water]]></category>
@@ -189,48 +227,6 @@
 
 					<description><![CDATA[<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>
 <p>The post <a href="https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk</title>
-		<link>https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 11 Jun 2026 13:01:14 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BOD]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47072</guid>
-
-					<description><![CDATA[<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/">CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</title>
-		<link>https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 11 Jun 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[OnyxC2]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47067</guid>
-
-					<description><![CDATA[<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques.</p>
-<p>The post <a href="https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/">OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
