@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 13 Jun 2026 06:39:11 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jun 2026 15:54:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2026 15:52:58 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47117</guid>
+
+					<description><![CDATA[<p>By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed.</p>
+<p>The post <a href="https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/">NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls</title>
 		<link>https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/</link>
 		
@@ -73,6 +92,7 @@
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Fable 5]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Feedback Friday]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=47107</guid>
 
@@ -205,28 +225,6 @@
 
 					<description><![CDATA[<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks.</p>
 <p>The post <a href="https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/">Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alert Fatigue Is Becoming a Security Threat of Its Own</title>
-		<link>https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 11 Jun 2026 13:45:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI Automation]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47074</guid>
-
-					<description><![CDATA[<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>
-<p>The post <a href="https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
