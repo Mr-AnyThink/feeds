@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 18 Jun 2026 13:12:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Jun 2026 11:19:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,150 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</title>
+		<link>https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 11:19:41 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CryptoBandits]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Tor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47292</guid>
+
+					<description><![CDATA[<p>CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/">CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FortiBleed: 86,000 Fortinet Device Credentials Compromised</title>
+		<link>https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 10:48:08 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[credentials]]></category>
+		<category><![CDATA[FortiBleed]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[passwords]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47290</guid>
+
+					<description><![CDATA[<p>The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs.</p>
+<p>The post <a href="https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/">FortiBleed: 86,000 Fortinet Device Credentials Compromised</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity Firms Impacted by Klue Supply Chain Attack</title>
+		<link>https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 09:19:06 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Huntress]]></category>
+		<category><![CDATA[Klue]]></category>
+		<category><![CDATA[Recorded Future]]></category>
+		<category><![CDATA[security company hacked]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47288</guid>
+
+					<description><![CDATA[<p>The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/">Cybersecurity Firms Impacted by Klue Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC</title>
+		<link>https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 07:22:22 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[WideField]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47286</guid>
+
+					<description><![CDATA[<p>WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/">Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown </title>
+		<link>https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 06:46:44 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[SocGholish]]></category>
+		<category><![CDATA[takedown]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47284</guid>
+
+					<description><![CDATA[<p>Law enforcement and private partners took down 106 SocGholish C&#038;C servers and domains as part of Operation Endgame.</p>
+<p>The post <a href="https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/">15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</title>
+		<link>https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 04:10:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47278</guid>
+
+					<description><![CDATA[<p>CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/">Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Majority of Internet-Accessible REDCap Servers Outdated</title>
+		<link>https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2026 17:07:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[REDCap]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47275</guid>
+
+					<description><![CDATA[<p>These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment.</p>
+<p>The post <a href="https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/">Majority of Internet-Accessible REDCap Servers Outdated</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</title>
 		<link>https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/</link>
 		
@@ -83,146 +227,6 @@
 
 					<description><![CDATA[<p>The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure.</p>
 <p>The post <a href="https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/">Dream Raises $260 Million at $3 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlassian, Splunk Patch Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 10:59:50 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47252</guid>
-
-					<description><![CDATA[<p>Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.</p>
-<p>The post <a href="https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/">Atlassian, Splunk Patch Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rokarolla Banking Trojan Targets 200 Applications</title>
-		<link>https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 10:42:21 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[Rokarolla]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47250</guid>
-
-					<description><![CDATA[<p>The Android malware allows its operators to take control of infected devices and harvest sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/">Rokarolla Banking Trojan Targets 200 Applications</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Command Execution Vulnerability Patched in Cisco ISE</title>
-		<link>https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 10:27:14 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47248</guid>
-
-					<description><![CDATA[<p>Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root.</p>
-<p>The post <a href="https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/">Critical Command Execution Vulnerability Patched in Cisco ISE</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>F5 Patches Critical, High-Severity NGINX Vulnerabilities</title>
-		<link>https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 09:39:24 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[Nginx]]></category>
-		<category><![CDATA[patched]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47246</guid>
-
-					<description><![CDATA[<p>Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/">F5 Patches Critical, High-Severity NGINX Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SailPoint to Acquire Entro in Reported $200 Million Deal</title>
-		<link>https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 08:36:42 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Entro]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[SailPoint]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47244</guid>
-
-					<description><![CDATA[<p>Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products.</p>
-<p>The post <a href="https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/">SailPoint to Acquire Entro in Reported $200 Million Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kodak Admits Data Breach After ShinyHunters Hack Claims</title>
-		<link>https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 07:18:51 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Kodak]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47242</guid>
-
-					<description><![CDATA[<p>Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident.</p>
-<p>The post <a href="https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/">Kodak Admits Data Breach After ShinyHunters Hack Claims</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: How Modern Breaches Bypass MFA and Evade Detection</title>
-		<link>https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 17 Jun 2026 14:07:16 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[MFA]]></category>
-		<category><![CDATA[Webinar]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47239</guid>
-
-					<description><![CDATA[<p>Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/">Webinar Today: How Modern Breaches Bypass MFA and Evade Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
