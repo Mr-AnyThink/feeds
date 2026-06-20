@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 19 Jun 2026 11:19:48 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Jun 2026 09:48:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</title>
+		<link>https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 20 Jun 2026 09:48:40 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[EU]]></category>
+		<category><![CDATA[regulation]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47297</guid>
+
+					<description><![CDATA[<p>French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems.</p>
+<p>The post <a href="https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/">French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</title>
+		<link>https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 15:23:36 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47294</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/">In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</title>
 		<link>https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/</link>
 		
@@ -75,6 +113,7 @@
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
 		<pubDate>Fri, 19 Jun 2026 09:19:06 +0000</pubDate>
 				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Huntress]]></category>
 		<category><![CDATA[Klue]]></category>
 		<category><![CDATA[Recorded Future]]></category>
@@ -191,42 +230,6 @@
 
 					<description><![CDATA[<p>The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos.</p>
 <p>The post <a href="https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/">Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>No Exploits Required</title>
-		<link>https://www.securityweek.com/no-exploits-required/</link>
-		
-		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE]]></category>
-		<category><![CDATA[exploit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47256</guid>
-
-					<description><![CDATA[<p>Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures.</p>
-<p>The post <a href="https://www.securityweek.com/no-exploits-required/">No Exploits Required</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dream Raises $260 Million at $3 Billion Valuation</title>
-		<link>https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 11:55:07 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Dream]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47259</guid>
-
-					<description><![CDATA[<p>The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/">Dream Raises $260 Million at $3 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
