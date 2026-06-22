@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 20 Jun 2026 09:48:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jun 2026 13:22:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Decades-Old Squid Proxy Flaw &#8216;Squidbleed&#8217; Can Expose User Data</title>
+		<link>https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 13:22:31 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[memory leak]]></category>
+		<category><![CDATA[Squid]]></category>
+		<category><![CDATA[Squidbleed]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47325</guid>
+
+					<description><![CDATA[<p>Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. </p>
+<p>The post <a href="https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/">Decades-Old Squid Proxy Flaw &#8216;Squidbleed&#8217; Can Expose User Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data</title>
+		<link>https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 11:45:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47323</guid>
+
+					<description><![CDATA[<p>Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.</p>
+<p>The post <a href="https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/">Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Blamed for Mastra NPM Supply Chain Attack</title>
+		<link>https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 11:10:06 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Mastra]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47321</guid>
+
+					<description><![CDATA[<p>A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/">North Korean Hackers Blamed for Mastra NPM Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks</title>
+		<link>https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47315</guid>
+
+					<description><![CDATA[<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</p>
+<p>The post <a href="https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/">What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Exploit Bypasses Apple&#8217;s Boot Defenses, Affects Millions of iPhones</title>
+		<link>https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 10:03:06 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[USB]]></category>
+		<category><![CDATA[Usbliter8]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47316</guid>
+
+					<description><![CDATA[<p>The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.</p>
+<p>The post <a href="https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/">New Exploit Bypasses Apple&#8217;s Boot Defenses, Affects Millions of iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Responds to FortiBleed Campaign</title>
+		<link>https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 09:34:59 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[FortiBleed]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47313</guid>
+
+					<description><![CDATA[<p>A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/">Fortinet Responds to FortiBleed Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>More Cybersecurity Firms Disclose Impact From Klue Hack</title>
+		<link>https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 09:03:08 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Klue]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47309</guid>
+
+					<description><![CDATA[<p>HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.</p>
+<p>The post <a href="https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/">More Cybersecurity Firms Disclose Impact From Klue Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</title>
+		<link>https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Texas]]></category>
+		<category><![CDATA[TPWD]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47305</guid>
+
+					<description><![CDATA[<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>
+<p>The post <a href="https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/">Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</title>
 		<link>https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/</link>
 		
@@ -60,176 +217,6 @@
 
 					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/">In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</title>
-		<link>https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 11:19:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[CryptoBandits]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Tor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47292</guid>
-
-					<description><![CDATA[<p>CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/">CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FortiBleed: 86,000 Fortinet Device Credentials Compromised</title>
-		<link>https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 10:48:08 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[credentials]]></category>
-		<category><![CDATA[FortiBleed]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[passwords]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47290</guid>
-
-					<description><![CDATA[<p>The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs.</p>
-<p>The post <a href="https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/">FortiBleed: 86,000 Fortinet Device Credentials Compromised</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity Firms Impacted by Klue Supply Chain Attack</title>
-		<link>https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 09:19:06 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Huntress]]></category>
-		<category><![CDATA[Klue]]></category>
-		<category><![CDATA[Recorded Future]]></category>
-		<category><![CDATA[security company hacked]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47288</guid>
-
-					<description><![CDATA[<p>The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/">Cybersecurity Firms Impacted by Klue Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC</title>
-		<link>https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 07:22:22 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[WideField]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47286</guid>
-
-					<description><![CDATA[<p>WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/">Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown </title>
-		<link>https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 06:46:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[SocGholish]]></category>
-		<category><![CDATA[takedown]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47284</guid>
-
-					<description><![CDATA[<p>Law enforcement and private partners took down 106 SocGholish C&#038;C servers and domains as part of Operation Endgame.</p>
-<p>The post <a href="https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/">15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</title>
-		<link>https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 04:10:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47278</guid>
-
-					<description><![CDATA[<p>CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/">Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Majority of Internet-Accessible REDCap Servers Outdated</title>
-		<link>https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 17:07:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[REDCap]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47275</guid>
-
-					<description><![CDATA[<p>These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment.</p>
-<p>The post <a href="https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/">Majority of Internet-Accessible REDCap Servers Outdated</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</title>
-		<link>https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 13:08:53 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Accenture]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Dragos]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[NetRise]]></category>
-		<category><![CDATA[RunZero]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47267</guid>
-
-					<description><![CDATA[<p>The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos.</p>
-<p>The post <a href="https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/">Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
