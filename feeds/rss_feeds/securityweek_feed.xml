@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 22 Jun 2026 13:22:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Jun 2026 12:06:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks</title>
+		<link>https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE‑2026‑20971]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47331</guid>
+
+					<description><![CDATA[<p>The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25.</p>
+<p>The post <a href="https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/">Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct</title>
+		<link>https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 12:50:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47299</guid>
+
+					<description><![CDATA[<p>Carl Froggett combines CISO and CIO. He currently occupies both positions at Deep Instinct. Before then, he was CISO at Citi for almost 17 years.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/">CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Algerian Man Extradited to US for Running Cybercrime Marketplaces</title>
+		<link>https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 12:06:15 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[marketplace]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47345</guid>
+
+					<description><![CDATA[<p>26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy.</p>
+<p>The post <a href="https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/">Algerian Man Extradited to US for Running Cybercrime Marketplaces</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances</title>
+		<link>https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 11:48:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[FFmpeg]]></category>
+		<category><![CDATA[media player]]></category>
+		<category><![CDATA[PixelSmash]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47343</guid>
+
+					<description><![CDATA[<p>Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library.</p>
+<p>The post <a href="https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/">FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery</title>
+		<link>https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 11:07:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[GPT-Cyber]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[patches]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47340</guid>
+
+					<description><![CDATA[<p>OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships.</p>
+<p>The post <a href="https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/">OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian Initial Access Broker Behind FortiBleed Campaign</title>
+		<link>https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 10:30:46 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[FortiBleed]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[initial access broker]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47338</guid>
+
+					<description><![CDATA[<p>Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026.</p>
+<p>The post <a href="https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/">Russian Initial Access Broker Behind FortiBleed Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Canadian Electricity Provider London Hydro Discloses Data Breach</title>
+		<link>https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 09:25:22 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Canada]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[electric grid]]></category>
+		<category><![CDATA[London Hydro]]></category>
+		<category><![CDATA[power grid]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47336</guid>
+
+					<description><![CDATA[<p>Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information.</p>
+<p>The post <a href="https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/">Canadian Electricity Provider London Hydro Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration </title>
+		<link>https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 08:43:05 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[cryptography]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Post quantum cryptography]]></category>
+		<category><![CDATA[PQC]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47334</guid>
+
+					<description><![CDATA[<p>Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031.</p>
+<p>The post <a href="https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/">Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Xsolis Data Breach Affects 1.4 Million Individuals</title>
+		<link>https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2026 06:20:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Xsolis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47329</guid>
+
+					<description><![CDATA[<p>Threat actors gained access to personal and protected health information that Xsolis received from its clients.</p>
+<p>The post <a href="https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/">Xsolis Data Breach Affects 1.4 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Decades-Old Squid Proxy Flaw &#8216;Squidbleed&#8217; Can Expose User Data</title>
 		<link>https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/</link>
 		
@@ -36,6 +221,7 @@
 				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[memory leak]]></category>
 		<category><![CDATA[Squid]]></category>
 		<category><![CDATA[Squidbleed]]></category>
@@ -44,179 +230,6 @@
 
 					<description><![CDATA[<p>Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. </p>
 <p>The post <a href="https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/">Decades-Old Squid Proxy Flaw &#8216;Squidbleed&#8217; Can Expose User Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data</title>
-		<link>https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 11:45:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47323</guid>
-
-					<description><![CDATA[<p>Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data.</p>
-<p>The post <a href="https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/">Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Hackers Blamed for Mastra NPM Supply Chain Attack</title>
-		<link>https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 11:10:06 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Mastra]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47321</guid>
-
-					<description><![CDATA[<p>A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/">North Korean Hackers Blamed for Mastra NPM Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks</title>
-		<link>https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47315</guid>
-
-					<description><![CDATA[<p>Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage.</p>
-<p>The post <a href="https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/">What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Exploit Bypasses Apple&#8217;s Boot Defenses, Affects Millions of iPhones</title>
-		<link>https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 10:03:06 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[iPhone]]></category>
-		<category><![CDATA[USB]]></category>
-		<category><![CDATA[Usbliter8]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47316</guid>
-
-					<description><![CDATA[<p>The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers.</p>
-<p>The post <a href="https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/">New Exploit Bypasses Apple&#8217;s Boot Defenses, Affects Millions of iPhones</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortinet Responds to FortiBleed Campaign</title>
-		<link>https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 09:34:59 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[FortiBleed]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47313</guid>
-
-					<description><![CDATA[<p>A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/">Fortinet Responds to FortiBleed Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>More Cybersecurity Firms Disclose Impact From Klue Hack</title>
-		<link>https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 09:03:08 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Klue]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47309</guid>
-
-					<description><![CDATA[<p>HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers.</p>
-<p>The post <a href="https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/">More Cybersecurity Firms Disclose Impact From Klue Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</title>
-		<link>https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 05:33:39 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Texas]]></category>
-		<category><![CDATA[TPWD]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47305</guid>
-
-					<description><![CDATA[<p>Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD.</p>
-<p>The post <a href="https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/">Texas Parks &#038; Wildlife Data Breach Affects 3 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</title>
-		<link>https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sat, 20 Jun 2026 09:48:40 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[regulation]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47297</guid>
-
-					<description><![CDATA[<p>French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems.</p>
-<p>The post <a href="https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/">French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</title>
-		<link>https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 19 Jun 2026 15:23:36 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47294</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/">In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
