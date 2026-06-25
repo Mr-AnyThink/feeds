@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 24 Jun 2026 13:52:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Jun 2026 12:39:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>macOS Weaknesses Chained to Silently Disable Endpoint Security Agents</title>
-		<link>https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 13:50:53 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[disable security]]></category>
-		<category><![CDATA[endpoint security]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[security product vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47403</guid>
-
-					<description><![CDATA[<p>A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/">macOS Weaknesses Chained to Silently Disable Endpoint Security Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Third DraftKings Hacker Sentenced to 18 Months in Prison</title>
-		<link>https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 12:52:40 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[DraftKings]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47401</guid>
-
-					<description><![CDATA[<p>Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of supervised release. </p>
-<p>The post <a href="https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/">Third DraftKings Hacker Sentenced to 18 Months in Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Ubiquiti Vulnerabilities in Attackers&#8217; Crosshairs</title>
-		<link>https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/</link>
+		<title>Runlayer Raises $30 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 12:32:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Ubiquiti]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47398</guid>
-
-					<description><![CDATA[<p>The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands.</p>
-<p>The post <a href="https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/">Critical Ubiquiti Vulnerabilities in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed</title>
-		<link>https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[agentic AI]]></category>
+		<pubDate>Thu, 25 Jun 2026 12:39:50 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[context]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47347</guid>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Runlayer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47443</guid>
 
-					<description><![CDATA[<p>Context is the central plank of AI in general, and agentic AI in particular. If an AI system doesn’t have the correct context, it cannot make the correct decisions.</p>
-<p>The post <a href="https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/">Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises.</p>
+<p>The post <a href="https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/">Runlayer Raises $30 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New &#8216;Mistic&#8217; RAT Opens Door to Several Ransomware Families</title>
-		<link>https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 11:42:38 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[backdoor]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[initial access broker]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Mistic]]></category>
-		<category><![CDATA[RAT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47395</guid>
-
-					<description><![CDATA[<p>Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta.</p>
-<p>The post <a href="https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/">New &#8216;Mistic&#8217; RAT Opens Door to Several Ransomware Families</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking</title>
-		<link>https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 10:55:05 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CI/CD]]></category>
-		<category><![CDATA[Cordyceps]]></category>
-		<category><![CDATA[repository]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47391</guid>
-
-					<description><![CDATA[<p>The security defects allow unauthenticated users to take control of the open source software supply chain.</p>
-<p>The post <a href="https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/">Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>BeyondTrust, LastPass Impacted by Klue-Salesforce Incident</title>
-		<link>https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 10:03:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Klue]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47389</guid>
-
-					<description><![CDATA[<p>Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances.</p>
-<p>The post <a href="https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/">BeyondTrust, LastPass Impacted by Klue-Salesforce Incident</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Webinar Today: Modern Exposure Validation in the AI Era</title>
-		<link>https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 08:04:37 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47385</guid>
-
-					<description><![CDATA[<p>The exploit timeline collapsed. Make sure your validation didn't.</p>
-<p>The post <a href="https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/">Webinar Today: Modern Exposure Validation in the AI Era</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Exploiting Cisco Unified CM Vulnerability</title>
-		<link>https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/</link>
+		<title>Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply</title>
+		<link>https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 05:44:15 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
+		<pubDate>Thu, 25 Jun 2026 12:07:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Cal Water]]></category>
+		<category><![CDATA[fake hack]]></category>
+		<category><![CDATA[Handala]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47440</guid>
+
+					<description><![CDATA[<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>
+<p>The post <a href="https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/">Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</title>
+		<link>https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 11:23:40 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Lantronix]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47438</guid>
+
+					<description><![CDATA[<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>
+<p>The post <a href="https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/">Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>GitLab Patches Code Execution, Information Disclosure Vulnerabilities</title>
+		<link>https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 11:10:04 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[GitLab]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47435</guid>
+
+					<description><![CDATA[<p>The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects.</p>
+<p>The post <a href="https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/">GitLab Patches Code Execution, Information Disclosure Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>25-Year-Old Vulnerability Patched in Curl</title>
+		<link>https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 09:25:02 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Curl]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47432</guid>
+
+					<description><![CDATA[<p>The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/">25-Year-Old Vulnerability Patched in Curl</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NIST Opens Updated IoT Security Guidance to Public Review</title>
+		<link>https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 08:29:26 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[IoT security]]></category>
+		<category><![CDATA[NIST]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47430</guid>
+
+					<description><![CDATA[<p>The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks.</p>
+<p>The post <a href="https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/">NIST Opens Updated IoT Security Guidance to Public Review</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 149 Update Resolves 18 Severe Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 07:56:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47428</guid>
+
+					<description><![CDATA[<p>More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/">Chrome 149 Update Resolves 18 Severe Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco SD-WAN Zero-Day Exploited Months Before Patching</title>
+		<link>https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2026 06:08:43 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Cisco]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Unified CM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47377</guid>
+		<category><![CDATA[Mandiant]]></category>
+		<category><![CDATA[SD-WAN]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47426</guid>
 
-					<description><![CDATA[<p>Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/">Hackers Exploiting Cisco Unified CM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/">Cisco SD-WAN Zero-Day Exploited Months Before Patching</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says</title>
-		<link>https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/</link>
+		<title>When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps</title>
+		<link>https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 24 Jun 2026 03:29:58 +0000</pubDate>
+		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2026 17:37:57 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47359</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47373</guid>
 
-					<description><![CDATA[<p>Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said.</p>
-<p>The post <a href="https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/">Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI.</p>
+<p>The post <a href="https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/">When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware</title>
+		<link>https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2026 15:02:07 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Amadey]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[StealC]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47411</guid>
+
+					<description><![CDATA[<p>Hundreds of C&#038;C servers were disrupted in an operation involving law enforcement and several cybersecurity companies.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/">Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
