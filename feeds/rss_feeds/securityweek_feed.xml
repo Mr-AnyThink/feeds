@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 26 Jun 2026 12:37:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 12:15:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,88 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chinese Framework Powers 200,000 Scam Sites</title>
+		<link>https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2026 12:13:51 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[scam]]></category>
+		<category><![CDATA[Uni-App]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47472</guid>
+
+					<description><![CDATA[<p>Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/">Chinese Framework Powers 200,000 Scam Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</title>
+		<link>https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 15:23:46 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[cloud security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47488</guid>
+
+					<description><![CDATA[<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. </p>
+<p>The post <a href="https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>More Klue Breach Victims Identified as Hackers Get Hacked</title>
+		<link>https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 15:01:33 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Klue]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47484</guid>
+
+					<description><![CDATA[<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>
+<p>The post <a href="https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/">More Klue Breach Victims Identified as Hackers Get Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</title>
+		<link>https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47478</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/">In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nebulock Raises $25 Million for AI-Native Contextual Security</title>
 		<link>https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/</link>
 		
@@ -75,6 +157,7 @@
 		<category><![CDATA[Phishing]]></category>
 		<category><![CDATA[cryptocurrency]]></category>
 		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Polymarket]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=47469</guid>
 
@@ -143,86 +226,6 @@
 
 					<description><![CDATA[<p>A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators.</p>
 <p>The post <a href="https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/">New Enterprise-Ready MCP Specification Brings New Security Challenges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Philip Martin Joins Uber as Chief Information Security Officer</title>
-		<link>https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 05:13:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47457</guid>
-
-					<description><![CDATA[<p>Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization.</p>
-<p>The post <a href="https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/">Philip Martin Joins Uber as Chief Information Security Officer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Runlayer Raises $30 Million in Series A Funding</title>
-		<link>https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 25 Jun 2026 12:39:50 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Runlayer]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47443</guid>
-
-					<description><![CDATA[<p>The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises.</p>
-<p>The post <a href="https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/">Runlayer Raises $30 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</title>
-		<link>https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 25 Jun 2026 12:07:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Cal Water]]></category>
-		<category><![CDATA[fake hack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Handala]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47440</guid>
-
-					<description><![CDATA[<p>Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala.</p>
-<p>The post <a href="https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/">Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</title>
-		<link>https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 25 Jun 2026 11:23:40 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Lantronix]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47438</guid>
-
-					<description><![CDATA[<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>
-<p>The post <a href="https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/">Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
