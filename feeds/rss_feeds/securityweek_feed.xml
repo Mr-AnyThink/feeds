@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 27 Jun 2026 12:15:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jun 2026 14:35:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,151 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</title>
+		<link>https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 14:28:40 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude Code]]></category>
+		<category><![CDATA[prompt injection]]></category>
+		<category><![CDATA[repository]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47521</guid>
+
+					<description><![CDATA[<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine.</p>
+<p>The post <a href="https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/">Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Straiker Raises $64 Million for AI Security Platform</title>
+		<link>https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 14:07:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Straiker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47519</guid>
+
+					<description><![CDATA[<p>The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>
+<p>The post <a href="https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/">Straiker Raises $64 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</title>
+		<link>https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 13:42:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[NAIC]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47517</guid>
+
+					<description><![CDATA[<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>
+<p>The post <a href="https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/">Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</title>
+		<link>https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 11:20:13 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DirtyClone]]></category>
+		<category><![CDATA[kernel]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linux vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47515</guid>
+
+					<description><![CDATA[<p>A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.</p>
+<p>The post <a href="https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/">&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</title>
+		<link>https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 10:14:01 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47510</guid>
+
+					<description><![CDATA[<p>ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.</p>
+<p>The post <a href="https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/">OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</title>
+		<link>https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 09:29:34 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[messaging]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[reward]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[UNC4221]]></category>
+		<category><![CDATA[UNC5792]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47508</guid>
+
+					<description><![CDATA[<p>UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.</p>
+<p>The post <a href="https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/">US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</title>
+		<link>https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2026 07:45:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GPT]]></category>
+		<category><![CDATA[GPT Sol]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47503</guid>
+
+					<description><![CDATA[<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>
+<p>The post <a href="https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/">OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Chinese Framework Powers 200,000 Scam Sites</title>
 		<link>https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/</link>
 		
@@ -86,146 +231,6 @@
 
 					<description><![CDATA[<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>
 <p>The post <a href="https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/">More Klue Breach Victims Identified as Hackers Get Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</title>
-		<link>https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47478</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/">In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nebulock Raises $25 Million for AI-Native Contextual Security</title>
-		<link>https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 12:37:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47476</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics.</p>
-<p>The post <a href="https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/">Nebulock Raises $25 Million for AI-Native Contextual Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linux Foundation Unveils New Open Source Security Project Akrites</title>
-		<link>https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 11:28:20 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Akrites]]></category>
-		<category><![CDATA[Linux Foundation]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[OSS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47474</guid>
-
-					<description><![CDATA[<p>It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/">Linux Foundation Unveils New Open Source Security Project Akrites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>$3 Million Reportedly Stolen in Polymarket Hack</title>
-		<link>https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 09:47:35 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<category><![CDATA[cryptocurrency heist]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Polymarket]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47469</guid>
-
-					<description><![CDATA[<p>The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor.</p>
-<p>The post <a href="https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/">$3 Million Reportedly Stolen in Polymarket Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian Targets</title>
-		<link>https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 08:55:08 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[StockStay]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47467</guid>
-
-					<description><![CDATA[<p>Turla has been using the backdoor against government and military organizations in Ukraine for espionage.</p>
-<p>The post <a href="https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/">Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian Targets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild</title>
-		<link>https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 08:15:21 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[PLM]]></category>
-		<category><![CDATA[PTC]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Windchill]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47464</guid>
-
-					<description><![CDATA[<p>CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog.</p>
-<p>The post <a href="https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/">First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Enterprise-Ready MCP Specification Brings New Security Challenges</title>
-		<link>https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[MCP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47461</guid>
-
-					<description><![CDATA[<p>A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators.</p>
-<p>The post <a href="https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/">New Enterprise-Ready MCP Specification Brings New Security Challenges</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
