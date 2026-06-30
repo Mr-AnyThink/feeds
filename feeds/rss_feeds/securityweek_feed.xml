@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 29 Jun 2026 14:35:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Jun 2026 13:49:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,209 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</title>
-		<link>https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/</link>
+		<title>Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks</title>
+		<link>https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 14:28:40 +0000</pubDate>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 13:00:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude Code]]></category>
-		<category><![CDATA[prompt injection]]></category>
-		<category><![CDATA[repository]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47521</guid>
-
-					<description><![CDATA[<p>Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine.</p>
-<p>The post <a href="https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/">Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Straiker Raises $64 Million for AI Security Platform</title>
-		<link>https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 14:07:34 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Straiker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47519</guid>
-
-					<description><![CDATA[<p>The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks.</p>
-<p>The post <a href="https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/">Straiker Raises $64 Million for AI Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</title>
-		<link>https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 13:42:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[NAIC]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47517</guid>
-
-					<description><![CDATA[<p>The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization.</p>
-<p>The post <a href="https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/">Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</title>
-		<link>https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 11:20:13 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[DirtyClone]]></category>
-		<category><![CDATA[kernel]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Linux vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47515</guid>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47547</guid>
 
-					<description><![CDATA[<p>A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges.</p>
-<p>The post <a href="https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/">&#8216;DirtyClone&#8217; Linux Kernel Vulnerability Leads to Root Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors.</p>
+<p>The post <a href="https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/">Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</title>
-		<link>https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/</link>
+		<title>Aflac Japan Data Breach Impacts 4.38 Million</title>
+		<link>https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 12:52:33 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Aflac]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Japan]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47554</guid>
+
+					<description><![CDATA[<p>Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25.</p>
+<p>The post <a href="https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/">Aflac Japan Data Breach Impacts 4.38 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat</title>
+		<link>https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47497</guid>
+
+					<description><![CDATA[<p>Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/">Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users&#8217; Location History</title>
+		<link>https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 10:14:01 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47510</guid>
+		<pubDate>Tue, 30 Jun 2026 11:48:40 +0000</pubDate>
+				<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[court ruling]]></category>
+		<category><![CDATA[location tracking]]></category>
+		<category><![CDATA[privacy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47552</guid>
 
-					<description><![CDATA[<p>ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration.</p>
-<p>The post <a href="https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/">OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant.</p>
+<p>The post <a href="https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/">Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users&#8217; Location History</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</title>
-		<link>https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/</link>
+		<title>Exploitation of Recent Oracle E-Business Suite Vulnerability Begins</title>
+		<link>https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 09:29:34 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hackers]]></category>
-		<category><![CDATA[messaging]]></category>
-		<category><![CDATA[mobile security]]></category>
-		<category><![CDATA[reward]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[UNC4221]]></category>
-		<category><![CDATA[UNC5792]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47508</guid>
-
-					<description><![CDATA[<p>UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel.</p>
-<p>The post <a href="https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/">US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</title>
-		<link>https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 29 Jun 2026 07:45:57 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GPT]]></category>
-		<category><![CDATA[GPT Sol]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47503</guid>
-
-					<description><![CDATA[<p>The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens.</p>
-<p>The post <a href="https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/">OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chinese Framework Powers 200,000 Scam Sites</title>
-		<link>https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 27 Jun 2026 12:13:51 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[Uni-App]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47472</guid>
-
-					<description><![CDATA[<p>Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit.</p>
-<p>The post <a href="https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/">Chinese Framework Powers 200,000 Scam Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</title>
-		<link>https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 15:23:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Amazon]]></category>
-		<category><![CDATA[cloud security]]></category>
-		<category><![CDATA[Featured]]></category>
+		<pubDate>Tue, 30 Jun 2026 11:29:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Oracle E-Business Suite]]></category>
+		<category><![CDATA[Oracle EBS]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47488</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47550</guid>
 
-					<description><![CDATA[<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. </p>
-<p>The post <a href="https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/">Exploitation of Recent Oracle E-Business Suite Vulnerability Begins</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>More Klue Breach Victims Identified as Hackers Get Hacked</title>
-		<link>https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/</link>
+		<title>The AI Token Costs That Can Break Cybersecurity</title>
+		<link>https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 15:01:33 +0000</pubDate>
+		<dc:creator><![CDATA[Danelle Au]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security Operations]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47535</guid>
+
+					<description><![CDATA[<p>As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits.</p>
+<p>The post <a href="https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/">The AI Token Costs That Can Break Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nissan Employee Data Breached in Oracle PeopleSoft Hack</title>
+		<link>https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 09:25:50 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
 		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Klue]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47484</guid>
+		<category><![CDATA[Nissan]]></category>
+		<category><![CDATA[Oracle PeopleSoft]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47545</guid>
 
-					<description><![CDATA[<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>
-<p>The post <a href="https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/">More Klue Breach Victims Identified as Hackers Get Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed.</p>
+<p>The post <a href="https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/">Nissan Employee Data Breached in Oracle PeopleSoft Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical SimpleHelp Vulnerability Exploited for Malware Delivery</title>
+		<link>https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 08:43:10 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[SimpleHelp]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47543</guid>
+
+					<description><![CDATA[<p>The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling.</p>
+<p>The post <a href="https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/">Critical SimpleHelp Vulnerability Exploited for Malware Delivery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Quantifind Raises $200 Million for AI-Native Risk Intelligence</title>
+		<link>https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 06:40:02 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47541</guid>
+
+					<description><![CDATA[<p>Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/">Quantifind Raises $200 Million for AI-Native Risk Intelligence</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking</title>
+		<link>https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2026 05:04:15 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Daktronics]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47533</guid>
+
+					<description><![CDATA[<p>CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers.</p>
+<p>The post <a href="https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/">New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
