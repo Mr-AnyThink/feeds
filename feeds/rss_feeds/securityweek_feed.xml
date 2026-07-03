@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 02 Jul 2026 13:15:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jul 2026 10:11:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,124 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Agentic AI Used to Conduct Ransomware Attack via Langflow</title>
+		<link>https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47618</guid>
+
+					<description><![CDATA[<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.</p>
+<p>The post <a href="https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/">Agentic AI Used to Conduct Ransomware Attack via Langflow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Medtronic Data Breach Impacts 3.8 Million People</title>
+		<link>https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Medtronic]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47616</guid>
+
+					<description><![CDATA[<p>In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information.</p>
+<p>The post <a href="https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/">Medtronic Data Breach Impacts 3.8 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alleged Scattered Spider Hacker Extradited to US</title>
+		<link>https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 09:30:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Scattered Spider]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47621</guid>
+
+					<description><![CDATA[<p>Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments.</p>
+<p>The post <a href="https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/">Alleged Scattered Spider Hacker Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</title>
+		<link>https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 08:13:22 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NetNut]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47614</guid>
+
+					<description><![CDATA[<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.</p>
+<p>The post <a href="https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/">Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</title>
+		<link>https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 07:57:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cursor]]></category>
+		<category><![CDATA[Cursor AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47611</guid>
+
+					<description><![CDATA[<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system.</p>
+<p>The post <a href="https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/">Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</title>
+		<link>https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2026 15:04:22 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[Citrix Bleed]]></category>
+		<category><![CDATA[CVE-2026-8451]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47609</guid>
+
+					<description><![CDATA[<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>
+<p>The post <a href="https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>How to Conduct a Successful Audit of AI-Driven Software Development</title>
 		<link>https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/</link>
 		
@@ -92,118 +210,6 @@
 
 					<description><![CDATA[<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/">Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials</title>
-		<link>https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 10:45:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47599</guid>
-
-					<description><![CDATA[<p>Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials.</p>
-<p>The post <a href="https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/">&#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 10:30:42 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-45659]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47597</guid>
-
-					<description><![CDATA[<p>CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). </p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/">CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings</title>
-		<link>https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Jul 2026 18:08:15 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47594</guid>
-
-					<description><![CDATA[<p>Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control over automated participants in sensitive meetings.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/">Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities</title>
-		<link>https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Jul 2026 11:27:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[CVE-2026-48286]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47590</guid>
-
-					<description><![CDATA[<p>Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/">Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack</title>
-		<link>https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 01 Jul 2026 11:20:45 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47588</guid>
-
-					<description><![CDATA[<p>Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug.</p>
-<p>The post <a href="https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/">Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors</title>
-		<link>https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Wed, 01 Jul 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Frontier AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47580</guid>
-
-					<description><![CDATA[<p>From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype.</p>
-<p>The post <a href="https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/">Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
