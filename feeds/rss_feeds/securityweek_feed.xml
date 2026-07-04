@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 03 Jul 2026 10:11:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jul 2026 15:10:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</title>
+		<link>https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 03 Jul 2026 15:10:42 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47625</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/">In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Agentic AI Used to Conduct Ransomware Attack via Langflow</title>
 		<link>https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/</link>
 		
@@ -193,23 +212,6 @@
 
 					<description><![CDATA[<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>
 <p>The post <a href="https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/">Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</title>
-		<link>https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 10:48:43 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-20230]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47601</guid>
-
-					<description><![CDATA[<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/">Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
