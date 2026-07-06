@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 03 Jul 2026 15:10:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jul 2026 13:11:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,61 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>North Korean Hackers Target Open Source Developers in Supply Chain Attacks </title>
+		<link>https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 13:11:16 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47634</guid>
+
+					<description><![CDATA[<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/">North Korean Hackers Target Open Source Developers in Supply Chain Attacks </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability</title>
+		<link>https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 12:48:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-46242]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47632</guid>
+
+					<description><![CDATA[<p>Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.</p>
+<p>The post <a href="https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/">Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</title>
+		<link>https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 11:19:47 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47630</guid>
+
+					<description><![CDATA[<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p>
+<p>The post <a href="https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/">Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</title>
 		<link>https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/</link>
 		
@@ -159,59 +214,6 @@
 
 					<description><![CDATA[<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>
 <p>The post <a href="https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to Conduct a Successful Audit of AI-Driven Software Development</title>
-		<link>https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/</link>
-		
-		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 13:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47539</guid>
-
-					<description><![CDATA[<p>As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production.</p>
-<p>The post <a href="https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/">How to Conduct a Successful Audit of AI-Driven Software Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</title>
-		<link>https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 12:34:29 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[FortiBleed]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47606</guid>
-
-					<description><![CDATA[<p>Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations.</p>
-<p>The post <a href="https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/">FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm</title>
-		<link>https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 11:01:48 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47603</guid>
-
-					<description><![CDATA[<p>Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available.</p>
-<p>The post <a href="https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/">Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
