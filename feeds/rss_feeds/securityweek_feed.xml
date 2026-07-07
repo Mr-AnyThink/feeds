@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 06 Jul 2026 13:11:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jul 2026 13:29:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,170 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws</title>
+		<link>https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 13:13:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47656</guid>
+
+					<description><![CDATA[<p>The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/">CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Adobe ColdFusion Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 12:38:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[ColdFusion]]></category>
+		<category><![CDATA[CVE-2026-48282]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47653</guid>
+
+					<description><![CDATA[<p>Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10.</p>
+<p>The post <a href="https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/">Critical Adobe ColdFusion Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iran-Linked Hackers Using Modular C&#038;C Framework in Cyberattacks</title>
+		<link>https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 12:21:56 +0000</pubDate>
+				<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Iran]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47649</guid>
+
+					<description><![CDATA[<p>Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel.</p>
+<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/">Iran-Linked Hackers Using Modular C&amp;C Framework in Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker</title>
+		<link>https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[Tarah Wheeler]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47490</guid>
+
+					<description><![CDATA[<p>Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/">CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</title>
+		<link>https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-53359]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linux]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47647</guid>
+
+					<description><![CDATA[<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host.</p>
+<p>The post <a href="https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/">Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</title>
+		<link>https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 09:30:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Keyfactor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47644</guid>
+
+					<description><![CDATA[<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats.</p>
+<p>The post <a href="https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/">Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</title>
+		<link>https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 19:14:08 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47642</guid>
+
+					<description><![CDATA[<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.</p>
+<p>The post <a href="https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/">Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Shift Toward Business-Aligned Risk Management</title>
+		<link>https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/</link>
+		
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 15:20:42 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47638</guid>
+
+					<description><![CDATA[<p>Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences.</p>
+<p>The post <a href="https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/">The Shift Toward Business-Aligned Risk Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Armored Likho APT Targeting Government, Electric Power Entities</title>
+		<link>https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2026 15:10:39 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[APT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47636</guid>
+
+					<description><![CDATA[<p>The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.</p>
+<p>The post <a href="https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/">Armored Likho APT Targeting Government, Electric Power Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>North Korean Hackers Target Open Source Developers in Supply Chain Attacks </title>
 		<link>https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/</link>
 		
@@ -41,179 +205,6 @@
 
 					<description><![CDATA[<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>
 <p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/">North Korean Hackers Target Open Source Developers in Supply Chain Attacks </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability</title>
-		<link>https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 12:48:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-46242]]></category>
-		<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47632</guid>
-
-					<description><![CDATA[<p>Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.</p>
-<p>The post <a href="https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/">Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</title>
-		<link>https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 11:19:47 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cryptocurrency]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47630</guid>
-
-					<description><![CDATA[<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p>
-<p>The post <a href="https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/">Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</title>
-		<link>https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 15:10:42 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47625</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/">In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Agentic AI Used to Conduct Ransomware Attack via Langflow</title>
-		<link>https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[agentic AI]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47618</guid>
-
-					<description><![CDATA[<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.</p>
-<p>The post <a href="https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/">Agentic AI Used to Conduct Ransomware Attack via Langflow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Medtronic Data Breach Impacts 3.8 Million People</title>
-		<link>https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Medtronic]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47616</guid>
-
-					<description><![CDATA[<p>In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information.</p>
-<p>The post <a href="https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/">Medtronic Data Breach Impacts 3.8 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alleged Scattered Spider Hacker Extradited to US</title>
-		<link>https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 09:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47621</guid>
-
-					<description><![CDATA[<p>Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments.</p>
-<p>The post <a href="https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/">Alleged Scattered Spider Hacker Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</title>
-		<link>https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 08:13:22 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NetNut]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47614</guid>
-
-					<description><![CDATA[<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.</p>
-<p>The post <a href="https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/">Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</title>
-		<link>https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 03 Jul 2026 07:57:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cursor]]></category>
-		<category><![CDATA[Cursor AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47611</guid>
-
-					<description><![CDATA[<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system.</p>
-<p>The post <a href="https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/">Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</title>
-		<link>https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 02 Jul 2026 15:04:22 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[Citrix Bleed]]></category>
-		<category><![CDATA[CVE-2026-8451]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47609</guid>
-
-					<description><![CDATA[<p>Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response.</p>
-<p>The post <a href="https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/">New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
