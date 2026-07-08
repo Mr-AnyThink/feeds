@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 07 Jul 2026 13:29:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jul 2026 13:21:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,116 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Webinar Today: Why Email Security Keeps Failing</title>
+		<link>https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 13:16:28 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47677</guid>
+
+					<description><![CDATA[<p>Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/">Webinar Today: Why Email Security Keeps Failing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations</title>
+		<link>https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 12:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47675</guid>
+
+					<description><![CDATA[<p>The "Rogue Agent" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project.</p>
+<p>The post <a href="https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/">Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws</title>
+		<link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 10:45:25 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[ColdFusion]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Joomla]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47673</guid>
+
+					<description><![CDATA[<p>Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/">CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection</title>
+		<link>https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 10:30:55 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47671</guid>
+
+					<description><![CDATA[<p>Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/">Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>County Government Reportedly Paid $1 Million to Cyber Extortion Group</title>
+		<link>https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 17:31:54 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47664</guid>
+
+					<description><![CDATA[<p>The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data.</p>
+<p>The post <a href="https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/">County Government Reportedly Paid $1 Million to Cyber Extortion Group</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Gitea Flaw Under Active Exploitation, Researchers Warn</title>
+		<link>https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 17:17:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-20896]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47662</guid>
+
+					<description><![CDATA[<p>Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets.</p>
+<p>The post <a href="https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/">Critical Gitea Flaw Under Active Exploitation, Researchers Warn</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws</title>
 		<link>https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/</link>
 		
@@ -99,112 +209,6 @@
 
 					<description><![CDATA[<p>Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical.</p>
 <p>The post <a href="https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/">CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</title>
-		<link>https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-53359]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Linux]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47647</guid>
-
-					<description><![CDATA[<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host.</p>
-<p>The post <a href="https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/">Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</title>
-		<link>https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 07 Jul 2026 09:30:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Keyfactor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47644</guid>
-
-					<description><![CDATA[<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats.</p>
-<p>The post <a href="https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/">Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</title>
-		<link>https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 19:14:08 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47642</guid>
-
-					<description><![CDATA[<p>Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.</p>
-<p>The post <a href="https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/">Blogspot-Hosted Payloads Delivered in &#8216;Veil#Drop&#8217; Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Shift Toward Business-Aligned Risk Management</title>
-		<link>https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/</link>
-		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 15:20:42 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[risk management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47638</guid>
-
-					<description><![CDATA[<p>Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences.</p>
-<p>The post <a href="https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/">The Shift Toward Business-Aligned Risk Management</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Armored Likho APT Targeting Government, Electric Power Entities</title>
-		<link>https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 15:10:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[APT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47636</guid>
-
-					<description><![CDATA[<p>The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.</p>
-<p>The post <a href="https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/">Armored Likho APT Targeting Government, Electric Power Entities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Hackers Target Open Source Developers in Supply Chain Attacks </title>
-		<link>https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 06 Jul 2026 13:11:16 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47634</guid>
-
-					<description><![CDATA[<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/">North Korean Hackers Target Open Source Developers in Supply Chain Attacks </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
