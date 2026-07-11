@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Jul 2026 13:47:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 15:02:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
+		<link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47745</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/">In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</title>
 		<link>https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/</link>
 		
@@ -204,25 +222,6 @@
 
 					<description><![CDATA[<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.</p>
 <p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/">Palo Alto Networks Patches 13 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>12 Million Impacted by Data Breach at Japanese Telco KDDI</title>
-		<link>https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 09 Jul 2026 12:18:46 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Japan]]></category>
-		<category><![CDATA[KDDI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47708</guid>
-
-					<description><![CDATA[<p>Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.</p>
-<p>The post <a href="https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/">12 Million Impacted by Data Breach at Japanese Telco KDDI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
