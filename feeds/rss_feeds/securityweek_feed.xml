@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 10 Jul 2026 15:02:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 15:12:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ghost Accounts Abuse GitHub API in Mass Recon Campaign</title>
+		<link>https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 11 Jul 2026 17:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[scanning]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47749</guid>
+
+					<description><![CDATA[<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>
+<p>The post <a href="https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
 		<link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
 		
@@ -202,26 +220,6 @@
 
 					<description><![CDATA[<p>Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK.</p>
 <p>The post <a href="https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/">UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Patches 13 Vulnerabilities</title>
-		<link>https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 09 Jul 2026 13:49:42 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47710</guid>
-
-					<description><![CDATA[<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/">Palo Alto Networks Patches 13 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
