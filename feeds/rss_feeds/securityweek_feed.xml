@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 13 Jul 2026 13:37:38 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jul 2026 12:34:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,140 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</title>
+		<link>https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47811</guid>
+
+					<description><![CDATA[<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. </p>
+<p>The post <a href="https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/">Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</title>
+		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 11:17:56 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47808</guid>
+
+					<description><![CDATA[<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/">SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</title>
+		<link>https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 10:51:01 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47806</guid>
+
+					<description><![CDATA[<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>
+<p>The post <a href="https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/">US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</title>
+		<link>https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 09:32:15 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Valarian]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47798</guid>
+
+					<description><![CDATA[<p>UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.</p>
+<p>The post <a href="https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/">Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Multiple Jscrambler Packages Impacted by Supply Chain Attack</title>
+		<link>https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 09:04:39 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<category><![CDATA[Jscrambler]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47796</guid>
+
+					<description><![CDATA[<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>
+<p>The post <a href="https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/">Multiple Jscrambler Packages Impacted by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</title>
+		<link>https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 06:37:50 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[CMMC]]></category>
+		<category><![CDATA[compliance]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47793</guid>
+
+					<description><![CDATA[<p>A new CMMC review and reform task force will conduct a comprehensive review of the program.</p>
+<p>The post <a href="https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/">Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</title>
+		<link>https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47752</guid>
+
+					<description><![CDATA[<p>Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/">Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cybersecurity M&#038;A Roundup: 37 Deals Announced in June 2026</title>
 		<link>https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/</link>
 		
@@ -35,6 +169,7 @@
 		<pubDate>Mon, 13 Jul 2026 12:20:14 +0000</pubDate>
 				<category><![CDATA[M&A Tracker]]></category>
 		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[M&A]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=47775</guid>
 
@@ -80,138 +215,6 @@
 
 					<description><![CDATA[<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>
 <p>The post <a href="https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/">Zimbra Patches Critical Code Execution Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign</title>
-		<link>https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[EU]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47768</guid>
-
-					<description><![CDATA[<p>The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/">EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of Exploited Joomla Extension Vulnerabilities</title>
-		<link>https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 09:08:02 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Joomla]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47765</guid>
-
-					<description><![CDATA[<p>Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/">Organizations Warned of Exploited Joomla Extension Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns</title>
-		<link>https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 08:20:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Progress Software]]></category>
-		<category><![CDATA[ShareFile]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47763</guid>
-
-					<description><![CDATA[<p>The company notified customers to manually shut down their servers while it is investigating a credible threat.</p>
-<p>The post <a href="https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/">Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Centers Laboratory Data Breach Affects 540,000 Individuals</title>
-		<link>https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 08:10:44 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Centers Laboratory]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47761</guid>
-
-					<description><![CDATA[<p>The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider.</p>
-<p>The post <a href="https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/">Centers Laboratory Data Breach Affects 540,000 Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ghost Accounts Abuse GitHub API in Mass Recon Campaign</title>
-		<link>https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 11 Jul 2026 17:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[GitHub]]></category>
-		<category><![CDATA[scanning]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47749</guid>
-
-					<description><![CDATA[<p>Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members.</p>
-<p>The post <a href="https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/">Ghost Accounts Abuse GitHub API in Mass Recon Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</title>
-		<link>https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 10 Jul 2026 15:01:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47745</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/">In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</title>
-		<link>https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 10 Jul 2026 12:58:39 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47743</guid>
-
-					<description><![CDATA[<p>Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.</p>
-<p>The post <a href="https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/">Third US Security Expert Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
