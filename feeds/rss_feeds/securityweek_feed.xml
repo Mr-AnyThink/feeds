@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 14 Jul 2026 12:34:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jul 2026 12:52:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,193 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</title>
-		<link>https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47811</guid>
-
-					<description><![CDATA[<p>A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. </p>
-<p>The post <a href="https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/">Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</title>
-		<link>https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 11:17:56 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47808</guid>
-
-					<description><![CDATA[<p>The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/">SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</title>
-		<link>https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 10:51:01 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[router]]></category>
-		<category><![CDATA[Russia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47806</guid>
-
-					<description><![CDATA[<p>Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks.</p>
-<p>The post <a href="https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/">US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</title>
-		<link>https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 09:32:15 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Valarian]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47798</guid>
-
-					<description><![CDATA[<p>UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology.</p>
-<p>The post <a href="https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/">Valarian Raises $50 Million for Sovereign Infrastructure Control Layer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Multiple Jscrambler Packages Impacted by Supply Chain Attack</title>
-		<link>https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 09:04:39 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[Jscrambler]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47796</guid>
-
-					<description><![CDATA[<p>A threat actor poisoned several Jscrambler NPM package versions to drop a cross-platform credential stealer.</p>
-<p>The post <a href="https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/">Multiple Jscrambler Packages Impacted by Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</title>
-		<link>https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 14 Jul 2026 06:37:50 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[CMMC]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47793</guid>
-
-					<description><![CDATA[<p>A new CMMC review and reform task force will conduct a comprehensive review of the program.</p>
-<p>The post <a href="https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/">Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</title>
-		<link>https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/</link>
+		<title>Windows Bind Link Attacks Can Hide Malware From EDR Tools</title>
+		<link>https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
+		<pubDate>Wed, 15 Jul 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47752</guid>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47848</guid>
 
-					<description><![CDATA[<p>Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/">Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.</p>
+<p>The post <a href="https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/">Windows Bind Link Attacks Can Hide Malware From EDR Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cybersecurity M&#038;A Roundup: 37 Deals Announced in June 2026</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/</link>
+		<title>Virtual Event Today: Cloud &#038; Data Security Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 12:52:10 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47867</guid>
+
+					<description><![CDATA[<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/">Virtual Event Today: Cloud &amp; Data Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Charges Russian Individuals and Firms for Running Cybercrime Services</title>
+		<link>https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 12:20:14 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47775</guid>
+		<pubDate>Wed, 15 Jul 2026 11:58:05 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[bulletproof hosting]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[Russia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47859</guid>
 
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/">Cybersecurity M&#038;A Roundup: 37 Deals Announced in June 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The suspects and their companies were previously sanctioned by the United States and its allies.</p>
+<p>The post <a href="https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/">US Charges Russian Individuals and Firms for Running Cybercrime Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>RabbitMQ Vulnerability Threatens Enterprise Systems</title>
-		<link>https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/</link>
+		<title>Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow</title>
+		<link>https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+		<pubDate>Wed, 15 Jul 2026 11:02:57 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[RabbitMQ]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[ServiceNow]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47772</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47857</guid>
 
-					<description><![CDATA[<p>Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker.</p>
-<p>The post <a href="https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/">RabbitMQ Vulnerability Threatens Enterprise Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/">Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Zimbra Patches Critical Code Execution Vulnerability</title>
-		<link>https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/</link>
+		<title>White House Launches AI-Driven &#8216;Gold Eagle&#8217; Vulnerability Coordination Initiative</title>
+		<link>https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 10:18:25 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Gold Eagle]]></category>
+		<category><![CDATA[Government Policy]]></category>
+		<category><![CDATA[vulnerability management]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47851</guid>
+
+					<description><![CDATA[<p>The new program stems from an AI-focused Executive Order signed by President Trump on June 2.</p>
+<p>The post <a href="https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/">White House Launches AI-Driven &#8216;Gold Eagle&#8217; Vulnerability Coordination Initiative</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption</title>
+		<link>https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 13 Jul 2026 10:03:47 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[remote code execution]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zimbra]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47769</guid>
+		<pubDate>Wed, 15 Jul 2026 09:48:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Progress Software]]></category>
+		<category><![CDATA[ShareFile]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47847</guid>
 
-					<description><![CDATA[<p>The flaw results in malicious code embedded in crafted emails being executed when the emails are opened.</p>
-<p>The post <a href="https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/">Zimbra Patches Critical Code Execution Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it.</p>
+<p>The post <a href="https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/">Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 09:19:58 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[ICS Patch Tuesday]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47845</guid>
+
+					<description><![CDATA[<p>The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates</title>
+		<link>https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 07:24:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[public PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47843</guid>
+
+					<description><![CDATA[<p>Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/">Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits</title>
+		<link>https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2026 05:19:42 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SMA1000]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47838</guid>
+
+					<description><![CDATA[<p>SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/">SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days</title>
+		<link>https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2026 18:50:20 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesday]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47834</guid>
+
+					<description><![CDATA[<p>Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/">Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
