@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 18 Jul 2026 09:45:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jul 2026 12:32:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,156 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</title>
+		<link>https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 12:32:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[OpenSSL]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47997</guid>
+
+					<description><![CDATA[<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>
+<p>The post <a href="https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/">OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Index Tracks Material Breaches — And Refuses to Add Up the Losses</title>
+		<link>https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 11:46:50 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47993</guid>
+
+					<description><![CDATA[<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.</p>
+<p>The post <a href="https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/">New Index Tracks Material Breaches — And Refuses to Add Up the Losses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ernst &#038; Young Data Breach Affects Personal, Financial Information</title>
+		<link>https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 11:27:38 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Ernst&Young]]></category>
+		<category><![CDATA[EY]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47987</guid>
+
+					<description><![CDATA[<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>
+<p>The post <a href="https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Watch on Demand: Cloud &#038; Data Security Summit</title>
+		<link>https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 10:31:25 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47867</guid>
+
+					<description><![CDATA[<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>
+<p>The post <a href="https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/">Watch on Demand: Cloud &amp; Data Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</title>
+		<link>https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 10:25:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[vulnerabiliites]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47981</guid>
+
+					<description><![CDATA[<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>
+<p>The post <a href="https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/">Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hugging Face Hacked in Autonomous AI Attack</title>
+		<link>https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 09:36:15 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Hacked]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47979</guid>
+
+					<description><![CDATA[<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>
+<p>The post <a href="https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 150 Update Patches Severe Memory Safety Bugs</title>
+		<link>https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 08:12:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[memory safety]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47977</guid>
+
+					<description><![CDATA[<p>The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/">Chrome 150 Update Patches Severe Memory Safety Bugs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WP2Shell WordPress Vulnerabilities Exploited in the Wild</title>
+		<link>https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 05:21:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WP2Shell]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47969</guid>
+
+					<description><![CDATA[<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>
+<p>The post <a href="https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/">WP2Shell WordPress Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</title>
 		<link>https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/</link>
 		
@@ -61,164 +211,6 @@
 
 					<description><![CDATA[<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?</p>
 <p>The post <a href="https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/">Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Beacon Security Raises $13 Million for Security Data Platform</title>
-		<link>https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 11:43:36 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Beacon Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47956</guid>
-
-					<description><![CDATA[<p>The startup helps organizations detect, hunt, and protect their assets across environments at machine speed.</p>
-<p>The post <a href="https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/">Beacon Security Raises $13 Million for Security Data Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 11:08:04 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[CMMC]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47938</guid>
-
-					<description><![CDATA[<p>Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protect CUI.</p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/">Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei</title>
-		<link>https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 09:06:27 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Japan]]></category>
-		<category><![CDATA[Nichirei]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47931</guid>
-
-					<description><![CDATA[<p>The company disconnected its systems on July 13 and is starting to gradually restore operations.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/">Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Risk Ledger Raises $32 Million in Series B Funding</title>
-		<link>https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 08:31:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Risk Ledger]]></category>
-		<category><![CDATA[Supply Chain]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47929</guid>
-
-					<description><![CDATA[<p>The British firm has built a collaborative platform to help organizations address supply chain security risks.</p>
-<p>The post <a href="https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/">Risk Ledger Raises $32 Million in Series B Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fresh SharePoint Vulnerability Exploited Soon After Disclosure</title>
-		<link>https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 07:15:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47927</guid>
-
-					<description><![CDATA[<p>The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server.</p>
-<p>The post <a href="https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/">Fresh SharePoint Vulnerability Exploited Soon After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack</title>
-		<link>https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 06:23:08 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Coca-Cola]]></category>
-		<category><![CDATA[Fairlife]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47924</guid>
-
-					<description><![CDATA[<p>The company has yet to determine the full scope, nature, and impact of the incident.</p>
-<p>The post <a href="https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/">Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Legacy Systems, Real-World Impacts: The Reality of OT Security</title>
-		<link>https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/</link>
-		
-		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
-		<pubDate>Thu, 16 Jul 2026 15:15:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47919</guid>
-
-					<description><![CDATA[<p>Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts.</p>
-<p>The post <a href="https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/">Legacy Systems, Real-World Impacts: The Reality of OT Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Two Scattered Spider Hackers Sentenced to Jail in UK</title>
-		<link>https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 16 Jul 2026 13:21:12 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Scattered Spider]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47917</guid>
-
-					<description><![CDATA[<p>Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).</p>
-<p>The post <a href="https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/">Two Scattered Spider Hackers Sentenced to Jail in UK</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
