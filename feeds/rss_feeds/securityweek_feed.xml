@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 20 Jul 2026 12:32:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jul 2026 12:47:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,189 +28,191 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</title>
-		<link>https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/</link>
+		<title>Empirical Security Raises $25 Million in Series A Funding</title>
+		<link>https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 12:32:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[OpenSSL]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47997</guid>
+		<pubDate>Tue, 21 Jul 2026 12:47:18 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Empirical Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48025</guid>
 
-					<description><![CDATA[<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>
-<p>The post <a href="https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/">OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup will use the investment to accelerate the development of its threat prediction and discovery products.</p>
+<p>The post <a href="https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/">Empirical Security Raises $25 Million in Series A Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>New Index Tracks Material Breaches — And Refuses to Add Up the Losses</title>
-		<link>https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 11:46:50 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47993</guid>
-
-					<description><![CDATA[<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.</p>
-<p>The post <a href="https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/">New Index Tracks Material Breaches — And Refuses to Add Up the Losses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ernst &#038; Young Data Breach Affects Personal, Financial Information</title>
-		<link>https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 11:27:38 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Ernst&Young]]></category>
-		<category><![CDATA[EY]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47987</guid>
-
-					<description><![CDATA[<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>
-<p>The post <a href="https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Watch on Demand: Cloud &#038; Data Security Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/</link>
+		<title>SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity</title>
+		<link>https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 10:31:25 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47867</guid>
+		<pubDate>Tue, 21 Jul 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[critical infrastructure]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Industrial Cybersecurity]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48022</guid>
 
-					<description><![CDATA[<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/">Watch on Demand: Cloud &amp; Data Security Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashville</p>
+<p>The post <a href="https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/">SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</title>
-		<link>https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 10:25:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[vulnerabiliites]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47981</guid>
-
-					<description><![CDATA[<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>
-<p>The post <a href="https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/">Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hugging Face Hacked in Autonomous AI Attack</title>
-		<link>https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/</link>
+		<title>New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication</title>
+		<link>https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 09:36:15 +0000</pubDate>
+		<pubDate>Tue, 21 Jul 2026 11:55:28 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[HollowGraph]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48020</guid>
+
+					<description><![CDATA[<p>Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop.</p>
+<p>The post <a href="https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/">New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG</title>
+		<link>https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 11:30:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=47784</guid>
+
+					<description><![CDATA[<p>Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/">CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack</title>
+		<link>https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 11:12:33 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Cl0p]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47979</guid>
+		<category><![CDATA[Estee Lauder]]></category>
+		<category><![CDATA[Oracle EBS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48017</guid>
 
-					<description><![CDATA[<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>
-<p>The post <a href="https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025.</p>
+<p>The post <a href="https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/">Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chrome 150 Update Patches Severe Memory Safety Bugs</title>
-		<link>https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 08:12:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[memory safety]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47977</guid>
-
-					<description><![CDATA[<p>The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/">Chrome 150 Update Patches Severe Memory Safety Bugs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WP2Shell WordPress Vulnerabilities Exploited in the Wild</title>
-		<link>https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/</link>
+		<title>Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data</title>
+		<link>https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 20 Jul 2026 05:21:29 +0000</pubDate>
+		<pubDate>Tue, 21 Jul 2026 10:19:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48013</guid>
+
+					<description><![CDATA[<p>A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/">Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Clover Health Investments Discloses Data Breach</title>
+		<link>https://www.securityweek.com/clover-health-investments-discloses-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 09:36:51 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Clover Health Investments]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48009</guid>
+
+					<description><![CDATA[<p>Using social engineering, hackers compromised employee accounts with access to personal and health information.</p>
+<p>The post <a href="https://www.securityweek.com/clover-health-investments-discloses-data-breach/">Clover Health Investments Discloses Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</title>
+		<link>https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 08:41:53 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ServiceNow]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<category><![CDATA[WP2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47969</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48007</guid>
 
-					<description><![CDATA[<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/">WP2Shell WordPress Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/">Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</title>
-		<link>https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/</link>
+		<title>Zimbra Update Patches Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/</link>
 		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 14:27:54 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47963</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 08:20:08 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zimbra]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48005</guid>
 
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/">In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.</p>
+<p>The post <a href="https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/">Zimbra Update Patches Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</title>
-		<link>https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/</link>
+		<title>Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</title>
+		<link>https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 17 Jul 2026 12:11:22 +0000</pubDate>
+		<pubDate>Mon, 20 Jul 2026 14:54:03 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Podcast]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=47959</guid>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Neo]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48002</guid>
 
-					<description><![CDATA[<p>(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?</p>
-<p>The post <a href="https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/">Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>
+<p>The post <a href="https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/">Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
