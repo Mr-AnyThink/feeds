@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 25 Jul 2026 17:44:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jul 2026 13:19:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Rockwell Patches Code Execution Flaws in Arena Simulation Software</title>
-		<link>https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/</link>
+		<title>PTC Windchill Vulnerability Exploited in Ransomware Campaign</title>
+		<link>https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 25 Jul 2026 08:30:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 13:19:30 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Rockwell]]></category>
+		<category><![CDATA[Cl0p]]></category>
+		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48138</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48170</guid>
 
-					<description><![CDATA[<p>A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/">Rockwell Patches Code Execution Flaws in Arena Simulation Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/">PTC Windchill Vulnerability Exploited in Ransomware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</title>
-		<link>https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 14:20:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48136</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/">In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AegisAI Raises $36 Million for AI-Powered Email Security</title>
-		<link>https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 12:01:18 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[AegisAI]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48134</guid>
-
-					<description><![CDATA[<p>The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital.</p>
-<p>The post <a href="https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/">AegisAI Raises $36 Million for AI-Powered Email Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday</title>
-		<link>https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 11:19:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Feedback Friday]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48121</guid>
-
-					<description><![CDATA[<p>Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone.</p>
-<p>The post <a href="https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/">Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</title>
-		<link>https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 24 Jul 2026 05:52:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Origin Energy]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48114</guid>
-
-					<description><![CDATA[<p>A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. </p>
-<p>The post <a href="https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/">Data Breach Confirmed After Australian Energy Giant Origin Is Hacked</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider</title>
-		<link>https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/</link>
+		<title>MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection</title>
+		<link>https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 15:09:59 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48107</guid>
-
-					<description><![CDATA[<p>AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization.</p>
-<p>The post <a href="https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/">OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Is Patching Dead? Vulnerability Management in the Post-Mythos Era</title>
-		<link>https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/</link>
-		
-		<dc:creator><![CDATA[Danelle Au]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48091</guid>
-
-					<description><![CDATA[<p>You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win.</p>
-<p>The post <a href="https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/">Is Patching Dead? Vulnerability Management in the Post-Mythos Era</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</title>
-		<link>https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 14:55:19 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Chick-fil-A]]></category>
-		<category><![CDATA[credential stuffing]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48101</guid>
-
-					<description><![CDATA[<p>Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts.</p>
-<p>The post <a href="https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/">Chick-fil-A Accounts Get Fried in Credential Stuffing Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Abstract Raises $25 Million to Expand Composable Security Operations Platform</title>
-		<link>https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 13:54:56 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Abstract Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48099</guid>
-
-					<description><![CDATA[<p>The latest investment round brings the total raised by Abstract to nearly $50 million.</p>
-<p>The post <a href="https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/">Abstract Raises $25 Million to Expand Composable Security Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</title>
-		<link>https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 23 Jul 2026 12:42:12 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI benchmark]]></category>
-		<category><![CDATA[benchmark]]></category>
-		<category><![CDATA[Featured]]></category>
+		<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
 		<category><![CDATA[malware]]></category>
-		<category><![CDATA[SentinelOne]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48096</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48166</guid>
 
-					<description><![CDATA[<p>SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot.</p>
-<p>The post <a href="https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/">Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems.</p>
+<p>The post <a href="https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/">MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia and Tech Giants Launch AI Security Alliance</title>
+		<link>https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 12:25:43 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI security]]></category>
+		<category><![CDATA[alliance]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48163</guid>
+
+					<description><![CDATA[<p>The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.</p>
+<p>The post <a href="https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/">Nvidia and Tech Giants Launch AI Security Alliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</title>
+		<link>https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 11:29:03 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Anubis]]></category>
+		<category><![CDATA[Coca-Cola]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Fairlife]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48158</guid>
+
+					<description><![CDATA[<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>
+<p>The post <a href="https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/">Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</title>
+		<link>https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 11:06:24 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Beelzebub]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48155</guid>
+
+					<description><![CDATA[<p>The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.</p>
+<p>The post <a href="https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/">Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out</title>
+		<link>https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[SBOM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48154</guid>
+
+					<description><![CDATA[<p>The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks.</p>
+<p>The post <a href="https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/">What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials</title>
+		<link>https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 10:50:19 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Microsoft 365]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48151</guid>
+
+					<description><![CDATA[<p>A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.</p>
+<p>The post <a href="https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/">Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</title>
+		<link>https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 10:02:41 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Mythos]]></category>
+		<category><![CDATA[Opus]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48148</guid>
+
+					<description><![CDATA[<p>Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.</p>
+<p>The post <a href="https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/">Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DentaQuest Data Breach Potentially Impacts Over 23 Million People</title>
+		<link>https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 09:34:12 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DentaQuest]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48146</guid>
+
+					<description><![CDATA[<p>In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network.</p>
+<p>The post <a href="https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/">DentaQuest Data Breach Potentially Impacts Over 23 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MCBS Data Breach Affects 1.2 Million Individuals</title>
+		<link>https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 04:51:32 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[MCBS]]></category>
+		<category><![CDATA[Pear]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48144</guid>
+
+					<description><![CDATA[<p>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.</p>
+<p>The post <a href="https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/">MCBS Data Breach Affects 1.2 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
