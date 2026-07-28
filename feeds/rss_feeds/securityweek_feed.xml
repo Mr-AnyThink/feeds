@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 27 Jul 2026 13:19:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jul 2026 13:05:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>PTC Windchill Vulnerability Exploited in Ransomware Campaign</title>
-		<link>https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/</link>
+		<title>OT Security Startup Frenos Raises $1.52 Million</title>
+		<link>https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 13:19:30 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cl0p]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48170</guid>
-
-					<description><![CDATA[<p>The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/">PTC Windchill Vulnerability Exploited in Ransomware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection</title>
-		<link>https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48166</guid>
-
-					<description><![CDATA[<p>The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems.</p>
-<p>The post <a href="https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/">MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia and Tech Giants Launch AI Security Alliance</title>
-		<link>https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 12:25:43 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI security]]></category>
-		<category><![CDATA[alliance]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48163</guid>
-
-					<description><![CDATA[<p>The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents.</p>
-<p>The post <a href="https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/">Nvidia and Tech Giants Launch AI Security Alliance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</title>
-		<link>https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 11:29:03 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Anubis]]></category>
-		<category><![CDATA[Coca-Cola]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Fairlife]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48158</guid>
-
-					<description><![CDATA[<p>The Anubis cybercrime group has taken credit for the attack and is threatening to leak data.</p>
-<p>The post <a href="https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/">Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</title>
-		<link>https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 11:06:24 +0000</pubDate>
+		<pubDate>Tue, 28 Jul 2026 13:05:25 +0000</pubDate>
 				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Beelzebub]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Frenos]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48155</guid>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48198</guid>
 
-					<description><![CDATA[<p>The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients.</p>
-<p>The post <a href="https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/">Beelzebub Raises $3.4 Million for Hacker-Trapping Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company will use the fresh investment to grow its customer success and AI R&#038;D teams.</p>
+<p>The post <a href="https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/">OT Security Startup Frenos Raises $1.52 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out</title>
-		<link>https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Mobile]]></category>
-		<category><![CDATA[SBOM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48154</guid>
-
-					<description><![CDATA[<p>The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks.</p>
-<p>The post <a href="https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/">What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials</title>
-		<link>https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 10:50:19 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Microsoft 365]]></category>
-		<category><![CDATA[Wi-Fi]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48151</guid>
-
-					<description><![CDATA[<p>A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.</p>
-<p>The post <a href="https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/">Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</title>
-		<link>https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/</link>
+		<title>Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model </title>
+		<link>https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 10:02:41 +0000</pubDate>
+		<pubDate>Tue, 28 Jul 2026 11:11:48 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[Opus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48148</guid>
+		<category><![CDATA[AI model]]></category>
+		<category><![CDATA[MAI-Cyber-1-Flash]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48190</guid>
 
-					<description><![CDATA[<p>Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.</p>
-<p>The post <a href="https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/">Anthropic&#8217;s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/">Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>DentaQuest Data Breach Potentially Impacts Over 23 Million People</title>
-		<link>https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/</link>
+		<title>Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker</title>
+		<link>https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[hacker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48140</guid>
+
+					<description><![CDATA[<p>Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/">Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Act Security Emerges from Stealth to Fight the Patch Problem</title>
+		<link>https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Patch]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48188</guid>
+
+					<description><![CDATA[<p>Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. </p>
+<p>The post <a href="https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/">Act Security Emerges from Stealth to Fight the Patch Problem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hush Security Raises $30 Million for AI Agent Governance</title>
+		<link>https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 09:34:12 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DentaQuest]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48146</guid>
+		<pubDate>Tue, 28 Jul 2026 10:17:27 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Hush Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48186</guid>
 
-					<description><![CDATA[<p>In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network.</p>
-<p>The post <a href="https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/">DentaQuest Data Breach Potentially Impacts Over 23 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships.</p>
+<p>The post <a href="https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/">Hush Security Raises $30 Million for AI Agent Governance</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>MCBS Data Breach Affects 1.2 Million Individuals</title>
-		<link>https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/</link>
+		<title>Google Adopts New Threat Actor Naming System</title>
+		<link>https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 08:42:52 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[naming]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48184</guid>
+
+					<description><![CDATA[<p>The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word.</p>
+<p>The post <a href="https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/">Google Adopts New Threat Actor Naming System</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unpatched Fastjson Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 07:27:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Fastjson]]></category>
+		<category><![CDATA[JSON]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48182</guid>
+
+					<description><![CDATA[<p>The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations.</p>
+<p>The post <a href="https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/">Unpatched Fastjson Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 06:40:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Arista]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48179</guid>
+
+					<description><![CDATA[<p>Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality.</p>
+<p>The post <a href="https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/">Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Origin Energy Data Breach Affects 900,000 Australians</title>
+		<link>https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 27 Jul 2026 04:51:32 +0000</pubDate>
+		<pubDate>Tue, 28 Jul 2026 05:01:05 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[MCBS]]></category>
-		<category><![CDATA[Pear]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48144</guid>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Origin Energy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48177</guid>
 
-					<description><![CDATA[<p>The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company.</p>
-<p>The post <a href="https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/">MCBS Data Breach Affects 1.2 Million Individuals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems.</p>
+<p>The post <a href="https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/">Origin Energy Data Breach Affects 900,000 Australians</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup</title>
+		<link>https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 28 Jul 2026 02:28:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48174</guid>
+
+					<description><![CDATA[<p>Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own.</p>
+<p>The post <a href="https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/">For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
