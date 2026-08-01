@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 31 Jul 2026 13:10:46 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Aug 2026 12:46:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,78 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</title>
+		<link>https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2026 12:30:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48322</guid>
+
+					<description><![CDATA[<p>The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. </p>
+<p>The post <a href="https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/">Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ruby on Rails Patches Critical Vulnerability</title>
+		<link>https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2026 11:15:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[Ruby on Rails]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48319</guid>
+
+					<description><![CDATA[<p>The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).</p>
+<p>The post <a href="https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/">Ruby on Rails Patches Critical Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</title>
+		<link>https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 15:47:02 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48315</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</title>
+		<link>https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 15:17:41 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Minnesota]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48312</guid>
+
+					<description><![CDATA[<p>Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/">Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace</title>
 		<link>https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/</link>
 		
@@ -37,6 +109,7 @@
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48296</guid>
@@ -88,7 +161,7 @@
 		
 			</item>
 		<item>
-		<title>Critical Flaw Led to Azure Cosmos DB Pwnage</title>
+		<title>Critical Flaw Allowed to Azure Cosmos DB Pwnage</title>
 		<link>https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
@@ -103,7 +176,7 @@
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48290</guid>
 
 					<description><![CDATA[<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>
-<p>The post <a href="https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/">Critical Flaw Led to Azure Cosmos DB Pwnage</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+<p>The post <a href="https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/">Critical Flaw Allowed to Azure Cosmos DB Pwnage</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -143,85 +216,6 @@
 
 					<description><![CDATA[<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>
 <p>The post <a href="https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/">Critical Code Execution Vulnerability Patched in TeamCity </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs</title>
-		<link>https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 22:18:36 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[PLC]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48283</guid>
-
-					<description><![CDATA[<p>CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/">CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Bank of America to Acquire Cybersecurity Firm MDSec</title>
-		<link>https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 21:02:21 +0000</pubDate>
-				<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Bank of America]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48280</guid>
-
-					<description><![CDATA[<p>The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.</p>
-<p>The post <a href="https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/">Bank of America to Acquire Cybersecurity Firm MDSec</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Okta to Acquire Identity Threat Detection Firm Permiso</title>
-		<link>https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 19:10:26 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Okta]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48277</guid>
-
-					<description><![CDATA[<p>The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.</p>
-<p>The post <a href="https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/">Okta to Acquire Identity Threat Detection Firm Permiso</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Timeless Compliance: Why Better Questions Beat Bigger Frameworks</title>
-		<link>https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/</link>
-		
-		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
-		<pubDate>Thu, 30 Jul 2026 15:46:17 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[compliance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48268</guid>
-
-					<description><![CDATA[<p>The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change.</p>
-<p>The post <a href="https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/">Timeless Compliance: Why Better Questions Beat Bigger Frameworks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
