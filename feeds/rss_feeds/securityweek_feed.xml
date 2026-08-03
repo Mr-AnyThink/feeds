@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 01 Aug 2026 12:46:37 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Aug 2026 13:02:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,149 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</title>
+		<link>https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 13:02:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[ransom paid]]></category>
+		<category><![CDATA[River Bank]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48356</guid>
+
+					<description><![CDATA[<p>The bank holding company was hacked in June, but the investigation into the incident continues.</p>
+<p>The post <a href="https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/">River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Horizon3 Raises $250 Million to Fund Continuing Growth</title>
+		<link>https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48343</guid>
+
+					<description><![CDATA[<p>Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why.</p>
+<p>The post <a href="https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/">Horizon3 Raises $250 Million to Fund Continuing Growth</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>N‑able Patches Vulnerability Exploited to Hack N-central Servers</title>
+		<link>https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 12:34:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[N-able]]></category>
+		<category><![CDATA[N-central]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48344</guid>
+
+					<description><![CDATA[<p>The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass.</p>
+<p>The post <a href="https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/">N‑able Patches Vulnerability Exploited to Hack N-central Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Brinks Home Discloses Data Breach as Hackers Leak Files</title>
+		<link>https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 11:45:14 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Brinks Home]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48338</guid>
+
+					<description><![CDATA[<p>The physical security firm says its alarm monitoring and system functionality have not been affected.</p>
+<p>The post <a href="https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/">Brinks Home Discloses Data Breach as Hackers Leak Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</title>
+		<link>https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 10:39:41 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48336</guid>
+
+					<description><![CDATA[<p>The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement.</p>
+<p>The post <a href="https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/">Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</title>
+		<link>https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 09:17:37 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Midnight Blizzard]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Wi-Fi]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48333</guid>
+
+					<description><![CDATA[<p>Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.</p>
+<p>The post <a href="https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/">Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</title>
+		<link>https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 08:48:02 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48324</guid>
+
+					<description><![CDATA[<p>Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers.</p>
+<p>The post <a href="https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/">US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</title>
 		<link>https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</link>
 		
@@ -75,147 +218,6 @@
 
 					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>
 <p>The post <a href="https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</title>
-		<link>https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 15:17:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[Minnesota]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48312</guid>
-
-					<description><![CDATA[<p>Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/">Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace</title>
-		<link>https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 10:28:45 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48296</guid>
-
-					<description><![CDATA[<p>The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.</p>
-<p>The post <a href="https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/">Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels</title>
-		<link>https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[EU]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48303</guid>
-
-					<description><![CDATA[<p>When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.</p>
-<p>The post <a href="https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/">EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations</title>
-		<link>https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 09:39:57 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48292</guid>
-
-					<description><![CDATA[<p>A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. </p>
-<p>The post <a href="https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/">Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Flaw Allowed to Azure Cosmos DB Pwnage</title>
-		<link>https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 09:04:02 +0000</pubDate>
-				<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Azure]]></category>
-		<category><![CDATA[Cosmos DB]]></category>
-		<category><![CDATA[CosmosEscape]]></category>
-		<category><![CDATA[database]]></category>
-		<category><![CDATA[Patch]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48290</guid>
-
-					<description><![CDATA[<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>
-<p>The post <a href="https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/">Critical Flaw Allowed to Azure Cosmos DB Pwnage</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CareCloud Data Breach Impacts Over 350,000</title>
-		<link>https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 07:51:43 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[CareCloud]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48288</guid>
-
-					<description><![CDATA[<p>In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment.</p>
-<p>The post <a href="https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/">CareCloud Data Breach Impacts Over 350,000</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Code Execution Vulnerability Patched in TeamCity </title>
-		<link>https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 06:50:30 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[JetBrains]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[TeamCity]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48286</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.</p>
-<p>The post <a href="https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/">Critical Code Execution Vulnerability Patched in TeamCity </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
