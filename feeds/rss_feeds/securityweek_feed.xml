@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 03 Aug 2026 13:02:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Aug 2026 13:40:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,196 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</title>
-		<link>https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/</link>
+		<title>Zenity Raises $125 Million in Series C Funding</title>
+		<link>https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 13:02:06 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[bank]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[ransom paid]]></category>
-		<category><![CDATA[River Bank]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48356</guid>
-
-					<description><![CDATA[<p>The bank holding company was hacked in June, but the investigation into the incident continues.</p>
-<p>The post <a href="https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/">River Bank Says Hackers Deleted Data Stolen in Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Horizon3 Raises $250 Million to Fund Continuing Growth</title>
-		<link>https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
+		<pubDate>Tue, 04 Aug 2026 13:40:42 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48343</guid>
+		<category><![CDATA[Zenity]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48390</guid>
 
-					<description><![CDATA[<p>Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why.</p>
-<p>The post <a href="https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/">Horizon3 Raises $250 Million to Fund Continuing Growth</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The AI security company will invest in product innovation, global expansion, and customer experience.</p>
+<p>The post <a href="https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/">Zenity Raises $125 Million in Series C Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>N‑able Patches Vulnerability Exploited to Hack N-central Servers</title>
-		<link>https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/</link>
+		<title>TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover</title>
+		<link>https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 12:34:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[N-able]]></category>
-		<category><![CDATA[N-central]]></category>
+		<pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Omada]]></category>
+		<category><![CDATA[router]]></category>
+		<category><![CDATA[TP-Link]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48344</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48365</guid>
 
-					<description><![CDATA[<p>The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass.</p>
-<p>The post <a href="https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/">N‑able Patches Vulnerability Exploited to Hack N-central Servers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem.</p>
+<p>The post <a href="https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/">TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Brinks Home Discloses Data Breach as Hackers Leak Files</title>
-		<link>https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/</link>
+		<title>Obsidian Security Raises $85 Million at $1.1 Billion Valuation</title>
+		<link>https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Obsidian Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48388</guid>
+
+					<description><![CDATA[<p>Obsidian Security has developed a platform for governing AI agents across third-party applications.</p>
+<p>The post <a href="https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/">Obsidian Security Raises $85 Million at $1.1 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering</title>
+		<link>https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 11:45:14 +0000</pubDate>
+		<pubDate>Tue, 04 Aug 2026 10:54:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[agent-to-agent]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48385</guid>
+
+					<description><![CDATA[<p>A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent.</p>
+<p>The post <a href="https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/">Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks</title>
+		<link>https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 09:56:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BMC]]></category>
+		<category><![CDATA[data center]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48383</guid>
+
+					<description><![CDATA[<p>Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login.</p>
+<p>The post <a href="https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/">Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>150,000 Impacted by Madera Community Hospital Data Breach</title>
+		<link>https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 08:33:45 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Brinks Home]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48338</guid>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[hospital]]></category>
+		<category><![CDATA[Madera Hospital]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48381</guid>
 
-					<description><![CDATA[<p>The physical security firm says its alarm monitoring and system functionality have not been affected.</p>
-<p>The post <a href="https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/">Brinks Home Discloses Data Breach as Hackers Leak Files</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>An extortion group stole personal, financial, and medical information from the hospital’s network.</p>
+<p>The post <a href="https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/">150,000 Impacted by Madera Community Hospital Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</title>
-		<link>https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 10:39:41 +0000</pubDate>
-				<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48336</guid>
-
-					<description><![CDATA[<p>The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement.</p>
-<p>The post <a href="https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/">Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</title>
-		<link>https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 09:17:37 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Midnight Blizzard]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Wi-Fi]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48333</guid>
-
-					<description><![CDATA[<p>Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations.</p>
-<p>The post <a href="https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/">Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</title>
-		<link>https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/</link>
+		<title>Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers</title>
+		<link>https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 03 Aug 2026 08:48:02 +0000</pubDate>
+		<pubDate>Tue, 04 Aug 2026 05:18:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48379</guid>
+
+					<description><![CDATA[<p>The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/">Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems</title>
+		<link>https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 01:54:00 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[New York]]></category>
 		<category><![CDATA[OT]]></category>
 		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48324</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48375</guid>
 
-					<description><![CDATA[<p>Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers.</p>
-<p>The post <a href="https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/">US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/">New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</title>
-		<link>https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Sat, 01 Aug 2026 12:30:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48322</guid>
-
-					<description><![CDATA[<p>The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. </p>
-<p>The post <a href="https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/">Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ruby on Rails Patches Critical Vulnerability</title>
-		<link>https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 01 Aug 2026 11:15:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ruby]]></category>
-		<category><![CDATA[Ruby on Rails]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48319</guid>
-
-					<description><![CDATA[<p>The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).</p>
-<p>The post <a href="https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/">Ruby on Rails Patches Critical Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</title>
-		<link>https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/</link>
+		<title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)</title>
+		<link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 31 Jul 2026 15:47:02 +0000</pubDate>
+		<pubDate>Mon, 03 Aug 2026 15:50:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48315</guid>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[Black Hat 2026]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48371</guid>
 
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>
+<p>The post <a href="https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/">Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion</title>
+		<link>https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 15:32:05 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Acquisition]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48367</guid>
+
+					<description><![CDATA[<p>The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud.</p>
+<p>The post <a href="https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/">Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
