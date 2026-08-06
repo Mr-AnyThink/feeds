@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 05 Aug 2026 13:00:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Aug 2026 13:04:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,188 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</title>
+		<link>https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 12:54:09 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT Atlas]]></category>
+		<category><![CDATA[Claude]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48461</guid>
+
+					<description><![CDATA[<p>Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.</p>
+<p>The post <a href="https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/">Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway</title>
+		<link>https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[governance]]></category>
+		<category><![CDATA[GRC]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48440</guid>
+
+					<description><![CDATA[<p>(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. </p>
+<p>The post <a href="https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/">Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Paperclip Flaw Allowed Admin Access, Code Execution</title>
+		<link>https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 11:09:11 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Paperclip]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48455</guid>
+
+					<description><![CDATA[<p>An attacker could self-register, sign in for board-level API access, and import a new company for code execution.</p>
+<p>The post <a href="https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/">Critical Paperclip Flaw Allowed Admin Access, Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta AI Hacked External Systems During Cybersecurity Testing</title>
+		<link>https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 09:56:26 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Meta AI]]></category>
+		<category><![CDATA[rogue AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48450</guid>
+
+					<description><![CDATA[<p>The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week.</p>
+<p>The post <a href="https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/">Meta AI Hacked External Systems During Cybersecurity Testing</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</title>
+		<link>https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 09:30:30 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[prison]]></category>
+		<category><![CDATA[Ransom Cartel]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48448</guid>
+
+					<description><![CDATA[<p>Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution.</p>
+<p>The post <a href="https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/">Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 07:20:20 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48446</guid>
+
+					<description><![CDATA[<p>Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/">Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability</title>
+		<link>https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2026 06:37:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[JetBrains]]></category>
+		<category><![CDATA[TeamCity]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48443</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/">Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones </title>
+		<link>https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 19:40:00 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Bixby]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[mobile security]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48275</guid>
+
+					<description><![CDATA[<p>The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications.</p>
+<p>The post <a href="https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/">How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)</title>
+		<link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 14:36:29 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Black Hat]]></category>
+		<category><![CDATA[Black Hat 2026]]></category>
+		<category><![CDATA[security products]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48434</guid>
+
+					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>
+<p>The post <a href="https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/">Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict</title>
 		<link>https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/</link>
 		
@@ -41,195 +223,6 @@
 
 					<description><![CDATA[<p>CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield.</p>
 <p>The post <a href="https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/">The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts</title>
-		<link>https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 12:48:49 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Pass-ta-key]]></category>
-		<category><![CDATA[passkey]]></category>
-		<category><![CDATA[Passwordless]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48422</guid>
-
-					<description><![CDATA[<p>Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation.</p>
-<p>The post <a href="https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/">New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>311,000 Impacted by Brown Health Medical Group-MA Data Breach</title>
-		<link>https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 11:35:23 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Brown Health]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48416</guid>
-
-					<description><![CDATA[<p>Hackers stole personal information, medical records, and financial information from the organization’s server.</p>
-<p>The post <a href="https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/">311,000 Impacted by Brown Health Medical Group-MA Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data </title>
-		<link>https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 11:11:29 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[alliance]]></category>
-		<category><![CDATA[framework]]></category>
-		<category><![CDATA[guidelines]]></category>
-		<category><![CDATA[SAFE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48414</guid>
-
-					<description><![CDATA[<p>The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/">Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Agents Targeted Real People and Projects During Cybersecurity Tests</title>
-		<link>https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 10:33:41 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AISI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[GPT]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48412</guid>
-
-					<description><![CDATA[<p>AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects.</p>
-<p>The post <a href="https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/">AI Agents Targeted Real People and Projects During Cybersecurity Tests</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 09:44:50 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apache Tomcat]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Langflow]]></category>
-		<category><![CDATA[N-central]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48410</guid>
-
-					<description><![CDATA[<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/">CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack</title>
-		<link>https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 08:56:58 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[ChainDrop]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Mini Shai-Hulud]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[Shai-Hulud]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48408</guid>
-
-					<description><![CDATA[<p>The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials.</p>
-<p>The post <a href="https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/">Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Water Sector Cyberattacks Reportedly Hit at Least 12 States</title>
-		<link>https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 05 Aug 2026 07:24:52 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48404</guid>
-
-					<description><![CDATA[<p>Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.</p>
-<p>The post <a href="https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/">Water Sector Cyberattacks Reportedly Hit at Least 12 States</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 04 Aug 2026 16:49:39 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2026]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48398</guid>
-
-					<description><![CDATA[<p>Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/">Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer</title>
-		<link>https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/</link>
-		
-		<dc:creator><![CDATA[Etay Maor]]></dc:creator>
-		<pubDate>Tue, 04 Aug 2026 16:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cloud Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[CASB]]></category>
-		<category><![CDATA[cloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48400</guid>
-
-					<description><![CDATA[<p>Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use.</p>
-<p>The post <a href="https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/">Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
