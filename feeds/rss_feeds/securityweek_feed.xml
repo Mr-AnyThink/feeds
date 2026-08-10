@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 08 Aug 2026 04:58:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Aug 2026 11:44:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,129 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New Jersey, Alabama Join States Targeted in Water Cyberattacks</title>
+		<link>https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 11:44:26 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48504</guid>
+
+					<description><![CDATA[<p>Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.</p>
+<p>The post <a href="https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/">New Jersey, Alabama Join States Targeted in Water Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Metabase Patches Vulnerability Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 11:03:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Metabase]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48502</guid>
+
+					<description><![CDATA[<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>
+<p>The post <a href="https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/">Metabase Patches Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility</title>
+		<link>https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 10:01:52 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[PLC]]></category>
+		<category><![CDATA[Poland]]></category>
+		<category><![CDATA[power grid]]></category>
+		<category><![CDATA[SCADA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48499</guid>
+
+					<description><![CDATA[<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>
+<p>The post <a href="https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/">Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 09:31:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Kemp LoadMaster]]></category>
+		<category><![CDATA[Progress Software]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48496</guid>
+
+					<description><![CDATA[<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/">CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Corporate Data Stolen in Levi Strauss Cyberattack</title>
+		<link>https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 08:55:44 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Levi Strauss]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48493</guid>
+
+					<description><![CDATA[<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>
+<p>The post <a href="https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/">Corporate Data Stolen in Levi Strauss Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</title>
+		<link>https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 04:44:32 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Belgium]]></category>
+		<category><![CDATA[Connective]]></category>
+		<category><![CDATA[eID]]></category>
+		<category><![CDATA[electronic signature]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nitro]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48490</guid>
+
+					<description><![CDATA[<p>The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.</p>
+<p>The post <a href="https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/">Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Critical One-Click Vulnerability in Atlassian&#8217;s Rovo AI Exposed Enterprise Data</title>
 		<link>https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/</link>
 		
@@ -38,6 +161,7 @@
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Atlassian]]></category>
 		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Rovo]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48482</guid>
 
@@ -93,132 +217,13 @@
 		<pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[brake controller]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[truck]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48478</guid>
 
 					<description><![CDATA[<p>NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities.</p>
 <p>The post <a href="https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/">Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)</title>
-		<link>https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 07 Aug 2026 09:24:22 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Black Hat]]></category>
-		<category><![CDATA[Black Hat 2026]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48475</guid>
-
-					<description><![CDATA[<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>
-<p>The post <a href="https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/">Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft, Apple Release Fresh Security Updates</title>
-		<link>https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Aug 2026 09:09:54 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[patched]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48473</guid>
-
-					<description><![CDATA[<p>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/">Microsoft, Apple Release Fresh Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>3.8 Million Impacted by Unlimited Technology Systems Data Breach</title>
-		<link>https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Aug 2026 07:22:05 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Unlimited Technology Systems]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48469</guid>
-
-					<description><![CDATA[<p>Hackers stole personal, medical, and health insurance information from a company’s data center.</p>
-<p>The post <a href="https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/">3.8 Million Impacted by Unlimited Technology Systems Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical Vulnerabilities Patched With Chrome 151 Update</title>
-		<link>https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 07 Aug 2026 06:56:56 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48467</guid>
-
-					<description><![CDATA[<p>The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/">Critical Vulnerabilities Patched With Chrome 151 Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Snowflake Hacker Pleads Guilty in US Court</title>
-		<link>https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 06 Aug 2026 14:56:31 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<category><![CDATA[Snowflake]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48465</guid>
-
-					<description><![CDATA[<p>Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. </p>
-<p>The post <a href="https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/">Snowflake Hacker Pleads Guilty in US Court</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</title>
-		<link>https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 06 Aug 2026 12:54:09 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[ChatGPT Atlas]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48461</guid>
-
-					<description><![CDATA[<p>Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.</p>
-<p>The post <a href="https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/">Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
