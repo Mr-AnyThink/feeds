@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 12 Aug 2026 11:37:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Aug 2026 11:42:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,181 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Venture Firm Team8 Secures Additional $365 Million</title>
+		<link>https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 11:42:48 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Team8]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48592</guid>
+
+					<description><![CDATA[<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>
+<p>The post <a href="https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/">Venture Firm Team8 Secures Additional $365 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</title>
+		<link>https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 10:40:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48590</guid>
+
+					<description><![CDATA[<p>The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/">Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</title>
+		<link>https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 09:53:04 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[hack back]]></category>
+		<category><![CDATA[memorandum]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48587</guid>
+
+					<description><![CDATA[<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>
+<p>The post <a href="https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/">White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs</title>
+		<link>https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 09:06:40 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[VMware]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48582</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/">Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217;</title>
+		<link>https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 08:38:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chaotic Eclipse]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Microsoft Defender]]></category>
+		<category><![CDATA[ShieldBreak]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48580</guid>
+
+					<description><![CDATA[<p>Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.</p>
+<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SharePoint Vulnerability Exploited Shortly After PoC Release</title>
+		<link>https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 14:47:01 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[PoC]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48572</guid>
+
+					<description><![CDATA[<p>The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.</p>
+<p>The post <a href="https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/">SharePoint Vulnerability Exploited Shortly After PoC Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mindgard Raises $30 Million to Protect AI Systems</title>
+		<link>https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 13:24:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mindgard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48570</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.</p>
+<p>The post <a href="https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/">Mindgard Raises $30 Million to Protect AI Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp Unveils New Scam Alert Feature</title>
+		<link>https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[scam]]></category>
+		<category><![CDATA[Scam Alert]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48565</guid>
+
+					<description><![CDATA[<p>Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.</p>
+<p>The post <a href="https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/">WhatsApp Unveils New Scam Alert Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</title>
+		<link>https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[ServiceNow]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48568</guid>
+
+					<description><![CDATA[<p>Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.</p>
+<p>The post <a href="https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/">Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ceva Logistics Operations Disrupted by Cyberattack</title>
 		<link>https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/</link>
 		
@@ -38,191 +213,11 @@
 		<category><![CDATA[Ceva Logistics]]></category>
 		<category><![CDATA[cyberattack]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48562</guid>
 
 					<description><![CDATA[<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p>
 <p>The post <a href="https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/">Ceva Logistics Operations Disrupted by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined</title>
-		<link>https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 10:55:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[Chipmaker Patch Tuesday]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48560</guid>
-
-					<description><![CDATA[<p>Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution.</p>
-<p>The post <a href="https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/">Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack</title>
-		<link>https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 09:55:45 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[LiteLLM]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48558</guid>
-
-					<description><![CDATA[<p>LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.</p>
-<p>The post <a href="https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/">Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fresh Windows Zero-Day Exploited in North Korean Cyberattacks</title>
-		<link>https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 08:45:53 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Lazarus]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48556</guid>
-
-					<description><![CDATA[<p>The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/">Fresh Windows Zero-Day Exploited in North Korean Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti EPM Update Patches Remotely Exploitable Flaws</title>
-		<link>https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 08:14:46 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48554</guid>
-
-					<description><![CDATA[<p>The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/">Ivanti EPM Update Patches Remotely Exploitable Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 07:51:55 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[ICS Patch Tuesday]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48552</guid>
-
-					<description><![CDATA[<p>CISA has also published several advisories describing vulnerabilities in ICS and other OT products.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform</title>
-		<link>https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 07:31:11 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[GMS]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48550</guid>
-
-					<description><![CDATA[<p>The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/">SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Firewall Zero-Day Exploited for DoS Attacks</title>
-		<link>https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 05:10:47 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[firewall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48545</guid>
-
-					<description><![CDATA[<p>CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/">Cisco Patches Firewall Zero-Day Exploited for DoS Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day</title>
-		<link>https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Aug 2026 18:46:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48543</guid>
-
-					<description><![CDATA[<p>A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.</p>
-<p>The post <a href="https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/">August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws</title>
-		<link>https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 11 Aug 2026 16:50:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[patches]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48541</guid>
-
-					<description><![CDATA[<p>The security defects could be exploited for arbitrary code execution and denial-of-service.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/">Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
