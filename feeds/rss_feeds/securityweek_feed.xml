@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 13 Aug 2026 11:42:52 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Aug 2026 11:57:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.3</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,196 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Venture Firm Team8 Secures Additional $365 Million</title>
-		<link>https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/</link>
+		<title>In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</title>
+		<link>https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 11:42:48 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Team8]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48592</guid>
+		<pubDate>Fri, 14 Aug 2026 11:57:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48628</guid>
 
-					<description><![CDATA[<p>The Israeli company has nearly $2 billion in total assets under management since 2014.</p>
-<p>The post <a href="https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/">Venture Firm Team8 Secures Additional $365 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/">In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</title>
-		<link>https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/</link>
+		<title>Trivy, Not LiteLLM Behind the 2,500 Org Compromise</title>
+		<link>https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 10:40:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48590</guid>
+		<pubDate>Fri, 14 Aug 2026 11:35:23 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[LiteLLM]]></category>
+		<category><![CDATA[Supply Chain]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[Trivy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48624</guid>
 
-					<description><![CDATA[<p>The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/">Fortinet Patches Authentication Flaws in FortiWeb and FortiManager</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.</p>
+<p>The post <a href="https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/">Trivy, Not LiteLLM Behind the 2,500 Org Compromise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</title>
-		<link>https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/</link>
+		<title>Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal</title>
+		<link>https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 09:53:04 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[hack back]]></category>
-		<category><![CDATA[memorandum]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<category><![CDATA[White House]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48587</guid>
+		<pubDate>Fri, 14 Aug 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Google Cloud]]></category>
+		<category><![CDATA[PQC]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Quantum Computing]]></category>
+		<category><![CDATA[roadmap]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48621</guid>
 
-					<description><![CDATA[<p>Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.</p>
-<p>The post <a href="https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/">White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.</p>
+<p>The post <a href="https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/">Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs</title>
-		<link>https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/</link>
+		<title>1.6 Million Likely Impacted by RingCentral Data Breach</title>
+		<link>https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 09:06:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[VMware]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48582</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/">Critical VMware vCenter Vulnerability in Attackers&#8217; Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217;</title>
-		<link>https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 08:38:03 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chaotic Eclipse]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[Microsoft Defender]]></category>
-		<category><![CDATA[ShieldBreak]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48580</guid>
-
-					<description><![CDATA[<p>Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.</p>
-<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;ShieldBreak&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SharePoint Vulnerability Exploited Shortly After PoC Release</title>
-		<link>https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 14:47:01 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[PoC]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48572</guid>
-
-					<description><![CDATA[<p>The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/">SharePoint Vulnerability Exploited Shortly After PoC Release</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mindgard Raises $30 Million to Protect AI Systems</title>
-		<link>https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 13:24:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mindgard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48570</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.</p>
-<p>The post <a href="https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/">Mindgard Raises $30 Million to Protect AI Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp Unveils New Scam Alert Feature</title>
-		<link>https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Fraud & Identity Theft]]></category>
-		<category><![CDATA[scam]]></category>
-		<category><![CDATA[Scam Alert]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48565</guid>
-
-					<description><![CDATA[<p>Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.</p>
-<p>The post <a href="https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/">WhatsApp Unveils New Scam Alert Feature</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</title>
-		<link>https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Salesforce]]></category>
-		<category><![CDATA[ServiceNow]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48568</guid>
-
-					<description><![CDATA[<p>Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.</p>
-<p>The post <a href="https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/">Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ceva Logistics Operations Disrupted by Cyberattack</title>
-		<link>https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 12 Aug 2026 11:37:28 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ceva Logistics]]></category>
-		<category><![CDATA[cyberattack]]></category>
+		<pubDate>Fri, 14 Aug 2026 10:24:03 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48562</guid>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[RingCentral]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48615</guid>
 
-					<description><![CDATA[<p>Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers.</p>
-<p>The post <a href="https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/">Ceva Logistics Operations Disrupted by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>
+<p>The post <a href="https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/">1.6 Million Likely Impacted by RingCentral Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 1,000 Charities Hit by Beacon CRM Data Breach</title>
+		<link>https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 09:20:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Beacon]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[CRM]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48612</guid>
+
+					<description><![CDATA[<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.</p>
+<p>The post <a href="https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/">Over 1,000 Charities Hit by Beacon CRM Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>14,000 Trezor Customers Impacted by Data Breach at ShipMonk</title>
+		<link>https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 08:16:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Metabase]]></category>
+		<category><![CDATA[ShipMonk]]></category>
+		<category><![CDATA[Trezor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48609</guid>
+
+					<description><![CDATA[<p>Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.</p>
+<p>The post <a href="https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/">14,000 Trezor Customers Impacted by Data Breach at ShipMonk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Exploiting Unpatched GeoServer Zero-Day</title>
+		<link>https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 07:01:56 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[GeoServer]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48606</guid>
+
+					<description><![CDATA[<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/">Hackers Exploiting Unpatched GeoServer Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions</title>
+		<link>https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 06:41:43 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AmnesiaStealer]]></category>
+		<category><![CDATA[information stealer]]></category>
+		<category><![CDATA[macOS malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48604</guid>
+
+					<description><![CDATA[<p>The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies.</p>
+<p>The post <a href="https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/">AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 14:41:44 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48599</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/">Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Commerce Bug Targeted Immediately After Disclosure</title>
+		<link>https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 14:17:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Adobe Commerce]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48596</guid>
+
+					<description><![CDATA[<p>The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/">Adobe Commerce Bug Targeted Immediately After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
