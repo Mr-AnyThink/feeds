@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 15 Aug 2026 13:27:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Aug 2026 12:13:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Irregular Details How a Naming Error Let AI Models Attack a Real Company </title>
+		<link>https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 12:11:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[AI testing]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Irregular]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48650</guid>
+
+					<description><![CDATA[<p>The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models.</p>
+<p>The post <a href="https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/">Irregular Details How a Naming Error Let AI Models Attack a Real Company </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</title>
+		<link>https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 11:09:57 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48648</guid>
+
+					<description><![CDATA[<p>Anthropic has been conducting tests to identify issues in how AI agents interact with each other.</p>
+<p>The post <a href="https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/">Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>40,000 Impacted by SafePal Data Breach</title>
+		<link>https://www.securityweek.com/40000-impacted-by-safepal-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 09:37:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[SafePal]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48646</guid>
+
+					<description><![CDATA[<p>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.</p>
+<p>The post <a href="https://www.securityweek.com/40000-impacted-by-safepal-data-breach/">40,000 Impacted by SafePal Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent macOS Screen Sharing Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 08:47:38 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[Screen Sharing]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48644</guid>
+
+					<description><![CDATA[<p>Threat actors gained root access to the vulnerable systems and deployed a Monero miner.</p>
+<p>The post <a href="https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/">Recent macOS Screen Sharing Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure</title>
+		<link>https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 08:13:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SAP]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48639</guid>
+
+					<description><![CDATA[<p>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.</p>
+<p>The post <a href="https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/">Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortune 500 Companies Hit in Azure Data Theft Campaign</title>
+		<link>https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 06:51:08 +0000</pubDate>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Azure]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[infostealer]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48637</guid>
+
+					<description><![CDATA[<p>A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations.</p>
+<p>The post <a href="https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/">Fortune 500 Companies Hit in Azure Data Theft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</title>
 		<link>https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/</link>
 		
@@ -51,6 +171,7 @@
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
 		<pubDate>Fri, 14 Aug 2026 11:35:23 +0000</pubDate>
 				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[LiteLLM]]></category>
 		<category><![CDATA[Supply Chain]]></category>
 		<category><![CDATA[supply chain attack]]></category>
@@ -102,126 +223,6 @@
 
 					<description><![CDATA[<p>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers.</p>
 <p>The post <a href="https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/">1.6 Million Likely Impacted by RingCentral Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 1,000 Charities Hit by Beacon CRM Data Breach</title>
-		<link>https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 14 Aug 2026 09:20:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Beacon]]></category>
-		<category><![CDATA[charity]]></category>
-		<category><![CDATA[CRM]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48612</guid>
-
-					<description><![CDATA[<p>The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.</p>
-<p>The post <a href="https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/">Over 1,000 Charities Hit by Beacon CRM Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>14,000 Trezor Customers Impacted by Data Breach at ShipMonk</title>
-		<link>https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Aug 2026 08:16:00 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Metabase]]></category>
-		<category><![CDATA[ShipMonk]]></category>
-		<category><![CDATA[Trezor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48609</guid>
-
-					<description><![CDATA[<p>Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.</p>
-<p>The post <a href="https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/">14,000 Trezor Customers Impacted by Data Breach at ShipMonk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Exploiting Unpatched GeoServer Zero-Day</title>
-		<link>https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Aug 2026 07:01:56 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[GeoServer]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48606</guid>
-
-					<description><![CDATA[<p>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/">Hackers Exploiting Unpatched GeoServer Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions</title>
-		<link>https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 14 Aug 2026 06:41:43 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AmnesiaStealer]]></category>
-		<category><![CDATA[information stealer]]></category>
-		<category><![CDATA[macOS malware]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48604</guid>
-
-					<description><![CDATA[<p>The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies.</p>
-<p>The post <a href="https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/">AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</title>
-		<link>https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 14:41:44 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[M&A]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48599</guid>
-
-					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/">Cybersecurity M&#038;A Roundup: 21 Deals Announced in July 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Commerce Bug Targeted Immediately After Disclosure</title>
-		<link>https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 13 Aug 2026 14:17:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Adobe Commerce]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48596</guid>
-
-					<description><![CDATA[<p>The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/">Adobe Commerce Bug Targeted Immediately After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
