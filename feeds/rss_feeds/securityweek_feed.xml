@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 21 Aug 2026 09:23:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Aug 2026 18:31:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,112 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</title>
+		<link>https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sat, 22 Aug 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[trojan]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48795</guid>
+
+					<description><![CDATA[<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>
+<p>The post <a href="https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Former NSA Director Paul Nakasone Launches National Security Advisory Firm</title>
+		<link>https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 16:27:52 +0000</pubDate>
+				<category><![CDATA[Management & Strategy]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48790</guid>
+
+					<description><![CDATA[<p>The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.</p>
+<p>The post <a href="https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/">Former NSA Director Paul Nakasone Launches National Security Advisory Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</title>
+		<link>https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 15:11:16 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48785</guid>
+
+					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</title>
+		<link>https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 14:34:05 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48783</guid>
+
+					<description><![CDATA[<p>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>
+<p>The post <a href="https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</title>
+		<link>https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 14:22:06 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[phishing kit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48781</guid>
+
+					<description><![CDATA[<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.</p>
+<p>The post <a href="https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/">New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Isolated-vm Vulnerability Leads to RCE on Host</title>
+		<link>https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 12:26:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Isolated-vm]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48775</guid>
+
+					<description><![CDATA[<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>
+<p>The post <a href="https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rust Supply Chain Attack Linked to North Korean Hackers</title>
 		<link>https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</link>
 		
@@ -69,20 +175,21 @@
 		
 			</item>
 		<item>
-		<title>Microsoft Rolls Out 22 Fresh Security Patches</title>
+		<title>Microsoft Patches Exploited Entra ID Vulnerability</title>
 		<link>https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
 		<pubDate>Fri, 21 Aug 2026 08:12:19 +0000</pubDate>
 				<category><![CDATA[Cloud Security]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[patches]]></category>
 		<category><![CDATA[vulnerability]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48765</guid>
 
-					<description><![CDATA[<p>Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/">Microsoft Rolls Out 22 Fresh Security Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/">Microsoft Patches Exploited Entra ID Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
@@ -104,125 +211,6 @@
 
 					<description><![CDATA[<p>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.</p>
 <p>The post <a href="https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/">CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Target Zimbra Servers in Active Exploitation Campaign</title>
-		<link>https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 14:50:49 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zimbra]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48756</guid>
-
-					<description><![CDATA[<p>Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/">Hackers Target Zimbra Servers in Active Exploitation Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Surveillance – Everything You Wanted to Know, But Were Afraid to Ask</title>
-		<link>https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Surveillance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48653</guid>
-
-					<description><![CDATA[<p>We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it.</p>
-<p>The post <a href="https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/">Surveillance – Everything You Wanted to Know, But Were Afraid to Ask</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia</title>
-		<link>https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 13:16:35 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[camera]]></category>
-		<category><![CDATA[Dahua]]></category>
-		<category><![CDATA[IoT security]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Ukraine]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48753</guid>
-
-					<description><![CDATA[<p>Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.</p>
-<p>The post <a href="https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/">Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities</title>
-		<link>https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 12:24:53 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48751</guid>
-
-					<description><![CDATA[<p>The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.</p>
-<p>The post <a href="https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/">Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MLflow Vulnerability Exploited for Cloud Credential Theft</title>
-		<link>https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 12:05:55 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[MLflow]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48748</guid>
-
-					<description><![CDATA[<p>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/">MLflow Vulnerability Exploited for Cloud Credential Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 20 Aug 2026 11:46:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48746</guid>
-
-					<description><![CDATA[<p>The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/">Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
