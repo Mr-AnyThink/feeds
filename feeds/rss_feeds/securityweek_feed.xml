@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 24 Aug 2026 11:58:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Aug 2026 11:18:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,146 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>First Malware Built Specifically for Car Head Units Fuels Botnet</title>
+		<link>https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 11:18:22 +0000</pubDate>
+				<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[BadBox]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[car hacking]]></category>
+		<category><![CDATA[head unit]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48860</guid>
+
+					<description><![CDATA[<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p>
+<p>The post <a href="https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/">First Malware Built Specifically for Car Head Units Fuels Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</title>
+		<link>https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/</link>
+		
+		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[patches]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48854</guid>
+
+					<description><![CDATA[<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>
+<p>The post <a href="https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/">Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</title>
+		<link>https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 08:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48856</guid>
+
+					<description><![CDATA[<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.</p>
+<p>The post <a href="https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/">Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Exploited Oracle WebLogic Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 07:46:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Oracle WebLogic]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48850</guid>
+
+					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/">CISA Warns of Exploited Oracle WebLogic Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</title>
+		<link>https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 17:38:21 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[ReliaQuest]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<category><![CDATA[social engineering]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48841</guid>
+
+					<description><![CDATA[<p>A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard.</p>
+<p>The post <a href="https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/">ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hired for One Job, Judged on Another: The CISO’s Real Problem</title>
+		<link>https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/</link>
+		
+		<dc:creator><![CDATA[Sravish Sridhar]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48820</guid>
+
+					<description><![CDATA[<p>The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job.</p>
+<p>The post <a href="https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/">Hired for One Job, Judged on Another: The CISO’s Real Problem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</title>
+		<link>https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 12:42:09 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[fine]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[Netherlands]]></category>
+		<category><![CDATA[uber]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48825</guid>
+
+					<description><![CDATA[<p>Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation.</p>
+<p>The post <a href="https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/">Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>91 Vulnerabilities Patched in Spring Application Framework</title>
 		<link>https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/</link>
 		
@@ -72,142 +212,11 @@
 		<category><![CDATA[Apollo]]></category>
 		<category><![CDATA[cybercrime]]></category>
 		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=48813</guid>
 
 					<description><![CDATA[<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>
 <p>The post <a href="https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/">Personal Information Exposed in Apollo Global Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rethinking Application Security for the AI Era</title>
-		<link>https://www.securityweek.com/rethinking-application-security-for-the-ai-era/</link>
-		
-		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[appsec]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48811</guid>
-
-					<description><![CDATA[<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.</p>
-<p>The post <a href="https://www.securityweek.com/rethinking-application-security-for-the-ai-era/">Rethinking Application Security for the AI Era</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Iran-Linked Hackers Shut Down UK Power Plant for Four Days</title>
-		<link>https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 09:22:09 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[critical infrastructure]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Iran]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48807</guid>
-
-					<description><![CDATA[<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks.</p>
-<p>The post <a href="https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/">Iran-Linked Hackers Shut Down UK Power Plant for Four Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy</title>
-		<link>https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 09:11:11 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[privacy]]></category>
-		<category><![CDATA[settlement]]></category>
-		<category><![CDATA[TikTok]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48806</guid>
-
-					<description><![CDATA[<p>TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.</p>
-<p>The post <a href="https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/">TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</title>
-		<link>https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 07:18:58 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthorpic]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48804</guid>
-
-					<description><![CDATA[<p>Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/">Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</title>
-		<link>https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sat, 22 Aug 2026 08:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[banking trojan]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[trojan]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48795</guid>
-
-					<description><![CDATA[<p>The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware.</p>
-<p>The post <a href="https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/">Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former NSA Director Paul Nakasone Launches National Security Advisory Firm</title>
-		<link>https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 16:27:52 +0000</pubDate>
-				<category><![CDATA[Management & Strategy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48790</guid>
-
-					<description><![CDATA[<p>The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks.</p>
-<p>The post <a href="https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/">Former NSA Director Paul Nakasone Launches National Security Advisory Firm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</title>
-		<link>https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 21 Aug 2026 15:11:16 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48785</guid>
-
-					<description><![CDATA[<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
