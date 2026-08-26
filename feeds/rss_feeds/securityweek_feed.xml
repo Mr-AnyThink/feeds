@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 25 Aug 2026 11:18:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Aug 2026 11:31:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,195 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>First Malware Built Specifically for Car Head Units Fuels Botnet</title>
-		<link>https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/</link>
+		<title>CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</title>
+		<link>https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 11:18:22 +0000</pubDate>
-				<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[BadBox]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[car hacking]]></category>
-		<category><![CDATA[head unit]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48860</guid>
+		<pubDate>Wed, 26 Aug 2026 11:29:50 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Water]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48888</guid>
 
-					<description><![CDATA[<p>Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices.</p>
-<p>The post <a href="https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/">First Malware Built Specifically for Car Head Units Fuels Botnet</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/">CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</title>
-		<link>https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/</link>
+		<title>The MFA Identity Trap: When Authentication Creates a False Sense of Security</title>
+		<link>https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</link>
 		
-		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Torsten George]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[2FA]]></category>
+		<category><![CDATA[MFA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48886</guid>
+
+					<description><![CDATA[<p>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop.</p>
+<p>The post <a href="https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/">The MFA Identity Trap: When Authentication Creates a False Sense of Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 152 Patches Over 300 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 09:50:34 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
 		<category><![CDATA[patches]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48854</guid>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48884</guid>
 
-					<description><![CDATA[<p>Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk.</p>
-<p>The post <a href="https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/">Silent Patches Don’t Stop Attackers &#8211; They Blind Defenders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/">Chrome 152 Patches Over 300 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</title>
-		<link>https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 08:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48856</guid>
-
-					<description><![CDATA[<p>AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.</p>
-<p>The post <a href="https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/">Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited Oracle WebLogic Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/</link>
+		<title>Sensitive Information Exposed in Nutex Health Data Breach</title>
+		<link>https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 07:46:34 +0000</pubDate>
+		<pubDate>Wed, 26 Aug 2026 07:41:50 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Nutex Health]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48882</guid>
+
+					<description><![CDATA[<p>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration.</p>
+<p>The post <a href="https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/">Sensitive Information Exposed in Nutex Health Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Exploited Gitea Vulnerability</title>
+		<link>https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 05:17:28 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle WebLogic]]></category>
+		<category><![CDATA[Gitea]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48850</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48877</guid>
 
-					<description><![CDATA[<p>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/">CISA Warns of Exploited Oracle WebLogic Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/">CISA Warns of Exploited Gitea Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</title>
-		<link>https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/</link>
+		<title>Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</title>
+		<link>https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 17:38:21 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[ReliaQuest]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[social engineering]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48841</guid>
-
-					<description><![CDATA[<p>A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard.</p>
-<p>The post <a href="https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/">ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hired for One Job, Judged on Another: The CISO’s Real Problem</title>
-		<link>https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/</link>
-		
-		<dc:creator><![CDATA[Sravish Sridhar]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48820</guid>
-
-					<description><![CDATA[<p>The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job.</p>
-<p>The post <a href="https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/">Hired for One Job, Judged on Another: The CISO’s Real Problem</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</title>
-		<link>https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 12:42:09 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
+		<pubDate>Tue, 25 Aug 2026 16:23:45 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[data protection]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[GDPR]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[uber]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48825</guid>
-
-					<description><![CDATA[<p>Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation.</p>
-<p>The post <a href="https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/">Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>91 Vulnerabilities Patched in Spring Application Framework</title>
-		<link>https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 11:58:28 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Spring]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48823</guid>
-
-					<description><![CDATA[<p>More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. </p>
-<p>The post <a href="https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/">91 Vulnerabilities Patched in Spring Application Framework</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Venezuelan Gets Record Federal Prison Term for ATM Jackpotting</title>
-		<link>https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 10:59:30 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[ATM jackpotting]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48816</guid>
-
-					<description><![CDATA[<p>Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses.</p>
-<p>The post <a href="https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/">Venezuelan Gets Record Federal Prison Term for ATM Jackpotting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Personal Information Exposed in Apollo Global Data Breach</title>
-		<link>https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 24 Aug 2026 10:08:42 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Apollo]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48813</guid>
+		<category><![CDATA[Linux Foundation]]></category>
+		<category><![CDATA[standard]]></category>
+		<category><![CDATA[TRACE]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48875</guid>
 
-					<description><![CDATA[<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>
-<p>The post <a href="https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/">Personal Information Exposed in Apollo Global Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p>
+<p>The post <a href="https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/">Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</title>
+		<link>https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 14:11:59 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alice]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48872</guid>
+
+					<description><![CDATA[<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p>
+<p>The post <a href="https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/">Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</title>
+		<link>https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 13:33:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[MiniOrange]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48870</guid>
+
+					<description><![CDATA[<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p>
+<p>The post <a href="https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/">WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</title>
+		<link>https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[account security]]></category>
+		<category><![CDATA[passkey]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48862</guid>
+
+					<description><![CDATA[<p>When Android users get a call from a non-contact, they will see more information about the caller, including their country.</p>
+<p>The post <a href="https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/">WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</title>
+		<link>https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 12:57:59 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48866</guid>
+
+					<description><![CDATA[<p>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville.</p>
+<p>The post <a href="https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/">Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
