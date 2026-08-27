@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 26 Aug 2026 11:31:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Aug 2026 14:18:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,198 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</title>
-		<link>https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/</link>
+		<title>Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear</title>
+		<link>https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 11:29:50 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[Featured]]></category>
+		<pubDate>Thu, 27 Aug 2026 14:17:26 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[executive order]]></category>
+		<category><![CDATA[Government Policy]]></category>
 		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48888</guid>
+		<category><![CDATA[White House]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48933</guid>
 
-					<description><![CDATA[<p>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/">CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns.</p>
+<p>The post <a href="https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/">Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>The MFA Identity Trap: When Authentication Creates a False Sense of Security</title>
-		<link>https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</link>
-		
-		<dc:creator><![CDATA[Torsten George]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[2FA]]></category>
-		<category><![CDATA[MFA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48886</guid>
-
-					<description><![CDATA[<p>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop.</p>
-<p>The post <a href="https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/">The MFA Identity Trap: When Authentication Creates a False Sense of Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 152 Patches Over 300 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/</link>
+		<title>Australia Arrests 2 Alleged TeamPCP Hackers</title>
+		<link>https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 09:50:34 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48884</guid>
+		<pubDate>Thu, 27 Aug 2026 12:48:03 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[Australia]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[TeamPCP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48929</guid>
 
-					<description><![CDATA[<p>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/">Chrome 152 Patches Over 300 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison.</p>
+<p>The post <a href="https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/">Australia Arrests 2 Alleged TeamPCP Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Sensitive Information Exposed in Nutex Health Data Breach</title>
-		<link>https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/</link>
+		<title>OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack</title>
+		<link>https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 07:41:50 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Nutex Health]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48882</guid>
-
-					<description><![CDATA[<p>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration.</p>
-<p>The post <a href="https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/">Sensitive Information Exposed in Nutex Health Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Warns of Exploited Gitea Vulnerability</title>
-		<link>https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 26 Aug 2026 05:17:28 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Gitea]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48877</guid>
-
-					<description><![CDATA[<p>CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/">CISA Warns of Exploited Gitea Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</title>
-		<link>https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 16:23:45 +0000</pubDate>
+		<pubDate>Thu, 27 Aug 2026 11:58:01 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Incident Response]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Linux Foundation]]></category>
-		<category><![CDATA[standard]]></category>
-		<category><![CDATA[TRACE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48875</guid>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48925</guid>
 
-					<description><![CDATA[<p>TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.</p>
-<p>The post <a href="https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/">Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels.</p>
+<p>The post <a href="https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/">OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</title>
-		<link>https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</link>
+		<title>Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</title>
+		<link>https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/</link>
 		
 		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 14:11:59 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Alice]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48872</guid>
-
-					<description><![CDATA[<p>The company, previously known as ActiveFence, has raised a total of $280 million from investors.</p>
-<p>The post <a href="https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/">Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</title>
-		<link>https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 13:33:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[MiniOrange]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48870</guid>
-
-					<description><![CDATA[<p>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin.</p>
-<p>The post <a href="https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/">WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</title>
-		<link>https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
+		<pubDate>Thu, 27 Aug 2026 11:53:10 +0000</pubDate>
 				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[account security]]></category>
-		<category><![CDATA[passkey]]></category>
-		<category><![CDATA[WhatsApp]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48862</guid>
+		<category><![CDATA[Okta]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48923</guid>
 
-					<description><![CDATA[<p>When Android users get a call from a non-contact, they will see more information about the caller, including their country.</p>
-<p>The post <a href="https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/">WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities.</p>
+<p>The post <a href="https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/">Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</title>
-		<link>https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/</link>
+		<title>CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite</title>
+		<link>https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/</link>
 		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 25 Aug 2026 12:57:59 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48866</guid>
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 11:15:00 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48828</guid>
 
-					<description><![CDATA[<p>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville.</p>
-<p>The post <a href="https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/">Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/">CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattack Causes Global Disruption at Boston Scientific</title>
+		<link>https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 10:18:27 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Boston Scientific]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48920</guid>
+
+					<description><![CDATA[<p>The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/">Cyberattack Causes Global Disruption at Boston Scientific</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Future of AI-Driven Security Depends on Complete Data</title>
+		<link>https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/</link>
+		
+		<dc:creator><![CDATA[Danelle Au]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48918</guid>
+
+					<description><![CDATA[<p>For twenty-five years, "data" in security meant logs and events. But logs are a lossy representation of reality. </p>
+<p>The post <a href="https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/">The Future of AI-Driven Security Depends on Complete Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</title>
+		<link>https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 09:01:06 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[QTFY]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48913</guid>
+
+					<description><![CDATA[<p>The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others.</p>
+<p>The post <a href="https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/">US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</title>
+		<link>https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Cyberwarfare]]></category>
+		<category><![CDATA[Norway]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Server Killers]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48915</guid>
+
+					<description><![CDATA[<p>The pro-Russian hacker group Server Killers claimed responsibility for the attack.</p>
+<p>The post <a href="https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/">Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent Citrix NetScaler Vulnerability Exploited in the Wild</title>
+		<link>https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 27 Aug 2026 04:39:19 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48907</guid>
+
+					<description><![CDATA[<p>CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.</p>
+<p>The post <a href="https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/">Recent Citrix NetScaler Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
