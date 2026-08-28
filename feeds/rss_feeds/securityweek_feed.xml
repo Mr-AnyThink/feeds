@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 27 Aug 2026 14:18:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Aug 2026 17:53:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,126 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions</title>
+		<link>https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 15:35:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48963</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/">In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ATF Confirms Cyber Incident After Ransomware Group Claims Attack</title>
+		<link>https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 13:59:14 +0000</pubDate>
+				<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[ATF]]></category>
+		<category><![CDATA[Qilin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48955</guid>
+
+					<description><![CDATA[<p>The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ.</p>
+<p>The post <a href="https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/">ATF Confirms Cyber Incident After Ransomware Group Claims Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Agents Exploited Linux Kernel Flaw on Company&#8217;s Own Systems</title>
+		<link>https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 12:36:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Linux kernel]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48950</guid>
+
+					<description><![CDATA[<p>CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents.</p>
+<p>The post <a href="https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/">OpenAI Agents Exploited Linux Kernel Flaw on Company&#8217;s Own Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge</title>
+		<link>https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 11:01:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[coalition]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48945</guid>
+
+					<description><![CDATA[<p>Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. </p>
+<p>The post <a href="https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/">Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says</title>
+		<link>https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48943</guid>
+
+					<description><![CDATA[<p>New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks.</p>
+<p>The post <a href="https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/">Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PaperCut Releases Emergency Patch for Exploited Zero-Day</title>
+		<link>https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2026 08:40:36 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[PaperCut]]></category>
+		<category><![CDATA[printer]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48939</guid>
+
+					<description><![CDATA[<p>A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations.</p>
+<p>The post <a href="https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/">PaperCut Releases Emergency Patch for Exploited Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear</title>
 		<link>https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/</link>
 		
@@ -79,6 +199,7 @@
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Incident Response]]></category>
 		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Hugging Face]]></category>
 		<category><![CDATA[Incident response]]></category>
 		<category><![CDATA[OpenAI]]></category>
@@ -103,125 +224,6 @@
 
 					<description><![CDATA[<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities.</p>
 <p>The post <a href="https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/">Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite</title>
-		<link>https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 11:15:00 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48828</guid>
-
-					<description><![CDATA[<p>SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/">CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattack Causes Global Disruption at Boston Scientific</title>
-		<link>https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 10:18:27 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Boston Scientific]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48920</guid>
-
-					<description><![CDATA[<p>The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/">Cyberattack Causes Global Disruption at Boston Scientific</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The Future of AI-Driven Security Depends on Complete Data</title>
-		<link>https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/</link>
-		
-		<dc:creator><![CDATA[Danelle Au]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Security Infrastructure]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48918</guid>
-
-					<description><![CDATA[<p>For twenty-five years, "data" in security meant logs and events. But logs are a lossy representation of reality. </p>
-<p>The post <a href="https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/">The Future of AI-Driven Security Depends on Complete Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</title>
-		<link>https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 09:01:06 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[China APT]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[QTFY]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48913</guid>
-
-					<description><![CDATA[<p>The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others.</p>
-<p>The post <a href="https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/">US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</title>
-		<link>https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cyberwarfare]]></category>
-		<category><![CDATA[Norway]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Server Killers]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48915</guid>
-
-					<description><![CDATA[<p>The pro-Russian hacker group Server Killers claimed responsibility for the attack.</p>
-<p>The post <a href="https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/">Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Recent Citrix NetScaler Vulnerability Exploited in the Wild</title>
-		<link>https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 04:39:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48907</guid>
-
-					<description><![CDATA[<p>CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.</p>
-<p>The post <a href="https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/">Recent Citrix NetScaler Vulnerability Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
