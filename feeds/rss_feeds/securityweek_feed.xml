@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 28 Aug 2026 17:53:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Aug 2026 07:59:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hasbro Data Breach Exposed Employee Personal Information</title>
+		<link>https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sat, 29 Aug 2026 11:55:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Hasbro]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=48968</guid>
+
+					<description><![CDATA[<p>A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach.</p>
+<p>The post <a href="https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/">Hasbro Data Breach Exposed Employee Personal Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions</title>
 		<link>https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/</link>
 		
@@ -73,6 +92,7 @@
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[CISA KEV]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Linux]]></category>
 		<category><![CDATA[Linux kernel]]></category>
 		<category><![CDATA[OpenAI]]></category>
@@ -207,23 +227,6 @@
 
 					<description><![CDATA[<p>New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels.</p>
 <p>The post <a href="https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/">OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</title>
-		<link>https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 27 Aug 2026 11:53:10 +0000</pubDate>
-				<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[Okta]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48923</guid>
-
-					<description><![CDATA[<p>The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities.</p>
-<p>The post <a href="https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/">Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
