@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 01 Sep 2026 12:39:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Sep 2026 13:39:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,209 +28,196 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars</title>
-		<link>https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/</link>
+		<title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</title>
+		<link>https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 12:37:15 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploit]]></category>
+		<pubDate>Wed, 02 Sep 2026 12:39:07 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[PLC]]></category>
-		<category><![CDATA[WAGO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49020</guid>
-
-					<description><![CDATA[<p>Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models.</p>
-<p>The post <a href="https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/">Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hackers Start Exploiting Critical Langflow Vulnerability</title>
-		<link>https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 12:07:54 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Langflow]]></category>
+		<category><![CDATA[Rockwell Automation]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49016</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49061</guid>
 
-					<description><![CDATA[<p>Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/">Hackers Start Exploiting Critical Langflow Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>
+<p>The post <a href="https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/">Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Five Venezuelans Plead Guilty in US Court to ATM Jackpotting</title>
-		<link>https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/</link>
+		<title>Exploit Published for Fresh Cleo Harmony Vulnerability</title>
+		<link>https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 11:24:25 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ATM jackpotting]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[plead guilty]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49012</guid>
-
-					<description><![CDATA[<p>The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash.</p>
-<p>The post <a href="https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/">Five Venezuelans Plead Guilty in US Court to ATM Jackpotting</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Gang Claims Nutex Health Data Breach</title>
-		<link>https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 10:47:47 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Gentlemen]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Nutex]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49010</guid>
-
-					<description><![CDATA[<p>The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/">Ransomware Gang Claims Nutex Health Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild</title>
-		<link>https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 09:59:44 +0000</pubDate>
+		<pubDate>Wed, 02 Sep 2026 12:18:15 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[JFrog]]></category>
-		<category><![CDATA[JFrog Artifactory]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49008</guid>
-
-					<description><![CDATA[<p>Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure.</p>
-<p>The post <a href="https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/">Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>9.5 Million Impacted by Aesto Health Data Breach</title>
-		<link>https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 09:09:34 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Aesto Health]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49006</guid>
-
-					<description><![CDATA[<p>Hackers stole personal and health information from the healthcare technology company’s AWS infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/">9.5 Million Impacted by Aesto Health Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WatchGuard Patches Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 08:50:04 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[RCE]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WatchGuard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49004</guid>
-
-					<description><![CDATA[<p>Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely.</p>
-<p>The post <a href="https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/">WatchGuard Patches Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PaperCut Exploitation Escalates to Active Intrusions</title>
-		<link>https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 05:27:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PaperCut]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48999</guid>
-
-					<description><![CDATA[<p>CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog.</p>
-<p>The post <a href="https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/">PaperCut Exploitation Escalates to Active Intrusions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit</title>
-		<link>https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 31 Aug 2026 14:32:34 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chaotic Eclipse]]></category>
-		<category><![CDATA[HardBreacher]]></category>
-		<category><![CDATA[Kaspersky]]></category>
+		<category><![CDATA[Cleo]]></category>
 		<category><![CDATA[PoC exploit]]></category>
-		<category><![CDATA[security products]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48997</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49059</guid>
 
-					<description><![CDATA[<p>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.</p>
-<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/">Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>
+<p>The post <a href="https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/">Exploit Published for Fresh Cleo Harmony Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ServiceNow Patches 3 Critical Code Injection Vulnerabilities</title>
-		<link>https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/</link>
+		<title>Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</title>
+		<link>https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 11:48:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49054</guid>
+
+					<description><![CDATA[<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/">Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Malicious Virtualizor Update Served via BGP Hijacking</title>
+		<link>https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 31 Aug 2026 13:59:19 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[patched]]></category>
-		<category><![CDATA[ServiceNow]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=48995</guid>
+		<pubDate>Wed, 02 Sep 2026 11:31:36 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[BGP]]></category>
+		<category><![CDATA[Softaculous]]></category>
+		<category><![CDATA[Virtualizor]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49056</guid>
 
-					<description><![CDATA[<p>Attackers could exploit the security defects to execute arbitrary code and access or tamper with data.</p>
-<p>The post <a href="https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/">ServiceNow Patches 3 Critical Code Injection Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/">Malicious Virtualizor Update Served via BGP Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</title>
+		<link>https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 10:38:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[OpenAI Astra]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49052</guid>
+
+					<description><![CDATA[<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>
+<p>The post <a href="https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/">OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome and Firefox Updates Patch Dozens of Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 09:12:29 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[Mozilla]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49050</guid>
+
+					<description><![CDATA[<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/">Chrome and Firefox Updates Patch Dozens of Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>23-Year-Old Sality P2P Botnet Disrupted</title>
+		<link>https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 08:38:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Sality]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49048</guid>
+
+					<description><![CDATA[<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>
+<p>The post <a href="https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/">23-Year-Old Sality P2P Botnet Disrupted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</title>
+		<link>https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 05:04:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SMA1000]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49038</guid>
+
+					<description><![CDATA[<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/">SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks Acquires AI Agent Platform Console</title>
+		<link>https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 20:29:42 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49033</guid>
+
+					<description><![CDATA[<p>The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/">Palo Alto Networks Acquires AI Agent Platform Console</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</title>
+		<link>https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 18:30:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49017</guid>
+
+					<description><![CDATA[<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>
+<p>The post <a href="https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
