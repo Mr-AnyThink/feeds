@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 02 Sep 2026 13:39:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Sep 2026 15:22:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,155 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</title>
+		<link>https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 15:15:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[LLM]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49082</guid>
+
+					<description><![CDATA[<p>New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review.</p>
+<p>The post <a href="https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/">Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HiddenLayer Raises $100 Million for AI Runtime Security</title>
+		<link>https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 12:17:30 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49080</guid>
+
+					<description><![CDATA[<p>The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.</p>
+<p>The post <a href="https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/">HiddenLayer Raises $100 Million for AI Runtime Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</title>
+		<link>https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49078</guid>
+
+					<description><![CDATA[<p>The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>
+<p>The post <a href="https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>153 Million Driver License Images Offered on Dark Web</title>
+		<link>https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 10:54:18 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49076</guid>
+
+					<description><![CDATA[<p>Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.</p>
+<p>The post <a href="https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/">153 Million Driver License Images Offered on Dark Web</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</title>
+		<link>https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 10:40:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-19949]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49074</guid>
+
+					<description><![CDATA[<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/">Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[CVE-2026-20354]]></category>
+		<category><![CDATA[CVE-2026-20355]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49072</guid>
+
+					<description><![CDATA[<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/">Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenLeash Adds a Human Check to Risky AI Agent Actions</title>
+		<link>https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 19:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49070</guid>
+
+					<description><![CDATA[<p>The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.</p>
+<p>The post <a href="https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/">OpenLeash Adds a Human Check to Risky AI Agent Actions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</title>
+		<link>https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 15:45:08 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CSRB]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49068</guid>
+
+					<description><![CDATA[<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.</p>
+<p>The post <a href="https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/">UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</title>
 		<link>https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/</link>
 		
@@ -60,164 +209,6 @@
 
 					<description><![CDATA[<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>
 <p>The post <a href="https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/">Exploit Published for Fresh Cleo Harmony Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</title>
-		<link>https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 11:48:31 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49054</guid>
-
-					<description><![CDATA[<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/">Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Malicious Virtualizor Update Served via BGP Hijacking</title>
-		<link>https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 11:31:36 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[BGP]]></category>
-		<category><![CDATA[Softaculous]]></category>
-		<category><![CDATA[Virtualizor]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49056</guid>
-
-					<description><![CDATA[<p>Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates.</p>
-<p>The post <a href="https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/">Malicious Virtualizor Update Served via BGP Hijacking</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</title>
-		<link>https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 10:38:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[OpenAI Astra]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49052</guid>
-
-					<description><![CDATA[<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>
-<p>The post <a href="https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/">OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome and Firefox Updates Patch Dozens of Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 09:12:29 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49050</guid>
-
-					<description><![CDATA[<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/">Chrome and Firefox Updates Patch Dozens of Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>23-Year-Old Sality P2P Botnet Disrupted</title>
-		<link>https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 08:38:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[botnet]]></category>
-		<category><![CDATA[disrupted]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Sality]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49048</guid>
-
-					<description><![CDATA[<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>
-<p>The post <a href="https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/">23-Year-Old Sality P2P Botnet Disrupted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</title>
-		<link>https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 05:04:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SMA1000]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49038</guid>
-
-					<description><![CDATA[<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/">SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Palo Alto Networks Acquires AI Agent Platform Console</title>
-		<link>https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 20:29:42 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Palo Alto Networks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49033</guid>
-
-					<description><![CDATA[<p>The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR.</p>
-<p>The post <a href="https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/">Palo Alto Networks Acquires AI Agent Platform Console</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</title>
-		<link>https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 01 Sep 2026 18:30:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49017</guid>
-
-					<description><![CDATA[<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>
-<p>The post <a href="https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
