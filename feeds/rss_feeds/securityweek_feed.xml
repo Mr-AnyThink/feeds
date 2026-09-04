@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 03 Sep 2026 15:22:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Sep 2026 13:23:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,132 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sangoma Switchvox Vulnerabilities Exploited in the Wild</title>
+		<link>https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 13:23:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49102</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>
+<p>The post <a href="https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/">Sangoma Switchvox Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</title>
+		<link>https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 12:06:13 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-6471]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[PostgreSQL]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49096</guid>
+
+					<description><![CDATA[<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/">12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Catch Raises $5 Million for AI Executive Assistant With Guardrails</title>
+		<link>https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 11:55:17 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49094</guid>
+
+					<description><![CDATA[<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</p>
+<p>The post <a href="https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/">Catch Raises $5 Million for AI Executive Assistant With Guardrails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>VMware Workstation and Fusion Updates Patch Critical Vulnerability</title>
+		<link>https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 11:42:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-59346]]></category>
+		<category><![CDATA[VMware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49092</guid>
+
+					<description><![CDATA[<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/">VMware Workstation and Fusion Updates Patch Critical Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Patches 6th Chrome Zero-Day of 2026</title>
+		<link>https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 11:31:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49090</guid>
+
+					<description><![CDATA[<p>Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>
+<p>The post <a href="https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/">Google Patches 6th Chrome Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia Is Buying AI Platform Hugging Face for $13 Billion</title>
+		<link>https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Hugging Face]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49099</guid>
+
+					<description><![CDATA[<p>The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.</p>
+<p>The post <a href="https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</title>
+		<link>https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 15:35:19 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[ransom]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49084</guid>
+
+					<description><![CDATA[<p>Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.</p>
+<p>The post <a href="https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/">Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</title>
 		<link>https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/</link>
 		
@@ -77,138 +203,6 @@
 
 					<description><![CDATA[<p>The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>
 <p>The post <a href="https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>153 Million Driver License Images Offered on Dark Web</title>
-		<link>https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 10:54:18 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Nexus]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49076</guid>
-
-					<description><![CDATA[<p>Cybercriminals are offering digital scans of US and Canadian driver’s licenses, likely stolen from IDScan.net.</p>
-<p>The post <a href="https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/">153 Million Driver License Images Offered on Dark Web</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</title>
-		<link>https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 10:40:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-19949]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49074</guid>
-
-					<description><![CDATA[<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/">Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[CVE-2026-20354]]></category>
-		<category><![CDATA[CVE-2026-20355]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49072</guid>
-
-					<description><![CDATA[<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/">Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenLeash Adds a Human Check to Risky AI Agent Actions</title>
-		<link>https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 19:30:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49070</guid>
-
-					<description><![CDATA[<p>The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.</p>
-<p>The post <a href="https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/">OpenLeash Adds a Human Check to Risky AI Agent Actions</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</title>
-		<link>https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 15:45:08 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[CSRB]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49068</guid>
-
-					<description><![CDATA[<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.</p>
-<p>The post <a href="https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/">UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</title>
-		<link>https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 12:39:07 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Rockwell Automation]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49061</guid>
-
-					<description><![CDATA[<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>
-<p>The post <a href="https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/">Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploit Published for Fresh Cleo Harmony Vulnerability</title>
-		<link>https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 02 Sep 2026 12:18:15 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cleo]]></category>
-		<category><![CDATA[PoC exploit]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49059</guid>
-
-					<description><![CDATA[<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>
-<p>The post <a href="https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/">Exploit Published for Fresh Cleo Harmony Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
