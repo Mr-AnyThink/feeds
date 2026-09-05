@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 04 Sep 2026 13:23:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Sep 2026 13:00:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,76 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</title>
+		<link>https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2026 13:00:28 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49122</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.</p>
+<p>The post <a href="https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/">Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</title>
+		<link>https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 16:18:30 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49117</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. </p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/">In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HPE Patches Critical RCE Vulnerabilities in AOS-CX</title>
+		<link>https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 16:11:06 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49114</guid>
+
+					<description><![CDATA[<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>
+<p>The post <a href="https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/">HPE Patches Critical RCE Vulnerabilities in AOS-CX</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders</title>
+		<link>https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 16:07:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49111</guid>
+
+					<description><![CDATA[<p>The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility.</p>
+<p>The post <a href="https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/">OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Sangoma Switchvox Vulnerabilities Exploited in the Wild</title>
 		<link>https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/</link>
 		
@@ -130,79 +200,6 @@
 
 					<description><![CDATA[<p>The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.</p>
 <p>The post <a href="https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</title>
-		<link>https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 15:35:19 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[ransom]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49084</guid>
-
-					<description><![CDATA[<p>Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.</p>
-<p>The post <a href="https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/">Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</title>
-		<link>https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 15:15:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[LLM]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49082</guid>
-
-					<description><![CDATA[<p>New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review.</p>
-<p>The post <a href="https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/">Capsule Security Launches &#8216;AI Circuit Breaker&#8217; to Stop Rogue Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HiddenLayer Raises $100 Million for AI Runtime Security</title>
-		<link>https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 12:17:30 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49080</guid>
-
-					<description><![CDATA[<p>The Austin-based company will invest in agentic runtime security capabilities to secure AI coding agents.</p>
-<p>The post <a href="https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/">HiddenLayer Raises $100 Million for AI Runtime Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</title>
-		<link>https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49078</guid>
-
-					<description><![CDATA[<p>The startup’s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>
-<p>The post <a href="https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
