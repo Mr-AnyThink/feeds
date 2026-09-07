@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 05 Sep 2026 13:00:32 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Sep 2026 16:29:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,99 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</title>
+		<link>https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 12:15:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CrowdStrike]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[NVIDIA]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49134</guid>
+
+					<description><![CDATA[<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>
+<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/">Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korean Hackers Deploy New Linux Espionage Toolkit</title>
+		<link>https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 12:12:08 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49132</guid>
+
+					<description><![CDATA[<p>The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.</p>
+<p>The post <a href="https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/">North Korean Hackers Deploy New Linux Espionage Toolkit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Agents Hijack Another Victim Website</title>
+		<link>https://www.securityweek.com/openai-agents-hijack-another-victim-website/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 12:03:04 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Attacks]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49130</guid>
+
+					<description><![CDATA[<p>OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach.</p>
+<p>The post <a href="https://www.securityweek.com/openai-agents-hijack-another-victim-website/">OpenAI Agents Hijack Another Victim Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
+		<link>https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 11:58:37 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49128</guid>
+
+					<description><![CDATA[<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/">Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Modified ScreenConnect Clients Used in Worm-Like Campaign</title>
+		<link>https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 11:45:48 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ScreenConnect]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49126</guid>
+
+					<description><![CDATA[<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>
+<p>The post <a href="https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/">Modified ScreenConnect Clients Used in Worm-Like Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</title>
 		<link>https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/</link>
 		
@@ -108,98 +201,6 @@
 
 					<description><![CDATA[<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>
 <p>The post <a href="https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/">Sangoma Switchvox Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</title>
-		<link>https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 12:06:13 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-6471]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PostgreSQL]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49096</guid>
-
-					<description><![CDATA[<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/">12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Catch Raises $5 Million for AI Executive Assistant With Guardrails</title>
-		<link>https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 11:55:17 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49094</guid>
-
-					<description><![CDATA[<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</p>
-<p>The post <a href="https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/">Catch Raises $5 Million for AI Executive Assistant With Guardrails</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>VMware Workstation and Fusion Updates Patch Critical Vulnerability</title>
-		<link>https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 11:42:55 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-59346]]></category>
-		<category><![CDATA[VMware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49092</guid>
-
-					<description><![CDATA[<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>
-<p>The post <a href="https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/">VMware Workstation and Fusion Updates Patch Critical Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Patches 6th Chrome Zero-Day of 2026</title>
-		<link>https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 11:31:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49090</guid>
-
-					<description><![CDATA[<p>Google’s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>
-<p>The post <a href="https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/">Google Patches 6th Chrome Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Is Buying AI Platform Hugging Face for $13 Billion</title>
-		<link>https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Hugging Face]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49099</guid>
-
-					<description><![CDATA[<p>The deal highlights Nvidia’s push to champion increasingly popular open-source AI models.</p>
-<p>The post <a href="https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
