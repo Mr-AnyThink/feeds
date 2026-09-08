@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 07 Sep 2026 16:29:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Sep 2026 15:21:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,116 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</title>
+		<link>https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 15:21:01 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[Cylake]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49160</guid>
+
+					<description><![CDATA[<p>The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud.</p>
+<p>The post <a href="https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/">Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SAP Patches Critical Extended Passport Processing Vulnerability</title>
+		<link>https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 14:55:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-44756]]></category>
+		<category><![CDATA[SAP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49156</guid>
+
+					<description><![CDATA[<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data.</p>
+<p>The post <a href="https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/">SAP Patches Critical Extended Passport Processing Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</title>
+		<link>https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49149</guid>
+
+					<description><![CDATA[<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.</p>
+<p>The post <a href="https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/">Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MikroTik Patches Critical Flaws Chained to Hack Routers</title>
+		<link>https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 11:15:00 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[mikrotik]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49145</guid>
+
+					<description><![CDATA[<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>
+<p>The post <a href="https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/">MikroTik Patches Critical Flaws Chained to Hack Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mathspace Data Breach Exposes Over 1 Million People</title>
+		<link>https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 10:47:36 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Mathspace]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49143</guid>
+
+					<description><![CDATA[<p>Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance.</p>
+<p>The post <a href="https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/">Mathspace Data Breach Exposes Over 1 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>N-able Patches Critical Zero-Day in N-central</title>
+		<link>https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 10:37:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[CVE-2026-86218]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[N-central]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49141</guid>
+
+					<description><![CDATA[<p>Administrators are advised to check their deployments for newly created user accounts they don’t recognize.</p>
+<p>The post <a href="https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/">N-able Patches Critical Zero-Day in N-central</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</title>
 		<link>https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/</link>
 		
@@ -98,109 +208,6 @@
 
 					<description><![CDATA[<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>
 <p>The post <a href="https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/">Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Modified ScreenConnect Clients Used in Worm-Like Campaign</title>
-		<link>https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Sep 2026 11:45:48 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ScreenConnect]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49126</guid>
-
-					<description><![CDATA[<p>The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.</p>
-<p>The post <a href="https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/">Modified ScreenConnect Clients Used in Worm-Like Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</title>
-		<link>https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 05 Sep 2026 13:00:28 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49122</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions.</p>
-<p>The post <a href="https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/">Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</title>
-		<link>https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 16:18:30 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49117</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Microsoft rolled out patches for cloud services, hackers compromised 5,000 Dropbox accounts, and Guardio is now valued at $1.1 billion. </p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/">In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>HPE Patches Critical RCE Vulnerabilities in AOS-CX</title>
-		<link>https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 16:11:06 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49114</guid>
-
-					<description><![CDATA[<p>Nearly two dozen issues, tracked collectively as CVE-2026-73749 (CVSS score of 9.8), were addressed with the updates.</p>
-<p>The post <a href="https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/">HPE Patches Critical RCE Vulnerabilities in AOS-CX</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders</title>
-		<link>https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 16:07:22 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49111</guid>
-
-					<description><![CDATA[<p>The Daybreak initiative will provide subsidized AI cyber capabilities, training and technical assistance, though OpenAI has disclosed few details about costs and eligibility.</p>
-<p>The post <a href="https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/">OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Sangoma Switchvox Vulnerabilities Exploited in the Wild</title>
-		<link>https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 04 Sep 2026 13:23:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49102</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>
-<p>The post <a href="https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/">Sangoma Switchvox Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
