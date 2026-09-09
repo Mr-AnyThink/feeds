@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 08 Sep 2026 15:21:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Sep 2026 14:33:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,186 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</title>
-		<link>https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 15:21:01 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[Cylake]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49160</guid>
-
-					<description><![CDATA[<p>The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud.</p>
-<p>The post <a href="https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/">Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical Extended Passport Processing Vulnerability</title>
-		<link>https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/</link>
+		<title>Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension</title>
+		<link>https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 14:55:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-44756]]></category>
-		<category><![CDATA[SAP]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49156</guid>
-
-					<description><![CDATA[<p>Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/">SAP Patches Critical Extended Passport Processing Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</title>
-		<link>https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[bitcoin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49149</guid>
-
-					<description><![CDATA[<p>The scammers purchased fleets of sports cars, flew on private jets, hired security guards and rented mansions in Miami and the Hamptons.</p>
-<p>The post <a href="https://www.securityweek.com/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/">Party’s Over for Crypto Scammers Who Went on a Spending Spree After a $240 Million Bitcoin Theft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MikroTik Patches Critical Flaws Chained to Hack Routers</title>
-		<link>https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 11:15:00 +0000</pubDate>
+		<pubDate>Wed, 09 Sep 2026 14:33:52 +0000</pubDate>
 				<category><![CDATA[Network Security]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[mikrotik]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49145</guid>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49193</guid>
 
-					<description><![CDATA[<p>Dubbed MikroTrick, the bugs allow attackers to bypass authentication, overwrite configuration files, and take over devices.</p>
-<p>The post <a href="https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/">MikroTik Patches Critical Flaws Chained to Hack Routers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/">Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Mathspace Data Breach Exposes Over 1 Million People</title>
-		<link>https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 10:47:36 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Mathspace]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49143</guid>
-
-					<description><![CDATA[<p>Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance.</p>
-<p>The post <a href="https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/">Mathspace Data Breach Exposes Over 1 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>N-able Patches Critical Zero-Day in N-central</title>
-		<link>https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 10:37:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CVE-2026-86218]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[N-central]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49141</guid>
-
-					<description><![CDATA[<p>Administrators are advised to check their deployments for newly created user accounts they don’t recognize.</p>
-<p>The post <a href="https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/">N-able Patches Critical Zero-Day in N-central</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</title>
-		<link>https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Sep 2026 12:15:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CrowdStrike]]></category>
-		<category><![CDATA[exploit]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49134</guid>
-
-					<description><![CDATA[<p>The proof-of-concept (PoC) exploits lead to privilege escalation, spawning a shell with System privileges.</p>
-<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/">Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>North Korean Hackers Deploy New Linux Espionage Toolkit</title>
-		<link>https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Sep 2026 12:12:08 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49132</guid>
-
-					<description><![CDATA[<p>The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.</p>
-<p>The post <a href="https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/">North Korean Hackers Deploy New Linux Espionage Toolkit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Agents Hijack Another Victim Website</title>
-		<link>https://www.securityweek.com/openai-agents-hijack-another-victim-website/</link>
+		<title>US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities</title>
+		<link>https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 07 Sep 2026 12:03:04 +0000</pubDate>
+		<pubDate>Wed, 09 Sep 2026 12:32:13 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Attacks]]></category>
+		<category><![CDATA[China]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49130</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49189</guid>
 
-					<description><![CDATA[<p>OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach.</p>
-<p>The post <a href="https://www.securityweek.com/openai-agents-hijack-another-victim-website/">OpenAI Agents Hijack Another Victim Website</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model.</p>
+<p>The post <a href="https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/">US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
-		<link>https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/</link>
+		<title>Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy</title>
+		<link>https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Meta]]></category>
+		<category><![CDATA[Muse]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49191</guid>
+
+					<description><![CDATA[<p>Muse runs on a dedicated, secure virtual machine that houses both the agent and the user’s data.</p>
+<p>The post <a href="https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/">Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws</title>
+		<link>https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 07 Sep 2026 11:58:37 +0000</pubDate>
+		<pubDate>Wed, 09 Sep 2026 10:49:30 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Aveva]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[Schneider Electric]]></category>
+		<category><![CDATA[Siemens]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49184</guid>
+
+					<description><![CDATA[<p>AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products.</p>
+<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/">ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ivanti Patches Critical Flaws Across Enterprise Security Products</title>
+		<link>https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 10:28:34 +0000</pubDate>
+				<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Ivanti]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49182</guid>
+
+					<description><![CDATA[<p>Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws.</p>
+<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/">Ivanti Patches Critical Flaws Across Enterprise Security Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This Key Will Self-Destruct: An Open Standard for Revocable API Keys</title>
+		<link>https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/</link>
+		
+		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[API]]></category>
+		<category><![CDATA[credentials]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49170</guid>
+
+					<description><![CDATA[<p>Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default.</p>
+<p>The post <a href="https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/">This Key Will Self-Destruct: An Open Standard for Revocable API Keys</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser</title>
+		<link>https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49177</guid>
+
+					<description><![CDATA[<p>Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block.</p>
+<p>The post <a href="https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/">New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome 153 Patches Seventh Zero-Day of 2026</title>
+		<link>https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 09:45:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49175</guid>
+
+					<description><![CDATA[<p>The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/">Chrome 153 Patches Seventh Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days</title>
+		<link>https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 19:20:06 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49128</guid>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Patch Tuesady]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49167</guid>
 
-					<description><![CDATA[<p>The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/">Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/">Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day</title>
+		<link>https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 18:37:17 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[CVE-2026-75650]]></category>
+		<category><![CDATA[Patch Tuesady]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49165</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/">Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
