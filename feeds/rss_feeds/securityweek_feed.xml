@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 09 Sep 2026 14:33:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Sep 2026 14:52:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,190 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension</title>
-		<link>https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 14:33:52 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49193</guid>
-
-					<description><![CDATA[<p>The critical, unauthenticated bugs allow attackers to bypass authentication and proxy a user’s browser traffic.</p>
-<p>The post <a href="https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/">Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities</title>
-		<link>https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 12:32:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49189</guid>
-
-					<description><![CDATA[<p>Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model.</p>
-<p>The post <a href="https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/">US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy</title>
-		<link>https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/</link>
+		<title>Anthropic Researcher Resigns With Warning About the Dangers of AI Development</title>
+		<link>https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/</link>
 		
 		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+		<pubDate>Thu, 10 Sep 2026 14:52:07 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[Muse]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49191</guid>
+		<category><![CDATA[Anthropic]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49235</guid>
 
-					<description><![CDATA[<p>Muse runs on a dedicated, secure virtual machine that houses both the agent and the user’s data.</p>
-<p>The post <a href="https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/">Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/">Anthropic Researcher Resigns With Warning About the Dangers of AI Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws</title>
-		<link>https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 10:49:30 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Aveva]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[Schneider Electric]]></category>
-		<category><![CDATA[Siemens]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49184</guid>
-
-					<description><![CDATA[<p>AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products.</p>
-<p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/">ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ivanti Patches Critical Flaws Across Enterprise Security Products</title>
-		<link>https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 10:28:34 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49182</guid>
-
-					<description><![CDATA[<p>Six critical vulnerabilities in Neurons for ITSM could enable remote code execution, while Sentry and EPMM received patches for authentication bypass flaws.</p>
-<p>The post <a href="https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/">Ivanti Patches Critical Flaws Across Enterprise Security Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>This Key Will Self-Destruct: An Open Standard for Revocable API Keys</title>
-		<link>https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/</link>
-		
-		<dc:creator><![CDATA[Matt Honea]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Identity & Access]]></category>
-		<category><![CDATA[API]]></category>
-		<category><![CDATA[credentials]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49170</guid>
-
-					<description><![CDATA[<p>Every leaked credential should be dead, or dying, within sixty seconds of being found. Here's a proposal to make that the default.</p>
-<p>The post <a href="https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/">This Key Will Self-Destruct: An Open Standard for Revocable API Keys</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser</title>
-		<link>https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/</link>
+		<title>Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster</title>
+		<link>https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
-				<category><![CDATA[Phishing]]></category>
+		<pubDate>Thu, 10 Sep 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[hacker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49202</guid>
+
+					<description><![CDATA[<p>Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/">Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews</title>
+		<link>https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 13:39:52 +0000</pubDate>
+				<category><![CDATA[Fraud & Identity Theft]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49233</guid>
+
+					<description><![CDATA[<p>Deceptive apps in Early Access are being used by dishonest developers for their own benefit.</p>
+<p>The post <a href="https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/">Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Webinar Today: Keep Pace With AI &#8211; A New Operating Model for Endpoint Remediation</title>
+		<link>https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 13:30:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Endpoint]]></category>
+		<category><![CDATA[Webinar]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49227</guid>
+
+					<description><![CDATA[<p>Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate.</p>
+<p>The post <a href="https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/">Webinar Today: Keep Pace With AI &#8211; A New Operating Model for Endpoint Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical NetScaler Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 12:20:21 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49223</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3.</p>
+<p>The post <a href="https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/">Critical NetScaler Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Widened Scan Turns Up Fourth Rogue Claude Cyber Incident</title>
+		<link>https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 11:52:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Claude]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49216</guid>
+
+					<description><![CDATA[<p>Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked.</p>
+<p>The post <a href="https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/">Widened Scan Turns Up Fourth Rogue Claude Cyber Incident</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>4.1 Million Impacted by AdaptHealth Data Breach</title>
+		<link>https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 11:20:43 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[AdaptHealth]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49214</guid>
+
+					<description><![CDATA[<p>In June 2026, hackers stole personal, health, and insurance information from AdaptHealth’s systems.</p>
+<p>The post <a href="https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/">4.1 Million Impacted by AdaptHealth Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Organizations Warned of Cisco Secure FMC Exploitation</title>
+		<link>https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 10:06:20 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[phishing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49177</guid>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[FMC]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49212</guid>
 
-					<description><![CDATA[<p>Attackers are using trusted Microsoft services and blob URLs to generate stealthy phishing pages that leave defenders with no static website to detect or block.</p>
-<p>The post <a href="https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/">New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/">Organizations Warned of Cisco Secure FMC Exploitation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chrome 153 Patches Seventh Zero-Day of 2026</title>
-		<link>https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/</link>
+		<title>New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender</title>
+		<link>https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 09 Sep 2026 09:45:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49175</guid>
+		<pubDate>Thu, 10 Sep 2026 07:09:36 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chaotic Eclipse]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Microsoft Defender]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49210</guid>
 
-					<description><![CDATA[<p>The Chrome update includes 230 security fixes, and users are advised to update their browsers as soon as possible.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/">Chrome 153 Patches Seventh Zero-Day of 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The exploit provides full System privileges on Windows machines running the September 2026 patches.</p>
+<p>The post <a href="https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/">New &#8216;ShieldCrash&#8217; Zero-Day Exploit Targets Microsoft Defender</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days</title>
-		<link>https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/</link>
+		<title>Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks</title>
+		<link>https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 19:20:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
+		<pubDate>Thu, 10 Sep 2026 06:33:36 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[Patch Tuesady]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49167</guid>
+		<category><![CDATA[FortiGate]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[PivotC2]]></category>
+		<category><![CDATA[RAT]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49208</guid>
 
-					<description><![CDATA[<p>The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/">Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day</title>
-		<link>https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 08 Sep 2026 18:37:17 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[CVE-2026-75650]]></category>
-		<category><![CDATA[Patch Tuesady]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49165</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-75650, the exploited defect allows unauthenticated attackers to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/">Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026.</p>
+<p>The post <a href="https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/">Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
