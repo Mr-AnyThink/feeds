@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 17 Sep 2026 15:46:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Sep 2026 13:47:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,218 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training</title>
-		<link>https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/</link>
+		<title>In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw</title>
+		<link>https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 14:25:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49440</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Mandiant's 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/">In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code</title>
+		<link>https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 15:45:29 +0000</pubDate>
+		<pubDate>Fri, 18 Sep 2026 12:45:24 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
+		<category><![CDATA[ChatGPT]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49413</guid>
+		<category><![CDATA[source code]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49438</guid>
 
-					<description><![CDATA[<p>OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.</p>
-<p>The post <a href="https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/">OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. </p>
+<p>The post <a href="https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/">AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot</title>
-		<link>https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/</link>
+		<title>23 Million User Records Compromised in Gyazo Data Breach </title>
+		<link>https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 14:28:00 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[risk management]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[vulnerability management]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49411</guid>
-
-					<description><![CDATA[<p>The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/">CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom</title>
-		<link>https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 13:57:41 +0000</pubDate>
+		<pubDate>Fri, 18 Sep 2026 11:38:40 +0000</pubDate>
 				<category><![CDATA[Data Breaches]]></category>
 		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Revolut]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49409</guid>
+		<category><![CDATA[Gyazo]]></category>
+		<category><![CDATA[images]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49433</guid>
 
-					<description><![CDATA[<p>Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months.</p>
-<p>The post <a href="https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/">Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access.</p>
+<p>The post <a href="https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/">23 Million User Records Compromised in Gyazo Data Breach </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Comp AI Raises $34 Million for AI-Native Compliance and Security</title>
-		<link>https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[GRC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49407</guid>
-
-					<description><![CDATA[<p>The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure.</p>
-<p>The post <a href="https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/">Comp AI Raises $34 Million for AI-Native Compliance and Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ISC Patches 14 Vulnerabilities in BIND 9 Security Update</title>
-		<link>https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 12:39:28 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BIND]]></category>
-		<category><![CDATA[DNS]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49405</guid>
-
-					<description><![CDATA[<p>Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process.</p>
-<p>The post <a href="https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/">ISC Patches 14 Vulnerabilities in BIND 9 Security Update</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows</title>
-		<link>https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 12:29:53 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49401</guid>
-
-					<description><![CDATA[<p>Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns.</p>
-<p>The post <a href="https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/">Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard</title>
-		<link>https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 12:17:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49402</guid>
-
-					<description><![CDATA[<p>The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution.  </p>
-<p>The post <a href="https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/">Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses</title>
-		<link>https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 07:53:43 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[decoys]]></category>
-		<category><![CDATA[guidance]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49398</guid>
-
-					<description><![CDATA[<p>Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/">CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals</title>
-		<link>https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/</link>
+		<title>Microsoft Patches 18 Vulnerabilities in AI, Cloud Products</title>
+		<link>https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 07:41:29 +0000</pubDate>
+		<pubDate>Fri, 18 Sep 2026 10:57:03 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[AI training]]></category>
-		<category><![CDATA[Irregular]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49396</guid>
+		<category><![CDATA[Azure]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[Copilot]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49431</guid>
 
-					<description><![CDATA[<p>New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks.</p>
-<p>The post <a href="https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/">AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/">Microsoft Patches 18 Vulnerabilities in AI, Cloud Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day</title>
-		<link>https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/</link>
+		<title>NightmareStresser DDoS Service Disrupted in International Operation</title>
+		<link>https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 06:19:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Cisco ISE]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49394</guid>
+		<pubDate>Fri, 18 Sep 2026 10:12:33 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[DDoS]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[NightmareStresser]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49428</guid>
 
-					<description><![CDATA[<p>Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests.</p>
-<p>The post <a href="https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/">Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world.</p>
+<p>The post <a href="https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/">NightmareStresser DDoS Service Disrupted in International Operation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Brevo Supply Chain Attack Injects Malware Into 100,000 Websites</title>
+		<link>https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 09:46:57 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[Brevo]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49426</guid>
+
+					<description><![CDATA[<p>Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts.</p>
+<p>The post <a href="https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/">Brevo Supply Chain Attack Injects Malware Into 100,000 Websites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical Orkes Conductor Vulnerability Exploited in Attacks</title>
+		<link>https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 08:42:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Orkes]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49424</guid>
+
+					<description><![CDATA[<p>CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions.</p>
+<p>The post <a href="https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/">Critical Orkes Conductor Vulnerability Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MIND Secures $72 Million for AI-Powered DLP</title>
+		<link>https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 07:25:27 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[MIND]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49421</guid>
+
+					<description><![CDATA[<p>The company will use the funding to accelerate platform development and expand its presence in key enterprise markets.</p>
+<p>The post <a href="https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/">MIND Secures $72 Million for AI-Powered DLP</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Check Point, Kaspersky, Tanium Patch Product Vulnerabilities</title>
+		<link>https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 07:14:04 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[Kaspersky]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[security product vulnerability]]></category>
+		<category><![CDATA[Tanium]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49419</guid>
+
+					<description><![CDATA[<p>Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges.</p>
+<p>The post <a href="https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/">Check Point, Kaspersky, Tanium Patch Product Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</title>
+		<link>https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 17:09:40 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[coast guard]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Maritime]]></category>
+		<category><![CDATA[ShipMonk]]></category>
+		<category><![CDATA[tanker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49416</guid>
+
+					<description><![CDATA[<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>
+<p>The post <a href="https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/">Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
