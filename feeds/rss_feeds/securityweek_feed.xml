@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 18 Sep 2026 13:47:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Sep 2026 13:49:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<generator>https://wordpress.org/?v=7.0.5</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TigerByte Cyber Emerges From Stealth With $3 Million in Funding</title>
+		<link>https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 19 Sep 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[TigerByte Cyber]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49444</guid>
+
+					<description><![CDATA[<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p>
+<p>The post <a href="https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/">TigerByte Cyber Emerges From Stealth With $3 Million in Funding</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw</title>
 		<link>https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/</link>
 		
@@ -216,30 +234,6 @@
 
 					<description><![CDATA[<p>Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges.</p>
 <p>The post <a href="https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/">Check Point, Kaspersky, Tanium Patch Product Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</title>
-		<link>https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 17 Sep 2026 17:09:40 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[coast guard]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Maritime]]></category>
-		<category><![CDATA[ShipMonk]]></category>
-		<category><![CDATA[tanker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49416</guid>
-
-					<description><![CDATA[<p>The Coast Guard confirmed evidence of malicious cyber activity on the VL Prosperity, but has not attributed the attack to Iran.</p>
-<p>The post <a href="https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/">Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
