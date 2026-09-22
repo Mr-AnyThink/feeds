@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 21 Sep 2026 17:19:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Sep 2026 14:29:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,170 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cyera Raises $400 Million at $12+ Billion Valuation</title>
+		<link>https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 14:29:34 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Cyera]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49494</guid>
+
+					<description><![CDATA[<p>The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round.</p>
+<p>The post <a href="https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/">Cyera Raises $400 Million at $12+ Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity</title>
+		<link>https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 13:26:51 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BigDiskBuster]]></category>
+		<category><![CDATA[Chaotic Eclipse]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[PoC exploit]]></category>
+		<category><![CDATA[unmasked]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49492</guid>
+
+					<description><![CDATA[<p>Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. </p>
+<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/">Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Only 13% of OT Network Segments Are Fully Isolated: Analysis</title>
+		<link>https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 12:24:30 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[IoT Security]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[Forescout]]></category>
+		<category><![CDATA[IoMT]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[network security]]></category>
+		<category><![CDATA[network segmentation]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49485</guid>
+
+					<description><![CDATA[<p>Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets.</p>
+<p>The post <a href="https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/">Only 13% of OT Network Segments Are Fully Isolated: Analysis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers</title>
+		<link>https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 11:55:20 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[switch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zyxel]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49482</guid>
+
+					<description><![CDATA[<p>A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches.</p>
+<p>The post <a href="https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/">Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Malicious B-tree NPM Package Accumulates Millions of Downloads</title>
+		<link>https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 11:33:59 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49480</guid>
+
+					<description><![CDATA[<p>Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method.</p>
+<p>The post <a href="https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/">Malicious B-tree NPM Package Accumulates Millions of Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>WordPress Patches &#8216;Click2Shell&#8217; Vulnerability</title>
+		<link>https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 10:22:27 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Click2Shell]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49478</guid>
+
+					<description><![CDATA[<p>The bug lets attackers automatically install and preview themes and could lead to remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/">WordPress Patches &#8216;Click2Shell&#8217; Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme</title>
+		<link>https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 08:37:06 +0000</pubDate>
+				<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[fake IT workers]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49475</guid>
+
+					<description><![CDATA[<p>The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.</p>
+<p>The post <a href="https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/">Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Proposes AI Incident Alert System in Talks With China, Bessent Says</title>
+		<link>https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 02:01:24 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49471</guid>
+
+					<description><![CDATA[<p>Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies.</p>
+<p>The post <a href="https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/">US Proposes AI Incident Alert System in Talks With China, Bessent Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google Hit With $463 Million Fine for EU Location Data Rule Breach</title>
 		<link>https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/</link>
 		
@@ -63,171 +227,6 @@
 
 					<description><![CDATA[<p>The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.</p>
 <p>The post <a href="https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/">Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast</title>
-		<link>https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[CISO Conversations]]></category>
-		<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49389</guid>
-
-					<description><![CDATA[<p>Noopur Davis never planned a career in cybersecurity. She was a developer at Intergraph, and for many years that was all she wanted to be.</p>
-<p>The post <a href="https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/">CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal</title>
-		<link>https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 14:00:13 +0000</pubDate>
-				<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Accenture]]></category>
-		<category><![CDATA[Acquisitions]]></category>
-		<category><![CDATA[Dragos]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[NetRise]]></category>
-		<category><![CDATA[RunZero]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49460</guid>
-
-					<description><![CDATA[<p>The transaction is part of the $4.1 billion deal in which Accenture acquired a majority stake in Dragos in an OT cybersecurity push.</p>
-<p>The post <a href="https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/">Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RatHat Android Trojan Uses AI for Automation</title>
-		<link>https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 12:51:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Android malware]]></category>
-		<category><![CDATA[RedHat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49458</guid>
-
-					<description><![CDATA[<p>The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion.</p>
-<p>The post <a href="https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/">RatHat Android Trojan Uses AI for Automation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rust Team Members and Popular Crate Owners Targeted via Video Calls</title>
-		<link>https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 11:57:35 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[Rust]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49456</guid>
-
-					<description><![CDATA[<p>It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea.</p>
-<p>The post <a href="https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/">Rust Team Members and Popular Crate Owners Targeted via Video Calls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>CrowdSec Confirms Source Code Stolen in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 10:55:46 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[CrowdSec]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[source code]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49454</guid>
-
-					<description><![CDATA[<p>The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack.</p>
-<p>The post <a href="https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/">CrowdSec Confirms Source Code Stolen in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems</title>
-		<link>https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 10:03:44 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[Water]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49452</guid>
-
-					<description><![CDATA[<p>The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. </p>
-<p>The post <a href="https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/">Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities</title>
-		<link>https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 09:31:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Linux]]></category>
-		<category><![CDATA[Linux kernel]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49450</guid>
-
-					<description><![CDATA[<p>Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory.</p>
-<p>The post <a href="https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/">Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Confirms Gemini AI Breached Three Firms</title>
-		<link>https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 07:20:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Gemini]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Irregular]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49448</guid>
-
-					<description><![CDATA[<p>Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.</p>
-<p>The post <a href="https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/">Google Confirms Gemini AI Breached Three Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
