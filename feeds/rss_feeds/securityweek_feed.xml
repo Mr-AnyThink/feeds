@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 22 Sep 2026 14:29:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Sep 2026 12:17:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Cyera Raises $400 Million at $12+ Billion Valuation</title>
-		<link>https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 14:29:34 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Cyera]]></category>
-		<category><![CDATA[Data Security]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49494</guid>
-
-					<description><![CDATA[<p>The data security company received the new investment from Goldman Sachs Alternatives, extending its Series G funding round.</p>
-<p>The post <a href="https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/">Cyera Raises $400 Million at $12+ Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity</title>
-		<link>https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/</link>
+		<title>Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</title>
+		<link>https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 13:26:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BigDiskBuster]]></category>
-		<category><![CDATA[Chaotic Eclipse]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PoC exploit]]></category>
-		<category><![CDATA[unmasked]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49492</guid>
-
-					<description><![CDATA[<p>Abdelhamid Naceri, a former Microsoft Germany employee, is the exploit leaker Nightmare Eclipse, aka Chaotic Eclipse. </p>
-<p>The post <a href="https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/">Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Only 13% of OT Network Segments Are Fully Isolated: Analysis</title>
-		<link>https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 12:24:30 +0000</pubDate>
+		<pubDate>Wed, 23 Sep 2026 12:17:28 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[IoT Security]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Forescout]]></category>
-		<category><![CDATA[IoMT]]></category>
-		<category><![CDATA[IoT]]></category>
-		<category><![CDATA[network security]]></category>
-		<category><![CDATA[network segmentation]]></category>
-		<category><![CDATA[OT]]></category>
+		<category><![CDATA[Honeywell]]></category>
+		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49485</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49527</guid>
 
-					<description><![CDATA[<p>Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets.</p>
-<p>The post <a href="https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/">Only 13% of OT Network Segments Are Fully Isolated: Analysis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.</p>
+<p>The post <a href="https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/">Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers</title>
-		<link>https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/</link>
+		<title>Adobe Patches Critical Flaws in Connect, AEM Forms</title>
+		<link>https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 11:55:20 +0000</pubDate>
+		<pubDate>Wed, 23 Sep 2026 11:40:59 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[switch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zyxel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49482</guid>
-
-					<description><![CDATA[<p>A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches.</p>
-<p>The post <a href="https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/">Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Malicious B-tree NPM Package Accumulates Millions of Downloads</title>
-		<link>https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 11:33:59 +0000</pubDate>
-				<category><![CDATA[Application Security]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[NPM]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49480</guid>
-
-					<description><![CDATA[<p>Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method.</p>
-<p>The post <a href="https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/">Malicious B-tree NPM Package Accumulates Millions of Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WordPress Patches &#8216;Click2Shell&#8217; Vulnerability</title>
-		<link>https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 10:22:27 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Click2Shell]]></category>
+		<category><![CDATA[Adobe]]></category>
 		<category><![CDATA[Patch]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49478</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49524</guid>
 
-					<description><![CDATA[<p>The bug lets attackers automatically install and preview themes and could lead to remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/">WordPress Patches &#8216;Click2Shell&#8217; Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/">Adobe Patches Critical Flaws in Connect, AEM Forms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme</title>
-		<link>https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/</link>
+		<title>AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</title>
+		<link>https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 08:37:06 +0000</pubDate>
-				<category><![CDATA[Nation-State]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Japan]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49475</guid>
+		<pubDate>Wed, 23 Sep 2026 11:23:30 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[EvilTokens]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49520</guid>
 
-					<description><![CDATA[<p>The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign.</p>
-<p>The post <a href="https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/">Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.</p>
+<p>The post <a href="https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/">AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>US Proposes AI Incident Alert System in Talks With China, Bessent Says</title>
-		<link>https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 22 Sep 2026 02:01:24 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49471</guid>
-
-					<description><![CDATA[<p>Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies.</p>
-<p>The post <a href="https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/">US Proposes AI Incident Alert System in Talks With China, Bessent Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Hit With $463 Million Fine for EU Location Data Rule Breach</title>
-		<link>https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 17:19:53 +0000</pubDate>
-				<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[GDPR]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49464</guid>
-
-					<description><![CDATA[<p>Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.</p>
-<p>The post <a href="https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/">Google Hit With $463 Million Fine for EU Location Data Rule Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer</title>
-		<link>https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/</link>
+		<title>Chrome 154 Patches 108 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 21 Sep 2026 15:46:58 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[EDR killer]]></category>
-		<category><![CDATA[infostealer]]></category>
-		<category><![CDATA[LastPass]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[Rapuncel]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49462</guid>
+		<pubDate>Wed, 23 Sep 2026 10:36:07 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[patched]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49518</guid>
 
-					<description><![CDATA[<p>The attackers impersonate at least 40 companies and disable 145 security products to deploy infostealer malware.</p>
-<p>The post <a href="https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/">Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The browser update resolves several critical-severity memory safety and memory corruption flaws.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/">Chrome 154 Patches 108 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</title>
+		<link>https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 10:20:36 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Humanity]]></category>
+		<category><![CDATA[Risks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49515</guid>
+
+					<description><![CDATA[<p>Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons.</p>
+<p>The post <a href="https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/">A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</title>
+		<link>https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49513</guid>
+
+					<description><![CDATA[<p>Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions.</p>
+<p>The post <a href="https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/">Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Arista Urges Immediate Patching of Exploited VCO Zero-Day</title>
+		<link>https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 08:33:06 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Arista]]></category>
+		<category><![CDATA[CISA KEV]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49510</guid>
+
+					<description><![CDATA[<p>Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.</p>
+<p>The post <a href="https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/">Arista Urges Immediate Patching of Exploited VCO Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</title>
+		<link>https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 07:34:18 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BIG-IP]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[F5]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49508</guid>
+
+					<description><![CDATA[<p>Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/">Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</title>
+		<link>https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 07:13:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49505</guid>
+
+					<description><![CDATA[<p>The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. </p>
+<p>The post <a href="https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/">ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Check Point Patches Exploited Management Server Zero-Day</title>
+		<link>https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 06:14:03 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49502</guid>
+
+					<description><![CDATA[<p>The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts.</p>
+<p>The post <a href="https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/">Check Point Patches Exploited Management Server Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
