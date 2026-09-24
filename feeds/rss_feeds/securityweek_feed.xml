@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 23 Sep 2026 12:17:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Sep 2026 14:53:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,202 +28,197 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</title>
-		<link>https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 12:17:28 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Honeywell]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[Report]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49527</guid>
-
-					<description><![CDATA[<p>Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature.</p>
-<p>The post <a href="https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/">Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Adobe Patches Critical Flaws in Connect, AEM Forms</title>
-		<link>https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/</link>
+		<title>Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</title>
+		<link>https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 11:40:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Adobe]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49524</guid>
-
-					<description><![CDATA[<p>The nine critical security defects could be exploited for arbitrary code execution and privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/">Adobe Patches Critical Flaws in Connect, AEM Forms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</title>
-		<link>https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 11:23:30 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[EvilTokens]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[takedown]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49520</guid>
-
-					<description><![CDATA[<p>The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets.</p>
-<p>The post <a href="https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/">AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 154 Patches 108 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 10:36:07 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[patched]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49518</guid>
-
-					<description><![CDATA[<p>The browser update resolves several critical-severity memory safety and memory corruption flaws.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/">Chrome 154 Patches 108 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</title>
-		<link>https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 10:20:36 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Humanity]]></category>
-		<category><![CDATA[Risks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49515</guid>
-
-					<description><![CDATA[<p>Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons.</p>
-<p>The post <a href="https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/">A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</title>
-		<link>https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+		<pubDate>Thu, 24 Sep 2026 15:52:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49513</guid>
+		<category><![CDATA[Kontext]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49558</guid>
 
-					<description><![CDATA[<p>Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions.</p>
-<p>The post <a href="https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/">Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions.</p>
+<p>The post <a href="https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/">Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Arista Urges Immediate Patching of Exploited VCO Zero-Day</title>
-		<link>https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 08:33:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Arista]]></category>
-		<category><![CDATA[CISA KEV]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49510</guid>
-
-					<description><![CDATA[<p>Remote attackers could trigger the critical-severity flaw to access privileged internal functionality.</p>
-<p>The post <a href="https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/">Arista Urges Immediate Patching of Exploited VCO Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</title>
-		<link>https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 07:34:18 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BIG-IP]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[F5]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49508</guid>
-
-					<description><![CDATA[<p>Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/">Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</title>
-		<link>https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/</link>
+		<title>OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</title>
+		<link>https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 07:13:49 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[FBI]]></category>
+		<pubDate>Thu, 24 Sep 2026 14:43:13 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Australia]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49505</guid>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[rogue AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49555</guid>
 
-					<description><![CDATA[<p>The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. </p>
-<p>The post <a href="https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/">ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.</p>
+<p>The post <a href="https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/">OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Check Point Patches Exploited Management Server Zero-Day</title>
-		<link>https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/</link>
+		<title>AI-Powered Campaign Targets Hundreds of Online Retailers</title>
+		<link>https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 23 Sep 2026 06:14:03 +0000</pubDate>
+		<pubDate>Thu, 24 Sep 2026 12:48:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[credit card]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49553</guid>
+
+					<description><![CDATA[<p>A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration.</p>
+<p>The post <a href="https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/">AI-Powered Campaign Targets Hundreds of Online Retailers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Island Raises $400 Million at $6.4 Billion Valuation</title>
+		<link>https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 11:39:09 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Island]]></category>
+		<category><![CDATA[raises]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49551</guid>
+
+					<description><![CDATA[<p>The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding round. </p>
+<p>The post <a href="https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/">Island Raises $400 Million at $6.4 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</title>
+		<link>https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 11:05:16 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[NIST]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49546</guid>
+
+					<description><![CDATA[<p>Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.</p>
+<p>The post <a href="https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/">OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Begin at the End: How to Enable Agentic Remediation</title>
+		<link>https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/</link>
+		
+		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[SOC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49545</guid>
+
+					<description><![CDATA[<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>
+<p>The post <a href="https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/">Begin at the End: How to Enable Agentic Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</title>
+		<link>https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 10:40:40 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Check Point]]></category>
+		<category><![CDATA[SolarWinds]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49543</guid>
+
+					<description><![CDATA[<p>The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/">SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Astrana Health Data Breach Impacts Private, Confidential Information</title>
+		<link>https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 09:56:04 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Astrana Health]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49541</guid>
+
+					<description><![CDATA[<p>Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers.</p>
+<p>The post <a href="https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/">Astrana Health Data Breach Impacts Private, Confidential Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</title>
+		<link>https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:38:29 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Ryuk]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49539</guid>
+
+					<description><![CDATA[<p>Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.</p>
+<p>The post <a href="https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/">US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Critical WordPress Vulnerability Exploited Immediately After Disclosure</title>
+		<link>https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 07:12:26 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49502</guid>
+		<category><![CDATA[WordPress]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49537</guid>
 
-					<description><![CDATA[<p>The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts.</p>
-<p>The post <a href="https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/">Check Point Patches Exploited Management Server Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.</p>
+<p>The post <a href="https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/">Critical WordPress Vulnerability Exploited Immediately After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
