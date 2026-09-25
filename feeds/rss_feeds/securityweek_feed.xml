@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 24 Sep 2026 14:53:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Sep 2026 15:08:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure</title>
+		<link>https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 15:07:31 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49588</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial telemetry uptime, Ubuntu update overhaul.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/">In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>North Korea Suspected in $351 Million Bitget Crypto Heist</title>
+		<link>https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 14:16:18 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Bitget]]></category>
+		<category><![CDATA[cryptocurrency]]></category>
+		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[heist]]></category>
+		<category><![CDATA[North Korea]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49586</guid>
+
+					<description><![CDATA[<p>Bitget’s security systems caught the unauthorized transfers on September 24, and some wallet addresses linked to the attacker have been frozen.</p>
+<p>The post <a href="https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/">North Korea Suspected in $351 Million Bitget Crypto Heist</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks</title>
+		<link>https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 12:39:12 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[CISA]]></category>
+		<category><![CDATA[Election]]></category>
+		<category><![CDATA[guidance]]></category>
+		<category><![CDATA[voting]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49577</guid>
+
+					<description><![CDATA[<p>Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July. </p>
+<p>The post <a href="https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/">CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court</title>
+		<link>https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 12:16:27 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[guilty plea]]></category>
+		<category><![CDATA[Rydox]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49574</guid>
+
+					<description><![CDATA[<p>Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services.</p>
+<p>The post <a href="https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/">Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Windows, Linux, Android File Notification Systems Leak User Activity</title>
+		<link>https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 10:53:32 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[endpoint security]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49570</guid>
+
+					<description><![CDATA[<p>Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events.</p>
+<p>The post <a href="https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/">Windows, Linux, Android File Notification Systems Leak User Activity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration</title>
+		<link>https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 09:27:51 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49567</guid>
+
+					<description><![CDATA[<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>
+<p>The post <a href="https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/">&#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
+		<link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 06:57:40 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Roundcube]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49564</guid>
+
+					<description><![CDATA[<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>
+<p>The post <a href="https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/">Roundcube Webmail Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</title>
+		<link>https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 20:35:21 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49560</guid>
+
+					<description><![CDATA[<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.</p>
+<p>The post <a href="https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/">Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</title>
 		<link>https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/</link>
 		
@@ -63,162 +226,6 @@
 
 					<description><![CDATA[<p>Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.</p>
 <p>The post <a href="https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/">OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI-Powered Campaign Targets Hundreds of Online Retailers</title>
-		<link>https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 12:48:14 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[credit card]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49553</guid>
-
-					<description><![CDATA[<p>A threat actor is using three AI harnesses for vulnerability research, exploitation, and attack orchestration.</p>
-<p>The post <a href="https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/">AI-Powered Campaign Targets Hundreds of Online Retailers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Island Raises $400 Million at $6.4 Billion Valuation</title>
-		<link>https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 11:39:09 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Island]]></category>
-		<category><![CDATA[raises]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49551</guid>
-
-					<description><![CDATA[<p>The enterprise security firm has raised more than $1 billion since its launch in 2020; Evolution Equity Partners led the latest funding round. </p>
-<p>The post <a href="https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/">Island Raises $400 Million at $6.4 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</title>
-		<link>https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 11:05:16 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[CISA]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[guidance]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[NIST]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49546</guid>
-
-					<description><![CDATA[<p>Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.</p>
-<p>The post <a href="https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/">OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Begin at the End: How to Enable Agentic Remediation</title>
-		<link>https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/</link>
-		
-		<dc:creator><![CDATA[Nadir Izrael]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[SOC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49545</guid>
-
-					<description><![CDATA[<p>Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. </p>
-<p>The post <a href="https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/">Begin at the End: How to Enable Agentic Remediation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</title>
-		<link>https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 10:40:40 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49543</guid>
-
-					<description><![CDATA[<p>The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/">SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Astrana Health Data Breach Impacts Private, Confidential Information</title>
-		<link>https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 09:56:04 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Astrana Health]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49541</guid>
-
-					<description><![CDATA[<p>Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers.</p>
-<p>The post <a href="https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/">Astrana Health Data Breach Impacts Private, Confidential Information</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</title>
-		<link>https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 08:38:29 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Ryuk]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49539</guid>
-
-					<description><![CDATA[<p>Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims.</p>
-<p>The post <a href="https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/">US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Critical WordPress Vulnerability Exploited Immediately After Disclosure</title>
-		<link>https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 07:12:26 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49537</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code.</p>
-<p>The post <a href="https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/">Critical WordPress Vulnerability Exploited Immediately After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
