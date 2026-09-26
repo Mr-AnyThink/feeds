@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 25 Sep 2026 15:08:24 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Sep 2026 10:19:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
+		<link>https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[botnet]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[X47.c]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49582</guid>
+
+					<description><![CDATA[<p>The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.</p>
+<p>The post <a href="https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/">New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
+		<link>https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2026 10:15:41 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49592</guid>
+
+					<description><![CDATA[<p>OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.”</p>
+<p>The post <a href="https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/">OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure</title>
 		<link>https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/</link>
 		
@@ -185,47 +223,6 @@
 
 					<description><![CDATA[<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.</p>
 <p>The post <a href="https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/">Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</title>
-		<link>https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 15:52:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Kontext]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49558</guid>
-
-					<description><![CDATA[<p>The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions.</p>
-<p>The post <a href="https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/">Kontext Security Emerges With $4 Million for AI Agent Runtime Controls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</title>
-		<link>https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 14:43:13 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Australia]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49555</guid>
-
-					<description><![CDATA[<p>Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.</p>
-<p>The post <a href="https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/">OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
