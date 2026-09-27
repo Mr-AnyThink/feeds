@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 26 Sep 2026 10:19:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Sep 2026 09:23:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</title>
+		<link>https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Sun, 27 Sep 2026 09:23:09 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SharePoint]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49599</guid>
+
+					<description><![CDATA[<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/">Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks</title>
+		<link>https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2026 18:09:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49597</guid>
+
+					<description><![CDATA[<p>The US and China agreed to set up a communication mechanism for artificial intelligence-related incidents.</p>
+<p>The post <a href="https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/">China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
 		<link>https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</link>
 		
@@ -93,6 +133,7 @@
 		<category><![CDATA[Bitget]]></category>
 		<category><![CDATA[cryptocurrency]]></category>
 		<category><![CDATA[cryptocurrency heist]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[heist]]></category>
 		<category><![CDATA[North Korea]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=49586</guid>
@@ -183,46 +224,6 @@
 
 					<description><![CDATA[<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>
 <p>The post <a href="https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/">&#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
-		<link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 25 Sep 2026 06:57:40 +0000</pubDate>
-				<category><![CDATA[Email Security]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[email security]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Roundcube]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49564</guid>
-
-					<description><![CDATA[<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>
-<p>The post <a href="https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/">Roundcube Webmail Vulnerability in Attackers’ Crosshairs</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</title>
-		<link>https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 24 Sep 2026 20:35:21 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49560</guid>
-
-					<description><![CDATA[<p>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden.</p>
-<p>The post <a href="https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/">Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
