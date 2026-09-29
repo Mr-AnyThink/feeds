@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 28 Sep 2026 17:36:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Sep 2026 14:38:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,201 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Modulate Raises $25 Million to Advance Deepfake Detection</title>
-		<link>https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</link>
+		<title>New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</title>
+		<link>https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
+				<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Amd]]></category>
+		<category><![CDATA[Arm]]></category>
+		<category><![CDATA[CPU]]></category>
+		<category><![CDATA[CPU attack]]></category>
+		<category><![CDATA[CPU vulnerability]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[Spectre]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49623</guid>
+
+					<description><![CDATA[<p>Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel</p>
+<p>The post <a href="https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/">New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>RemoteThreat Launches With $7 Million for Offensive Operations Platform</title>
+		<link>https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 14:38:07 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Offensive Security]]></category>
+		<category><![CDATA[RemoteThreat]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49673</guid>
+
+					<description><![CDATA[<p>The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.</p>
+<p>The post <a href="https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/">RemoteThreat Launches With $7 Million for Offensive Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Reco Raises $55 Million for Agentic Security</title>
+		<link>https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 13:20:53 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[agentic AI]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Reco]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49671</guid>
+
+					<description><![CDATA[<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>
+<p>The post <a href="https://www.securityweek.com/reco-raises-55-million-for-agentic-security/">Reco Raises $55 Million for Agentic Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</title>
+		<link>https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 13:03:35 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[ClickFix]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49669</guid>
+
+					<description><![CDATA[<p>The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/">Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pentagon Personnel Agency Data Breach Impacts 3 Million People</title>
+		<link>https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 12:25:12 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[DMDC]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Pentagon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49666</guid>
+
+					<description><![CDATA[<p>The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.</p>
+<p>The post <a href="https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/">Pentagon Personnel Agency Data Breach Impacts 3 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</title>
+		<link>https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 17:30:00 +0000</pubDate>
+		<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Cybersecurity Funding]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49638</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49656</guid>
 
-					<description><![CDATA[<p>The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. </p>
-<p>The post <a href="https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/">Modulate Raises $25 Million to Advance Deepfake Detection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents</p>
+<p>The post <a href="https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/">Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Call for Presentations Open for 2026 CISO Forum Virtual Summit</title>
-		<link>https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</link>
+		<title>Four Cyber Threats Harboring Big Plans for the Future</title>
+		<link>https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/</link>
 		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 15:15:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[CISO]]></category>
-		<category><![CDATA[Event]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49621</guid>
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 11:30:00 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Resilience]]></category>
+		<category><![CDATA[Risk]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49662</guid>
 
-					<description><![CDATA[<p>SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs.</p>
-<p>The post <a href="https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/">Call for Presentations Open for 2026 CISO Forum Virtual Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations.</p>
+<p>The post <a href="https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/">Four Cyber Threats Harboring Big Plans for the Future</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Prison Sentence for Former US Soldier Who Hacked AT&#038;T and Verizon</title>
-		<link>https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 12:36:16 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Cameron John Wagenius]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49619</guid>
-
-					<description><![CDATA[<p>Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers.</p>
-<p>The post <a href="https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/">Prison Sentence for Former US Soldier Who Hacked AT&#038;T and Verizon</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>DC Health Agency Exposes 400,000 Beneficiary Records</title>
-		<link>https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 11:29:29 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DHCF]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49617</guid>
-
-					<description><![CDATA[<p>The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed.</p>
-<p>The post <a href="https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/">DC Health Agency Exposes 400,000 Beneficiary Records</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Warns of ShinyHunters&#8217; Fresh Oracle PeopleSoft Campaign</title>
-		<link>https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 10:56:46 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[Oracle PeopleSoft]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49615</guid>
-
-					<description><![CDATA[<p>The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273.</p>
-<p>The post <a href="https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/">Google Warns of ShinyHunters&#8217; Fresh Oracle PeopleSoft Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections</title>
-		<link>https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 10:40:01 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[Cambridge Analytica]]></category>
-		<category><![CDATA[compliance]]></category>
-		<category><![CDATA[Facebook]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49612</guid>
-
-					<description><![CDATA[<p>A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform.</p>
-<p>The post <a href="https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/">New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog</title>
-		<link>https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/</link>
+		<title>OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</title>
+		<link>https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 10:27:01 +0000</pubDate>
+		<pubDate>Tue, 29 Sep 2026 11:15:59 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NVIDIA]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49609</guid>
+		<category><![CDATA[GPT-6 Astra]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[safety]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49660</guid>
 
-					<description><![CDATA[<p>The platform combines open source software and a reference system design to keep AI agents within set boundaries.</p>
-<p>The post <a href="https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/">Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. </p>
+<p>The post <a href="https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/">OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability</title>
-		<link>https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/</link>
+		<title>Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</title>
+		<link>https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 09:44:27 +0000</pubDate>
+		<pubDate>Tue, 29 Sep 2026 11:01:55 +0000</pubDate>
+				<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49657</guid>
+
+					<description><![CDATA[<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>
+<p>The post <a href="https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/">Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</title>
+		<link>https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 09:46:13 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[alert]]></category>
-		<category><![CDATA[Kiteworks]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49607</guid>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Daemon Tools]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NeedyMantis]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49651</guid>
 
-					<description><![CDATA[<p>The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised.</p>
-<p>The post <a href="https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/">Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug</title>
-		<link>https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 07:29:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49605</guid>
-
-					<description><![CDATA[<p>Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772.</p>
-<p>The post <a href="https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/">Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</title>
-		<link>https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Sun, 27 Sep 2026 09:23:09 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49599</guid>
-
-					<description><![CDATA[<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/">Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>
+<p>The post <a href="https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/">Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
