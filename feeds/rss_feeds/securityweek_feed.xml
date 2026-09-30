@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 29 Sep 2026 14:38:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Sep 2026 14:06:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,199 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</title>
-		<link>https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/</link>
+		<title>Google: AI Is Changing the Pace and Profile of Vulnerability Discovery</title>
+		<link>https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
-				<category><![CDATA[Endpoint Security]]></category>
+		<pubDate>Wed, 30 Sep 2026 14:05:58 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Amd]]></category>
-		<category><![CDATA[Arm]]></category>
-		<category><![CDATA[CPU]]></category>
-		<category><![CDATA[CPU attack]]></category>
-		<category><![CDATA[CPU vulnerability]]></category>
-		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[Intel]]></category>
-		<category><![CDATA[Spectre]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49623</guid>
-
-					<description><![CDATA[<p>Branch Target Reuse (BTR) is a new Spectre v2 attack targeting JIT compilers in web browsers, language runtimes, and the operating system kernel</p>
-<p>The post <a href="https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/">New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>RemoteThreat Launches With $7 Million for Offensive Operations Platform</title>
-		<link>https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 14:38:07 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<category><![CDATA[RemoteThreat]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49673</guid>
-
-					<description><![CDATA[<p>The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe.</p>
-<p>The post <a href="https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/">RemoteThreat Launches With $7 Million for Offensive Operations Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Reco Raises $55 Million for Agentic Security</title>
-		<link>https://www.securityweek.com/reco-raises-55-million-for-agentic-security/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 13:20:53 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[agentic AI]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Reco]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49671</guid>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49712</guid>
 
-					<description><![CDATA[<p>The company will use the funds to expand its sales, partnerships, channels, and customer support teams.</p>
-<p>The post <a href="https://www.securityweek.com/reco-raises-55-million-for-agentic-security/">Reco Raises $55 Million for Agentic Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/">Google: AI Is Changing the Pace and Profile of Vulnerability Discovery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</title>
-		<link>https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/</link>
+		<title>WatchGuard Patches Critical Fireware OS Code Injection Vulnerability</title>
+		<link>https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 13:03:35 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49669</guid>
+		<pubDate>Wed, 30 Sep 2026 13:16:56 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WatchGuard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49707</guid>
 
-					<description><![CDATA[<p>The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/">Hackers Use ChatGPT Custom GPTs in ClickFix Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS.</p>
+<p>The post <a href="https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/">WatchGuard Patches Critical Fireware OS Code Injection Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Pentagon Personnel Agency Data Breach Impacts 3 Million People</title>
-		<link>https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/</link>
+		<title>Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks</title>
+		<link>https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 12:25:12 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[DMDC]]></category>
+		<pubDate>Wed, 30 Sep 2026 12:48:20 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49703</guid>
+
+					<description><![CDATA[<p>Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772.</p>
+<p>The post <a href="https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/">Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Chrome, Firefox Updates Patch Over 100 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 12:16:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49701</guid>
+
+					<description><![CDATA[<p>Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/">Chrome, Firefox Updates Patch Over 100 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit</title>
+		<link>https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 11:19:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Pentagon]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49666</guid>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[legislation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49699</guid>
 
-					<description><![CDATA[<p>The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense.</p>
-<p>The post <a href="https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/">Pentagon Personnel Agency Data Breach Impacts 3 Million People</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/">Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</title>
-		<link>https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</link>
+		<title>Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks</title>
+		<link>https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/</link>
 		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49656</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 10:59:30 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[RedFlick]]></category>
+		<category><![CDATA[Russia]]></category>
+		<category><![CDATA[Star Blizzard]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49697</guid>
 
-					<description><![CDATA[<p>Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents</p>
-<p>The post <a href="https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/">Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor.</p>
+<p>The post <a href="https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/">Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Four Cyber Threats Harboring Big Plans for the Future</title>
-		<link>https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/</link>
+		<title>ShinyHunters Defiant After FBI Calls on Members to Come Forward</title>
+		<link>https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/</link>
 		
-		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 11:30:00 +0000</pubDate>
-				<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Quantum]]></category>
-		<category><![CDATA[Resilience]]></category>
-		<category><![CDATA[Risk]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49662</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 10:20:02 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49694</guid>
 
-					<description><![CDATA[<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations.</p>
-<p>The post <a href="https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/">Four Cyber Threats Harboring Big Plans for the Future</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI.</p>
+<p>The post <a href="https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/">ShinyHunters Defiant After FBI Calls on Members to Come Forward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</title>
-		<link>https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/</link>
+		<title>High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL</title>
+		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 11:15:59 +0000</pubDate>
+		<pubDate>Wed, 30 Sep 2026 06:55:50 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[OpenSSL]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[WolfSSL]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49689</guid>
+
+					<description><![CDATA[<p>Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. </p>
+<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/">High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</title>
+		<link>https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[GPT-6 Astra]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49684</guid>
+
+					<description><![CDATA[<p>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take.</p>
+<p>The post <a href="https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/">Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</title>
+		<link>https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 20:14:44 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[safety]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49660</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49680</guid>
 
-					<description><![CDATA[<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. </p>
-<p>The post <a href="https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/">OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</title>
-		<link>https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 11:01:55 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49657</guid>
-
-					<description><![CDATA[<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>
-<p>The post <a href="https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/">Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</title>
-		<link>https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 09:46:13 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Daemon Tools]]></category>
-		<category><![CDATA[malware]]></category>
-		<category><![CDATA[NeedyMantis]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49651</guid>
-
-					<description><![CDATA[<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>
-<p>The post <a href="https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/">Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.</p>
+<p>The post <a href="https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/">OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
