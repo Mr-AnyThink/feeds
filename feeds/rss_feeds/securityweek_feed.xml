@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 30 Sep 2026 14:06:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Oct 2026 17:16:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Google: AI Is Changing the Pace and Profile of Vulnerability Discovery</title>
-		<link>https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/</link>
+		<title>Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</title>
+		<link>https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 17:16:41 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[Threat Intelligence]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Osavul]]></category>
+		<category><![CDATA[threat intelligence]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49749</guid>
+
+					<description><![CDATA[<p>Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures.</p>
+<p>The post <a href="https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/">Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass</title>
+		<link>https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[hacker]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49645</guid>
+
+					<description><![CDATA[<p>Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says.</p>
+<p>The post <a href="https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/">Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says</title>
+		<link>https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[PwC]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Report]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49746</guid>
+
+					<description><![CDATA[<p>PwC’s survey found that only 22% of leaders would use fully autonomous AI for cyber defense, while just 21% are implementing quantum-resistant security measures.</p>
+<p>The post <a href="https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/">Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader</title>
+		<link>https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 14:05:58 +0000</pubDate>
+		<pubDate>Thu, 01 Oct 2026 14:17:07 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[disruption]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[KillSec]]></category>
+		<category><![CDATA[takedown]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49743</guid>
+
+					<description><![CDATA[<p>Police took control of KillSec’s leak site and secured at least 110 terabytes of data stolen from victims.</p>
+<p>The post <a href="https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/">Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Has Changed Attack Speed, Not Security Fundamentals</title>
+		<link>https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/</link>
+		
+		<dc:creator><![CDATA[Joshua Goldfarb]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 13:15:00 +0000</pubDate>
 				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Security Architecture]]></category>
+		<category><![CDATA[Security Infrastructure]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Patching]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49741</guid>
+
+					<description><![CDATA[<p>As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals.</p>
+<p>The post <a href="https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/">AI Has Changed Attack Speed, Not Security Fundamentals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure</title>
+		<link>https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 12:55:57 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zimbra]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49739</guid>
+
+					<description><![CDATA[<p>Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction.</p>
+<p>The post <a href="https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/">Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation</title>
+		<link>https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/</link>
+		
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 11:40:51 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49730</guid>
+
+					<description><![CDATA[<p>The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch.</p>
+<p>The post <a href="https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/">Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Treasury Blacklists Most-Wanted ATM Malware Developer and His Network</title>
+		<link>https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 10:51:39 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Ploutus]]></category>
+		<category><![CDATA[sanctions]]></category>
+		<category><![CDATA[Treasury]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49728</guid>
+
+					<description><![CDATA[<p>The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme.</p>
+<p>The post <a href="https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/">Treasury Blacklists Most-Wanted ATM Malware Developer and His Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zammad Zero-Days Exploited in AI-Powered DIVD Hack</title>
+		<link>https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 10:42:49 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Incident Response]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[analysis]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Report]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49712</guid>
-
-					<description><![CDATA[<p>Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/">Google: AI Is Changing the Pace and Profile of Vulnerability Discovery</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>WatchGuard Patches Critical Fireware OS Code Injection Vulnerability</title>
-		<link>https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 13:16:56 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WatchGuard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49707</guid>
-
-					<description><![CDATA[<p>WatchGuard has rolled out patches for 15 code execution, DoS, authorization, and path traversal bugs in Fireware OS.</p>
-<p>The post <a href="https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/">WatchGuard Patches Critical Fireware OS Code Injection Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks</title>
-		<link>https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 12:48:20 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[DIVD]]></category>
 		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zammad]]></category>
 		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49703</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49725</guid>
 
-					<description><![CDATA[<p>Several security firms have confirmed seeing exploitation of the NetScaler vulnerabilities CVE-2026-88771 and CVE-2026-88772.</p>
-<p>The post <a href="https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/">Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root.</p>
+<p>The post <a href="https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/">Zammad Zero-Days Exploited in AI-Powered DIVD Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Chrome, Firefox Updates Patch Over 100 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/</link>
+		<title>500,000 Active Credentials Left Exposed on GitHub</title>
+		<link>https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 12:16:52 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49701</guid>
-
-					<description><![CDATA[<p>Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/">Chrome, Firefox Updates Patch Over 100 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit</title>
-		<link>https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 11:19:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law]]></category>
-		<category><![CDATA[legislation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49699</guid>
-
-					<description><![CDATA[<p>Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/">Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks</title>
-		<link>https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 10:59:30 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[APT]]></category>
-		<category><![CDATA[RedFlick]]></category>
-		<category><![CDATA[Russia]]></category>
-		<category><![CDATA[Star Blizzard]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49697</guid>
-
-					<description><![CDATA[<p>The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor.</p>
-<p>The post <a href="https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/">Russian APT Star Blizzard Uses &#8216;RedFlick&#8217; Infection Chain in Recent Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ShinyHunters Defiant After FBI Calls on Members to Come Forward</title>
-		<link>https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 10:20:02 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[cybercrime]]></category>
+		<pubDate>Thu, 01 Oct 2026 09:43:56 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Identity & Access]]></category>
 		<category><![CDATA[data leak]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49694</guid>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[secrets scanning]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49723</guid>
 
-					<description><![CDATA[<p>In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI.</p>
-<p>The post <a href="https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/">ShinyHunters Defiant After FBI Calls on Members to Come Forward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL</title>
-		<link>https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 06:55:50 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[OpenSSL]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[WolfSSL]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49689</guid>
-
-					<description><![CDATA[<p>Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. </p>
-<p>The post <a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/">High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</title>
-		<link>https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49684</guid>
-
-					<description><![CDATA[<p>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take.</p>
-<p>The post <a href="https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/">Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</title>
-		<link>https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 29 Sep 2026 20:14:44 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49680</guid>
-
-					<description><![CDATA[<p>Altman made a slew of product announcements and updates, including the company’s new agents, called Dots.</p>
-<p>The post <a href="https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/">OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Roughly 200,000 of the credentials were exposed after GitHub enabled push protections by default.</p>
+<p>The post <a href="https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/">500,000 Active Credentials Left Exposed on GitHub</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
