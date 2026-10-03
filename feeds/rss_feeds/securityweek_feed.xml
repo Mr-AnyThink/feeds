@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 02 Oct 2026 13:24:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Oct 2026 11:46:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,44 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</title>
+		<link>https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 11:45:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49775</guid>
+
+					<description><![CDATA[<p>doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority.</p>
+<p>The post <a href="https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/">doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fortra Patches Critical Vulnerabilities in BoKS</title>
+		<link>https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Sat, 03 Oct 2026 11:34:00 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[BoKS]]></category>
+		<category><![CDATA[Fortra]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49768</guid>
+
+					<description><![CDATA[<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>
+<p>The post <a href="https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/">Fortra Patches Critical Vulnerabilities in BoKS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats</title>
 		<link>https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/</link>
 		
@@ -182,45 +220,6 @@
 
 					<description><![CDATA[<p>Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right.</p>
 <p>The post <a href="https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/">Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</title>
-		<link>https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 17:16:41 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[Threat Intelligence]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Osavul]]></category>
-		<category><![CDATA[threat intelligence]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49749</guid>
-
-					<description><![CDATA[<p>Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures.</p>
-<p>The post <a href="https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/">Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass</title>
-		<link>https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49645</guid>
-
-					<description><![CDATA[<p>Rob Juncker is chief product and technology officer at Mimecast. Is he a hacker? “Unequivocally yes,” he says.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/">Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
