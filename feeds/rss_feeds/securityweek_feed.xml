@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sat, 03 Oct 2026 11:46:48 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Oct 2026 14:57:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</title>
+		<link>https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Sun, 04 Oct 2026 14:57:25 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49780</guid>
+
+					<description><![CDATA[<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>
+<p>The post <a href="https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/">Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</title>
 		<link>https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/</link>
 		
@@ -129,6 +147,7 @@
 				<category><![CDATA[Cybercrime]]></category>
 		<category><![CDATA[Tracking & Law Enforcement]]></category>
 		<category><![CDATA[extradited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[hacker]]></category>
 		<category><![CDATA[Iran]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=49760</guid>
@@ -200,26 +219,6 @@
 
 					<description><![CDATA[<p>CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system.</p>
 <p>The post <a href="https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/">Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</title>
-		<link>https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 01 Oct 2026 18:00:00 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Security Architecture]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49748</guid>
-
-					<description><![CDATA[<p>Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right.</p>
-<p>The post <a href="https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/">Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
