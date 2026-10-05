@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Sun, 04 Oct 2026 14:57:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Oct 2026 15:33:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,152 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports</title>
+		<link>https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 14:26:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[bug bounty program]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[VRP]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49809</guid>
+
+					<description><![CDATA[<p>Google has temporarily stopped accepting product vulnerability reports through its Open Source Software Vulnerability Reward Program (OSS VRP).</p>
+<p>The post <a href="https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/">Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws</title>
+		<link>https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[ClingSTUN]]></category>
+		<category><![CDATA[Linux malware]]></category>
+		<category><![CDATA[malware]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49803</guid>
+
+					<description><![CDATA[<p>ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation.</p>
+<p>The post <a href="https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/">Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</title>
+		<link>https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 12:35:15 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49805</guid>
+
+					<description><![CDATA[<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>
+<p>The post <a href="https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/">250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation Hits Rejetto HFS Vulnerability Discovered by AI </title>
+		<link>https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 11:00:05 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Rejetto]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49801</guid>
+
+					<description><![CDATA[<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/">Exploitation Hits Rejetto HFS Vulnerability Discovered by AI </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</title>
+		<link>https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 10:42:19 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[legislation]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49799</guid>
+
+					<description><![CDATA[<p>More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.</p>
+<p>The post <a href="https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/">Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Alleged ShinyHunters Leader Arrested in Jordan</title>
+		<link>https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 07:16:53 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[law enforcement]]></category>
+		<category><![CDATA[Rey]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49786</guid>
+
+					<description><![CDATA[<p>Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group.</p>
+<p>The post <a href="https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/">Alleged ShinyHunters Leader Arrested in Jordan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</title>
+		<link>https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 05:14:48 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49783</guid>
+
+					<description><![CDATA[<p>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched.</p>
+<p>The post <a href="https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/">Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</title>
 		<link>https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/</link>
 		
@@ -78,147 +224,6 @@
 
 					<description><![CDATA[<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>
 <p>The post <a href="https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/">Fortra Patches Critical Vulnerabilities in BoKS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats</title>
-		<link>https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49771</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense Report, AI finds 24 Android app flaws.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/">In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor</title>
-		<link>https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 13:15:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[macOS]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49767</guid>
-
-					<description><![CDATA[<p>The dropper “carries a complete universal Mach-O inside itself, roughly 756 KB in the development build, and extracts it at runtime.</p>
-<p>The post <a href="https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/">macOS Users Targeted by Fake Zoom Installer Carrying CloudSyncD Backdoor</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Crypto Scammers Hijack Microsoft&#8217;s Official X Account</title>
-		<link>https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 11:46:10 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[account hack]]></category>
-		<category><![CDATA[cryptocurrency scam]]></category>
-		<category><![CDATA[Hacked]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[X]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49764</guid>
-
-					<description><![CDATA[<p>Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account.</p>
-<p>The post <a href="https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/">Crypto Scammers Hijack Microsoft&#8217;s Official X Account</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Rare Move, Alleged Iranian State Hacker Extradited to US</title>
-		<link>https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 11:14:34 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Iran]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49760</guid>
-
-					<description><![CDATA[<p>Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the US and abroad.</p>
-<p>The post <a href="https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/">In Rare Move, Alleged Iranian State Hacker Extradited to US</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks</title>
-		<link>https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 09:34:41 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[SharePoint]]></category>
-		<category><![CDATA[Warlock]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49756</guid>
-
-					<description><![CDATA[<p>The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025.</p>
-<p>The post <a href="https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/">Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI Agents Aimed SQL Injection at US and Canadian Government Sites</title>
-		<link>https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 08:38:46 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<category><![CDATA[SQL injection]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49754</guid>
-
-					<description><![CDATA[<p>The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI.</p>
-<p>The post <a href="https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/">AI Agents Aimed SQL Injection at US and Canadian Government Sites</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action</title>
-		<link>https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Fri, 02 Oct 2026 08:07:33 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FortiMail]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49752</guid>
-
-					<description><![CDATA[<p>CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system.</p>
-<p>The post <a href="https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/">Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
