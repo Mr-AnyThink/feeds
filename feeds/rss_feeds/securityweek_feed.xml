@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 05 Oct 2026 15:33:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Oct 2026 13:43:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,151 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>FBI Blames Contractor&#8217;s Missed Patch for ShinyHunters Breach</title>
+		<link>https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 14:15:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Oracle PeopleSoft]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[ShinyHunters]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49829</guid>
+
+					<description><![CDATA[<p>The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/">FBI Blames Contractor&#8217;s Missed Patch for ShinyHunters Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware</title>
+		<link>https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 12:47:57 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[arrested]]></category>
+		<category><![CDATA[ATM jackpotting]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Ploutus]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49827</guid>
+
+					<description><![CDATA[<p>An alleged leader of Tren de Aragua’s ATM jackpotting activities, Canelon Aguirre was on the FBI’s top 10 most wanted list since March 2026.</p>
+<p>The post <a href="https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/">FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks</title>
+		<link>https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 11:48:59 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
+		<category><![CDATA[Endpoint Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[data protection]]></category>
+		<category><![CDATA[Data Security]]></category>
+		<category><![CDATA[Full Disk Access]]></category>
+		<category><![CDATA[macOS]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49824</guid>
+
+					<description><![CDATA[<p>Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls.</p>
+<p>The post <a href="https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/">Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026</title>
+		<link>https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 11:01:35 +0000</pubDate>
+				<category><![CDATA[M&A Tracker]]></category>
+		<category><![CDATA[Acquisitions]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[M&A]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49821</guid>
+
+					<description><![CDATA[<p>Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/">Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Long-Running NPM Malware Campaign Accumulates 40,000 Downloads</title>
+		<link>https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 10:34:25 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[MALFEX]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[NPM]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49818</guid>
+
+					<description><![CDATA[<p>Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign.</p>
+<p>The post <a href="https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/">Long-Running NPM Malware Campaign Accumulates 40,000 Downloads</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>8.8 Million Impacted by Data Breach at Denmark’s Central Person Register</title>
+		<link>https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 09:38:30 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Denmark]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49815</guid>
+
+					<description><![CDATA[<p>Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens.</p>
+<p>The post <a href="https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/">8.8 Million Impacted by Data Breach at Denmark’s Central Person Register</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Social Engineering Detection Moves Into the Live Conversation</title>
+		<link>https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 08:38:14 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Identity & Access]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[awareness training]]></category>
+		<category><![CDATA[Deepfake]]></category>
+		<category><![CDATA[deepfake detection]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[security awareness]]></category>
+		<category><![CDATA[security product]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49813</guid>
+
+					<description><![CDATA[<p>Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering.</p>
+<p>The post <a href="https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/">Social Engineering Detection Moves Into the Live Conversation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports</title>
 		<link>https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/</link>
 		
@@ -83,147 +228,6 @@
 
 					<description><![CDATA[<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>
 <p>The post <a href="https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/">250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation Hits Rejetto HFS Vulnerability Discovered by AI </title>
-		<link>https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 11:00:05 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Rejetto]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49801</guid>
-
-					<description><![CDATA[<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/">Exploitation Hits Rejetto HFS Vulnerability Discovered by AI </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</title>
-		<link>https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 10:42:19 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[bill]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[legislation]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49799</guid>
-
-					<description><![CDATA[<p>More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.</p>
-<p>The post <a href="https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/">Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Alleged ShinyHunters Leader Arrested in Jordan</title>
-		<link>https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 07:16:53 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[FBI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[law enforcement]]></category>
-		<category><![CDATA[Rey]]></category>
-		<category><![CDATA[ShinyHunters]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49786</guid>
-
-					<description><![CDATA[<p>Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group.</p>
-<p>The post <a href="https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/">Alleged ShinyHunters Leader Arrested in Jordan</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</title>
-		<link>https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 05 Oct 2026 05:14:48 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49783</guid>
-
-					<description><![CDATA[<p>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched.</p>
-<p>The post <a href="https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/">Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</title>
-		<link>https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Sun, 04 Oct 2026 14:57:25 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Government]]></category>
-		<category><![CDATA[AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49780</guid>
-
-					<description><![CDATA[<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>
-<p>The post <a href="https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/">Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</title>
-		<link>https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Sat, 03 Oct 2026 11:45:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49775</guid>
-
-					<description><![CDATA[<p>doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority.</p>
-<p>The post <a href="https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/">doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fortra Patches Critical Vulnerabilities in BoKS</title>
-		<link>https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 03 Oct 2026 11:34:00 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[BoKS]]></category>
-		<category><![CDATA[Fortra]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49768</guid>
-
-					<description><![CDATA[<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>
-<p>The post <a href="https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/">Fortra Patches Critical Vulnerabilities in BoKS</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
