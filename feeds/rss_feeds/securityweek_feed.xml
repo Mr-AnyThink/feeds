@@ -12,13 +12,13 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 07 Oct 2026 14:15:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Oct 2026 16:53:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.5</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 
 <image>
 	<url>https://www.securityweek.com/wp-content/uploads/2023/01/cropped-SecurityWeek-Icon-32x32.jpeg</url>
@@ -28,204 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</title>
-		<link>https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 14:15:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[electric]]></category>
-		<category><![CDATA[energy]]></category>
-		<category><![CDATA[Georgia Power]]></category>
-		<category><![CDATA[utility]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49860</guid>
-
-					<description><![CDATA[<p>Southern Company is notifying customers that their utility account information was accessed by hackers.</p>
-<p>The post <a href="https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/">Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany</title>
-		<link>https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/</link>
+		<title>Cisco Patches a Dozen Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 13:47:12 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[extradited]]></category>
-		<category><![CDATA[Germany]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Japan]]></category>
-		<category><![CDATA[Qilin]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49857</guid>
-
-					<description><![CDATA[<p>The individual was detained in May and has been extradited to Germany to face hacking charges.</p>
-<p>The post <a href="https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/">Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform</title>
-		<link>https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 13:06:10 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Hadrian]]></category>
-		<category><![CDATA[Offensive Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49854</guid>
-
-					<description><![CDATA[<p>Hadrian offers an agentic offensive security platform that allows defenders to operate at the same speed as attackers.</p>
-<p>The post <a href="https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/">Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Advantest Discloses Data Breach Months After Ransomware Attack</title>
-		<link>https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 12:37:24 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Advantest]]></category>
-		<category><![CDATA[data breach]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49852</guid>
-
-					<description><![CDATA[<p>The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack.</p>
-<p>The post <a href="https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/">Advantest Discloses Data Breach Months After Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome 155 Update Patches 247 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 10:51:57 +0000</pubDate>
+		<pubDate>Thu, 08 Oct 2026 15:28:06 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49850</guid>
-
-					<description><![CDATA[<p>Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/">Chrome 155 Update Patches 247 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Introduces 3-Tier Cyber Verification Program for AI Access</title>
-		<link>https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 10:07:09 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Claude]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[Project Glasswing]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49846</guid>
-
-					<description><![CDATA[<p>Anthropic is integrating the CVP and Project Glasswing into a single offering, with three levels of access to its most capable AI models.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/">Anthropic Introduces 3-Tier Cyber Verification Program for AI Access</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ASOS Confirms Cyberattack, Data Breach</title>
-		<link>https://www.securityweek.com/asos-confirms-cyberattack-data-breach/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 09:46:20 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[Asos]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Snowflake]]></category>
-		<category><![CDATA[UK]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49843</guid>
-
-					<description><![CDATA[<p>Hackers compromised a third-party communication platform and sent rogue notifications to ASOS users.</p>
-<p>The post <a href="https://www.securityweek.com/asos-confirms-cyberattack-data-breach/">ASOS Confirms Cyberattack, Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies</title>
-		<link>https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 07:58:22 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<category><![CDATA[Wikimedia]]></category>
-		<category><![CDATA[Wikipedia]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49838</guid>
-
-					<description><![CDATA[<p>Wikimedia looked into whether its own websites had seen activity like that disclosed by other organizations</p>
-<p>The post <a href="https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/">Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities</title>
-		<link>https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 06:55:52 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Android]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49836</guid>
-
-					<description><![CDATA[<p>The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation.</p>
-<p>The post <a href="https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/">Android&#8217;s October 2026 Updates Patch 25 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Atlassian Patches Critical Vulnerability Affecting 8 Products</title>
-		<link>https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 07 Oct 2026 06:37:16 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[Cisco]]></category>
 		<category><![CDATA[patches]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49834</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49883</guid>
 
-					<description><![CDATA[<p>Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory.</p>
-<p>The post <a href="https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/">Atlassian Patches Critical Vulnerability Affecting 8 Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink</title>
+		<link>https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[Management & Strategy]]></category>
+		<category><![CDATA[Training & Awareness]]></category>
+		<category><![CDATA[awareness]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[security awareness]]></category>
+		<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49788</guid>
+
+					<description><![CDATA[<p>All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable.</p>
+<p>The post <a href="https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/">Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication</title>
+		<link>https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 14:04:44 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49879</guid>
+
+					<description><![CDATA[<p>Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products.</p>
+<p>The post <a href="https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/">Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward</title>
+		<link>https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 12:46:21 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Hafnium]]></category>
+		<category><![CDATA[reward]]></category>
+		<category><![CDATA[Silk Typhoon]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49876</guid>
+
+					<description><![CDATA[<p>Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026.</p>
+<p>The post <a href="https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/">US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>SonicWall and Splunk Patch Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 12:37:32 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[SonicWall]]></category>
+		<category><![CDATA[Splunk]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49874</guid>
+
+					<description><![CDATA[<p>Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges.</p>
+<p>The post <a href="https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/">SonicWall and Splunk Patch Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rein Security Raises $25 Million to Guard AI Agents at Runtime</title>
+		<link>https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 11:11:28 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49872</guid>
+
+					<description><![CDATA[<p>The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion.</p>
+<p>The post <a href="https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/">Rein Security Raises $25 Million to Guard AI Agents at Runtime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws</title>
+		<link>https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 10:24:04 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[TP-Link]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49870</guid>
+
+					<description><![CDATA[<p>SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states.</p>
+<p>The post <a href="https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/">TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme</title>
+		<link>https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 09:27:55 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[charged]]></category>
+		<category><![CDATA[MonsterCloud]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49868</guid>
+
+					<description><![CDATA[<p>Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation.</p>
+<p>The post <a href="https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/">Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Oracle Health Data Breach Tally Climbs to Nearly 20 Million</title>
+		<link>https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 08:23:31 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Oracle Health]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49866</guid>
+
+					<description><![CDATA[<p>The figure is far higher than the counts that surfaced in earlier filings and patient notifications.</p>
+<p>The post <a href="https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/">Oracle Health Data Breach Tally Climbs to Nearly 20 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>FortiBleed Attackers Locking Victims Out of Fortinet Devices</title>
+		<link>https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 07:52:33 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[FortiBleed]]></category>
+		<category><![CDATA[Fortinet]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49863</guid>
+
+					<description><![CDATA[<p>Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access.</p>
+<p>The post <a href="https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/">FortiBleed Attackers Locking Victims Out of Fortinet Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
