@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 08 Oct 2026 16:53:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Oct 2026 12:07:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,194 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</title>
+		<link>https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 12:03:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49913</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/">In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Domains Impacted by Recent ccTLD Hijacks</title>
+		<link>https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 11:43:14 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<category><![CDATA[ccTLD]]></category>
+		<category><![CDATA[domain]]></category>
+		<category><![CDATA[domain hijack]]></category>
+		<category><![CDATA[domain hijacking]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[TLD]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49909</guid>
+
+					<description><![CDATA[<p>Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains.</p>
+<p>The post <a href="https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/">Google Domains Impacted by Recent ccTLD Hijacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unpatched AhsayCBS Vulnerabilities Exploited in the Wild</title>
+		<link>https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 10:23:42 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[AhsayCBS]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49907</guid>
+
+					<description><![CDATA[<p>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands.</p>
+<p>The post <a href="https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/">Unpatched AhsayCBS Vulnerabilities Exploited in the Wild</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries</title>
+		<link>https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 09:55:35 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[firmware]]></category>
+		<category><![CDATA[Midnight Mimosa]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49905</guid>
+
+					<description><![CDATA[<p>Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices.</p>
+<p>The post <a href="https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/">Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Disrupts Chinese State-Sponsored Hacking Tools</title>
+		<link>https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 08:36:37 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[Flax Typhoon]]></category>
+		<category><![CDATA[Integrity Tech]]></category>
+		<category><![CDATA[MicroScan]]></category>
+		<category><![CDATA[US]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49902</guid>
+
+					<description><![CDATA[<p>Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure.</p>
+<p>The post <a href="https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/">US Disrupts Chinese State-Sponsored Hacking Tools</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security</title>
+		<link>https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 08:19:33 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[OSS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[scanner]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49900</guid>
+
+					<description><![CDATA[<p>OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in.</p>
+<p>The post <a href="https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/">Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Citrix Urges Immediate Patching of Critical NetScaler Vulnerability</title>
+		<link>https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 06:53:53 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49896</guid>
+
+					<description><![CDATA[<p>The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service.</p>
+<p>The post <a href="https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/">Citrix Urges Immediate Patching of Critical NetScaler Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</title>
+		<link>https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 06:39:55 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Google Pixel]]></category>
+		<category><![CDATA[Pwn2Own]]></category>
+		<category><![CDATA[Pwn2Own Ireland]]></category>
+		<category><![CDATA[Pwn2Own Ireland 2026]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49894</guid>
+
+					<description><![CDATA[<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools.</p>
+<p>The post <a href="https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/">Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Formula Predicts When AI Chatbots Are at Risk of Turning Bad</title>
+		<link>https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 04:12:38 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49891</guid>
+
+					<description><![CDATA[<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>
+<p>The post <a href="https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Cisco Patches a Dozen Critical Vulnerabilities</title>
 		<link>https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/</link>
 		
@@ -41,189 +229,6 @@
 
 					<description><![CDATA[<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>
 <p>The post <a href="https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink</title>
-		<link>https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Training & Awareness]]></category>
-		<category><![CDATA[awareness]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[security awareness]]></category>
-		<category><![CDATA[Training]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49788</guid>
-
-					<description><![CDATA[<p>All enterprises conduct security awareness training for their employees. But whether this has tangible benefits is debatable.</p>
-<p>The post <a href="https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/">Security Awareness Training Isn&#8217;t Dead, but It Needs a Rethink</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication</title>
-		<link>https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 14:04:44 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Atlassian]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49879</guid>
-
-					<description><![CDATA[<p>Threat actors have started targeting CVE-2026-21589, a critical vulnerability in Atlassian’s self-hosted Data Center products.</p>
-<p>The post <a href="https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/">Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward</title>
-		<link>https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 12:46:21 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Hafnium]]></category>
-		<category><![CDATA[reward]]></category>
-		<category><![CDATA[Silk Typhoon]]></category>
-		<category><![CDATA[US]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49876</guid>
-
-					<description><![CDATA[<p>Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026.</p>
-<p>The post <a href="https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/">US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SonicWall and Splunk Patch Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 12:37:32 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[SonicWall]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49874</guid>
-
-					<description><![CDATA[<p>Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges.</p>
-<p>The post <a href="https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/">SonicWall and Splunk Patch Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rein Security Raises $25 Million to Guard AI Agents at Runtime</title>
-		<link>https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 11:11:28 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49872</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion.</p>
-<p>The post <a href="https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/">Rein Security Raises $25 Million to Guard AI Agents at Runtime</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws</title>
-		<link>https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 10:24:04 +0000</pubDate>
-				<category><![CDATA[Government]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[TP-Link]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49870</guid>
-
-					<description><![CDATA[<p>SEC Consult has published technical details on vulnerabilities mentioned in a complaint filed by several US states.</p>
-<p>The post <a href="https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/">TP-Link Faces State Lawsuits and New Scrutiny Over ISP Router Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme</title>
-		<link>https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 09:27:55 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[charged]]></category>
-		<category><![CDATA[MonsterCloud]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49868</guid>
-
-					<description><![CDATA[<p>Zohar Pinhasi was paying ransoms to obtain decryption keys and then charging victims substantially more for remediation.</p>
-<p>The post <a href="https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/">Fake Decryption Tools Masked $11M Markup in Ransomware Recovery Scheme</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Health Data Breach Tally Climbs to Nearly 20 Million</title>
-		<link>https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 08:23:31 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<category><![CDATA[Oracle Health]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49866</guid>
-
-					<description><![CDATA[<p>The figure is far higher than the counts that surfaced in earlier filings and patient notifications.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/">Oracle Health Data Breach Tally Climbs to Nearly 20 Million</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>FortiBleed Attackers Locking Victims Out of Fortinet Devices</title>
-		<link>https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 07:52:33 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[FortiBleed]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49863</guid>
-
-					<description><![CDATA[<p>Attackers are creating new accounts and deleting existing ones and passwords to prevent legitimate access.</p>
-<p>The post <a href="https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/">FortiBleed Attackers Locking Victims Out of Fortinet Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
