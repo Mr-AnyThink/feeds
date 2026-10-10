@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 09 Oct 2026 12:07:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Oct 2026 08:34:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison</title>
+		<link>https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[insider]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49925</guid>
+
+					<description><![CDATA[<p>The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers.</p>
+<p>The post <a href="https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/">Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</title>
+		<link>https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 21:07:46 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=49922</guid>
+
+					<description><![CDATA[<p>The ChatGPT maker said the researchers  "violated clear policies on handling sensitive information.”</p>
+<p>The post <a href="https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</title>
 		<link>https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/</link>
 		
@@ -56,6 +92,7 @@
 		<category><![CDATA[domain]]></category>
 		<category><![CDATA[domain hijack]]></category>
 		<category><![CDATA[domain hijacking]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[TLD]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=49909</guid>
@@ -117,6 +154,7 @@
 		<category><![CDATA[China]]></category>
 		<category><![CDATA[China APT]]></category>
 		<category><![CDATA[disrupted]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Flax Typhoon]]></category>
 		<category><![CDATA[Integrity Tech]]></category>
 		<category><![CDATA[MicroScan]]></category>
@@ -141,6 +179,7 @@
 		<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[open source]]></category>
 		<category><![CDATA[OSS]]></category>
@@ -192,43 +231,6 @@
 
 					<description><![CDATA[<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools.</p>
 <p>The post <a href="https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/">Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Formula Predicts When AI Chatbots Are at Risk of Turning Bad</title>
-		<link>https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Fri, 09 Oct 2026 04:12:38 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49891</guid>
-
-					<description><![CDATA[<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>
-<p>The post <a href="https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches a Dozen Critical Vulnerabilities</title>
-		<link>https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 08 Oct 2026 15:28:06 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49883</guid>
-
-					<description><![CDATA[<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
