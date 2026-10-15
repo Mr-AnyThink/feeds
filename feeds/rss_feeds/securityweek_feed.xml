@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 14 Oct 2026 15:17:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Oct 2026 14:22:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,195 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UK Legal Aid Agency Hack Scope Widens After Forensic Review</title>
+		<link>https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 14:22:34 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Legal Aid Agency]]></category>
+		<category><![CDATA[UK]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50059</guid>
+
+					<description><![CDATA[<p>Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.</p>
+<p>The post <a href="https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/">UK Legal Aid Agency Hack Scope Widens After Forensic Review</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers</title>
+		<link>https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 12:50:42 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[controller]]></category>
+		<category><![CDATA[Copeland]]></category>
+		<category><![CDATA[Danfoss]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<category><![CDATA[refrigeration]]></category>
+		<category><![CDATA[supermarket]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50055</guid>
+
+					<description><![CDATA[<p>Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility.</p>
+<p>The post <a href="https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/">Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CikaBika Bot RAT Uses Discord for C&#038;C</title>
+		<link>https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 11:25:58 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[CikaBika Bot]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50051</guid>
+
+					<description><![CDATA[<p>Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities.</p>
+<p>The post <a href="https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/">CikaBika Bot RAT Uses Discord for C&#038;C</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies</title>
+		<link>https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 10:15:32 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Android malware]]></category>
+		<category><![CDATA[Android RAT]]></category>
+		<category><![CDATA[banking trojan]]></category>
+		<category><![CDATA[Hirudo]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[RAT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50046</guid>
+
+					<description><![CDATA[<p>The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT.</p>
+<p>The post <a href="https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/">Novel Android RAT &#8216;Hirudo&#8217; Replaces Banking Apps With Trojanized Copies</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CenterPoint Energy Data Breach Impacts 1 Million Texans</title>
+		<link>https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 09:55:19 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[CenterPoint Energy]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Texas]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50044</guid>
+
+					<description><![CDATA[<p>Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised.</p>
+<p>The post <a href="https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/">CenterPoint Energy Data Breach Impacts 1 Million Texans</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO</title>
+		<link>https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 08:26:40 +0000</pubDate>
+				<category><![CDATA[CISO Conversations]]></category>
+		<category><![CDATA[CISO Strategy]]></category>
+		<category><![CDATA[CISO]]></category>
+		<category><![CDATA[Netskope]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50038</guid>
+
+					<description><![CDATA[<p>James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope.</p>
+<p>The post <a href="https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/">CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution</title>
+		<link>https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 06:59:54 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[firewall]]></category>
+		<category><![CDATA[Palo Alto Networks]]></category>
+		<category><![CDATA[PAN-OS]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50034</guid>
+
+					<description><![CDATA[<p>The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available.</p>
+<p>The post <a href="https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/">Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Warns of Exploited Secure Email Gateway Vulnerability</title>
+		<link>https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 06:34:15 +0000</pubDate>
+				<category><![CDATA[Email Security]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[email security]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50029</guid>
+
+					<description><![CDATA[<p>Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/">Cisco Warns of Exploited Secure Email Gateway Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds</title>
+		<link>https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[ICS]]></category>
+		<category><![CDATA[OT]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50025</guid>
+
+					<description><![CDATA[<p>In Booz Allen’s isolated OT lab, AI models met every objective across eight scenarios and reached an industrial control network from a perimeter compromise in just over 16 minutes.</p>
+<p>The post <a href="https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/">AI Agents Navigate Unfamiliar OT Systems and Move Equipment in Minutes, Booz Allen Finds</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw</title>
 		<link>https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/</link>
 		
@@ -44,195 +233,6 @@
 
 					<description><![CDATA[<p>ABB previously published an advisory warning about possible probing of a dynovaPRO vulnerability. </p>
 <p>The post <a href="https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/">ICS Patch Tuesday: Siemens Issues 17 Advisories, Rockwell Fixes ArmorBlock Takeover Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Harmonic Security Raises $50 Million for Workforce AI Protection</title>
-		<link>https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 14:09:51 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Harmonic Security]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50018</guid>
-
-					<description><![CDATA[<p>The cybersecurity startup plans to expand engineering and go-to-market teams in the US and UK.</p>
-<p>The post <a href="https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/">Harmonic Security Raises $50 Million for Workforce AI Protection</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Virtual Event Today: Zero Trust Strategies Summit</title>
-		<link>https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 13:56:36 +0000</pubDate>
-				<category><![CDATA[Network Security]]></category>
-		<category><![CDATA[Zero Trust]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50013</guid>
-
-					<description><![CDATA[<p>This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies.</p>
-<p>The post <a href="https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/">Virtual Event Today: Zero Trust Strategies Summit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages</title>
-		<link>https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Phishing]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[disruption]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[phishing]]></category>
-		<category><![CDATA[takedown]]></category>
-		<category><![CDATA[YAM Store]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50009</guid>
-
-					<description><![CDATA[<p>Backed by a federal court order, Microsoft and Health-ISAC seized domains powering YAM Store, CoGUI, and Iron Man.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/">Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms</title>
-		<link>https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 10:55:21 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[fake IT workers]]></category>
-		<category><![CDATA[Famous Chollima]]></category>
-		<category><![CDATA[laptop farm]]></category>
-		<category><![CDATA[North Korea]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50011</guid>
-
-					<description><![CDATA[<p>Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location.</p>
-<p>The post <a href="https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/">US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise</title>
-		<link>https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 07:38:51 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[browser]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[Firefox Enterprise]]></category>
-		<category><![CDATA[google]]></category>
-		<category><![CDATA[Mozilla]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50004</guid>
-
-					<description><![CDATA[<p>Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/">Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products</title>
-		<link>https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 07:26:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[Ivanti]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50002</guid>
-
-					<description><![CDATA[<p>Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks.</p>
-<p>The post <a href="https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/">Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day</title>
-		<link>https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 07:16:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Microsoft]]></category>
-		<category><![CDATA[MotW]]></category>
-		<category><![CDATA[Patch Tuesday]]></category>
-		<category><![CDATA[Windows]]></category>
-		<category><![CDATA[Zero-Day]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50000</guid>
-
-					<description><![CDATA[<p>The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild.</p>
-<p>The post <a href="https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/">Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities</title>
-		<link>https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 14 Oct 2026 06:12:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[SAP]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49996</guid>
-
-					<description><![CDATA[<p>The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system.</p>
-<p>The post <a href="https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/">SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say</title>
-		<link>https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2026 23:07:00 +0000</pubDate>
-				<category><![CDATA[Tracking & Law Enforcement]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=49988</guid>
-
-					<description><![CDATA[<p>Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.</p>
-<p>The post <a href="https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/">Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
