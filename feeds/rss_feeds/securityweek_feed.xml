@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 19 Oct 2026 15:47:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Oct 2026 15:42:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,193 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw</title>
-		<link>https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 15:47:50 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Drupal]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50129</guid>
-
-					<description><![CDATA[<p>Critical flaws impact the Entity List and Field UI modules, and exploit paths exist with contributed modules.</p>
-<p>The post <a href="https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/">Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack</title>
-		<link>https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 15:20:53 +0000</pubDate>
-				<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[Rank Math]]></category>
-		<category><![CDATA[supply chain attack]]></category>
-		<category><![CDATA[WordPress]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50124</guid>
-
-					<description><![CDATA[<p>Hackers injected malware into Rank Math PRO version 3.0.123 packages distributed between October 15 and October 16.</p>
-<p>The post <a href="https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/">Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ConnectWise Suspends Cloud Services in Response to Cyberattack</title>
-		<link>https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 13:16:20 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[ConnectWise]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50121</guid>
-
-					<description><![CDATA[<p>The services remain unavailable as the company continues remediation and security validation.</p>
-<p>The post <a href="https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/">ConnectWise Suspends Cloud Services in Response to Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure</title>
-		<link>https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 12:44:39 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Plex]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50119</guid>
-
-					<description><![CDATA[<p>Threat actors have been observed delivering cryptocurrency miners and proxy software.</p>
-<p>The post <a href="https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/">Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>One Compromised Login Exposed Millions of California Students&#8217; Records</title>
-		<link>https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 11:55:50 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[California]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[education]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[school]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50114</guid>
-
-					<description><![CDATA[<p>Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006.</p>
-<p>The post <a href="https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/">One Compromised Login Exposed Millions of California Students&#8217; Records</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack</title>
-		<link>https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 11:13:23 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Fortinet]]></category>
-		<category><![CDATA[PeerStitch]]></category>
-		<category><![CDATA[telecom]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50112</guid>
-
-					<description><![CDATA[<p>The persistent, stealthy FortiGate implant was deployed against a telecommunications organization.</p>
-<p>The post <a href="https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/">Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks</title>
-		<link>https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 09:37:04 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[ATT&CK]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[MITRE]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50108</guid>
-
-					<description><![CDATA[<p>Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics.</p>
-<p>The post <a href="https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/">MITRE ATT&#038;CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Anthropic Acquires Confidential AI Startup Opaque Systems</title>
-		<link>https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 19 Oct 2026 07:45:25 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
-		<category><![CDATA[M&A Tracker]]></category>
-		<category><![CDATA[Acquisition]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[confidential computing]]></category>
-		<category><![CDATA[M&A]]></category>
-		<category><![CDATA[Opaque Systems]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50106</guid>
-
-					<description><![CDATA[<p>Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware.</p>
-<p>The post <a href="https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/">Anthropic Acquires Confidential AI Startup Opaque Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</title>
-		<link>https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/</link>
+		<title>US Agencies Detail Incident Response Practices for Rogue AI Agents</title>
+		<link>https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Sun, 18 Oct 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[CISO Strategy]]></category>
-		<category><![CDATA[Management & Strategy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50104</guid>
+		<pubDate>Tue, 20 Oct 2026 15:45:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Incident response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50167</guid>
 
-					<description><![CDATA[<p>CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag.</p>
-<p>The post <a href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/">US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.</p>
+<p>The post <a href="https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/">US Agencies Detail Incident Response Practices for Rogue AI Agents</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel</title>
-		<link>https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/</link>
+		<title>AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign</title>
+		<link>https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Sat, 17 Oct 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[AdFection]]></category>
-		<category><![CDATA[Candiru]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[malvertising]]></category>
-		<category><![CDATA[spyware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50091</guid>
+		<pubDate>Tue, 20 Oct 2026 13:51:01 +0000</pubDate>
+				<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AOMEI]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50153</guid>
 
-					<description><![CDATA[<p>Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets.</p>
-<p>The post <a href="https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/">Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework.</p>
+<p>The post <a href="https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/">AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Key to AI Software Security Isn’t Speed, It’s Maturity</title>
+		<link>https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/</link>
+		
+		<dc:creator><![CDATA[Matias Madou]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:34:23 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[governance]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50150</guid>
+
+					<description><![CDATA[<p>Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk.</p>
+<p>The post <a href="https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/">The Key to AI Software Security Isn’t Speed, It’s Maturity</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ahold Delhaize Restoring Services Disrupted by Cyberattack</title>
+		<link>https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 13:02:18 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ahold Delhaize]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50146</guid>
+
+					<description><![CDATA[<p>The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.</p>
+<p>The post <a href="https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/">Ahold Delhaize Restoring Services Disrupted by Cyberattack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI Platform Cairn Abused to Hack Over 100 Organizations</title>
+		<link>https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:47:22 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Cairn]]></category>
+		<category><![CDATA[China]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50144</guid>
+
+					<description><![CDATA[<p>At least three threat actors have been abusing Cairn for persistent access and financial theft.</p>
+<p>The post <a href="https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/">AI Platform Cairn Abused to Hack Over 100 Organizations</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say</title>
+		<link>https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 12:33:12 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Tracking & Law Enforcement]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50142</guid>
+
+					<description><![CDATA[<p>Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest.</p>
+<p>The post <a href="https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/">Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring</title>
+		<link>https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 11:30:18 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Project Perception]]></category>
+		<category><![CDATA[rogue AI]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50140</guid>
+
+					<description><![CDATA[<p>Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/">Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Steal 1.8 Million Records From Nikkei</title>
+		<link>https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 10:35:18 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[Nikkei]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50136</guid>
+
+					<description><![CDATA[<p>The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/">Hackers Steal 1.8 Million Records From Nikkei</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach</title>
+		<link>https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 09:33:49 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Paradigm Healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50134</guid>
+
+					<description><![CDATA[<p>Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals.</p>
+<p>The post <a href="https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/">970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks</title>
+		<link>https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 18:15:39 +0000</pubDate>
+				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[DLL hijacking]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[malware]]></category>
+		<category><![CDATA[Siemens]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50131</guid>
+
+					<description><![CDATA[<p>Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.</p>
+<p>The post <a href="https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/">Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
