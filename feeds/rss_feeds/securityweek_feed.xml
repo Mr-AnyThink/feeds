@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Thu, 22 Oct 2026 14:33:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Oct 2026 14:31:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,199 +28,198 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
+		<link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 14:23:37 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[In Other News]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50277</guid>
+
+					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/">In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</title>
+		<link>https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 12:45:52 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Mirai]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[PHP2Shell]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50273</guid>
+
+					<description><![CDATA[<p>Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet.</p>
+<p>The post <a href="https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/">Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</title>
+		<link>https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 10:31:16 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[ConnectWise]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50267</guid>
+
+					<description><![CDATA[<p>The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.</p>
+<p>The post <a href="https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/">China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Attackers Exploit Third Arista VCO Zero-Day in Four Months</title>
+		<link>https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 09:58:34 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Arista]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50265</guid>
+
+					<description><![CDATA[<p>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.</p>
+<p>The post <a href="https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/">Attackers Exploit Third Arista VCO Zero-Day in Four Months</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>11 Million Impacted by Capcom Data Breach</title>
+		<link>https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[Capcom]]></category>
+		<category><![CDATA[data breach]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50261</guid>
+
+					<description><![CDATA[<p>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.</p>
+<p>The post <a href="https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/">11 Million Impacted by Capcom Data Breach</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217;</title>
+		<link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 08:25:06 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<category><![CDATA[Quest Diagnostics]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50257</guid>
+
+					<description><![CDATA[<p>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders.</p>
+<p>The post <a href="https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/">Quest Diagnostics Data Breach Exposed &#8216;Certain Patient Records&#8217;</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>LiteLLM Compromised in Fresh Supply Chain Attack</title>
+		<link>https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 08:10:46 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[LiteLLM]]></category>
+		<category><![CDATA[supply chain attack]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50254</guid>
+
+					<description><![CDATA[<p>Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker.</p>
+<p>The post <a href="https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/">LiteLLM Compromised in Fresh Supply Chain Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Atlassian Patches 75 Flaws in Data Center and Server Products</title>
+		<link>https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 07:54:47 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Atlassian]]></category>
+		<category><![CDATA[Patch]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50251</guid>
+
+					<description><![CDATA[<p>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components.</p>
+<p>The post <a href="https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/">Atlassian Patches 75 Flaws in Data Center and Server Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016</title>
+		<link>https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2026 06:39:29 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
+		<category><![CDATA[APT]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Infy]]></category>
+		<category><![CDATA[Iran]]></category>
+		<category><![CDATA[Prince of Persia]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50249</guid>
+
+					<description><![CDATA[<p>After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016.</p>
+<p>The post <a href="https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/">Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Hacker Conversations: Corey Thuen and the Evil Bit</title>
 		<link>https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/</link>
 		
 		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
 		<pubDate>Thu, 22 Oct 2026 14:31:34 +0000</pubDate>
 				<category><![CDATA[Hacker Conversations]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[hacker]]></category>
 		<guid isPermaLink="false">https://www.securityweek.com/?p=50243</guid>
 
 					<description><![CDATA[<p>Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t.</p>
 <p>The post <a href="https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/">Hacker Conversations: Corey Thuen and the Evil Bit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform</title>
-		<link>https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50241</guid>
-
-					<description><![CDATA[<p>The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East.</p>
-<p>The post <a href="https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/">Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Signal Vulnerability Lets Malicious Callers Block Hang-Ups</title>
-		<link>https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 12:34:31 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Signal]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50233</guid>
-
-					<description><![CDATA[<p>Affecting the open source calling library RingRTC, the bug prevented calls from ending properly.</p>
-<p>The post <a href="https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/">Signal Vulnerability Lets Malicious Callers Block Hang-Ups</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Tech and Security Companies Respond to PHP2Shell Vulnerabilities</title>
-		<link>https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 12:20:23 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Incident response]]></category>
-		<category><![CDATA[PHP]]></category>
-		<category><![CDATA[PHP2Shell]]></category>
-		<category><![CDATA[security product vulnerability]]></category>
-		<category><![CDATA[security products]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50231</guid>
-
-					<description><![CDATA[<p>Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching.</p>
-<p>The post <a href="https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/">Tech and Security Companies Respond to PHP2Shell Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Splunk, SolarWinds Release Fresh Security Updates</title>
-		<link>https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 10:45:24 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[SolarWinds]]></category>
-		<category><![CDATA[Splunk]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50229</guid>
-
-					<description><![CDATA[<p>Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.</p>
-<p>The post <a href="https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/">Splunk, SolarWinds Release Fresh Security Updates</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Cisco Patches 34 Vulnerabilities Across Multiple Products</title>
-		<link>https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 10:05:21 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Cisco]]></category>
-		<category><![CDATA[Patch]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50227</guid>
-
-					<description><![CDATA[<p>Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks.</p>
-<p>The post <a href="https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/">Cisco Patches 34 Vulnerabilities Across Multiple Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PHP2Shell Exploitation Started Days Before Patches</title>
-		<link>https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 09:48:58 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PHP]]></category>
-		<category><![CDATA[PHP2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50225</guid>
-
-					<description><![CDATA[<p>Initial attempts were observed on October 17, and mass activity began shortly after patches were released.</p>
-<p>The post <a href="https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/">PHP2Shell Exploitation Started Days Before Patches</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</title>
-		<link>https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 07:38:14 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
-		<category><![CDATA[Oracle CPU]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50220</guid>
-
-					<description><![CDATA[<p>Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches.</p>
-<p>The post <a href="https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/">Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook</title>
-		<link>https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 07:26:54 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Privacy & Compliance]]></category>
-		<category><![CDATA[fine]]></category>
-		<category><![CDATA[Meta]]></category>
-		<category><![CDATA[New Mexico]]></category>
-		<category><![CDATA[privacy]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50218</guid>
-
-					<description><![CDATA[<p>The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019.</p>
-<p>The post <a href="https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/">Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections</title>
-		<link>https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[ClickFix]]></category>
-		<category><![CDATA[HTTP]]></category>
-		<category><![CDATA[security feature]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50184</guid>
-
-					<description><![CDATA[<p>Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis.</p>
-<p>The post <a href="https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/">Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
