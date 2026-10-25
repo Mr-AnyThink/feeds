@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Fri, 23 Oct 2026 14:31:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Oct 2026 12:19:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</title>
+		<link>https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[emerge from stealth]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Mave]]></category>
+		<category><![CDATA[SecOps]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50280</guid>
+
+					<description><![CDATA[<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p>
+<p>The post <a href="https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/">Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
 		<link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
 		
@@ -52,6 +72,7 @@
 		<pubDate>Fri, 23 Oct 2026 12:45:52 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
 		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[Mirai]]></category>
 		<category><![CDATA[PHP]]></category>
 		<category><![CDATA[PHP2Shell]]></category>
@@ -202,24 +223,6 @@
 
 					<description><![CDATA[<p>After a three-month lull, Prince of Persia hid a Tornado C&#038;C server on US shared hosting, its first US-based server since 2016.</p>
 <p>The post <a href="https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/">Iran&#8217;s Prince of Persia APT Hosts C&#038;C in US for First Time Since 2016</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Hacker Conversations: Corey Thuen and the Evil Bit</title>
-		<link>https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 14:31:34 +0000</pubDate>
-				<category><![CDATA[Hacker Conversations]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[hacker]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50243</guid>
-
-					<description><![CDATA[<p>Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t.</p>
-<p>The post <a href="https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/">Hacker Conversations: Corey Thuen and the Evil Bit</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
