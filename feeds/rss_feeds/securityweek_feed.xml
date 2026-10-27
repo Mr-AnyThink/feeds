@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Mon, 26 Oct 2026 14:56:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Oct 2026 15:26:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,197 +28,202 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Industrial Vendors Check Products for PHP2Shell Vulnerabilities</title>
-		<link>https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</link>
+		<title>Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws</title>
+		<link>https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 14:52:14 +0000</pubDate>
+		<pubDate>Tue, 27 Oct 2026 15:26:12 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[controversy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[SSH]]></category>
+		<category><![CDATA[Tailscale]]></category>
+		<category><![CDATA[Tailworm]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50337</guid>
+
+					<description><![CDATA[<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p>
+<p>The post <a href="https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/">Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk</title>
+		<link>https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 13:30:28 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Denver]]></category>
+		<category><![CDATA[DHMP]]></category>
+		<category><![CDATA[healthcare]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50331</guid>
+
+					<description><![CDATA[<p>A leaked SquareML access key could have been used to access a database containing personal and health information.</p>
+<p>The post <a href="https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/">Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>HPE Patches Dozens of Critical Flaws in Networking Products</title>
+		<link>https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 13:13:58 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Aruba]]></category>
+		<category><![CDATA[HPE]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50327</guid>
+
+					<description><![CDATA[<p>Eight max-severity security defects could lead to remote code execution and authentication bypass.</p>
+<p>The post <a href="https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/">HPE Patches Dozens of Critical Flaws in Networking Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unexplained DreamHost Incident Prompts Email, FTP Password Resets</title>
+		<link>https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 12:02:06 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[DreamHost]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[password reset]]></category>
+		<category><![CDATA[web hosting]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50325</guid>
+
+					<description><![CDATA[<p>The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.</p>
+<p>The post <a href="https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/">Unexplained DreamHost Incident Prompts Email, FTP Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18</title>
+		<link>https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 11:49:57 +0000</pubDate>
+				<category><![CDATA[Mobile & Wireless]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[macOS]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50321</guid>
+
+					<description><![CDATA[<p>Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones.</p>
+<p>The post <a href="https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/">iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</title>
+		<link>https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</link>
+		
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 10:44:20 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Risks]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50319</guid>
+
+					<description><![CDATA[<p>Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.</p>
+<p>The post <a href="https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/">Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</title>
+		<link>https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</link>
+		
+		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 10:02:24 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Citrix]]></category>
+		<category><![CDATA[NetScaler]]></category>
+		<category><![CDATA[vulnerabilities]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50316</guid>
+
+					<description><![CDATA[<p>Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.</p>
+<p>The post <a href="https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/">This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</title>
+		<link>https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 09:44:50 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Popcorn Time]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50313</guid>
+
+					<description><![CDATA[<p>Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.</p>
+<p>The post <a href="https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/">Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</title>
+		<link>https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 07:14:27 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Blue Initiative]]></category>
+		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
 		<category><![CDATA[OT]]></category>
-		<category><![CDATA[PHP2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50303</guid>
-
-					<description><![CDATA[<p>Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities.</p>
-<p>The post <a href="https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/">Industrial Vendors Check Products for PHP2Shell Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Genesys Hack Exposes Customer Data From Internal Systems</title>
-		<link>https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 14:40:48 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Genesys]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50301</guid>
-
-					<description><![CDATA[<p>The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected.</p>
-<p>The post <a href="https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/">Genesys Hack Exposes Customer Data From Internal Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stolen AI Reasoning Could Help China Build Cheaper Rivals</title>
-		<link>https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 14:30:09 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50299</guid>
-
-					<description><![CDATA[<p>Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI.</p>
-<p>The post <a href="https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/">Stolen AI Reasoning Could Help China Build Cheaper Rivals</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>PHP2Shell Exploitation Moves From Probes to Working Shells </title>
-		<link>https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 13:30:10 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[PHP]]></category>
-		<category><![CDATA[PHP2Shell]]></category>
+		<category><![CDATA[port]]></category>
+		<category><![CDATA[ship]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50297</guid>
+		<category><![CDATA[vulnerability index]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50310</guid>
 
-					<description><![CDATA[<p>Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24.</p>
-<p>The post <a href="https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/">PHP2Shell Exploitation Moves From Probes to Working Shells </a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.</p>
+<p>The post <a href="https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/">Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>953 Online Stores Infected in Long-Lasting Malware Campaign</title>
-		<link>https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</link>
+		<title>Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</title>
+		<link>https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 12:46:44 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[magento]]></category>
-		<category><![CDATA[malware]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50295</guid>
+		<dc:creator><![CDATA[Associated Press]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2026 01:30:00 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50307</guid>
 
-					<description><![CDATA[<p>Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection.</p>
-<p>The post <a href="https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/">953 Online Stores Infected in Long-Lasting Malware Campaign</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
-		<link>https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 11:47:52 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Mobile & Wireless]]></category>
-		<category><![CDATA[arrested]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Netherlands]]></category>
-		<category><![CDATA[NFC]]></category>
-		<category><![CDATA[relay attack]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50292</guid>
-
-					<description><![CDATA[<p>The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts.</p>
-<p>The post <a href="https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/">Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</title>
-		<link>https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 10:21:57 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Broccoli2Shell]]></category>
-		<category><![CDATA[Brotli]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[HTTP2Shell]]></category>
-		<category><![CDATA[Node2Shell]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50289</guid>
-
-					<description><![CDATA[<p>An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution.</p>
-<p>The post <a href="https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/">Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Mythos 5 Ignored Real-World Harm in July Attack</title>
-		<link>https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Mythos]]></category>
-		<category><![CDATA[rogue AI]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50285</guid>
-
-					<description><![CDATA[<p>The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub.</p>
-<p>The post <a href="https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/">Mythos 5 Ignored Real-World Harm in July Attack</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</title>
-		<link>https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</link>
-		
-		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
-		<pubDate>Sun, 25 Oct 2026 11:00:00 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[emerge from stealth]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Mave]]></category>
-		<category><![CDATA[SecOps]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50280</guid>
-
-					<description><![CDATA[<p>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.</p>
-<p>The post <a href="https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/">Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
-		<link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Fri, 23 Oct 2026 14:23:37 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[In Other News]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50277</guid>
-
-					<description><![CDATA[<p>Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe.</p>
-<p>The post <a href="https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/">In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics.</p>
+<p>The post <a href="https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/">Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
