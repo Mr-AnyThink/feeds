@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Tue, 27 Oct 2026 15:26:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Oct 2026 17:02:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,202 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws</title>
-		<link>https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</link>
+		<title>Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
+		<link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
 		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 15:26:12 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[controversy]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[SSH]]></category>
-		<category><![CDATA[Tailscale]]></category>
-		<category><![CDATA[Tailworm]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50337</guid>
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
+				<category><![CDATA[Cybercrime]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[Hive]]></category>
+		<category><![CDATA[Nefilim]]></category>
+		<category><![CDATA[sentenced]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50376</guid>
 
-					<description><![CDATA[<p>Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released.</p>
-<p>The post <a href="https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/">Tailscale Rushes Patches After Uncoordinated Disclosure of &#8216;Tailworm&#8217; Flaws</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.</p>
+<p>The post <a href="https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/">Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk</title>
-		<link>https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/</link>
+		<title>Upwind Security Raises $400 Million at $3.8 Billion Valuation</title>
+		<link>https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 13:30:28 +0000</pubDate>
-				<category><![CDATA[Data Breaches]]></category>
-		<category><![CDATA[data breach]]></category>
-		<category><![CDATA[Denver]]></category>
-		<category><![CDATA[DHMP]]></category>
-		<category><![CDATA[healthcare]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50331</guid>
+		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 13:56:50 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Upwind]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50371</guid>
 
-					<description><![CDATA[<p>A leaked SquareML access key could have been used to access a database containing personal and health information.</p>
-<p>The post <a href="https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/">Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog</p>
+<p>The post <a href="https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/">Upwind Security Raises $400 Million at $3.8 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>HPE Patches Dozens of Critical Flaws in Networking Products</title>
-		<link>https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/</link>
+		<title>Chrome and Firefox Updates Patch Over 200 Vulnerabilities</title>
+		<link>https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 13:13:58 +0000</pubDate>
+		<pubDate>Wed, 28 Oct 2026 13:39:35 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Aruba]]></category>
-		<category><![CDATA[HPE]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Firefox]]></category>
 		<category><![CDATA[patches]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50327</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50369</guid>
 
-					<description><![CDATA[<p>Eight max-severity security defects could lead to remote code execution and authentication bypass.</p>
-<p>The post <a href="https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/">HPE Patches Dozens of Critical Flaws in Networking Products</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.</p>
+<p>The post <a href="https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/">Chrome and Firefox Updates Patch Over 200 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Unexplained DreamHost Incident Prompts Email, FTP Password Resets</title>
-		<link>https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 12:02:06 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[DreamHost]]></category>
-		<category><![CDATA[password]]></category>
-		<category><![CDATA[password reset]]></category>
-		<category><![CDATA[web hosting]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50325</guid>
-
-					<description><![CDATA[<p>The company says it reacted to an issue affecting some of its systems, including DreamHost webmail.</p>
-<p>The post <a href="https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/">Unexplained DreamHost Incident Prompts Email, FTP Password Resets</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18</title>
-		<link>https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/</link>
+		<title>TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</title>
+		<link>https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 11:49:57 +0000</pubDate>
-				<category><![CDATA[Mobile & Wireless]]></category>
+		<pubDate>Wed, 28 Oct 2026 13:10:34 +0000</pubDate>
+				<category><![CDATA[Data Protection]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[iOS]]></category>
-		<category><![CDATA[macOS]]></category>
-		<category><![CDATA[patches]]></category>
+		<category><![CDATA[GoAhead]]></category>
+		<category><![CDATA[TLS]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50321</guid>
+		<category><![CDATA[web server]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50367</guid>
 
-					<description><![CDATA[<p>Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones.</p>
-<p>The post <a href="https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/">iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.</p>
+<p>The post <a href="https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/">TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</title>
-		<link>https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</link>
-		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 10:44:20 +0000</pubDate>
-				<category><![CDATA[Artificial Intelligence]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[Risks]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50319</guid>
-
-					<description><![CDATA[<p>Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses.</p>
-<p>The post <a href="https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/">Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</title>
-		<link>https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</link>
-		
-		<dc:creator><![CDATA[Tod Beardsley]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 10:02:24 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Citrix]]></category>
-		<category><![CDATA[NetScaler]]></category>
-		<category><![CDATA[vulnerabilities]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50316</guid>
-
-					<description><![CDATA[<p>Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon.</p>
-<p>The post <a href="https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/">This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</title>
-		<link>https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</link>
+		<title>China-Linked Hackers Exploit PHP2Shell to Root Firewalls</title>
+		<link>https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 09:44:50 +0000</pubDate>
-				<category><![CDATA[Malware & Threats]]></category>
-		<category><![CDATA[Popcorn Time]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50313</guid>
+		<pubDate>Wed, 28 Oct 2026 12:00:59 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[PHP2Shell]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50365</guid>
 
-					<description><![CDATA[<p>Running at system boot, it periodically polled the update domain to execute any code served, with full privileges.</p>
-<p>The post <a href="https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/">Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.</p>
+<p>The post <a href="https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/">China-Linked Hackers Exploit PHP2Shell to Root Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</title>
-		<link>https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</link>
+		<title>Long-Hidden Flaws Patched in EPICS Research Facility Control Software</title>
+		<link>https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 07:14:27 +0000</pubDate>
+		<pubDate>Wed, 28 Oct 2026 10:48:00 +0000</pubDate>
 				<category><![CDATA[ICS/OT]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Blue Initiative]]></category>
+		<category><![CDATA[EPICS]]></category>
 		<category><![CDATA[Featured]]></category>
 		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[OT]]></category>
-		<category><![CDATA[port]]></category>
-		<category><![CDATA[ship]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[vulnerability index]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50310</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50361</guid>
 
-					<description><![CDATA[<p>Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.</p>
-<p>The post <a href="https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/">Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p>
+<p>The post <a href="https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/">Long-Hidden Flaws Patched in EPICS Research Facility Control Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</title>
-		<link>https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/</link>
+		<title>Nobody Trusts the Security Questionnaire. We Rely on It Anyway.</title>
+		<link>https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/</link>
 		
-		<dc:creator><![CDATA[Associated Press]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 01:30:00 +0000</pubDate>
-				<category><![CDATA[Incident Response]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50307</guid>
+		<dc:creator><![CDATA[Sravish Sridhar]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
+				<category><![CDATA[Compliance]]></category>
+		<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[Supply Chain Security]]></category>
+		<category><![CDATA[GRC]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50355</guid>
 
-					<description><![CDATA[<p>The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics.</p>
-<p>The post <a href="https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/">Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies.</p>
+<p>The post <a href="https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/">Nobody Trusts the Security Questionnaire. We Rely on It Anyway.</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise</title>
+		<link>https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/</link>
+		
+		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 09:48:24 +0000</pubDate>
+				<category><![CDATA[Cybersecurity Funding]]></category>
+		<category><![CDATA[Funding/M&A]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Infisical]]></category>
+		<category><![CDATA[secrets sprawl]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50353</guid>
+
+					<description><![CDATA[<p>The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems.</p>
+<p>The post <a href="https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/">Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Start Probing Fresh Oracle EBS Vulnerability</title>
+		<link>https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 09:14:23 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[E-Business Suite]]></category>
+		<category><![CDATA[EBS]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50349</guid>
+
+					<description><![CDATA[<p>CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/">Hackers Start Probing Fresh Oracle EBS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts</title>
+		<link>https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Wed, 28 Oct 2026 08:37:24 +0000</pubDate>
+				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Brotli]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Node2Shell]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50346</guid>
+
+					<description><![CDATA[<p>CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/">CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
