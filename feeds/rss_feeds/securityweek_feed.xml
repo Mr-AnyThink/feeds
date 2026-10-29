@@ -12,7 +12,7 @@
 	<atom:link href="https://www.securityweek.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.securityweek.com/</link>
 	<description>Cybersecurity News, Insights &#38; Analysis</description>
-	<lastBuildDate>Wed, 28 Oct 2026 17:02:40 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Oct 2026 16:46:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,205 +28,200 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
-		<link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
+		<title>When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis</title>
+		<link>https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/</link>
 		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
-				<category><![CDATA[Cybercrime]]></category>
-		<category><![CDATA[Ransomware]]></category>
-		<category><![CDATA[cybercrime]]></category>
-		<category><![CDATA[hacker]]></category>
-		<category><![CDATA[Hive]]></category>
-		<category><![CDATA[Nefilim]]></category>
-		<category><![CDATA[sentenced]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50376</guid>
+		<dc:creator><![CDATA[Steve Durbin]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
+				<category><![CDATA[Risk Management]]></category>
+		<category><![CDATA[risk management]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50421</guid>
 
-					<description><![CDATA[<p>Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks.</p>
-<p>The post <a href="https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/">Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you.</p>
+<p>The post <a href="https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/">When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Upwind Security Raises $400 Million at $3.8 Billion Valuation</title>
-		<link>https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</link>
-		
-		<dc:creator><![CDATA[Mike Lennon]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 13:56:50 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Upwind]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50371</guid>
-
-					<description><![CDATA[<p>The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog</p>
-<p>The post <a href="https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/">Upwind Security Raises $400 Million at $3.8 Billion Valuation</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Chrome and Firefox Updates Patch Over 200 Vulnerabilities</title>
-		<link>https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 13:39:35 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Firefox]]></category>
-		<category><![CDATA[patches]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50369</guid>
-
-					<description><![CDATA[<p>The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.</p>
-<p>The post <a href="https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/">Chrome and Firefox Updates Patch Over 200 Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</title>
-		<link>https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</link>
+		<title>Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model</title>
+		<link>https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 13:10:34 +0000</pubDate>
-				<category><![CDATA[Data Protection]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[GoAhead]]></category>
-		<category><![CDATA[TLS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<category><![CDATA[web server]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50367</guid>
-
-					<description><![CDATA[<p>FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.</p>
-<p>The post <a href="https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/">TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>China-Linked Hackers Exploit PHP2Shell to Root Firewalls</title>
-		<link>https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/</link>
-		
-		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 12:00:59 +0000</pubDate>
-				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[China]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[PHP2Shell]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50365</guid>
-
-					<description><![CDATA[<p>The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization.</p>
-<p>The post <a href="https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/">China-Linked Hackers Exploit PHP2Shell to Root Firewalls</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Long-Hidden Flaws Patched in EPICS Research Facility Control Software</title>
-		<link>https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</link>
-		
-		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 10:48:00 +0000</pubDate>
-				<category><![CDATA[ICS/OT]]></category>
-		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[EPICS]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[ICS]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50361</guid>
-
-					<description><![CDATA[<p>Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.</p>
-<p>The post <a href="https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/">Long-Hidden Flaws Patched in EPICS Research Facility Control Software</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nobody Trusts the Security Questionnaire. We Rely on It Anyway.</title>
-		<link>https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/</link>
-		
-		<dc:creator><![CDATA[Sravish Sridhar]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
-				<category><![CDATA[Compliance]]></category>
-		<category><![CDATA[Risk Management]]></category>
-		<category><![CDATA[Supply Chain Security]]></category>
-		<category><![CDATA[GRC]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50355</guid>
-
-					<description><![CDATA[<p>The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies.</p>
-<p>The post <a href="https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/">Nobody Trusts the Security Questionnaire. We Rely on It Anyway.</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
-]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise</title>
-		<link>https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/</link>
-		
-		<dc:creator><![CDATA[SecurityWeek News]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 09:48:24 +0000</pubDate>
-				<category><![CDATA[Cybersecurity Funding]]></category>
-		<category><![CDATA[Funding/M&A]]></category>
+		<pubDate>Thu, 29 Oct 2026 15:01:00 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
 		<category><![CDATA[AI]]></category>
-		<category><![CDATA[funding]]></category>
-		<category><![CDATA[Infisical]]></category>
-		<category><![CDATA[secrets sprawl]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50353</guid>
+		<category><![CDATA[Gemini]]></category>
+		<category><![CDATA[Gemini 4 Carbon]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50412</guid>
 
-					<description><![CDATA[<p>The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems.</p>
-<p>The post <a href="https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/">Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program.</p>
+<p>The post <a href="https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/">Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Hackers Start Probing Fresh Oracle EBS Vulnerability</title>
-		<link>https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/</link>
+		<title>How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI</title>
+		<link>https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[Government]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Election]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[voting]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50404</guid>
+
+					<description><![CDATA[<p>Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure.</p>
+<p>The post <a href="https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/">How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps</title>
+		<link>https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/</link>
+		
+		<dc:creator><![CDATA[Kevin Townsend]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 14:18:03 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Quarry]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50402</guid>
+
+					<description><![CDATA[<p>Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/">Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities</title>
+		<link>https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/</link>
 		
 		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 09:14:23 +0000</pubDate>
+		<pubDate>Thu, 29 Oct 2026 13:42:52 +0000</pubDate>
 				<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[E-Business Suite]]></category>
-		<category><![CDATA[EBS]]></category>
-		<category><![CDATA[exploited]]></category>
-		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Oracle]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Juniper Networks]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[Veeam]]></category>
 		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50349</guid>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50400</guid>
 
-					<description><![CDATA[<p>CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.</p>
-<p>The post <a href="https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/">Hackers Start Probing Fresh Oracle EBS Vulnerability</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation.</p>
+<p>The post <a href="https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/">Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts</title>
-		<link>https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/</link>
+		<title>BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts</title>
+		<link>https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/</link>
 		
 		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
-		<pubDate>Wed, 28 Oct 2026 08:37:24 +0000</pubDate>
+		<pubDate>Thu, 29 Oct 2026 13:26:49 +0000</pubDate>
+				<category><![CDATA[Incident Response]]></category>
+		<category><![CDATA[BAE Systems]]></category>
+		<category><![CDATA[courts]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50396</guid>
+
+					<description><![CDATA[<p>BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks.</p>
+<p>The post <a href="https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/">BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Over 41,000 DHS Employee Records Leaked Online</title>
+		<link>https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</link>
+		
+		<dc:creator><![CDATA[Ionut Arghire]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 12:54:14 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data leak]]></category>
+		<category><![CDATA[DHS]]></category>
+		<category><![CDATA[Government]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50394</guid>
+
+					<description><![CDATA[<p>The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year.</p>
+<p>The post <a href="https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/">Over 41,000 DHS Employee Records Leaked Online</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Hackers Steal 2.6 Million Records From Sony&#8217;s Japanese ISP So-net</title>
+		<link>https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
+				<category><![CDATA[Data Breaches]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Japan]]></category>
+		<category><![CDATA[So-net]]></category>
+		<category><![CDATA[Sony]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50391</guid>
+
+					<description><![CDATA[<p>The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records.</p>
+<p>The post <a href="https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/">Hackers Steal 2.6 Million Records From Sony&#8217;s Japanese ISP So-net</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon&#8217;s &#8216;Silent Train&#8217; Network</title>
+		<link>https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 10:29:25 +0000</pubDate>
 				<category><![CDATA[Malware & Threats]]></category>
+		<category><![CDATA[Nation-State]]></category>
 		<category><![CDATA[Vulnerabilities]]></category>
-		<category><![CDATA[Brotli]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[China APT]]></category>
+		<category><![CDATA[Cisco]]></category>
 		<category><![CDATA[exploited]]></category>
 		<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Node2Shell]]></category>
-		<category><![CDATA[vulnerability]]></category>
-		<guid isPermaLink="false">https://www.securityweek.com/?p=50346</guid>
+		<category><![CDATA[SD-WAN]]></category>
+		<category><![CDATA[Silent Train]]></category>
+		<category><![CDATA[Volt Typhoon]]></category>
+		<category><![CDATA[Zero-Day]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50387</guid>
 
-					<description><![CDATA[<p>CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.</p>
-<p>The post <a href="https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/">CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+					<description><![CDATA[<p>Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed.</p>
+<p>The post <a href="https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/">Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon&#8217;s &#8216;Silent Train&#8217; Network</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August</title>
+		<link>https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/</link>
+		
+		<dc:creator><![CDATA[Eduard Kovacs]]></dc:creator>
+		<pubDate>Thu, 29 Oct 2026 09:47:10 +0000</pubDate>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Cisco]]></category>
+		<category><![CDATA[exploited]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<guid isPermaLink="false">https://www.securityweek.com/?p=50383</guid>
+
+					<description><![CDATA[<p>An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload.</p>
+<p>The post <a href="https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/">Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August</a> appeared first on <a href="https://www.securityweek.com">SecurityWeek</a>.</p>
 ]]></description>
 		
 		
